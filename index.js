@@ -3,7 +3,8 @@ require("isomorphic-unfetch");
 const { promises: fs } = require("fs");
 const path = require("path");
 
-let parser = require('rss-parser');
+let Parser = require('rss-parser');
+let parser = new Parser();
 
 async function main() {
   const readmeTemplate = (
