@@ -13,7 +13,7 @@ async function main() {
     await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
   ).json();
   
-  let feed = await parser.parseURL('https://georgenance.com/rss.xml');
+  const feed = await (await parser.parseURL('https://georgenance.com/rss.xml'));
   
   let blogPosts = ""
   
