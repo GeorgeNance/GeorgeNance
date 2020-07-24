@@ -23,13 +23,15 @@
 
 *Quote of the hour:*
 
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 >
-> ~ *Alan Kay*
+> ~ *Fred Brooks*
 
 ## Recently Blog Posts
 
 
+(How to be productive as a programmer with ADHD)[https://georgenance.com/being-productive-programmer-adhd]
+(Deleting untracked files from git)[https://georgenance.com/delete-untracked-files-git]
 
 
 ![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
