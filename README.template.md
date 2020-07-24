@@ -21,11 +21,15 @@
 - 📫 How to reach me **hello@georgenance.com**
 
 
-<small>Quote of the hour:</small>
+*Quote of the hour:*
 
 > ### {qoth}
 >
 > ~ *{qoth_author}*
+
+## Recently Blog Posts
+
+{blog_posts}
 
 
 ![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
