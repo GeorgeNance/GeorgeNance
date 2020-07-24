@@ -17,7 +17,7 @@ async function main() {
   
   let blogPosts = ""
   
-  feed.items..slice(0, 5)(item => {
+  feed.items.slice(0, 5)(item => {
     blogPosts+=`({item.title})[item.link]`
   });
 
