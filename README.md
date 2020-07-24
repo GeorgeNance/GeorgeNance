@@ -8,6 +8,10 @@
 </p>
 
 
+*Quote of the hour:*
+> ### Programming is at least as difficult as developing a mathematical theory.
+>
+> ~ *Daniel T. Barry*
 
 
 - 🔭 I’m currently working on *making the world a better place*™️
@@ -20,18 +24,16 @@
 
 - 📫 How to reach me **hello@georgenance.com**
 
-
-*Quote of the hour:*
-
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
->
-> ~ *Richard Stallman*
-
-## Recently Blog Posts
+## Recent Blog Posts:
 
 
 * [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
 * [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
 
 
+
+
+
+
+___
 ![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
