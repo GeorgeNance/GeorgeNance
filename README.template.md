@@ -8,6 +8,10 @@
 </p>
 
 
+*Quote of the hour:*
+> ### {qoth}
+>
+> ~ *{qoth_author}*
 
 
 - 🔭 I’m currently working on *making the world a better place*™️
@@ -20,16 +24,14 @@
 
 - 📫 How to reach me **hello@georgenance.com**
 
-
-*Quote of the hour:*
-
-> ### {qoth}
->
-> ~ *{qoth_author}*
-
-## Recently Blog Posts
+## Recent Blog Posts:
 
 {blog_posts}
 
 
+
+
+
+
+___
 ![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
