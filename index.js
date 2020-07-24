@@ -17,10 +17,10 @@ async function main() {
   
   let blogPosts = "";
   
-  parser.parseURL('https://georgenance.com/rss.xml', function(err, feed) {
+  await parser.parseURL('https://georgenance.com/rss.xml', function(err, feed) {
   if (err) throw err;
   console.log(feed.title);
-  feed.items.slice(0, 5)(item => {
+  feed.items.slice(0, 5).map(item => {
     blogPosts+=`({item.title})[item.link]`
   });
 })
