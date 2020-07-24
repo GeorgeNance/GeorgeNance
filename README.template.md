@@ -19,3 +19,6 @@ Quote of the hour:
 > {qoth}
 > 
 > ~ {qoth_author}
+
+
+![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
