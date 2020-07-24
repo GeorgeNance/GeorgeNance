@@ -1,20 +1,30 @@
 <h1 align="center">Hi 👋 , I'm George</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgenance" alt="georgenance" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgenance" alt="georgenance" /> 
 
-- 🔭 I’m currently working on **some of my side projects :P**
+[![Twitter: GeoNance](https://img.shields.io/twitter/follow/GeoNance?style=social)](https://twitter.com/GeoNance)
+[![GitHub GeorgeNance](https://img.shields.io/github/followers/GeorgeNance?label=follow&style=social)](https://github.com/GeorgeNance)
 
-- 👯 I’m looking to collaborate on **anything free and open source**
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gargakshit](https://github.com/gargakshit)
 
-- 💬 Ask me about **react, flutter and nodejs**
 
-- 📫 How to reach me **akshit@paperplane.ml**
 
-- ⚡ Fun fact **I like {sp_liked} songs accross {sp_abl} albums. I have {sp_pl} playlists of awesome music.**
+- 🔭 I’m currently working on *making the world a better place*™️
+
+- 👯 I’m looking to collaborate on **anything progressive and open source**
+
+- 📝 I am working on writing more on my [website](https://georgenance.com)
+
+- 💬 Ask me about **react, vue and nodejs**
+
+- 📫 How to reach me **hello@georgenance.com**
+
 
 Quote of the hour:
 
-> Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> Never trust a computer you can’t throw out a window.
 > 
-> ~ Vannevar Bush
+> ~ Steve Wozniak
+
+
+![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
