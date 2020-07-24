@@ -23,15 +23,15 @@
 
 *Quote of the hour:*
 
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Stallman*
 
 ## Recently Blog Posts
 
 
-(How to be productive as a programmer with ADHD)[https://georgenance.com/being-productive-programmer-adhd]
-(Deleting untracked files from git)[https://georgenance.com/delete-untracked-files-git]
+* [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
+* [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
 
 
 ![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
