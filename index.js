@@ -24,12 +24,16 @@ async function main() {
     blogPosts = blogPosts.concat("\n",`* [${item.title}](${item.link})`)
   });
     console.log(blogPosts);
-
+  
+  //Date
+var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',hour:'numeric',minute:'numeric'};
+const date = new Date()
 
   const readme = readmeTemplate
     .replace("{qoth}", qoth)
     .replace("{qoth_author}", qoth_author)
     .replace("{blog_posts}", blogPosts)
+    .replace("{build_date}", date.toLocaleString("en-US",options))
 
   await fs.writeFile("README.md", readme);
 }
