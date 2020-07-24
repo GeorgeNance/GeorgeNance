@@ -34,4 +34,9 @@
 
 
 ___
-![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
+<p align="center">
+  Last Refresh : {build_date}
+  <br/>
+  This README is generated every <strong>hour</strong>
+
+</p>
