@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Peter Roizen*
+> ~ *Ted Nelson*
 
 
 - 🔭 I’m currently working on *making the world a better place*™️
@@ -37,7 +37,7 @@
 
 ___
 <p align="center">
-  Last Refresh : {build_date}
+  Last Refresh : Friday, July 24, 2020, 11:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
