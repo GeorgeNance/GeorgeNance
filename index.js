@@ -15,17 +15,18 @@ async function main() {
     await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
   ).json();
   
-  let blogPosts = "";
+
   
-  await (await parser.parseURL('https://georgenance.com/rss.xml', function(err, feed) {
+  const feed = await parser.parseURL('https://georgenance.com/rss.xml', function(err, feed) {
   if (err) throw err;
-  console.log(feed.title);
+    return feed;
+});
+    let blogPosts = "";
+
   feed.items.slice(0, 5).map(item => {
     blogPosts = blogPosts.concat("\n",`(${item.title})[${item.link}]`)
   });
-}))
-
-  
+    console.log(blogPosts);
 
 
   const readme = readmeTemplate
