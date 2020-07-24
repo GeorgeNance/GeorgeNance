@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 , I'm George</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgenance" alt="georgenance" /> 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=georgenance" alt="georgenance" /> 
 
 [![Twitter: GeoNance](https://img.shields.io/twitter/follow/GeoNance?style=social)](https://twitter.com/GeoNance)
 [![GitHub GeorgeNance](https://img.shields.io/github/followers/GeorgeNance?label=follow&style=social)](https://github.com/GeorgeNance)
@@ -20,11 +21,11 @@
 - 📫 How to reach me **hello@georgenance.com**
 
 
-Quote of the hour:
+<small>Quote of the hour:</small>
 
-> {qoth}
-> 
-> ~ {qoth_author}
+> ### {qoth}
+>
+> ~ *{qoth_author}*
 
 
 ![George's github stats](https://github-readme-stats.vercel.app/api?username=georgenance&show_icons=true&theme=tokyonight)
