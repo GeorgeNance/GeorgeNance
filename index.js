@@ -26,7 +26,7 @@ async function main() {
     console.log(blogPosts);
   
   //Date
-var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',hour:'numeric',minute:'numeric'};
+var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',hour:'numeric',minute:'numeric',timeZone: 'America/Phoenix'};
 const date = new Date()
 
   const readme = readmeTemplate
