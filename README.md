@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 >
-> ~ *Ted Nelson*
+> ~ *Daniel T. Barry*
 
 
 - 🔭 I’m currently working on *making the world a better place*™️
@@ -37,7 +37,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 24, 2020, 11:09 PM
+  Last Refresh : Friday, July 24, 2020, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
