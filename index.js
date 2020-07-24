@@ -1,8 +1,9 @@
 require("isomorphic-unfetch");
-let Parser = require('rss-parser');
+
 const { promises: fs } = require("fs");
 const path = require("path");
 
+let parser = require('rss-parser');
 
 async function main() {
   const readmeTemplate = (
