@@ -17,13 +17,13 @@ async function main() {
   
   let blogPosts = "";
   
-  await parser.parseURL('https://georgenance.com/rss.xml', function(err, feed) {
+  await (await parser.parseURL('https://georgenance.com/rss.xml', function(err, feed) {
   if (err) throw err;
   console.log(feed.title);
   feed.items.slice(0, 5).map(item => {
-    blogPosts+=`({item.title})[item.link]`
+    blogPosts = blogPosts.concat("\n",`(${item.title})[${item.link}]`)
   });
-})
+}))
 
   
 
