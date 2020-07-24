@@ -21,7 +21,7 @@ async function main() {
   let blogPosts = "";
 
   feed.items.slice(0, 5).map(item => {
-    blogPosts = blogPosts.concat("\n",`(${item.title})[${item.link}]`)
+    blogPosts = blogPosts.concat("\n",`* [${item.title}](${item.link})`)
   });
     console.log(blogPosts);
 
