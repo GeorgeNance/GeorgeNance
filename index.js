@@ -17,11 +17,8 @@ async function main() {
   
 
   
-  const feed = await parser.parseURL('https://georgenance.com/rss.xml', function(err, feed) {
-  if (err) throw err;
-    return feed;
-});
-    let blogPosts = "";
+  let feed = await parser.parseURL('https://georgenance.com/rss.xml');
+  let blogPosts = "";
 
   feed.items.slice(0, 5).map(item => {
     blogPosts = blogPosts.concat("\n",`(${item.title})[${item.link}]`)
