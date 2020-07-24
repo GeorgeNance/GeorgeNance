@@ -21,10 +21,10 @@ jobs:
       - name: Add to git repo
         run: |
           git add .
-          git config --global user.name "Akshit Garg"
-          git config --global user.email "garg.akshit@gmail.com"
+          git config --global user.name "George Nance"
+          git config --global user.email "thatbuddhadude@gmail.com"
           git commit -m "[Magic] Automated README update"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
