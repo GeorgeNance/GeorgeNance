@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *John von Neumann*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 10:05 AM
+  Last Refresh : Saturday, July 25, 2020, 11:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
