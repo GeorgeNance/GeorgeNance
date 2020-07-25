@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *George Boole*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 9:06 AM
+  Last Refresh : Saturday, July 25, 2020, 10:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
