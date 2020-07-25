@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
-> ~ *Michael A. Jackson*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 24, 2020, 5:18 PM
+  Last Refresh : Friday, July 24, 2020, 6:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
