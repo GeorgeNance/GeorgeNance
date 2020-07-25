@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Richard Hamming*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 12:06 AM
+  Last Refresh : Saturday, July 25, 2020, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
