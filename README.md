@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 >
-> ~ *Ted Nelson*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 2:05 PM
+  Last Refresh : Saturday, July 25, 2020, 3:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
