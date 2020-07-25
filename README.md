@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 3:06 PM
+  Last Refresh : Saturday, July 25, 2020, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
