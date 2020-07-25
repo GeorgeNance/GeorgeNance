@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 >
-> ~ *Terry Winograd*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 4:05 AM
+  Last Refresh : Saturday, July 25, 2020, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
