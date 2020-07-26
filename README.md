@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *John Carmack*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 10:05 PM
+  Last Refresh : Saturday, July 25, 2020, 11:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
