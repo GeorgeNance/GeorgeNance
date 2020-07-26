@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 >
-> ~ *P. J. Plauger*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 12:07 PM
+  Last Refresh : Sunday, July 26, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
