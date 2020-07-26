@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 3:05 AM
+  Last Refresh : Sunday, July 26, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
