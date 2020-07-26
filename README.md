@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 5:17 PM
+  Last Refresh : Saturday, July 25, 2020, 6:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
