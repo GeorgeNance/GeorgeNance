@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *Seymour Cray*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 7:08 AM
+  Last Refresh : Sunday, July 26, 2020, 8:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
