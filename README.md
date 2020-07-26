@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Tim Berners-Lee*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 25, 2020, 9:06 PM
+  Last Refresh : Saturday, July 25, 2020, 10:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
