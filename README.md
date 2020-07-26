@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 >
-> ~ *Buckminster Fuller*
+> ~ *Richard P. Gabriel*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 2:05 AM
+  Last Refresh : Sunday, July 26, 2020, 3:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
