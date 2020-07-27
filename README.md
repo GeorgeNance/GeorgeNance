@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 >
-> ~ *Terry Winograd*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 5:16 PM
+  Last Refresh : Sunday, July 26, 2020, 6:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
