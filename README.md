@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 >
-> ~ *Chris Sacca*
+> ~ *Sean Parent*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 4:05 AM
+  Last Refresh : Monday, July 27, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
