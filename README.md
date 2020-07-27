@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 2:09 AM
+  Last Refresh : Monday, July 27, 2020, 3:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
