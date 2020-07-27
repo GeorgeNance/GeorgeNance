@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 >
-> ~ *Sean Parent*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 5:09 AM
+  Last Refresh : Monday, July 27, 2020, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
