@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Edward V. Berard*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 10:05 AM
+  Last Refresh : Monday, July 27, 2020, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
