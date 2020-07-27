@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *Wayne Ratliff*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 8:05 PM
+  Last Refresh : Sunday, July 26, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
