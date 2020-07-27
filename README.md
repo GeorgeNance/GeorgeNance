@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Gary Kildall*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 1:05 PM
+  Last Refresh : Monday, July 27, 2020, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
