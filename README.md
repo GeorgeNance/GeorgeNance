@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 12:04 PM
+  Last Refresh : Monday, July 27, 2020, 1:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
