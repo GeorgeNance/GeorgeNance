@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 11:09 PM
+  Last Refresh : Monday, July 27, 2020, 12:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
