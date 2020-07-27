@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 1:06 AM
+  Last Refresh : Monday, July 27, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
