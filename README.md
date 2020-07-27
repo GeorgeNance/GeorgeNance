@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Donald Knuth*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 9:08 PM
+  Last Refresh : Sunday, July 26, 2020, 10:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
