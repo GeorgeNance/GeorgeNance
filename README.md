@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 >
-> ~ *Edward V. Berard*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 26, 2020, 7:14 PM
+  Last Refresh : Sunday, July 26, 2020, 8:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
