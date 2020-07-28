@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### Once you stop learning you start dying.
 >
-> ~ *Doug Linder*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 1:11 AM
+  Last Refresh : Tuesday, July 28, 2020, 2:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
