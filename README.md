@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Henry Petroski*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 8:05 PM
+  Last Refresh : Monday, July 27, 2020, 9:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
