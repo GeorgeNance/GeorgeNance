@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Alan Turing*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 7:06 AM
+  Last Refresh : Tuesday, July 28, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
