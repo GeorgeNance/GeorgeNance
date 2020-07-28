@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
 >
-> ~ *Tom DeMarco*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 5:12 AM
+  Last Refresh : Tuesday, July 28, 2020, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
