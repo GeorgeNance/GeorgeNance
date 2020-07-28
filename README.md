@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Gordon Bell*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 9:06 PM
+  Last Refresh : Monday, July 27, 2020, 10:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
