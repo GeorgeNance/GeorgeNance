@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Richard Hamming*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 6:06 PM
+  Last Refresh : Monday, July 27, 2020, 7:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
