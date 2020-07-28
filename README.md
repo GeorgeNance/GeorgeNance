@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 3:05 AM
+  Last Refresh : Tuesday, July 28, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
