@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
-> ~ *Albert Einstein*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 2:05 AM
+  Last Refresh : Tuesday, July 28, 2020, 3:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
