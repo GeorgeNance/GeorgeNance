@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Kent Beck*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 4:05 AM
+  Last Refresh : Tuesday, July 28, 2020, 5:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
