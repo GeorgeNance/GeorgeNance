@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *John Warnock*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 27, 2020, 5:16 PM
+  Last Refresh : Monday, July 27, 2020, 6:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
