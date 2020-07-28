@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Robert L. Glass*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 2:05 PM
+  Last Refresh : Tuesday, July 28, 2020, 3:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
