@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Elon Musk*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 3:05 PM
+  Last Refresh : Tuesday, July 28, 2020, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
