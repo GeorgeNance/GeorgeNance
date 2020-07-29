@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Edward V. Berard*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 29, 2020, 3:05 PM
+  Last Refresh : Wednesday, July 29, 2020, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
