@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 29, 2020, 11:06 AM
+  Last Refresh : Wednesday, July 29, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
