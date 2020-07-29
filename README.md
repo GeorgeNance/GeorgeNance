@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 10:05 PM
+  Last Refresh : Tuesday, July 28, 2020, 11:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
