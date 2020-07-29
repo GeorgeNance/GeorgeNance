@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 >
-> ~ *Alan Perlis*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 11:09 PM
+  Last Refresh : Wednesday, July 29, 2020, 12:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
