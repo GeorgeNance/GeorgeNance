@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Ted Nelson*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 29, 2020, 10:05 AM
+  Last Refresh : Wednesday, July 29, 2020, 11:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
