@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 >
-> ~ *Lawrence Flon*
+> ~ *Chris Sacca*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 29, 2020, 1:06 AM
+  Last Refresh : Wednesday, July 29, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
