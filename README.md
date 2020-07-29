@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Martin Fowler*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 29, 2020, 12:05 AM
+  Last Refresh : Wednesday, July 29, 2020, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
