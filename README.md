@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 6:06 PM
+  Last Refresh : Tuesday, July 28, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
