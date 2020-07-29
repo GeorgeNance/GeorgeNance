@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 29, 2020, 4:05 AM
+  Last Refresh : Wednesday, July 29, 2020, 5:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
