@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 5:19 PM
+  Last Refresh : Tuesday, July 28, 2020, 6:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
