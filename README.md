@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Richard Stallman*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 28, 2020, 7:08 PM
+  Last Refresh : Tuesday, July 28, 2020, 8:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
