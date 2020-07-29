@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 29, 2020, 5:07 AM
+  Last Refresh : Wednesday, July 29, 2020, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
