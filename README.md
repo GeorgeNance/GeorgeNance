@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 >
-> ~ *Marvin Minsky*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 30, 2020, 4:05 AM
+  Last Refresh : Thursday, July 30, 2020, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
