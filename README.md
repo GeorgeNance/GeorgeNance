@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
-> ~ *Pamela Zave*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 30, 2020, 1:06 AM
+  Last Refresh : Thursday, July 30, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
