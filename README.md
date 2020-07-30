@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 >
 > ~ *Ken Thompson*
 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 29, 2020, 11:09 PM
+  Last Refresh : Thursday, July 30, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
