@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Ken Thompson*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 30, 2020, 12:06 AM
+  Last Refresh : Thursday, July 30, 2020, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
