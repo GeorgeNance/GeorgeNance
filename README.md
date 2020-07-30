@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Martin Fowler*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 30, 2020, 7:10 AM
+  Last Refresh : Thursday, July 30, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
