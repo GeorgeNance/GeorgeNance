@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Daniel T. Barry*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 30, 2020, 12:05 PM
+  Last Refresh : Thursday, July 30, 2020, 1:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
