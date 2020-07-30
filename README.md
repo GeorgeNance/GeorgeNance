@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 30, 2020, 1:06 PM
+  Last Refresh : Thursday, July 30, 2020, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
