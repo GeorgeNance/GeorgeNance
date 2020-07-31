@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Danny Hillis*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 9:06 AM
+  Last Refresh : Friday, July 31, 2020, 10:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
