@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 1:06 PM
+  Last Refresh : Friday, July 31, 2020, 2:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
