@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Ward Cunningham*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 3:07 AM
+  Last Refresh : Friday, July 31, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
