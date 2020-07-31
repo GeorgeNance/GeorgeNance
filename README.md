@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### No code is faster than no code.
 >
-> ~ *Bill Gates*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 11:06 AM
+  Last Refresh : Friday, July 31, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
