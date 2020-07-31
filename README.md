@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Niklaus Wirth*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -32,6 +32,7 @@
 ## ✍️ Recent Blog Posts:
 
 
+* [An open letter to new programmers](https://georgenance.com/open-letter-new-programmers)
 * [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
 * [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
 
@@ -43,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 3:05 PM
+  Last Refresh : Friday, July 31, 2020, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
