@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Bill Gates*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 4:05 AM
+  Last Refresh : Friday, July 31, 2020, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
