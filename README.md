@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Douglas Crockford*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 2:06 AM
+  Last Refresh : Friday, July 31, 2020, 3:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
