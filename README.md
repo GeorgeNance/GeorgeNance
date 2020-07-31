@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 30, 2020, 8:05 PM
+  Last Refresh : Thursday, July 30, 2020, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
