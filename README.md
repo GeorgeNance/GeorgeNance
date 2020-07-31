@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 >
-> ~ *Dennis Ritchie*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 30, 2020, 11:06 PM
+  Last Refresh : Friday, July 31, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
