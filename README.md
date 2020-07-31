@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 7:07 AM
+  Last Refresh : Friday, July 31, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
