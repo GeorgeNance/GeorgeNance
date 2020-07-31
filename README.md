@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -43,7 +43,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 8:06 AM
+  Last Refresh : Friday, July 31, 2020, 9:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
