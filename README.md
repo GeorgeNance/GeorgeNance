@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 >
-> ~ *Ken Thompson*
+> ~ *Poul Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 12:05 PM
+  Last Refresh : Saturday, August 1, 2020, 1:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
