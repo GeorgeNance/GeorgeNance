@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 >
-> ~ *Tony Hoare*
+> ~ *Jeremy S. Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 9:06 AM
+  Last Refresh : Saturday, August 1, 2020, 10:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
