@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 3:07 AM
+  Last Refresh : Saturday, August 1, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
