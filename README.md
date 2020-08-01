@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Steve Jobs*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 11:06 AM
+  Last Refresh : Saturday, August 1, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
