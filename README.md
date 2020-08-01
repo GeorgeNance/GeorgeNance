@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
 >
-> ~ *Daniel T. Barry*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 12:06 AM
+  Last Refresh : Saturday, August 1, 2020, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
