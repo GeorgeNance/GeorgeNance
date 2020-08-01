@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 >
-> ~ *Luciano Ramalho*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -32,7 +32,7 @@
 ## ✍️ Recent Blog Posts:
 
 
-* [An open letter to new programmers](https://georgenance.com/open-letter-new-programmers)
+* [An Open Letter to New Programmers](https://georgenance.com/open-letter-new-programmers)
 * [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
 * [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 4:05 PM
+  Last Refresh : Friday, July 31, 2020, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
