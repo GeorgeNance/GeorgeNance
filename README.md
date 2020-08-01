@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### Really good programs live forever.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 2:06 PM
+  Last Refresh : Saturday, August 1, 2020, 3:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
