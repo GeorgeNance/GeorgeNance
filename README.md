@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Anonymous*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 2:06 AM
+  Last Refresh : Saturday, August 1, 2020, 3:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
