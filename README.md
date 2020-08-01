@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Damian Conway*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 31, 2020, 9:07 PM
+  Last Refresh : Friday, July 31, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
