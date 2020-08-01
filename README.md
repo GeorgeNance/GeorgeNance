@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 >
-> ~ *Charles Simonyi*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 3:05 PM
+  Last Refresh : Saturday, August 1, 2020, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
