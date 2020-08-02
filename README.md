@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 >
-> ~ *Ken Thompson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 2, 2020, 3:05 AM
+  Last Refresh : Sunday, August 2, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
