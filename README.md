@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Damian Conway*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 8:06 PM
+  Last Refresh : Saturday, August 1, 2020, 9:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
