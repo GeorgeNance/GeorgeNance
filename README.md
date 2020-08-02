@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Ted Nelson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 4:05 PM
+  Last Refresh : Saturday, August 1, 2020, 5:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
