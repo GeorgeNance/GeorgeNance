@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 1, 2020, 7:11 PM
+  Last Refresh : Saturday, August 1, 2020, 8:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
