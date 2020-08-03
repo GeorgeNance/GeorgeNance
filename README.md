@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
-> ~ *Harlan Mills*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 2, 2020, 6:06 PM
+  Last Refresh : Sunday, August 2, 2020, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
