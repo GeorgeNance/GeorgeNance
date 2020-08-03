@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 >
-> ~ *Elon Musk*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 5:08 AM
+  Last Refresh : Monday, August 3, 2020, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
