@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *Ted Nelson*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 2, 2020, 5:20 PM
+  Last Refresh : Sunday, August 2, 2020, 6:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
