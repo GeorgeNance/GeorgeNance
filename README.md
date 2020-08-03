@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 10:05 AM
+  Last Refresh : Monday, August 3, 2020, 11:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
