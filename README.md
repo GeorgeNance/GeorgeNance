@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Marvin Minsky*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 6:05 AM
+  Last Refresh : Monday, August 3, 2020, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
