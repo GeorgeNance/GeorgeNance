@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 >
-> ~ *Elon Musk*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 12:06 AM
+  Last Refresh : Monday, August 3, 2020, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
