@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 2, 2020, 11:07 PM
+  Last Refresh : Monday, August 3, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
