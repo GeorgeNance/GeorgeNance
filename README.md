@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 >
-> ~ *Fred Brooks*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 1:06 PM
+  Last Refresh : Monday, August 3, 2020, 2:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
