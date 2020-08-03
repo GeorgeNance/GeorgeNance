@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### Cool URIs don't change.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 9:06 AM
+  Last Refresh : Monday, August 3, 2020, 10:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
