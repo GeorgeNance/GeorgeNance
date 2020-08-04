@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Elon Musk*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 5:08 AM
+  Last Refresh : Tuesday, August 4, 2020, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
