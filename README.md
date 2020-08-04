@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Marvin Minsky*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 7:06 AM
+  Last Refresh : Tuesday, August 4, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
