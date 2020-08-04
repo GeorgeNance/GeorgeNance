@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 5:20 PM
+  Last Refresh : Monday, August 3, 2020, 6:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
