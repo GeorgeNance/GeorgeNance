@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Ken Thompson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 11:06 AM
+  Last Refresh : Tuesday, August 4, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
