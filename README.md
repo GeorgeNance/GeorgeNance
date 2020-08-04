@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 >
-> ~ *Robert C. Martin*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 8:06 PM
+  Last Refresh : Monday, August 3, 2020, 9:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
