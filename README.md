@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Fred Brooks*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 7:08 PM
+  Last Refresh : Monday, August 3, 2020, 8:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
