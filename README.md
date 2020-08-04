@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
 > ~ *Bjarne Stroustrup*
 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 3, 2020, 9:10 PM
+  Last Refresh : Monday, August 3, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
