@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### Programming can be addictive.
 >
-> ~ *Alan Perlis*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 3:05 PM
+  Last Refresh : Tuesday, August 4, 2020, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
