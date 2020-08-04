@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Ivan Sutherland*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 1:13 AM
+  Last Refresh : Tuesday, August 4, 2020, 2:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
