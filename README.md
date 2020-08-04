@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 6:05 AM
+  Last Refresh : Tuesday, August 4, 2020, 7:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
