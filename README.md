@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Steve Jobs*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 4:05 AM
+  Last Refresh : Tuesday, August 4, 2020, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
