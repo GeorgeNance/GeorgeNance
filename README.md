@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 8:06 AM
+  Last Refresh : Tuesday, August 4, 2020, 9:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
