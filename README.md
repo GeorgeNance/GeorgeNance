@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Addy Osmani*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 2:10 AM
+  Last Refresh : Tuesday, August 4, 2020, 3:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
