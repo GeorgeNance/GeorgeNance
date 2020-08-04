@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 >
-> ~ *Kent Beck*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 3:06 AM
+  Last Refresh : Tuesday, August 4, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
