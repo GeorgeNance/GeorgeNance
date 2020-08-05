@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 6:05 AM
+  Last Refresh : Wednesday, August 5, 2020, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
