@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### Less code equals less bugs.
 >
-> ~ *Randall E. Stross*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 12:06 PM
+  Last Refresh : Wednesday, August 5, 2020, 1:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
