@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Fred Brooks*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 2:06 AM
+  Last Refresh : Wednesday, August 5, 2020, 3:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
