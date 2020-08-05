@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Daniel T. Barry*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 3:06 AM
+  Last Refresh : Wednesday, August 5, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
