@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 >
-> ~ *George Carrette*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 3:05 PM
+  Last Refresh : Wednesday, August 5, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
