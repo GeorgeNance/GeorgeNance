@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Vannevar Bush*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 10:06 AM
+  Last Refresh : Wednesday, August 5, 2020, 11:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
