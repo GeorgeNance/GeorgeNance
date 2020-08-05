@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
-> ~ *Kevlin Henney*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 7:07 PM
+  Last Refresh : Tuesday, August 4, 2020, 8:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
