@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Elon Musk*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 9:06 PM
+  Last Refresh : Tuesday, August 4, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
