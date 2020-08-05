@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
-> ~ *Bob Frankston*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 7:14 AM
+  Last Refresh : Wednesday, August 5, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
