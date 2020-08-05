@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 9:06 AM
+  Last Refresh : Wednesday, August 5, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
