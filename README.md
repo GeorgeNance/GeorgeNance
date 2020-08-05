@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Dennis Ritchie*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 12:06 AM
+  Last Refresh : Wednesday, August 5, 2020, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
