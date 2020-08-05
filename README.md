@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Fred Brooks*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 6:06 PM
+  Last Refresh : Tuesday, August 4, 2020, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
