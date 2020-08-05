@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 >
-> ~ *Kevlin Henney*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 1:07 PM
+  Last Refresh : Wednesday, August 5, 2020, 2:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
