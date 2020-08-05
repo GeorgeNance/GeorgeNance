@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Bob Carr*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 4, 2020, 11:06 PM
+  Last Refresh : Wednesday, August 5, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
