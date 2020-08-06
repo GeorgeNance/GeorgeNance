@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Gary Kildall*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 11:06 PM
+  Last Refresh : Thursday, August 6, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
