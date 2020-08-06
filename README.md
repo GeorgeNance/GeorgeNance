@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 6:06 PM
+  Last Refresh : Wednesday, August 5, 2020, 7:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
