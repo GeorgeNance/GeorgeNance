@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Martin Fowler*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 6, 2020, 3:06 AM
+  Last Refresh : Thursday, August 6, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
