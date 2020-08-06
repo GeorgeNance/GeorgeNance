@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 6, 2020, 9:06 AM
+  Last Refresh : Thursday, August 6, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
