@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Bob Carr*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 6, 2020, 8:06 AM
+  Last Refresh : Thursday, August 6, 2020, 9:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
