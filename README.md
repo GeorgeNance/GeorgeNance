@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Tom DeMarco*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 4:07 PM
+  Last Refresh : Wednesday, August 5, 2020, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
