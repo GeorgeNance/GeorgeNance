@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *John Johnson*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 5, 2020, 8:06 PM
+  Last Refresh : Wednesday, August 5, 2020, 9:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
