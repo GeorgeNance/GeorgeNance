@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 >
-> ~ *Niklaus Wirth*
+> ~ *P. J. Plauger*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 6, 2020, 12:06 AM
+  Last Refresh : Thursday, August 6, 2020, 1:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
