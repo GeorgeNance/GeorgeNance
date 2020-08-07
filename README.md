@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Elon Musk*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 7, 2020, 6:06 AM
+  Last Refresh : Friday, August 7, 2020, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
