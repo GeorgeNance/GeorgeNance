@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 >
-> ~ *Danny Hillis*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 7, 2020, 11:06 AM
+  Last Refresh : Friday, August 7, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
