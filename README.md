@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 >
-> ~ *Wayne Ratliff*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 7, 2020, 1:07 AM
+  Last Refresh : Friday, August 7, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
