@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 6, 2020, 4:06 PM
+  Last Refresh : Thursday, August 6, 2020, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
