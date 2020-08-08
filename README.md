@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 >
-> ~ *Fred Brooks*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 7, 2020, 11:08 PM
+  Last Refresh : Saturday, August 8, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
