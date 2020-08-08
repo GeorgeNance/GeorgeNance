@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Ward Cunningham*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 3:06 AM
+  Last Refresh : Saturday, August 8, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
