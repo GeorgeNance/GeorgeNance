@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Albert Einstein*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 1:07 PM
+  Last Refresh : Saturday, August 8, 2020, 2:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
