@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### Once you stop learning you start dying.
 >
-> ~ *John Carmack*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 12:06 PM
+  Last Refresh : Saturday, August 8, 2020, 1:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
