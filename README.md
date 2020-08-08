@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 >
-> ~ *Harlan Mills*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 2:06 PM
+  Last Refresh : Saturday, August 8, 2020, 3:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
