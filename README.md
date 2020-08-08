@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 >
-> ~ *Alan Perlis*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 11:07 AM
+  Last Refresh : Saturday, August 8, 2020, 12:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
