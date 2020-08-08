@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 4:06 AM
+  Last Refresh : Saturday, August 8, 2020, 5:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
