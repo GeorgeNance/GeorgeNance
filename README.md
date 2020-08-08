@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 12:06 AM
+  Last Refresh : Saturday, August 8, 2020, 1:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
