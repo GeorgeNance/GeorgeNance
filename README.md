@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Tom DeMarco*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 2:06 AM
+  Last Refresh : Saturday, August 8, 2020, 3:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
