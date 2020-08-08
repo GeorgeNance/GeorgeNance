@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 10:06 AM
+  Last Refresh : Saturday, August 8, 2020, 11:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
