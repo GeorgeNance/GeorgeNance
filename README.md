@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 >
-> ~ *Poul Anderson*
+> ~ *Vint Cerf*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 7, 2020, 6:06 PM
+  Last Refresh : Friday, August 7, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
