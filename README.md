@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 5:09 AM
+  Last Refresh : Sunday, August 9, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
