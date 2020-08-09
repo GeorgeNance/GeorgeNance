@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Danny Hillis*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 3:06 AM
+  Last Refresh : Sunday, August 9, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
