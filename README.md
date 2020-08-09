@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Richard Hamming*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 10:08 AM
+  Last Refresh : Sunday, August 9, 2020, 11:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
