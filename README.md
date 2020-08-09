@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Rick Osborne*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 8:06 PM
+  Last Refresh : Saturday, August 8, 2020, 9:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
