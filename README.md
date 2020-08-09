@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 10:07 PM
+  Last Refresh : Saturday, August 8, 2020, 11:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
