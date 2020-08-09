@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 4:06 AM
+  Last Refresh : Sunday, August 9, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
