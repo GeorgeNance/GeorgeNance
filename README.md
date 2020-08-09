@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Rich Skrenta*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 6:07 AM
+  Last Refresh : Sunday, August 9, 2020, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
