@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Joshua Bloch*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 12:07 AM
+  Last Refresh : Sunday, August 9, 2020, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
