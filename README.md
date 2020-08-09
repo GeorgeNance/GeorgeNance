@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 1:06 AM
+  Last Refresh : Sunday, August 9, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
