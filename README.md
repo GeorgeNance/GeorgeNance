@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 >
-> ~ *Jim Horning*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 9:06 AM
+  Last Refresh : Sunday, August 9, 2020, 10:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
