@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 >
-> ~ *Donald Knuth*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 8:06 AM
+  Last Refresh : Sunday, August 9, 2020, 9:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
