@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 >
-> ~ *Quarry worker's creed*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 8, 2020, 11:06 PM
+  Last Refresh : Sunday, August 9, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
