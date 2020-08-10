@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 >
-> ~ *Ken Thompson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 1:06 PM
+  Last Refresh : Monday, August 10, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
