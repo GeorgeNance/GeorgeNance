@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Dan Bricklin*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 8:06 PM
+  Last Refresh : Sunday, August 9, 2020, 9:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
