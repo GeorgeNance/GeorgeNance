@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *John Carmack*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 12:07 PM
+  Last Refresh : Monday, August 10, 2020, 1:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
