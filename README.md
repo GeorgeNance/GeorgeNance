@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Ryan Singer*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 6:07 PM
+  Last Refresh : Sunday, August 9, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
