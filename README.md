@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Pamela Zave*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 7:09 PM
+  Last Refresh : Sunday, August 9, 2020, 8:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
