@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Ivan Sutherland*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 1:16 AM
+  Last Refresh : Monday, August 10, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
