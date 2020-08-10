@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Daniel T. Barry*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 4:06 AM
+  Last Refresh : Monday, August 10, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
