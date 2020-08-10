@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 >
-> ~ *Fred Brooks*
+> ~ *George Carrette*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 9, 2020, 4:06 PM
+  Last Refresh : Sunday, August 9, 2020, 5:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
