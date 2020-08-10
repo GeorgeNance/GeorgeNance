@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 >
-> ~ *Linus Torvalds*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 9:07 AM
+  Last Refresh : Monday, August 10, 2020, 10:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
