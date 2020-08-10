@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 >
-> ~ *Alan Turing*
+> ~ *Seymour Cray*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 2:06 AM
+  Last Refresh : Monday, August 10, 2020, 3:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
