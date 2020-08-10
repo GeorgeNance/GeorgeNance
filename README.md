@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Fred Brooks*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 2:07 PM
+  Last Refresh : Monday, August 10, 2020, 3:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
