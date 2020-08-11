@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Fred Brooks*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 1:13 AM
+  Last Refresh : Tuesday, August 11, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
