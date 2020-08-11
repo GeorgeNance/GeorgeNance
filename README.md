@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 >
-> ~ *Alan Perlis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 8:06 AM
+  Last Refresh : Tuesday, August 11, 2020, 9:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
