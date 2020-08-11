@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Alan Perlis*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 7:07 PM
+  Last Refresh : Monday, August 10, 2020, 8:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
