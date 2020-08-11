@@ -11,7 +11,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/blog
-  label: Articles
+  label: Blog
   create: all
   match: "**/*"
 upload_dir: uploads
