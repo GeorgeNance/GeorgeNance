@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Buckminster Fuller*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 2:08 PM
+  Last Refresh : Tuesday, August 11, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
