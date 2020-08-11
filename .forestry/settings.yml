@@ -8,7 +8,7 @@ sections:
   path: content/pages
   label: Pages
   create: all
-  match: content/pages/**/*
+  match: "**/*"
 - type: directory
   path: content
   label: Articles
