@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Daniel T. Barry*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 3:07 PM
+  Last Refresh : Tuesday, August 11, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
