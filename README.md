@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *Tom DeMarco*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 12:06 PM
+  Last Refresh : Tuesday, August 11, 2020, 1:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
