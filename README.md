@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *John Carmack*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 2:06 AM
+  Last Refresh : Tuesday, August 11, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
