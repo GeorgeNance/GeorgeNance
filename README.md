@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 >
-> ~ *Bill Gates*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 10, 2020, 11:07 PM
+  Last Refresh : Tuesday, August 11, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
