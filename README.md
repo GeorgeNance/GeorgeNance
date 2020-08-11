@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Marvin Minsky*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 12:06 AM
+  Last Refresh : Tuesday, August 11, 2020, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
