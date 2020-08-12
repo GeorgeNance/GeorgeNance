@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Ada Lovelace*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 10:06 PM
+  Last Refresh : Tuesday, August 11, 2020, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
