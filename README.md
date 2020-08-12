@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Bill Gates*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 10:06 AM
+  Last Refresh : Wednesday, August 12, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
