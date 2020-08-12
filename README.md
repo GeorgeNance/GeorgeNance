@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Ted Nelson*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 5:10 AM
+  Last Refresh : Wednesday, August 12, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
