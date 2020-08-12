@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 >
 > ~ *Ada Lovelace*
 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 9:07 PM
+  Last Refresh : Tuesday, August 11, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
