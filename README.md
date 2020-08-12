@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 7:07 AM
+  Last Refresh : Wednesday, August 12, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
