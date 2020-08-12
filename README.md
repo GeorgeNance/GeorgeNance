@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 >
-> ~ *Alan Perlis*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 3:06 AM
+  Last Refresh : Wednesday, August 12, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
