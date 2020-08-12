@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 >
-> ~ *Dennis Ritchie*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 4:06 PM
+  Last Refresh : Tuesday, August 11, 2020, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
