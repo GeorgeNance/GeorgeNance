@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Ken Thompson*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 1:07 PM
+  Last Refresh : Wednesday, August 12, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
