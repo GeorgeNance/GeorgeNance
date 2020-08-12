@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 9:06 AM
+  Last Refresh : Wednesday, August 12, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
