@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Kyle Simpson*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 11, 2020, 11:15 PM
+  Last Refresh : Wednesday, August 12, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
