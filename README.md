@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Gerald Weinberg*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 7:09 PM
+  Last Refresh : Wednesday, August 12, 2020, 8:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
