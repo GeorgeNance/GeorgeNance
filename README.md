@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Richard Stallman*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 10:08 PM
+  Last Refresh : Wednesday, August 12, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
