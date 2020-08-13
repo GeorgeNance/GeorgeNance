@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 >
-> ~ *Donald Knuth*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 12:06 AM
+  Last Refresh : Thursday, August 13, 2020, 1:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
