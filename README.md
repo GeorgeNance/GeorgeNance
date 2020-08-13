@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Randall E. Stross*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 11:07 AM
+  Last Refresh : Thursday, August 13, 2020, 12:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
