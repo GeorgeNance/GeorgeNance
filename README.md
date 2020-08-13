@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Martin Fowler*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 7:11 AM
+  Last Refresh : Thursday, August 13, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
