@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Gary Kildall*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 12, 2020, 11:08 PM
+  Last Refresh : Thursday, August 13, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
