@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 2:06 AM
+  Last Refresh : Thursday, August 13, 2020, 3:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
