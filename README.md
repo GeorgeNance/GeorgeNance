@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *Anonymous*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -42,7 +42,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 5:11 AM
+  Last Refresh : Friday, August 14, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
