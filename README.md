@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 >
-> ~ *Stewart Brand*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 10:06 AM
+  Last Refresh : Friday, August 14, 2020, 11:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
