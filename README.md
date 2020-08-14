@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### Good software, like good wine, takes time.
 >
-> ~ *Linus Torvalds*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -42,7 +42,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 6:06 AM
+  Last Refresh : Friday, August 14, 2020, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
