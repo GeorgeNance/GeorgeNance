@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Daniel T. Barry*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 3:06 PM
+  Last Refresh : Friday, August 14, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
