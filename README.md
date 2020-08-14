@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -42,7 +42,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 3:06 AM
+  Last Refresh : Friday, August 14, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
