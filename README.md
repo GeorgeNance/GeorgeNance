@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Robert C. Martin*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -42,7 +42,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 10:06 PM
+  Last Refresh : Thursday, August 13, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
