@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Douglas Crockford*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -42,7 +42,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 9:09 PM
+  Last Refresh : Thursday, August 13, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
