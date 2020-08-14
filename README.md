@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Richard Hamming*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -42,7 +42,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 4:06 AM
+  Last Refresh : Friday, August 14, 2020, 5:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
