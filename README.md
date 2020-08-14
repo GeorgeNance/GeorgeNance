@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### JavaScript is the world's most misunderstood programming language.
 >
 > ~ *Douglas Crockford*
 
@@ -32,9 +32,7 @@
 ## ✍️ Recent Blog Posts:
 
 
-* [An Open Letter to New Programmers](https://georgenance.com/open-letter-new-programmers)
-* [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
-* [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
+* [Deadlines are important](https://georgenance.com/deadlines-are-important-2017)
 
 [View More](https://georgenance.com)
 
@@ -44,7 +42,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 8:07 PM
+  Last Refresh : Thursday, August 13, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
