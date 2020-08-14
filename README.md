@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Joel Spolsky*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -32,6 +32,9 @@
 ## ✍️ Recent Blog Posts:
 
 
+* [An Open Letter to New Programmers](https://georgenance.com/open-letter-new-programmers)
+* [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
+* [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
 * [Deadlines are important](https://georgenance.com/deadlines-are-important-2017)
 
 [View More](https://georgenance.com)
@@ -42,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 7:10 AM
+  Last Refresh : Friday, August 14, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
