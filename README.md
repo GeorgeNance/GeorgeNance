@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Jef Raskin*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -42,7 +42,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 11:08 PM
+  Last Refresh : Friday, August 14, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
