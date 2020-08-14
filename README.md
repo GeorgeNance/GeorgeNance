@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
 >
-> ~ *Jonathan Sachs*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -44,7 +44,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 4:06 PM
+  Last Refresh : Thursday, August 13, 2020, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
