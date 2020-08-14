@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Ellen Ullman*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 8:06 AM
+  Last Refresh : Friday, August 14, 2020, 9:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
