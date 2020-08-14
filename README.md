@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 >
-> ~ *Ellen Ullman*
+> ~ *Stewart Brand*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 9:06 AM
+  Last Refresh : Friday, August 14, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
