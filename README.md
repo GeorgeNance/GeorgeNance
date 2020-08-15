@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Dennis Ritchie*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 11:08 AM
+  Last Refresh : Saturday, August 15, 2020, 12:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
