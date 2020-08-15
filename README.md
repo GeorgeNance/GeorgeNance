@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Linus Torvalds*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 10:06 PM
+  Last Refresh : Friday, August 14, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
