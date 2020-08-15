@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Martin Fowler*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 7:07 AM
+  Last Refresh : Saturday, August 15, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
