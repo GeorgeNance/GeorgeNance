@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Ada Lovelace*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 2:08 PM
+  Last Refresh : Saturday, August 15, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
