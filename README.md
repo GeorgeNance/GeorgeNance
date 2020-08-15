@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 8:06 AM
+  Last Refresh : Saturday, August 15, 2020, 9:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
