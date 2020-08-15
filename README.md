@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Albert Einstein*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 4:06 AM
+  Last Refresh : Saturday, August 15, 2020, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
