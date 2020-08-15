@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
 >
-> ~ *Douglas Crockford*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 14, 2020, 5:18 PM
+  Last Refresh : Friday, August 14, 2020, 6:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
