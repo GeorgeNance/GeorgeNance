@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 12:06 AM
+  Last Refresh : Saturday, August 15, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
