@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 >
-> ~ *Niklaus Wirth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 5:08 AM
+  Last Refresh : Saturday, August 15, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
