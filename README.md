@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 >
-> ~ *Eric S. Raymond*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 10:06 AM
+  Last Refresh : Saturday, August 15, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
