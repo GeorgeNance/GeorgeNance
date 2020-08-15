@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 3:06 AM
+  Last Refresh : Saturday, August 15, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
