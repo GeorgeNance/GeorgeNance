@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Donald Knuth*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 3:07 PM
+  Last Refresh : Saturday, August 15, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
