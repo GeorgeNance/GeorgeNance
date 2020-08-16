@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 4:06 PM
+  Last Refresh : Saturday, August 15, 2020, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
