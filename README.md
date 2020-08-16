@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Anonymous*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 7:10 PM
+  Last Refresh : Saturday, August 15, 2020, 8:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
