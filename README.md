@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 3:06 AM
+  Last Refresh : Sunday, August 16, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
