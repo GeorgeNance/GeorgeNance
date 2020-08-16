@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Vannevar Bush*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 6:06 AM
+  Last Refresh : Sunday, August 16, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
