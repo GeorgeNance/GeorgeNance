@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 9:08 PM
+  Last Refresh : Saturday, August 15, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
