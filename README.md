@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One accurate measurement is worth more than a thousand expert opinions.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Grace Hopper*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 12:07 AM
+  Last Refresh : Sunday, August 16, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
