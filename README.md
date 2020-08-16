@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Michael A. Jackson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 12:06 PM
+  Last Refresh : Sunday, August 16, 2020, 1:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
