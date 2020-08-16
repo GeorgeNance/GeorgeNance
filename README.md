@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Linus Torvalds*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 5:09 AM
+  Last Refresh : Sunday, August 16, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
