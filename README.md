@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Edward V. Berard*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 1:08 AM
+  Last Refresh : Sunday, August 16, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
