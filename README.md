@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 15, 2020, 8:06 PM
+  Last Refresh : Saturday, August 15, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
