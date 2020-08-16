@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 4:06 AM
+  Last Refresh : Sunday, August 16, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
