@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Buckminster Fuller*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 6:07 PM
+  Last Refresh : Sunday, August 16, 2020, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
