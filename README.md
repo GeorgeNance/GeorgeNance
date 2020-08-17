@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Elon Musk*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 11:08 AM
+  Last Refresh : Monday, August 17, 2020, 12:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
