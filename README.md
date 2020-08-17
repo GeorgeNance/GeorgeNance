@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Bob Carr*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 10:06 AM
+  Last Refresh : Monday, August 17, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
