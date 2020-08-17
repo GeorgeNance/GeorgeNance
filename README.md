@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 7:07 AM
+  Last Refresh : Monday, August 17, 2020, 8:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
