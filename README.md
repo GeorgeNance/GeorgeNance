@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Alan Perlis*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 2:07 AM
+  Last Refresh : Monday, August 17, 2020, 3:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
