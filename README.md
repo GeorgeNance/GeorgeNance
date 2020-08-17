@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Grady Booch*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 1:07 AM
+  Last Refresh : Monday, August 17, 2020, 2:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
