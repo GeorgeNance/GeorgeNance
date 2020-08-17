@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Donald Knuth*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 8:06 PM
+  Last Refresh : Sunday, August 16, 2020, 9:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
