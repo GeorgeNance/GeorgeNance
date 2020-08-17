@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 >
-> ~ *Donald Knuth*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 4:06 PM
+  Last Refresh : Sunday, August 16, 2020, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
