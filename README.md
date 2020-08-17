@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 5:18 PM
+  Last Refresh : Sunday, August 16, 2020, 6:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
