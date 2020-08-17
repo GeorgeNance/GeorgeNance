@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 3:06 AM
+  Last Refresh : Monday, August 17, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
