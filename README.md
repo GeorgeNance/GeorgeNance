@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Damian Conway*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 9:07 AM
+  Last Refresh : Monday, August 17, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
