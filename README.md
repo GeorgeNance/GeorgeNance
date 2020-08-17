@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Bill Gates*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 16, 2020, 9:07 PM
+  Last Refresh : Sunday, August 16, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
