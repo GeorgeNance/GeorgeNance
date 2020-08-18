@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 12:14 AM
+  Last Refresh : Tuesday, August 18, 2020, 1:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
