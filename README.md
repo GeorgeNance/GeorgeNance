@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Joshua Bloch*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 1:08 PM
+  Last Refresh : Tuesday, August 18, 2020, 2:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
