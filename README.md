@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### When in doubt, leave it out.
 >
-> ~ *Alan Perlis*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 12:06 PM
+  Last Refresh : Tuesday, August 18, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
