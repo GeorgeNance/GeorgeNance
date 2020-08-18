@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 >
-> ~ *Rich Skrenta*
+> ~ *Philip Greenspun*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 2:06 AM
+  Last Refresh : Tuesday, August 18, 2020, 3:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
