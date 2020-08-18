@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 9:08 PM
+  Last Refresh : Monday, August 17, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
