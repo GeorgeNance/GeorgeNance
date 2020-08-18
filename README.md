@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Gordon Bell*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 6:07 PM
+  Last Refresh : Monday, August 17, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
