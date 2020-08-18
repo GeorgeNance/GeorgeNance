@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Terry Winograd*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 4:06 AM
+  Last Refresh : Tuesday, August 18, 2020, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
