@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Kevlin Henney*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 2:06 PM
+  Last Refresh : Tuesday, August 18, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
