@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Don Norman*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 6:06 AM
+  Last Refresh : Tuesday, August 18, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
