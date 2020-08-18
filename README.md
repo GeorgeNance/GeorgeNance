@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Alan Perlis*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 17, 2020, 7:09 PM
+  Last Refresh : Monday, August 17, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
