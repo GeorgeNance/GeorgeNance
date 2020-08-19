@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 >
-> ~ *Charles Simonyi*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 19, 2020, 9:07 AM
+  Last Refresh : Wednesday, August 19, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
