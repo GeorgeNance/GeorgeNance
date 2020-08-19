@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
 >
-> ~ *Anonymous*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 19, 2020, 2:06 AM
+  Last Refresh : Wednesday, August 19, 2020, 3:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
