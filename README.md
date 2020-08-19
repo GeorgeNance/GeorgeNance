@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Bill Gates*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 19, 2020, 1:07 AM
+  Last Refresh : Wednesday, August 19, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
