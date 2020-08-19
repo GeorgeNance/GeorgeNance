@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 19, 2020, 7:07 AM
+  Last Refresh : Wednesday, August 19, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
