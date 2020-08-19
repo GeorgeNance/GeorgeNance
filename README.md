@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Butler Lampson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 11:07 PM
+  Last Refresh : Wednesday, August 19, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
