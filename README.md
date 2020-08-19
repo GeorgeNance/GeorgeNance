@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 10:06 PM
+  Last Refresh : Tuesday, August 18, 2020, 11:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
