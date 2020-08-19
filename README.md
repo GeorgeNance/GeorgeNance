@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Richard Feynman*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 8:06 PM
+  Last Refresh : Tuesday, August 18, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
