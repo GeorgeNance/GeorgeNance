@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 18, 2020, 4:06 PM
+  Last Refresh : Tuesday, August 18, 2020, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
