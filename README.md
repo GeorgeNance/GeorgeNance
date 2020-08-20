@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 >
-> ~ *Quarry worker's creed*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 11:07 AM
+  Last Refresh : Thursday, August 20, 2020, 12:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
