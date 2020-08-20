@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### Really good programs live forever.
 >
-> ~ *Hal Abelson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 9:07 AM
+  Last Refresh : Thursday, August 20, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
