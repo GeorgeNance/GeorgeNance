@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Charles Simonyi*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 10:06 AM
+  Last Refresh : Thursday, August 20, 2020, 11:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
