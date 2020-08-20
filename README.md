@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Jamie Zawinski*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 8:12 AM
+  Last Refresh : Thursday, August 20, 2020, 9:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
