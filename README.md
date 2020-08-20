@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 >
-> ~ *Tom DeMarco*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 19, 2020, 8:06 PM
+  Last Refresh : Wednesday, August 19, 2020, 9:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
