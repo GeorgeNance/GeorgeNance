@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
+> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 >
-> ~ *Danny Hillis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 1:07 PM
+  Last Refresh : Thursday, August 20, 2020, 2:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
