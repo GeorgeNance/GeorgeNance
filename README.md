@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 3:06 AM
+  Last Refresh : Thursday, August 20, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
