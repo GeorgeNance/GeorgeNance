@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Martin Fowler*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 19, 2020, 5:18 PM
+  Last Refresh : Wednesday, August 19, 2020, 6:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
