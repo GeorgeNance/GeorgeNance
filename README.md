@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 >
-> ~ *Addy Osmani*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 19, 2020, 9:07 PM
+  Last Refresh : Wednesday, August 19, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
