@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 2:06 PM
+  Last Refresh : Thursday, August 20, 2020, 3:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
