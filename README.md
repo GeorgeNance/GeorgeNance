@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Butler Lampson*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 19, 2020, 6:07 PM
+  Last Refresh : Wednesday, August 19, 2020, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
