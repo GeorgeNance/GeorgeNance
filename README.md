@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 2:06 PM
+  Last Refresh : Friday, August 21, 2020, 3:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
