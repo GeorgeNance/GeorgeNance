@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 >
 > ~ *Daniel T. Barry*
 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 3:06 PM
+  Last Refresh : Friday, August 21, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
