@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Alan Perlis*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 6:06 PM
+  Last Refresh : Thursday, August 20, 2020, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
