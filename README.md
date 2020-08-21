@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 >
-> ~ *Daniel T. Barry*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 1:07 PM
+  Last Refresh : Friday, August 21, 2020, 2:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
