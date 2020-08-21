@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Linus Torvalds*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 1:08 AM
+  Last Refresh : Friday, August 21, 2020, 2:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
