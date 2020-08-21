@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 8:06 AM
+  Last Refresh : Friday, August 21, 2020, 9:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
