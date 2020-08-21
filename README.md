@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Fred Brooks*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 12:06 PM
+  Last Refresh : Friday, August 21, 2020, 1:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
