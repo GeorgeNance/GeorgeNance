@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Leslie Lamport*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 9:07 AM
+  Last Refresh : Friday, August 21, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
