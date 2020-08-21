@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 >
-> ~ *Anonymous*
+> ~ *Seymour Cray*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 2:07 AM
+  Last Refresh : Friday, August 21, 2020, 3:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
