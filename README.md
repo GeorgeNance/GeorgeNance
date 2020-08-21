@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Charles Babbage*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 11:09 PM
+  Last Refresh : Friday, August 21, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
