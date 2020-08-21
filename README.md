@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Alan Kay*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 20, 2020, 4:08 PM
+  Last Refresh : Thursday, August 20, 2020, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
