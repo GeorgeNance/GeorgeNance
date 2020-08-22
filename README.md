@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Douglas Crockford*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 21, 2020, 8:07 PM
+  Last Refresh : Friday, August 21, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
