@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Butler Lampson*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 6:06 AM
+  Last Refresh : Saturday, August 22, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
