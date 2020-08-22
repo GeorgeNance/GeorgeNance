@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Dennis Ritchie*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 3:06 PM
+  Last Refresh : Saturday, August 22, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
