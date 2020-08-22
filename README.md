@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 7:07 AM
+  Last Refresh : Saturday, August 22, 2020, 8:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
