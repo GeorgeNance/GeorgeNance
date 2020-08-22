@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Elon Musk*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 3:07 AM
+  Last Refresh : Saturday, August 22, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
