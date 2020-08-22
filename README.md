@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Ward Cunningham*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 1:07 PM
+  Last Refresh : Saturday, August 22, 2020, 2:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
