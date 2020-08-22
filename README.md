@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 >
-> ~ *Linus Torvalds*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 12:06 AM
+  Last Refresh : Saturday, August 22, 2020, 1:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
