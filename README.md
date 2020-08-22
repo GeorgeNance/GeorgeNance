@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 >
-> ~ *Dennis Ritchie*
+> ~ *Seymour Cray*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 10:06 AM
+  Last Refresh : Saturday, August 22, 2020, 11:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
