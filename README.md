@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Bill Gates*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 5:09 AM
+  Last Refresh : Saturday, August 22, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
