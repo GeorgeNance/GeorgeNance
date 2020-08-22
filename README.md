@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 4:06 AM
+  Last Refresh : Saturday, August 22, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
