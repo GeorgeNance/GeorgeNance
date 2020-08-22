@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 8:09 AM
+  Last Refresh : Saturday, August 22, 2020, 9:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
