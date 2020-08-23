@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Elon Musk*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 2:08 PM
+  Last Refresh : Sunday, August 23, 2020, 3:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
