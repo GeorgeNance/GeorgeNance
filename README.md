@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 >
-> ~ *Roy Fielding*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 6:06 AM
+  Last Refresh : Sunday, August 23, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
