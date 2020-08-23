@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 6:07 PM
+  Last Refresh : Saturday, August 22, 2020, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
