@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Ted Nelson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 9:08 AM
+  Last Refresh : Sunday, August 23, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
