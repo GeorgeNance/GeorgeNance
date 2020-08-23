@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Roy Fielding*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 22, 2020, 8:06 PM
+  Last Refresh : Saturday, August 22, 2020, 9:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
