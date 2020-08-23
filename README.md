@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
 >
-> ~ *Bill Gates*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 4:07 AM
+  Last Refresh : Sunday, August 23, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
