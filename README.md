@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 12:07 AM
+  Last Refresh : Sunday, August 23, 2020, 1:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
