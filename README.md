@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 >
-> ~ *Kevlin Henney*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 10:06 PM
+  Last Refresh : Sunday, August 23, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
