@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### Making things easy is hard.
 >
-> ~ *Charles Babbage*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 24, 2020, 1:07 PM
+  Last Refresh : Monday, August 24, 2020, 2:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
