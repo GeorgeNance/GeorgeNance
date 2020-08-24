@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Jaron Lanier*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 24, 2020, 7:07 AM
+  Last Refresh : Monday, August 24, 2020, 8:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
