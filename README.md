@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Alan Perlis*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 8:07 PM
+  Last Refresh : Sunday, August 23, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
