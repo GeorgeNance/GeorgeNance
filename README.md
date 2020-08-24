@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### No code is faster than no code.
 >
-> ~ *Gordon Bell*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 9:09 PM
+  Last Refresh : Sunday, August 23, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
