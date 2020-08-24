@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Alan Turing*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 24, 2020, 8:08 AM
+  Last Refresh : Monday, August 24, 2020, 9:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
