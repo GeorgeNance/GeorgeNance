@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Maurice Wilkes*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 24, 2020, 5:09 AM
+  Last Refresh : Monday, August 24, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
