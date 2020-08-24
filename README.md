@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *John Carmack*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 24, 2020, 6:06 AM
+  Last Refresh : Monday, August 24, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
