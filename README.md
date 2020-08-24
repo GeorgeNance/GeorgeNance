@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Danny Hillis*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 23, 2020, 6:07 PM
+  Last Refresh : Sunday, August 23, 2020, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
