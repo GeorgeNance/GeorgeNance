@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *John von Neumann*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 5:09 AM
+  Last Refresh : Tuesday, August 25, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
