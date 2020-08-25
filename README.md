@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 3:06 AM
+  Last Refresh : Tuesday, August 25, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
