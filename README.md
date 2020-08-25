@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Kent Beck*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 6:06 AM
+  Last Refresh : Tuesday, August 25, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
