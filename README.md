@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### No code is faster than no code.
 >
-> ~ *Ken Thompson*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 24, 2020, 9:07 PM
+  Last Refresh : Monday, August 24, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
