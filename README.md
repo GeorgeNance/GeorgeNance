@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Fred Brooks*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 4:06 AM
+  Last Refresh : Tuesday, August 25, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
