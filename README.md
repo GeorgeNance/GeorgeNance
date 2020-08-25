@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Ted Nelson*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 3:07 PM
+  Last Refresh : Tuesday, August 25, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
