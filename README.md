@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 >
-> ~ *Richard Hamming*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 2:06 PM
+  Last Refresh : Tuesday, August 25, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
