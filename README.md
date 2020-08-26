@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *John Ousterhout*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 7:08 PM
+  Last Refresh : Tuesday, August 25, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
