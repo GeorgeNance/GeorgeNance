@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Dan Bricklin*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 3:07 PM
+  Last Refresh : Wednesday, August 26, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
