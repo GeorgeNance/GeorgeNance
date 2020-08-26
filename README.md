@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Anonymous*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 6:07 PM
+  Last Refresh : Tuesday, August 25, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
