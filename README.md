@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *John Johnson*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 5:19 PM
+  Last Refresh : Tuesday, August 25, 2020, 6:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
