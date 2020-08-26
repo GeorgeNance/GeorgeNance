@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Daniel T. Barry*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 10:06 AM
+  Last Refresh : Wednesday, August 26, 2020, 11:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
