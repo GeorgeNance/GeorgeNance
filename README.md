@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Anonymous*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 11:10 PM
+  Last Refresh : Wednesday, August 26, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
