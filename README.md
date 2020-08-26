@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *Bob Carr*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 6:07 AM
+  Last Refresh : Wednesday, August 26, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
