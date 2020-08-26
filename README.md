@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Peter Roizen*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 25, 2020, 4:06 PM
+  Last Refresh : Tuesday, August 25, 2020, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
