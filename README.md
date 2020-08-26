@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Programming can be addictive.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 5:10 AM
+  Last Refresh : Wednesday, August 26, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
