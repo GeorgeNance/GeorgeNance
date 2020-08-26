@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 2:06 PM
+  Last Refresh : Wednesday, August 26, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
