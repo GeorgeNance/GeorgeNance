@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Rich Skrenta*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 11:08 PM
+  Last Refresh : Thursday, August 27, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
