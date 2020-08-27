@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 >
-> ~ *Randall E. Stross*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 8:07 PM
+  Last Refresh : Wednesday, August 26, 2020, 9:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
