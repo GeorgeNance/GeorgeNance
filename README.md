@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Ivan Sutherland*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 27, 2020, 9:07 AM
+  Last Refresh : Thursday, August 27, 2020, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
