@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 >
-> ~ *Ward Cunningham*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 27, 2020, 10:15 AM
+  Last Refresh : Thursday, August 27, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
