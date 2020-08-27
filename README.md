@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 10:06 PM
+  Last Refresh : Wednesday, August 26, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
