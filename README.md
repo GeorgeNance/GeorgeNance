@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 >
-> ~ *Alan Perlis*
+> ~ *John Gall (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 27, 2020, 2:07 PM
+  Last Refresh : Thursday, August 27, 2020, 3:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
