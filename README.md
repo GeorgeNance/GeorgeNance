@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Steve Jobs*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 27, 2020, 11:08 AM
+  Last Refresh : Thursday, August 27, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
