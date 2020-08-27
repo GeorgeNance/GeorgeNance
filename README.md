@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *John Carmack*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -45,7 +45,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 26, 2020, 6:07 PM
+  Last Refresh : Wednesday, August 26, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
