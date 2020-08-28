@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Mark Gibbs*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 27, 2020, 7:09 PM
+  Last Refresh : Thursday, August 27, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
