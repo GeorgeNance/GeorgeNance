@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Marvin Minsky*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 28, 2020, 7:08 AM
+  Last Refresh : Friday, August 28, 2020, 8:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
