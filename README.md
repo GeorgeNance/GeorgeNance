@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 28, 2020, 4:07 AM
+  Last Refresh : Friday, August 28, 2020, 5:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
