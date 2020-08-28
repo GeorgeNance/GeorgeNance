@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 27, 2020, 10:07 PM
+  Last Refresh : Thursday, August 27, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
