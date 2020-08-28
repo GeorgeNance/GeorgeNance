@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 >
-> ~ *Maurice Wilkes*
+> ~ *Mark Gibbs*
 
 ---
 ## 🏎 Quick Facts 
@@ -32,6 +32,7 @@
 ## ✍️ Recent Blog Posts:
 
 
+* [Don’t use frontmatter to seperate your markdown files in Gatsby](https://georgenance.com/dont-use-frontmatter-markdown-files-gatsby)
 * [An Open Letter to New Programmers](https://georgenance.com/open-letter-new-programmers)
 * [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
 * [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
@@ -45,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 27, 2020, 6:10 PM
+  Last Refresh : Thursday, August 27, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
