@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Anonymous*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 27, 2020, 8:07 PM
+  Last Refresh : Thursday, August 27, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
