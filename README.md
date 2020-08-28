@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *David Leinweber*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 28, 2020, 1:08 AM
+  Last Refresh : Friday, August 28, 2020, 2:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
