@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *David Gelernter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 6:03 AM
+  Last Refresh : Saturday, August 29, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
