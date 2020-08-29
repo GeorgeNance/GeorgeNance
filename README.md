@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 2:12 AM
+  Last Refresh : Saturday, August 29, 2020, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
