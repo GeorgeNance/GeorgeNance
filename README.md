@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *John Carmack*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 28, 2020, 4:03 PM
+  Last Refresh : Friday, August 28, 2020, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
