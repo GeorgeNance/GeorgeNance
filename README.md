@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 >
-> ~ *Ted Nelson*
+> ~ *Simon Peyton Jones*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 11:03 AM
+  Last Refresh : Saturday, August 29, 2020, 12:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
