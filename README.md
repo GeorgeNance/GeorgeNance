@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Danny Hillis*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 1:12 AM
+  Last Refresh : Saturday, August 29, 2020, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
