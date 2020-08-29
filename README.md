@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Brian Kernighan*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 5:06 AM
+  Last Refresh : Saturday, August 29, 2020, 6:03 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
