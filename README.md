@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *David Gelernter*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 7:07 AM
+  Last Refresh : Saturday, August 29, 2020, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
