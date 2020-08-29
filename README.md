@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Danny Hillis*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -32,7 +32,7 @@
 ## ✍️ Recent Blog Posts:
 
 
-* [Don’t use frontmatter to seperate your markdown files in Gatsby](https://georgenance.com/dont-use-frontmatter-markdown-files-gatsby)
+* [Don’t use frontmatter to seperate your markdown files in GatsbyJS - Use the file system](https://georgenance.com/dont-use-frontmatter-markdown-files-gatsby)
 * [An Open Letter to New Programmers](https://georgenance.com/open-letter-new-programmers)
 * [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
 * [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 28, 2020, 8:03 PM
+  Last Refresh : Friday, August 28, 2020, 9:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
