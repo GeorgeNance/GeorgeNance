@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *John Warnock*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 2:12 PM
+  Last Refresh : Saturday, August 29, 2020, 3:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
