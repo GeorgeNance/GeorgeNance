@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Alan Perlis*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 3:05 PM
+  Last Refresh : Saturday, August 29, 2020, 4:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
