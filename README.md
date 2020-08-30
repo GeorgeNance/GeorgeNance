@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Ron Jeffries*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 30, 2020, 12:13 AM
+  Last Refresh : Sunday, August 30, 2020, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
