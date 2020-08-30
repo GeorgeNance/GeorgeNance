@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *John Carmack*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 30, 2020, 8:04 AM
+  Last Refresh : Sunday, August 30, 2020, 9:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
