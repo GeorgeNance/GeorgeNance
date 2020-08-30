@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 >
 > ~ *Martin Fowler*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 30, 2020, 2:06 PM
+  Last Refresh : Sunday, August 30, 2020, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
