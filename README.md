@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Linus Torvalds*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 30, 2020, 9:08 AM
+  Last Refresh : Sunday, August 30, 2020, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
