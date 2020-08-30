@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Tom DeMarco*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 30, 2020, 1:04 AM
+  Last Refresh : Sunday, August 30, 2020, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
