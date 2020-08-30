@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Jamie Zawinski*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 29, 2020, 11:13 PM
+  Last Refresh : Sunday, August 30, 2020, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
