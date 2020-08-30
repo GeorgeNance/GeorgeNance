@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Gordon Bell*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 30, 2020, 10:04 AM
+  Last Refresh : Sunday, August 30, 2020, 11:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
