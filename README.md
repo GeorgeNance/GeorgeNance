@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Peter Roizen*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 30, 2020, 11:10 AM
+  Last Refresh : Sunday, August 30, 2020, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
