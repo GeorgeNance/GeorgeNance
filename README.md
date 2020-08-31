@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 30, 2020, 10:03 PM
+  Last Refresh : Sunday, August 30, 2020, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
