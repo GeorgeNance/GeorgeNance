@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Marvin Minsky*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 31, 2020, 6:05 AM
+  Last Refresh : Monday, August 31, 2020, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
