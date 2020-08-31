@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 31, 2020, 12:07 PM
+  Last Refresh : Monday, August 31, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
