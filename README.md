@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Bill Gates*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 31, 2020, 1:03 AM
+  Last Refresh : Monday, August 31, 2020, 2:03 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
