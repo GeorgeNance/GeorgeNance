@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 31, 2020, 10:07 AM
+  Last Refresh : Monday, August 31, 2020, 11:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
