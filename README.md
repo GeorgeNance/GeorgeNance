@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Pete Cordell*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 3:07 PM
+  Last Refresh : Tuesday, September 1, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
