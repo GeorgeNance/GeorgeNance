@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 >
-> ~ *Douglas Crockford*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 2:07 AM
+  Last Refresh : Tuesday, September 1, 2020, 3:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
