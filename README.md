@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Fred Brooks*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 11:09 AM
+  Last Refresh : Tuesday, September 1, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
