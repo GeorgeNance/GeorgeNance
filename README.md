@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 31, 2020, 6:11 PM
+  Last Refresh : Monday, August 31, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
