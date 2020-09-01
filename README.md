@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 >
-> ~ *Douglas Crockford*
+> ~ *Pete Cordell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 2:07 PM
+  Last Refresh : Tuesday, September 1, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
