@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Peter Roizen*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 12:07 PM
+  Last Refresh : Tuesday, September 1, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
