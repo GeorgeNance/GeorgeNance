@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Albert Einstein*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 5:10 AM
+  Last Refresh : Tuesday, September 1, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
