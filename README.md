@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### Cool URIs don't change.
 >
-> ~ *Elon Musk*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 12:07 AM
+  Last Refresh : Tuesday, September 1, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
