@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Fred Brooks*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 9:09 AM
+  Last Refresh : Tuesday, September 1, 2020, 10:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
