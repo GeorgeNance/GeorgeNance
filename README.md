@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Fred Brooks*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 10:07 PM
+  Last Refresh : Tuesday, September 1, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
