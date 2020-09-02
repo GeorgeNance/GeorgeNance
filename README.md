@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Fred Brooks*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 2, 2020, 2:11 AM
+  Last Refresh : Wednesday, September 2, 2020, 3:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
