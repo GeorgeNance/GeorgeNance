@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Bdale Garbee*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 11:08 PM
+  Last Refresh : Wednesday, September 2, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
