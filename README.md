@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Roy Fielding*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 2, 2020, 11:08 AM
+  Last Refresh : Wednesday, September 2, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
