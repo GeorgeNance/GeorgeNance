@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Eric S. Raymond*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 2, 2020, 12:07 AM
+  Last Refresh : Wednesday, September 2, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
