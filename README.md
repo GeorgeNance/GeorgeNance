@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Luciano Ramalho*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 2, 2020, 3:07 AM
+  Last Refresh : Wednesday, September 2, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
