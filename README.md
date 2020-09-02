@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 5:21 PM
+  Last Refresh : Tuesday, September 1, 2020, 6:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
