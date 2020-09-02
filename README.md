@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Dennis Ritchie*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 4:06 PM
+  Last Refresh : Tuesday, September 1, 2020, 5:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
