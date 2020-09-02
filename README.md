@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Alan Turing*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 1, 2020, 6:06 PM
+  Last Refresh : Tuesday, September 1, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
