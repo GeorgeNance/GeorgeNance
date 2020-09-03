@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 3, 2020, 7:08 AM
+  Last Refresh : Thursday, September 3, 2020, 8:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
