@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *John Carmack*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 3, 2020, 1:08 PM
+  Last Refresh : Thursday, September 3, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
