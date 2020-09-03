@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Alan Perlis*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 3, 2020, 12:07 AM
+  Last Refresh : Thursday, September 3, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
