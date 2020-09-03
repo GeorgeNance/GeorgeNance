@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Stewart Brand*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 3, 2020, 2:07 AM
+  Last Refresh : Thursday, September 3, 2020, 3:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
