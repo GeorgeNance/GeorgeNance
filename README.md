@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 >
-> ~ *Rich Skrenta*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 3, 2020, 2:07 PM
+  Last Refresh : Thursday, September 3, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
