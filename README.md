@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Alan Perlis*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 6:07 AM
+  Last Refresh : Friday, September 4, 2020, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
