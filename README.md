@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 >
-> ~ *James Gleick*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 11:08 AM
+  Last Refresh : Friday, September 4, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
