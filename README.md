@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 5:13 AM
+  Last Refresh : Friday, September 4, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
