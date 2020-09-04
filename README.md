@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 3, 2020, 4:07 PM
+  Last Refresh : Thursday, September 3, 2020, 5:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
