@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Douglas Crockford*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 12:07 PM
+  Last Refresh : Friday, September 4, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
