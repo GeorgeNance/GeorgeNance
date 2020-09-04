@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Alan Perlis*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 3, 2020, 11:08 PM
+  Last Refresh : Friday, September 4, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
