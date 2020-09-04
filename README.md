@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Vannevar Bush*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 2:07 AM
+  Last Refresh : Friday, September 4, 2020, 3:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
