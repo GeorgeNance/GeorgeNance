@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### One man's constant is another man's variable.
 >
-> ~ *Dan Bricklin*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 9:08 AM
+  Last Refresh : Friday, September 4, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
