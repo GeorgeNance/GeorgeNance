@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 3:07 AM
+  Last Refresh : Friday, September 4, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
