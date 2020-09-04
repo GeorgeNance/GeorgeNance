@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 3, 2020, 7:09 PM
+  Last Refresh : Thursday, September 3, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
