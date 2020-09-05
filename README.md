@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 >
-> ~ *Tom DeMarco*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 5, 2020, 2:07 PM
+  Last Refresh : Saturday, September 5, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
