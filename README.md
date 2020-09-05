@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Fred Brooks*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 5, 2020, 8:14 AM
+  Last Refresh : Saturday, September 5, 2020, 9:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
