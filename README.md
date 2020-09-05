@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 4:06 PM
+  Last Refresh : Friday, September 4, 2020, 5:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
