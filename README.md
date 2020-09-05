@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *John von Neumann*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 5, 2020, 12:07 PM
+  Last Refresh : Saturday, September 5, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
