@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Ted Nelson*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 5, 2020, 2:14 AM
+  Last Refresh : Saturday, September 5, 2020, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
