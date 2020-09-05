@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Fred Brooks*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 7:06 PM
+  Last Refresh : Friday, September 4, 2020, 8:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
