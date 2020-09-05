@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Linus Torvalds*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 5, 2020, 1:08 PM
+  Last Refresh : Saturday, September 5, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
