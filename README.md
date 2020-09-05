@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *David Leinweber*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 4, 2020, 11:16 PM
+  Last Refresh : Saturday, September 5, 2020, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
