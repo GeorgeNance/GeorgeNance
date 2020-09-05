@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Anonymous*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 5, 2020, 12:16 AM
+  Last Refresh : Saturday, September 5, 2020, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
