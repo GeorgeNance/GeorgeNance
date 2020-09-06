@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Albert Einstein*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 6, 2020, 12:07 AM
+  Last Refresh : Sunday, September 6, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
