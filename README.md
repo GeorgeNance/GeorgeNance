@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 5, 2020, 7:08 PM
+  Last Refresh : Saturday, September 5, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
