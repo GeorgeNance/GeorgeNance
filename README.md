@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### It’s all talk until the code runs.
 >
-> ~ *Richard Hamming*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 6, 2020, 6:07 AM
+  Last Refresh : Sunday, September 6, 2020, 7:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
