@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Fred Brooks*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 6, 2020, 12:07 PM
+  Last Refresh : Sunday, September 6, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
