@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 >
 > ~ *L. Peter Deutsch*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 6, 2020, 2:07 PM
+  Last Refresh : Sunday, September 6, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
