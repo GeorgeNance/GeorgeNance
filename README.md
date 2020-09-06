@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Butler Lampson*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 6, 2020, 5:10 AM
+  Last Refresh : Sunday, September 6, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
