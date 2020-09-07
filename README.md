@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Jef Raskin*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 1:08 PM
+  Last Refresh : Monday, September 7, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
