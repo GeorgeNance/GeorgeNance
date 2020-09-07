@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 >
-> ~ *L. Peter Deutsch*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 3:07 AM
+  Last Refresh : Monday, September 7, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
