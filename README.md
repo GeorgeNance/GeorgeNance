@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 >
-> ~ *John Warnock*
+> ~ *Vint Cerf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 6, 2020, 6:12 PM
+  Last Refresh : Sunday, September 6, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
