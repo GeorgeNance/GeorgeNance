@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Vint Cerf*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 6, 2020, 7:08 PM
+  Last Refresh : Sunday, September 6, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
