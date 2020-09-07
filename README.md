@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Steve Jobs*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 12:08 AM
+  Last Refresh : Monday, September 7, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
