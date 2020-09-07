@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### Deleted code is debugged code.
 >
-> ~ *Fred Brooks*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 11:08 AM
+  Last Refresh : Monday, September 7, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
