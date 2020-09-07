@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 >
-> ~ *Anonymous*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 6, 2020, 5:22 PM
+  Last Refresh : Sunday, September 6, 2020, 6:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
