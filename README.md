@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 4:07 AM
+  Last Refresh : Monday, September 7, 2020, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
