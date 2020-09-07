@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Linus Torvalds*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 1:08 AM
+  Last Refresh : Monday, September 7, 2020, 2:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
