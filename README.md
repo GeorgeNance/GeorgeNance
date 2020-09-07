@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Tom DeMarco*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 2:07 PM
+  Last Refresh : Monday, September 7, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
