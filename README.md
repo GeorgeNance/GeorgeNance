@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 >
-> ~ *Poul Anderson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 9:08 AM
+  Last Refresh : Monday, September 7, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
