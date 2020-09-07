@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Jeff Sickel*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 7, 2020, 12:07 PM
+  Last Refresh : Monday, September 7, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
