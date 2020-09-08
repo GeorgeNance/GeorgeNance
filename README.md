@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Albert Einstein*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 8, 2020, 3:07 PM
+  Last Refresh : Tuesday, September 8, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
