@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Douglas Crockford*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 8, 2020, 2:08 AM
+  Last Refresh : Tuesday, September 8, 2020, 3:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
