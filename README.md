@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Ward Cunningham*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 8, 2020, 7:08 AM
+  Last Refresh : Tuesday, September 8, 2020, 8:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
