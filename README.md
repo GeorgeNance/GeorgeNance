@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Gary Kildall*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 8, 2020, 12:07 PM
+  Last Refresh : Tuesday, September 8, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
