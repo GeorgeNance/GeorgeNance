@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 >
-> ~ *Ellen Ullman*
+> ~ *James Gleick*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 8, 2020, 5:10 AM
+  Last Refresh : Tuesday, September 8, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
