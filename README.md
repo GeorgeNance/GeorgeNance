@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Albert Einstein*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 1:08 AM
+  Last Refresh : Wednesday, September 9, 2020, 2:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
