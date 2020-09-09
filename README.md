@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 8, 2020, 8:07 PM
+  Last Refresh : Tuesday, September 8, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
