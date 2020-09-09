@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Ken Thompson*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 3:08 PM
+  Last Refresh : Wednesday, September 9, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
