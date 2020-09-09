@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### Once you stop learning you start dying.
 >
-> ~ *Randall E. Stross*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 12:07 PM
+  Last Refresh : Wednesday, September 9, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
