@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Butler Lampson*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 8, 2020, 5:21 PM
+  Last Refresh : Tuesday, September 8, 2020, 6:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
