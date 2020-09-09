@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### When in doubt, use brute force.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 2:07 PM
+  Last Refresh : Wednesday, September 9, 2020, 3:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
