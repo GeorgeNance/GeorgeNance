@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 8, 2020, 4:07 PM
+  Last Refresh : Tuesday, September 8, 2020, 5:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
