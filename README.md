@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *John Carmack*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 7:08 PM
+  Last Refresh : Wednesday, September 9, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
