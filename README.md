@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *James Gleick*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 9:08 PM
+  Last Refresh : Wednesday, September 9, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
