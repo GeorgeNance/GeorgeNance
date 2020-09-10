@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Fred Brooks*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 5:21 PM
+  Last Refresh : Wednesday, September 9, 2020, 6:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
