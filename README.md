@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Bill Gates*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 6:10 PM
+  Last Refresh : Wednesday, September 9, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
