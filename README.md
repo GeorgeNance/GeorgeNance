@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 >
-> ~ *Donald Knuth*
+> ~ *Roy Fielding*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 10, 2020, 6:07 AM
+  Last Refresh : Thursday, September 10, 2020, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
