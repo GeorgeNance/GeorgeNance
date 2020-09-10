@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *George Boole*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 9, 2020, 11:08 PM
+  Last Refresh : Thursday, September 10, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
