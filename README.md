@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Roy Fielding*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 10, 2020, 7:10 AM
+  Last Refresh : Thursday, September 10, 2020, 8:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
