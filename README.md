@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 >
-> ~ *George Boole*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 10, 2020, 2:07 PM
+  Last Refresh : Thursday, September 10, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
