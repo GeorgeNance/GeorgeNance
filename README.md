@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 10, 2020, 5:21 PM
+  Last Refresh : Thursday, September 10, 2020, 6:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
