@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 >
-> ~ *Bob Frankston*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 11, 2020, 4:07 AM
+  Last Refresh : Friday, September 11, 2020, 5:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
