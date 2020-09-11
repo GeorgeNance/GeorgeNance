@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 11, 2020, 3:07 AM
+  Last Refresh : Friday, September 11, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
