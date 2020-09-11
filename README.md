@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *Ted Nelson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 10, 2020, 4:07 PM
+  Last Refresh : Thursday, September 10, 2020, 5:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
