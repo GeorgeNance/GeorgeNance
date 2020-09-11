@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Richard Hamming*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 11, 2020, 3:07 PM
+  Last Refresh : Friday, September 11, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
