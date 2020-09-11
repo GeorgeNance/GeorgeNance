@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 >
-> ~ *Bill Gates*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 10, 2020, 8:07 PM
+  Last Refresh : Thursday, September 10, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
