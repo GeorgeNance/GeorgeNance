@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Fred Brooks*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 11, 2020, 12:08 PM
+  Last Refresh : Friday, September 11, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
