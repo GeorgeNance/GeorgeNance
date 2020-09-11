@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Poul Anderson*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 11, 2020, 12:07 AM
+  Last Refresh : Friday, September 11, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
