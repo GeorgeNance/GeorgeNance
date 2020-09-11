@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Bill Gates*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 11, 2020, 2:07 PM
+  Last Refresh : Friday, September 11, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
