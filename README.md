@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Dan Bricklin*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 10, 2020, 6:11 PM
+  Last Refresh : Thursday, September 10, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
