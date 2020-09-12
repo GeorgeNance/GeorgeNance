@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Jaron Lanier*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 3:07 AM
+  Last Refresh : Saturday, September 12, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
