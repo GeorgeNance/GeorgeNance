@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 11, 2020, 7:08 PM
+  Last Refresh : Friday, September 11, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
