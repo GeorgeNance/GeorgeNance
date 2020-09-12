@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Really good programs live forever.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 1:08 PM
+  Last Refresh : Saturday, September 12, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
