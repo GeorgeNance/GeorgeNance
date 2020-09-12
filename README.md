@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Vannevar Bush*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 12:07 AM
+  Last Refresh : Saturday, September 12, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
