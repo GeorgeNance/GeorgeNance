@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 11:08 AM
+  Last Refresh : Saturday, September 12, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
