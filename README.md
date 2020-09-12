@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Anonymous*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 8:07 AM
+  Last Refresh : Saturday, September 12, 2020, 9:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
