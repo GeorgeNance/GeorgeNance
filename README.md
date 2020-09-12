@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Dennis Ritchie*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 2:07 AM
+  Last Refresh : Saturday, September 12, 2020, 3:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
