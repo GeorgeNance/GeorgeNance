@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Buckminster Fuller*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 1:08 AM
+  Last Refresh : Saturday, September 12, 2020, 2:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
