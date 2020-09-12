@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 >
-> ~ *Donald Knuth*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 11, 2020, 6:12 PM
+  Last Refresh : Friday, September 11, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
