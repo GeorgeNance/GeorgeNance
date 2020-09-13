@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Quarry worker's creed*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 13, 2020, 1:08 AM
+  Last Refresh : Sunday, September 13, 2020, 2:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
