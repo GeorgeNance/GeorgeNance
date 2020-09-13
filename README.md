@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Robert C. Martin*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 5:23 PM
+  Last Refresh : Saturday, September 12, 2020, 6:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
