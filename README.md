@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 13, 2020, 11:08 AM
+  Last Refresh : Sunday, September 13, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
