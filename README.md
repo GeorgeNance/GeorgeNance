@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 13, 2020, 12:07 AM
+  Last Refresh : Sunday, September 13, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
