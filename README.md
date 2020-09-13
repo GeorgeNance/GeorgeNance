@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 >
-> ~ *Fred Brooks*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 9:07 PM
+  Last Refresh : Saturday, September 12, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
