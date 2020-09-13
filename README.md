@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### Making things easy is hard.
 >
-> ~ *Richard Feynman*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 6:13 PM
+  Last Refresh : Saturday, September 12, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
