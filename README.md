@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Martin Fowler*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 8:07 PM
+  Last Refresh : Saturday, September 12, 2020, 9:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
