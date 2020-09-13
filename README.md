@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Ted Nelson*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 12, 2020, 7:08 PM
+  Last Refresh : Saturday, September 12, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
