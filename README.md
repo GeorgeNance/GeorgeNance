@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 13, 2020, 6:07 AM
+  Last Refresh : Sunday, September 13, 2020, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
