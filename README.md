@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Joshua Bloch*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 14, 2020, 4:07 AM
+  Last Refresh : Monday, September 14, 2020, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
