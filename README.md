@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Michael A. Jackson*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 14, 2020, 5:10 AM
+  Last Refresh : Monday, September 14, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
