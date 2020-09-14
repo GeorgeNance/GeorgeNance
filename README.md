@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *George Boole*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 13, 2020, 8:08 PM
+  Last Refresh : Sunday, September 13, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
