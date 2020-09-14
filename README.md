@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 >
-> ~ *Dan Bricklin*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 14, 2020, 12:07 AM
+  Last Refresh : Monday, September 14, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
