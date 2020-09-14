@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### When in doubt, leave it out.
 >
-> ~ *Douglas Crockford*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 14, 2020, 3:09 AM
+  Last Refresh : Monday, September 14, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
