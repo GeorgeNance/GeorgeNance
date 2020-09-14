@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> ~ *Ron Jeffries*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 14, 2020, 3:07 PM
+  Last Refresh : Monday, September 14, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
