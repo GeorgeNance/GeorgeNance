@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Alan Perlis*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 13, 2020, 11:08 PM
+  Last Refresh : Monday, September 14, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
