@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 >
-> ~ *Elon Musk*
+> ~ *Poul Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 15, 2020, 6:07 AM
+  Last Refresh : Tuesday, September 15, 2020, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
