@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *John Warnock*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 15, 2020, 3:07 PM
+  Last Refresh : Tuesday, September 15, 2020, 4:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
