@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *John Carmack*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 15, 2020, 2:09 PM
+  Last Refresh : Tuesday, September 15, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
