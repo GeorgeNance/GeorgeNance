@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Gerald Weinberg*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 14, 2020, 10:07 PM
+  Last Refresh : Monday, September 14, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
