@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *John von Neumann*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 10:07 AM
+  Last Refresh : Wednesday, September 16, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
