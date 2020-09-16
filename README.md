@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 >
-> ~ *Elon Musk*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 12:08 AM
+  Last Refresh : Wednesday, September 16, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
