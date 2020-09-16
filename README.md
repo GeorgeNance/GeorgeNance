@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Stewart Brand*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 4:07 AM
+  Last Refresh : Wednesday, September 16, 2020, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
