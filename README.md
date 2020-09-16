@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Daniel T. Barry*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 15, 2020, 11:08 PM
+  Last Refresh : Wednesday, September 16, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
