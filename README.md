@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Danny Hillis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 15, 2020, 5:22 PM
+  Last Refresh : Tuesday, September 15, 2020, 6:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
