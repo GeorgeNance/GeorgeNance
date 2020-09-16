@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Daniel T. Barry*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 8:08 AM
+  Last Refresh : Wednesday, September 16, 2020, 9:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
