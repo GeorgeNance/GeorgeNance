@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Ada Lovelace*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 15, 2020, 9:08 PM
+  Last Refresh : Tuesday, September 15, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
