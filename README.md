@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### It’s all talk until the code runs.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 1:08 PM
+  Last Refresh : Wednesday, September 16, 2020, 2:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
