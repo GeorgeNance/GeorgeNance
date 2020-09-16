@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
 >
-> ~ *Harlan Mills*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 2:07 AM
+  Last Refresh : Wednesday, September 16, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
