@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> ~ *Kyle Simpson*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 9:08 AM
+  Last Refresh : Wednesday, September 16, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
