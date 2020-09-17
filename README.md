@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### Imagination is more important than knowledge.
 >
-> ~ *David Gelernter*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 11:09 PM
+  Last Refresh : Thursday, September 17, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
