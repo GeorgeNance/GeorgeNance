@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### Never memorize something that you can look up.
 >
-> ~ *Kyle Simpson*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 17, 2020, 7:08 AM
+  Last Refresh : Thursday, September 17, 2020, 8:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
