@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Brian Kernighan*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 16, 2020, 9:08 PM
+  Last Refresh : Wednesday, September 16, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
