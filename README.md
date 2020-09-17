@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Martin Fowler*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 17, 2020, 1:08 PM
+  Last Refresh : Thursday, September 17, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
