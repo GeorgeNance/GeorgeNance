@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 17, 2020, 6:07 AM
+  Last Refresh : Thursday, September 17, 2020, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
