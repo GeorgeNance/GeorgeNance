@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Ken Thompson*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 18, 2020, 11:08 AM
+  Last Refresh : Friday, September 18, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
