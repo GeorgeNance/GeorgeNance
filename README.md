@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 17, 2020, 9:08 PM
+  Last Refresh : Thursday, September 17, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
