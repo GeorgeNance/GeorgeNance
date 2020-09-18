@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 >
-> ~ *Richard Hamming*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 18, 2020, 9:08 AM
+  Last Refresh : Friday, September 18, 2020, 10:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
