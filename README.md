@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Martin Fowler*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 18, 2020, 3:08 PM
+  Last Refresh : Friday, September 18, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
