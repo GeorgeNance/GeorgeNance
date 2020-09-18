@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Brian Kernighan*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 18, 2020, 3:08 AM
+  Last Refresh : Friday, September 18, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
