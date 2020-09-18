@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Ken Olsen*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 17, 2020, 10:07 PM
+  Last Refresh : Thursday, September 17, 2020, 11:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
