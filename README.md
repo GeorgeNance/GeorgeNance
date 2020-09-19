@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Donald Knuth*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 2:07 AM
+  Last Refresh : Saturday, September 19, 2020, 3:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
