@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### Never memorize something that you can look up.
 >
-> ~ *Ward Cunningham*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 18, 2020, 8:08 PM
+  Last Refresh : Friday, September 18, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
