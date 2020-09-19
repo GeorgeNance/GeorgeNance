@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Albert Einstein*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 8:07 AM
+  Last Refresh : Saturday, September 19, 2020, 9:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
