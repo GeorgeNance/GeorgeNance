@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 6:07 AM
+  Last Refresh : Saturday, September 19, 2020, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
