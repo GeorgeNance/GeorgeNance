@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 1:08 AM
+  Last Refresh : Saturday, September 19, 2020, 2:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
