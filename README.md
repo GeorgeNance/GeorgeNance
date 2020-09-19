@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Friedrich Bauer*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 18, 2020, 4:07 PM
+  Last Refresh : Friday, September 18, 2020, 5:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
