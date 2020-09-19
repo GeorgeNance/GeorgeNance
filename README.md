@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 >
-> ~ *Albert Einstein*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 18, 2020, 9:08 PM
+  Last Refresh : Friday, September 18, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
