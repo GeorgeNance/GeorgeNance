@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Bill Gates*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 18, 2020, 5:22 PM
+  Last Refresh : Friday, September 18, 2020, 6:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
