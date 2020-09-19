@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Grady Booch*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 3:07 AM
+  Last Refresh : Saturday, September 19, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
