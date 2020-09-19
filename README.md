@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Douglas Crockford*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 10:07 AM
+  Last Refresh : Saturday, September 19, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
