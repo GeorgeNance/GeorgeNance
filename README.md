@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 >
-> ~ *Fred Brooks*
+> ~ *Vint Cerf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 4:07 AM
+  Last Refresh : Sunday, September 20, 2020, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
