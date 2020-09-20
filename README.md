@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 8:07 PM
+  Last Refresh : Saturday, September 19, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
