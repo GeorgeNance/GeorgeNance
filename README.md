@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Martin Fowler*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 8:07 AM
+  Last Refresh : Sunday, September 20, 2020, 9:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
