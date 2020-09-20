@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Donald Knuth*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 4:07 PM
+  Last Refresh : Saturday, September 19, 2020, 5:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
