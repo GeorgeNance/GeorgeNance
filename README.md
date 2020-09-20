@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Bill Gates*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 12:08 AM
+  Last Refresh : Sunday, September 20, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
