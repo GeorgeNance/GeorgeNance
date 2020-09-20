@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Vint Cerf*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 5:10 AM
+  Last Refresh : Sunday, September 20, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
