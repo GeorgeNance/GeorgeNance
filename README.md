@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *Alan Perlis*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 9:08 PM
+  Last Refresh : Saturday, September 19, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
