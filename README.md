@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 19, 2020, 5:23 PM
+  Last Refresh : Saturday, September 19, 2020, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
