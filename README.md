@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Ada Lovelace*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 1:08 AM
+  Last Refresh : Sunday, September 20, 2020, 2:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
