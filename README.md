@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 11:08 AM
+  Last Refresh : Sunday, September 20, 2020, 12:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
