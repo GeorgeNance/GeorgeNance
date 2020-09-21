@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### Never memorize something that you can look up.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 6:16 PM
+  Last Refresh : Sunday, September 20, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
