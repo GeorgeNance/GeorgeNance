@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 21, 2020, 2:08 PM
+  Last Refresh : Monday, September 21, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
