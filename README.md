@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 >
-> ~ *Richard Stallman*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 5:23 PM
+  Last Refresh : Sunday, September 20, 2020, 6:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
