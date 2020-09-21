@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Hal Abelson*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 21, 2020, 7:08 AM
+  Last Refresh : Monday, September 21, 2020, 8:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
