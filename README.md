@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *David Gelernter*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 10:07 PM
+  Last Refresh : Sunday, September 20, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
