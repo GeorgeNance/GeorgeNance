@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Fred Brooks*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 21, 2020, 6:07 AM
+  Last Refresh : Monday, September 21, 2020, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
