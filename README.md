@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Marvin Minsky*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 20, 2020, 11:08 PM
+  Last Refresh : Monday, September 21, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
