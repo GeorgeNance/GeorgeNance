@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 21, 2020, 6:15 PM
+  Last Refresh : Monday, September 21, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
