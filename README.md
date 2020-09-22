@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 >
-> ~ *Fred Brooks*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 21, 2020, 7:08 PM
+  Last Refresh : Monday, September 21, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
