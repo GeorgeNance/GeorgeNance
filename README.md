@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Anonymous*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 21, 2020, 10:07 PM
+  Last Refresh : Monday, September 21, 2020, 11:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
