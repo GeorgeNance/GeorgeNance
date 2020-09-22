@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 21, 2020, 9:08 PM
+  Last Refresh : Monday, September 21, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
