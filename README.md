@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Ada Lovelace*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 21, 2020, 4:07 PM
+  Last Refresh : Monday, September 21, 2020, 5:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
