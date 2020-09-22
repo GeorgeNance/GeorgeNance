@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 22, 2020, 3:07 PM
+  Last Refresh : Tuesday, September 22, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
