@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *Alan Perlis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 22, 2020, 2:08 AM
+  Last Refresh : Tuesday, September 22, 2020, 3:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
