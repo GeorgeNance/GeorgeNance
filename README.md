@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Linus Torvalds*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 22, 2020, 9:08 AM
+  Last Refresh : Tuesday, September 22, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
