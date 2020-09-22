@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Charles Babbage*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 22, 2020, 7:09 AM
+  Last Refresh : Tuesday, September 22, 2020, 8:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
