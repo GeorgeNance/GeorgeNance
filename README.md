@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Robert L. Glass*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 3:08 AM
+  Last Refresh : Wednesday, September 23, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
