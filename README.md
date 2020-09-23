@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *John von Neumann*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 1:08 AM
+  Last Refresh : Wednesday, September 23, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
