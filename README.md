@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 22, 2020, 10:07 PM
+  Last Refresh : Tuesday, September 22, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
