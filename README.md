@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Linus Torvalds*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 5:10 AM
+  Last Refresh : Wednesday, September 23, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
