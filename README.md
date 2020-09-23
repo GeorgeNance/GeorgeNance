@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 9:08 AM
+  Last Refresh : Wednesday, September 23, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
