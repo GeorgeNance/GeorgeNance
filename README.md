@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Fred Brooks*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 1:08 PM
+  Last Refresh : Wednesday, September 23, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
