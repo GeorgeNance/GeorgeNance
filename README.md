@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Jaron Lanier*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 22, 2020, 5:22 PM
+  Last Refresh : Tuesday, September 22, 2020, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
