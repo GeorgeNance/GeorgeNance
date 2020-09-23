@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
-> ~ *Luciano Ramalho*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 8:08 AM
+  Last Refresh : Wednesday, September 23, 2020, 9:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
