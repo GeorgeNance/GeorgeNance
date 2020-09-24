@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 7:09 PM
+  Last Refresh : Wednesday, September 23, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
