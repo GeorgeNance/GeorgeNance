@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Alan Turing*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 24, 2020, 4:07 AM
+  Last Refresh : Thursday, September 24, 2020, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
