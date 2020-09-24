@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### Less code equals less bugs.
 >
-> ~ *Alan Perlis*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 24, 2020, 3:07 PM
+  Last Refresh : Thursday, September 24, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
