@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Daniel T. Barry*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 5:23 PM
+  Last Refresh : Wednesday, September 23, 2020, 6:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
