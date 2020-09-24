@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Butler Lampson*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 24, 2020, 1:08 PM
+  Last Refresh : Thursday, September 24, 2020, 2:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
