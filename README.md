@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Marvin Minsky*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 6:17 PM
+  Last Refresh : Wednesday, September 23, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
