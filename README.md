@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### When in doubt, use brute force.
 >
-> ~ *Fred Brooks*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 9:08 PM
+  Last Refresh : Wednesday, September 23, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
