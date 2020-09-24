@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Gary Kildall*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 23, 2020, 11:09 PM
+  Last Refresh : Thursday, September 24, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
