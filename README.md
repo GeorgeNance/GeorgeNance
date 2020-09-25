@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Martin Fowler*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 25, 2020, 10:07 AM
+  Last Refresh : Friday, September 25, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
