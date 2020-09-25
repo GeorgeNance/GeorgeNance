@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Tom DeMarco*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 25, 2020, 12:08 AM
+  Last Refresh : Friday, September 25, 2020, 1:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
