@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 25, 2020, 1:09 AM
+  Last Refresh : Friday, September 25, 2020, 2:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
