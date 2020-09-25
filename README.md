@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 25, 2020, 8:08 AM
+  Last Refresh : Friday, September 25, 2020, 9:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
