@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *John Ousterhout*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 24, 2020, 11:09 PM
+  Last Refresh : Friday, September 25, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
