@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 24, 2020, 7:09 PM
+  Last Refresh : Thursday, September 24, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
