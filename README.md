@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 24, 2020, 10:07 PM
+  Last Refresh : Thursday, September 24, 2020, 11:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
