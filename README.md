@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Bob Carr*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 25, 2020, 5:15 AM
+  Last Refresh : Friday, September 25, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
