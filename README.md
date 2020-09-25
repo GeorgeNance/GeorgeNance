@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Joel Spolsky*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 24, 2020, 9:08 PM
+  Last Refresh : Thursday, September 24, 2020, 10:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
