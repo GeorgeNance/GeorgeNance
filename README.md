@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Alan Perlis*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 24, 2020, 8:07 PM
+  Last Refresh : Thursday, September 24, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
