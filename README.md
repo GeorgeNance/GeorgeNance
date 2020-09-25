@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Lawrence Flon*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 25, 2020, 4:07 AM
+  Last Refresh : Friday, September 25, 2020, 5:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
