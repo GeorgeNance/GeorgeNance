@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Martin Fowler*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 8:07 AM
+  Last Refresh : Saturday, September 26, 2020, 9:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
