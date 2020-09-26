@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Henry Petroski*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 12:07 PM
+  Last Refresh : Saturday, September 26, 2020, 1:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
