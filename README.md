@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 >
-> ~ *Damian Conway*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 9:09 AM
+  Last Refresh : Saturday, September 26, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
