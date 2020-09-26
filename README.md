@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Bill Gates*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 5:10 AM
+  Last Refresh : Saturday, September 26, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
