@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Tom DeMarco*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 6:07 AM
+  Last Refresh : Saturday, September 26, 2020, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
