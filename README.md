@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Gary Kildall*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 10:07 AM
+  Last Refresh : Saturday, September 26, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
