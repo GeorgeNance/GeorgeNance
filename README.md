@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
-> ~ *Charles Babbage*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 2:08 AM
+  Last Refresh : Saturday, September 26, 2020, 3:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
