@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Douglas Crockford*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 6:19 PM
+  Last Refresh : Saturday, September 26, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
