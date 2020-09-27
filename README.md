@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
-> ~ *Luciano Ramalho*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 10:08 PM
+  Last Refresh : Saturday, September 26, 2020, 11:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
