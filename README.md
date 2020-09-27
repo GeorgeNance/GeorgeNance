@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *John von Neumann*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 27, 2020, 8:07 AM
+  Last Refresh : Sunday, September 27, 2020, 9:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
