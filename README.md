@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Daniel T. Barry*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 27, 2020, 3:08 AM
+  Last Refresh : Sunday, September 27, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
