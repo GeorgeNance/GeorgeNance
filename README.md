@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 26, 2020, 11:09 PM
+  Last Refresh : Sunday, September 27, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
