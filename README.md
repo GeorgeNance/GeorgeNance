@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 27, 2020, 12:08 AM
+  Last Refresh : Sunday, September 27, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
