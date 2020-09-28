@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Alan Perlis*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 7:09 AM
+  Last Refresh : Monday, September 28, 2020, 8:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
