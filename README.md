@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Addy Osmani*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 3:16 PM
+  Last Refresh : Monday, September 28, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
