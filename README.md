@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 8:08 AM
+  Last Refresh : Monday, September 28, 2020, 9:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
