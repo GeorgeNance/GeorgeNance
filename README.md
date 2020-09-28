@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 2:08 PM
+  Last Refresh : Monday, September 28, 2020, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
