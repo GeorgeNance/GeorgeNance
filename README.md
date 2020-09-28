@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Alan Perlis*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 3:08 AM
+  Last Refresh : Monday, September 28, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
