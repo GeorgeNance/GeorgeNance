@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Rich Skrenta*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 27, 2020, 11:09 PM
+  Last Refresh : Monday, September 28, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
