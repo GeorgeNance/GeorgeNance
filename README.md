@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Gary Kildall*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -34,7 +34,7 @@
 
 * [Don’t use frontmatter to seperate your markdown files in GatsbyJS - Use the file system](https://georgenance.com/dont-use-frontmatter-markdown-files-gatsby)
 * [An Open Letter to New Programmers](https://georgenance.com/open-letter-new-programmers)
-* [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
+* [How to be productive as an ADHD programmer](https://georgenance.com/being-productive-programmer-adhd)
 * [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
 * [Deadlines are important](https://georgenance.com/deadlines-are-important-2017)
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 29, 2020, 2:08 PM
+  Last Refresh : Tuesday, September 29, 2020, 3:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
