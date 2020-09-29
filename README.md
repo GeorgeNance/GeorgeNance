@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 29, 2020, 6:08 AM
+  Last Refresh : Tuesday, September 29, 2020, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
