@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Niklaus Wirth*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 7:09 PM
+  Last Refresh : Monday, September 28, 2020, 8:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
