@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *John Romero*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 6:18 PM
+  Last Refresh : Monday, September 28, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
