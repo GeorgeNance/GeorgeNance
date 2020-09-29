@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 4:07 PM
+  Last Refresh : Monday, September 28, 2020, 5:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
