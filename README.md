@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 >
-> ~ *Alan Perlis*
+> ~ *John Romero*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 28, 2020, 5:23 PM
+  Last Refresh : Monday, September 28, 2020, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
