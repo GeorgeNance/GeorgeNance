@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 29, 2020, 3:08 PM
+  Last Refresh : Tuesday, September 29, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
