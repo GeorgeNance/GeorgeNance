@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 >
-> ~ *Gordon Bell*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 30, 2020, 12:09 AM
+  Last Refresh : Wednesday, September 30, 2020, 1:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
