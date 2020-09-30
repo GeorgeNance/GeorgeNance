@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 29, 2020, 4:07 PM
+  Last Refresh : Tuesday, September 29, 2020, 5:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
