@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Mario Fusco*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 30, 2020, 6:08 AM
+  Last Refresh : Wednesday, September 30, 2020, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
