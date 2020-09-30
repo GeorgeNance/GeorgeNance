@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 30, 2020, 9:09 AM
+  Last Refresh : Wednesday, September 30, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
