@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Linus Torvalds*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 29, 2020, 7:09 PM
+  Last Refresh : Tuesday, September 29, 2020, 8:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
