@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 >
-> ~ *Henry Petroski*
+> ~ *Michael Hawley*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 30, 2020, 2:08 PM
+  Last Refresh : Wednesday, September 30, 2020, 3:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
