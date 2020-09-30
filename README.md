@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Kevlin Henney*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 29, 2020, 11:09 PM
+  Last Refresh : Wednesday, September 30, 2020, 12:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
