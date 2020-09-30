@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *René Descartes*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 29, 2020, 9:09 PM
+  Last Refresh : Tuesday, September 29, 2020, 10:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
