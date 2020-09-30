@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *Michael A. Jackson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 29, 2020, 6:17 PM
+  Last Refresh : Tuesday, September 29, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
