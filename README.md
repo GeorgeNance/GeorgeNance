@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Bill Gates*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 30, 2020, 2:08 AM
+  Last Refresh : Wednesday, September 30, 2020, 3:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
