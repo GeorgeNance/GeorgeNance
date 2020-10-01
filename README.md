@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Anonymous*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 2:08 PM
+  Last Refresh : Thursday, October 1, 2020, 3:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
