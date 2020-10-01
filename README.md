@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 6:08 AM
+  Last Refresh : Thursday, October 1, 2020, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
