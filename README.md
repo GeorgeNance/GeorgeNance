@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 >
-> ~ *Daniel T. Barry*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 2:08 AM
+  Last Refresh : Thursday, October 1, 2020, 3:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
