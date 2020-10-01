@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Buckminster Fuller*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 7:09 AM
+  Last Refresh : Thursday, October 1, 2020, 8:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
