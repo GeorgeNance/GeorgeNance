@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Ken Olsen*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 30, 2020, 6:20 PM
+  Last Refresh : Wednesday, September 30, 2020, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
