@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Dan Bricklin*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 30, 2020, 5:24 PM
+  Last Refresh : Wednesday, September 30, 2020, 6:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
