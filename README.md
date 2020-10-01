@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 30, 2020, 10:08 PM
+  Last Refresh : Wednesday, September 30, 2020, 11:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
