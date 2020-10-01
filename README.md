@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 12:07 PM
+  Last Refresh : Thursday, October 1, 2020, 1:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
