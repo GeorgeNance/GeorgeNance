@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Daniel T. Barry*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 12:08 AM
+  Last Refresh : Thursday, October 1, 2020, 1:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
