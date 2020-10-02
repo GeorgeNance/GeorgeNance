@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 1:09 AM
+  Last Refresh : Friday, October 2, 2020, 2:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
