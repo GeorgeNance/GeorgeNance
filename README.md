@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 >
-> ~ *Chris Wenham*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 9:09 AM
+  Last Refresh : Friday, October 2, 2020, 10:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
