@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Fred Brooks*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 3:09 AM
+  Last Refresh : Friday, October 2, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
