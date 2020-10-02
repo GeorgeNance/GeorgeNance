@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The real problem with throwaway code comes when it isn't thrown away.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 8:08 PM
+  Last Refresh : Thursday, October 1, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
