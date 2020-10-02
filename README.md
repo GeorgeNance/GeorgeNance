@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Bill Gates*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 7:09 PM
+  Last Refresh : Thursday, October 1, 2020, 8:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
