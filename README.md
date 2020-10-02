@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Alan Turing*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 2:08 PM
+  Last Refresh : Friday, October 2, 2020, 3:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
