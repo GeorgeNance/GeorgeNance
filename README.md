@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Jim Coplien*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 6:19 PM
+  Last Refresh : Thursday, October 1, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
