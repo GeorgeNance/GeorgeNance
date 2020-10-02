@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Linus Torvalds*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 10:08 AM
+  Last Refresh : Friday, October 2, 2020, 11:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
