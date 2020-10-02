@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Alan Kay*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 12:08 PM
+  Last Refresh : Friday, October 2, 2020, 1:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
