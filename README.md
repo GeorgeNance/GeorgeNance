@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Sean Parent*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 1, 2020, 5:23 PM
+  Last Refresh : Thursday, October 1, 2020, 6:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
