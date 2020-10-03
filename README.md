@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Seymour Cray*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 8:08 PM
+  Last Refresh : Friday, October 2, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
