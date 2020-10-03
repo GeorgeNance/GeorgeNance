@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Bob Frankston*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 6:19 PM
+  Last Refresh : Friday, October 2, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
