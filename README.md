@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Harlan Mills*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 3, 2020, 8:08 AM
+  Last Refresh : Saturday, October 3, 2020, 9:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
