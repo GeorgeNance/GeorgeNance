@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Steve Jobs*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 3, 2020, 10:07 AM
+  Last Refresh : Saturday, October 3, 2020, 11:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
