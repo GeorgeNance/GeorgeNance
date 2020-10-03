@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Tom DeMarco*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 2, 2020, 9:09 PM
+  Last Refresh : Friday, October 2, 2020, 10:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
