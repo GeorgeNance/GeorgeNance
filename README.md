@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
-> ~ *Donald Knuth*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 2:08 PM
+  Last Refresh : Sunday, October 4, 2020, 3:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
