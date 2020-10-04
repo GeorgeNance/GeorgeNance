@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Ron Jeffries*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 4:07 AM
+  Last Refresh : Sunday, October 4, 2020, 5:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
