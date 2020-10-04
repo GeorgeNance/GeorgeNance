@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Brian Kernighan*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 6:07 AM
+  Last Refresh : Sunday, October 4, 2020, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
