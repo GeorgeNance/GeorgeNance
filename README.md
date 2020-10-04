@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *David Parnas*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 9:09 AM
+  Last Refresh : Sunday, October 4, 2020, 10:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
