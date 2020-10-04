@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Gerald Weinberg*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 12:08 PM
+  Last Refresh : Sunday, October 4, 2020, 1:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
