@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Kent Beck*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 3, 2020, 6:22 PM
+  Last Refresh : Saturday, October 3, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
