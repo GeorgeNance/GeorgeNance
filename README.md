@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Linus Torvalds*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 3, 2020, 8:08 PM
+  Last Refresh : Saturday, October 3, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
