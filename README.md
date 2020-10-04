@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 3:08 AM
+  Last Refresh : Sunday, October 4, 2020, 4:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
