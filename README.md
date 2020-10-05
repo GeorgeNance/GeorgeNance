@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 >
 > ~ *Ted Nelson*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 5, 2020, 7:09 AM
+  Last Refresh : Monday, October 5, 2020, 8:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
