@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 5, 2020, 1:09 PM
+  Last Refresh : Monday, October 5, 2020, 2:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
