@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 >
-> ~ *Elon Musk*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 8:08 PM
+  Last Refresh : Sunday, October 4, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
