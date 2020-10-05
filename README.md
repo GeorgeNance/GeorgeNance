@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Ivan Sutherland*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 11:10 PM
+  Last Refresh : Monday, October 5, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
