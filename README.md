@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Ada Lovelace*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 5, 2020, 10:08 AM
+  Last Refresh : Monday, October 5, 2020, 11:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
