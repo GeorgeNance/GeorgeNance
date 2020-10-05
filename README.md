@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Fred Brooks*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 6:22 PM
+  Last Refresh : Sunday, October 4, 2020, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
