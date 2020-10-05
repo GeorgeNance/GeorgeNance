@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 >
-> ~ *Gary Kildall*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 4, 2020, 9:09 PM
+  Last Refresh : Sunday, October 4, 2020, 10:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
