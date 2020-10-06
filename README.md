@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Tony Hoare*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 5, 2020, 11:10 PM
+  Last Refresh : Tuesday, October 6, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
