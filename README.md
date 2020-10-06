@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
 > ~ *Bill Gates*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 6, 2020, 12:08 PM
+  Last Refresh : Tuesday, October 6, 2020, 1:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
