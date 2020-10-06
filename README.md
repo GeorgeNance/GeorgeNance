@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Henry Ford*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 5, 2020, 9:10 PM
+  Last Refresh : Monday, October 5, 2020, 10:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
