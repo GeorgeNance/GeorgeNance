@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *John Warnock*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 6, 2020, 9:10 AM
+  Last Refresh : Tuesday, October 6, 2020, 10:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
