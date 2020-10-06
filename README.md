@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Daniel T. Barry*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 5, 2020, 8:08 PM
+  Last Refresh : Monday, October 5, 2020, 9:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
