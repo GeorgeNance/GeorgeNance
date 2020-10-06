@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Richard Hamming*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 6, 2020, 7:09 AM
+  Last Refresh : Tuesday, October 6, 2020, 8:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
