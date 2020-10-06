@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *George Boole*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 6, 2020, 2:08 PM
+  Last Refresh : Tuesday, October 6, 2020, 3:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
