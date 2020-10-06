@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 >
-> ~ *Henry Ford*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 6, 2020, 12:08 AM
+  Last Refresh : Tuesday, October 6, 2020, 1:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
