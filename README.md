@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 >
-> ~ *Fred Brooks*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 12:08 PM
+  Last Refresh : Wednesday, October 7, 2020, 1:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
