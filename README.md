@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Alan Perlis*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 10:08 AM
+  Last Refresh : Wednesday, October 7, 2020, 11:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
