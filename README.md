@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Alan Perlis*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 6, 2020, 9:09 PM
+  Last Refresh : Tuesday, October 6, 2020, 10:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
