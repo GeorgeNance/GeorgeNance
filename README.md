@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 6:08 AM
+  Last Refresh : Wednesday, October 7, 2020, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
