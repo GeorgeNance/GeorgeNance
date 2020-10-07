@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Eric S. Raymond*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 1:09 AM
+  Last Refresh : Wednesday, October 7, 2020, 2:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
