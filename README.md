@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Daniel T. Barry*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 3:09 AM
+  Last Refresh : Wednesday, October 7, 2020, 4:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
