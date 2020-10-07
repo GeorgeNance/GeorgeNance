@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Eric S. Raymond*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 6, 2020, 10:08 PM
+  Last Refresh : Tuesday, October 6, 2020, 11:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
