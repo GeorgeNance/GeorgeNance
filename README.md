@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Donald Knuth*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 3:07 PM
+  Last Refresh : Wednesday, October 7, 2020, 4:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
