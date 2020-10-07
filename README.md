@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Gordon Bell*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 2:08 AM
+  Last Refresh : Wednesday, October 7, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
