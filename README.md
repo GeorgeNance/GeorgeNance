@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 8:08 AM
+  Last Refresh : Wednesday, October 7, 2020, 9:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
