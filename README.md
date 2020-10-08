@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 >
-> ~ *Daniel T. Barry*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 3:09 AM
+  Last Refresh : Thursday, October 8, 2020, 4:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
