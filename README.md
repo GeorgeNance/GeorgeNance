@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Alan Perlis*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 8:09 AM
+  Last Refresh : Thursday, October 8, 2020, 9:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
