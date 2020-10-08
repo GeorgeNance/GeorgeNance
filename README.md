@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Eric S. Raymond*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 12:08 PM
+  Last Refresh : Thursday, October 8, 2020, 1:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
