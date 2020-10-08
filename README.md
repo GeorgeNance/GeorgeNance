@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 7:09 AM
+  Last Refresh : Thursday, October 8, 2020, 8:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
