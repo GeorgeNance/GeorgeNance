@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Daniel T. Barry*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 3:09 PM
+  Last Refresh : Thursday, October 8, 2020, 4:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
