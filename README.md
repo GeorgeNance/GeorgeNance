@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Addy Osmani*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 6:11 PM
+  Last Refresh : Wednesday, October 7, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
