@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Rick Osborne*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 8:07 PM
+  Last Refresh : Wednesday, October 7, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
