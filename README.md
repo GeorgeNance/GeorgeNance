@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Ray Ozzie*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 2:10 AM
+  Last Refresh : Thursday, October 8, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
