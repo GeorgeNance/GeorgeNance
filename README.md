@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Albert Einstein*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 7, 2020, 11:08 PM
+  Last Refresh : Thursday, October 8, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
