@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 >
-> ~ *Bill Gates*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 6:08 AM
+  Last Refresh : Thursday, October 8, 2020, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
