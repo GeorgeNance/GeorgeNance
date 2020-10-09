@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Michael Stal*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 9, 2020, 9:10 AM
+  Last Refresh : Friday, October 9, 2020, 10:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
