@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Danny Hillis*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 9, 2020, 1:10 AM
+  Last Refresh : Friday, October 9, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
