@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Steve Wozniak*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 4:09 PM
+  Last Refresh : Thursday, October 8, 2020, 5:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
