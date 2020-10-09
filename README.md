@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 9, 2020, 1:09 PM
+  Last Refresh : Friday, October 9, 2020, 2:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
