@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Daniel T. Barry*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 8, 2020, 10:08 PM
+  Last Refresh : Thursday, October 8, 2020, 11:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
