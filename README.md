@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 >
-> ~ *Ted Nelson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 9, 2020, 2:09 AM
+  Last Refresh : Friday, October 9, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
