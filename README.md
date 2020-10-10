@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
 >
-> ~ *Charles Babbage*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 10, 2020, 8:08 AM
+  Last Refresh : Saturday, October 10, 2020, 9:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
