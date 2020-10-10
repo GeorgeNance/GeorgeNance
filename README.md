@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 10, 2020, 12:09 AM
+  Last Refresh : Saturday, October 10, 2020, 1:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
