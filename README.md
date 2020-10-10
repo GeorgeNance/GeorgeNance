@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Charles Babbage*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 10, 2020, 12:08 PM
+  Last Refresh : Saturday, October 10, 2020, 1:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
