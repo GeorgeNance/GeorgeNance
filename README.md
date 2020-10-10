@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Philip Greenspun*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 10, 2020, 2:08 AM
+  Last Refresh : Saturday, October 10, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
