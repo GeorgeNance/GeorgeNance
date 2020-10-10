@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 10, 2020, 2:08 PM
+  Last Refresh : Saturday, October 10, 2020, 3:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
