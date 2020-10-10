@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Chris Wenham*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 10, 2020, 3:09 AM
+  Last Refresh : Saturday, October 10, 2020, 4:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
