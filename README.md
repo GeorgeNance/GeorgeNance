@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 >
-> ~ *Manuel Blum*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 9, 2020, 11:09 PM
+  Last Refresh : Saturday, October 10, 2020, 12:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
