@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Robert C. Martin*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 11, 2020, 5:11 AM
+  Last Refresh : Sunday, October 11, 2020, 6:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
