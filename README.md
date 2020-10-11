@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Ken Thompson*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 11, 2020, 3:09 PM
+  Last Refresh : Sunday, October 11, 2020, 4:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
