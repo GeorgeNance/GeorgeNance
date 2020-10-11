@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Daniel T. Barry*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 10, 2020, 7:10 PM
+  Last Refresh : Saturday, October 10, 2020, 8:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
