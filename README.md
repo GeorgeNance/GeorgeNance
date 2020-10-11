@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Fred Brooks*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 11, 2020, 2:08 PM
+  Last Refresh : Sunday, October 11, 2020, 3:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
