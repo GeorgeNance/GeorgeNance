@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 11, 2020, 4:08 AM
+  Last Refresh : Sunday, October 11, 2020, 5:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
