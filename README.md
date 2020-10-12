@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Douglas Crockford*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ make it smaller. If we could just get it down to what it does really well and re
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 11, 2020, 8:09 PM
+  Last Refresh : Sunday, October 11, 2020, 9:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
