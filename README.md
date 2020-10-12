@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Ted Nelson*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 12, 2020, 4:08 AM
+  Last Refresh : Monday, October 12, 2020, 5:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
