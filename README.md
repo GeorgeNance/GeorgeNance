@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### It’s all talk until the code runs.
 >
-> ~ *Gary Kildall*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 12, 2020, 11:09 AM
+  Last Refresh : Monday, October 12, 2020, 12:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
