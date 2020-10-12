@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Donald Knuth*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 12, 2020, 1:10 AM
+  Last Refresh : Monday, October 12, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
