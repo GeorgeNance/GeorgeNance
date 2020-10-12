@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Ray Ozzie*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 11, 2020, 5:28 PM
+  Last Refresh : Sunday, October 11, 2020, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
