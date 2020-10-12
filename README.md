@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Making things easy is hard.
 >
-> ~ *John Carmack*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 12, 2020, 3:09 AM
+  Last Refresh : Monday, October 12, 2020, 4:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
