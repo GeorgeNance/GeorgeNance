@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Kent Beck*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 12, 2020, 5:11 AM
+  Last Refresh : Monday, October 12, 2020, 6:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
