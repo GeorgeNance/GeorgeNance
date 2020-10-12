@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Rob Pike*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 12, 2020, 2:09 AM
+  Last Refresh : Monday, October 12, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
