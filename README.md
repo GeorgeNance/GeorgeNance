@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Anonymous*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 3:09 PM
+  Last Refresh : Tuesday, October 13, 2020, 4:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
