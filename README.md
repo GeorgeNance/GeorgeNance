@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 11:09 AM
+  Last Refresh : Tuesday, October 13, 2020, 12:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
