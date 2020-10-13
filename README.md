@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 >
-> ~ *Linus Torvalds*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 7:10 AM
+  Last Refresh : Tuesday, October 13, 2020, 8:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
