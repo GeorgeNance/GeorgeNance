@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Bill Gates*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 1:10 AM
+  Last Refresh : Tuesday, October 13, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
