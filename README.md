@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 9:11 AM
+  Last Refresh : Tuesday, October 13, 2020, 10:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
