@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Douglas Crockford*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 4:08 AM
+  Last Refresh : Tuesday, October 13, 2020, 5:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
