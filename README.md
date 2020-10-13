@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *John von Neumann*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 12, 2020, 10:09 PM
+  Last Refresh : Monday, October 12, 2020, 11:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
