@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 >
-> ~ *Charles Simonyi*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 12, 2020, 11:10 PM
+  Last Refresh : Tuesday, October 13, 2020, 12:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
