@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Kent Beck*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 2:09 PM
+  Last Refresh : Tuesday, October 13, 2020, 3:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
