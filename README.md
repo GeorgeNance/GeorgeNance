@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### Most errors are introduced during requirements specification!
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 1:09 PM
+  Last Refresh : Wednesday, October 14, 2020, 2:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
