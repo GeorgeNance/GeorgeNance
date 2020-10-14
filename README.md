@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Kevlin Henney*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 11:17 PM
+  Last Refresh : Wednesday, October 14, 2020, 12:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
