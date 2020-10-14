@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 12:09 AM
+  Last Refresh : Wednesday, October 14, 2020, 1:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
