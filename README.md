@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 3:09 AM
+  Last Refresh : Wednesday, October 14, 2020, 4:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
