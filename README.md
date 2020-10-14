@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 >
-> ~ *Harlan Mills*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 9:12 AM
+  Last Refresh : Wednesday, October 14, 2020, 10:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
