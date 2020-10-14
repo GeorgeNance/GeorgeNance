@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### No code is faster than no code.
 >
-> ~ *Bob Carr*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 10:09 PM
+  Last Refresh : Tuesday, October 13, 2020, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
