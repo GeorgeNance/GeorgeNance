@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *John von Neumann*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 7:10 AM
+  Last Refresh : Wednesday, October 14, 2020, 8:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
