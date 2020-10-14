@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 11:10 AM
+  Last Refresh : Wednesday, October 14, 2020, 12:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
