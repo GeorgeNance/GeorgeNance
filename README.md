@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### Programming can be addictive.
 >
-> ~ *Albert Einstein*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 13, 2020, 9:10 PM
+  Last Refresh : Tuesday, October 13, 2020, 10:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
