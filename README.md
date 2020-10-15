@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 >
-> ~ *Linus Torvalds*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 15, 2020, 4:08 AM
+  Last Refresh : Thursday, October 15, 2020, 5:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
