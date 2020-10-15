@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Linus Torvalds*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 10:07 PM
+  Last Refresh : Wednesday, October 14, 2020, 11:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
