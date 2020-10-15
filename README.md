@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 >
-> ~ *John Carmack*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 15, 2020, 10:09 AM
+  Last Refresh : Thursday, October 15, 2020, 11:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
