@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Elon Musk*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 8:09 PM
+  Last Refresh : Wednesday, October 14, 2020, 9:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
