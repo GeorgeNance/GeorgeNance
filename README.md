@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *David Parnas*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 6:28 PM
+  Last Refresh : Wednesday, October 14, 2020, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
