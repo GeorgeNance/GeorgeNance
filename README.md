@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Elon Musk*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 14, 2020, 4:08 PM
+  Last Refresh : Wednesday, October 14, 2020, 5:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
