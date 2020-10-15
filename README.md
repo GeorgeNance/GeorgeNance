@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Butler Lampson*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 15, 2020, 9:11 AM
+  Last Refresh : Thursday, October 15, 2020, 10:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
