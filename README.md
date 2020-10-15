@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Ellen Ullman*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 15, 2020, 1:09 PM
+  Last Refresh : Thursday, October 15, 2020, 2:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
