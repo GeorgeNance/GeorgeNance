@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Dennis Ritchie*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 15, 2020, 8:10 AM
+  Last Refresh : Thursday, October 15, 2020, 9:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
