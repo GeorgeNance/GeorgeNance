@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Terry Winograd*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 15, 2020, 3:09 AM
+  Last Refresh : Thursday, October 15, 2020, 4:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
