@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Daniel T. Barry*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 16, 2020, 2:09 PM
+  Last Refresh : Friday, October 16, 2020, 3:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
