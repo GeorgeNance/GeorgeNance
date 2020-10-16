@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Fred Brooks*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 16, 2020, 1:10 AM
+  Last Refresh : Friday, October 16, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
