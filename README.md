@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Dennis Ritchie*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 16, 2020, 3:09 PM
+  Last Refresh : Friday, October 16, 2020, 4:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
