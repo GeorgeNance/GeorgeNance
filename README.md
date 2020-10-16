@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Addy Osmani*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 16, 2020, 12:09 AM
+  Last Refresh : Friday, October 16, 2020, 1:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
