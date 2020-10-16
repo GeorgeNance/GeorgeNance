@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 15, 2020, 5:27 PM
+  Last Refresh : Thursday, October 15, 2020, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
