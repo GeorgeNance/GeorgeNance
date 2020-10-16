@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Jonathan Sachs*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 16, 2020, 8:09 AM
+  Last Refresh : Friday, October 16, 2020, 9:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
