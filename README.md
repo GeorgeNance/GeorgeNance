@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 16, 2020, 6:08 AM
+  Last Refresh : Friday, October 16, 2020, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
