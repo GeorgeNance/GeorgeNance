@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 16, 2020, 11:10 AM
+  Last Refresh : Friday, October 16, 2020, 12:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
