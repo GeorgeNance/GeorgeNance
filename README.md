@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Wayne Ratliff*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 17, 2020, 9:11 AM
+  Last Refresh : Saturday, October 17, 2020, 10:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
