@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Kent Beck*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 17, 2020, 12:09 AM
+  Last Refresh : Saturday, October 17, 2020, 1:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
