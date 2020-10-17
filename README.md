@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 17, 2020, 2:09 AM
+  Last Refresh : Saturday, October 17, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
