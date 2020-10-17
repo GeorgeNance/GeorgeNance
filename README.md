@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 17, 2020, 3:09 AM
+  Last Refresh : Saturday, October 17, 2020, 4:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
