@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Alan Perlis*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 17, 2020, 10:08 AM
+  Last Refresh : Saturday, October 17, 2020, 11:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
