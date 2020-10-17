@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Richard Hamming*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 17, 2020, 1:10 AM
+  Last Refresh : Saturday, October 17, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
