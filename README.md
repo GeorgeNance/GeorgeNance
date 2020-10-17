@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Alan Perlis*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 16, 2020, 4:08 PM
+  Last Refresh : Friday, October 16, 2020, 5:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
