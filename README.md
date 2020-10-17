@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Richard Stallman*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 17, 2020, 7:09 AM
+  Last Refresh : Saturday, October 17, 2020, 8:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
