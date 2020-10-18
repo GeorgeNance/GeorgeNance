@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Hal Abelson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 3:09 PM
+  Last Refresh : Sunday, October 18, 2020, 4:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
