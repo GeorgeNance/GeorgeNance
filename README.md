@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 >
-> ~ *John von Neumann*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 9:11 AM
+  Last Refresh : Sunday, October 18, 2020, 10:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
