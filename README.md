@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *John Warnock*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 1:10 AM
+  Last Refresh : Sunday, October 18, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
