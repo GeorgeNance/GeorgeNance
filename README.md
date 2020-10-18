@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Douglas Crockford*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 2:09 AM
+  Last Refresh : Sunday, October 18, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
