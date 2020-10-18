@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 5:12 AM
+  Last Refresh : Sunday, October 18, 2020, 6:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
