@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
 >
-> ~ *Danny Hillis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 17, 2020, 11:10 PM
+  Last Refresh : Sunday, October 18, 2020, 12:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
