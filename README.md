@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 6:08 AM
+  Last Refresh : Sunday, October 18, 2020, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
