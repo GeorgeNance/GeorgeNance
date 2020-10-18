@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 >
-> ~ *Fred Brooks*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 12:09 AM
+  Last Refresh : Sunday, October 18, 2020, 1:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
