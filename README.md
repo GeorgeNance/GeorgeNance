@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Marvin Minsky*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 3:09 AM
+  Last Refresh : Sunday, October 18, 2020, 4:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
