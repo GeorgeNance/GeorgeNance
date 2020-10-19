@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Fred Brooks*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 19, 2020, 1:20 AM
+  Last Refresh : Monday, October 19, 2020, 2:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
