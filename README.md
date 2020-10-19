@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 >
-> ~ *Danny Hillis*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 19, 2020, 10:09 AM
+  Last Refresh : Monday, October 19, 2020, 11:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
