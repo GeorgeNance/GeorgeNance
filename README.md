@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Albert Einstein*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 18, 2020, 9:10 PM
+  Last Refresh : Sunday, October 18, 2020, 10:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
