@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Albert Einstein*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 19, 2020, 2:11 AM
+  Last Refresh : Monday, October 19, 2020, 3:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
