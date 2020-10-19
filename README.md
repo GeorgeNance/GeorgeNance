@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 >
-> ~ *Alan Perlis*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 19, 2020, 6:09 AM
+  Last Refresh : Monday, October 19, 2020, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
