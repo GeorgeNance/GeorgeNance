@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 12:09 AM
+  Last Refresh : Tuesday, October 20, 2020, 1:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
