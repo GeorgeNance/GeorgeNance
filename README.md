@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *John Ousterhout*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 2:09 PM
+  Last Refresh : Tuesday, October 20, 2020, 3:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
