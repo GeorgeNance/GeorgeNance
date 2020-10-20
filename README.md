@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 >
-> ~ *Dennis Ritchie*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 4:09 AM
+  Last Refresh : Tuesday, October 20, 2020, 5:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
