@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 9:12 AM
+  Last Refresh : Tuesday, October 20, 2020, 10:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
