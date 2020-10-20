@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 6:09 AM
+  Last Refresh : Tuesday, October 20, 2020, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
