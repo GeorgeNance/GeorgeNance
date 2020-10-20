@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
 >
-> ~ *Alan Kay*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 19, 2020, 9:10 PM
+  Last Refresh : Monday, October 19, 2020, 10:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
