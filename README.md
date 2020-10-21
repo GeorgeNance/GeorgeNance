@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 11:11 PM
+  Last Refresh : Wednesday, October 21, 2020, 12:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
