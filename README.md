@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Daniel T. Barry*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 21, 2020, 11:10 AM
+  Last Refresh : Wednesday, October 21, 2020, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
