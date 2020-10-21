@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Stewart Brand*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 21, 2020, 7:10 AM
+  Last Refresh : Wednesday, October 21, 2020, 8:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
