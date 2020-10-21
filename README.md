@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Steve Wozniak*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 21, 2020, 12:09 PM
+  Last Refresh : Wednesday, October 21, 2020, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
