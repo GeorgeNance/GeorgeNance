@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 >
-> ~ *Douglas Crockford*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 8:09 PM
+  Last Refresh : Tuesday, October 20, 2020, 9:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
