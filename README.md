@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Michael Stal*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 4:08 PM
+  Last Refresh : Tuesday, October 20, 2020, 5:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
