@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 21, 2020, 10:10 AM
+  Last Refresh : Wednesday, October 21, 2020, 11:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
