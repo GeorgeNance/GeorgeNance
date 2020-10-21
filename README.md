@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 21, 2020, 1:13 PM
+  Last Refresh : Wednesday, October 21, 2020, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
