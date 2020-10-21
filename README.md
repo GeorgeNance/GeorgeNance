@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 7:09 PM
+  Last Refresh : Tuesday, October 20, 2020, 8:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
