@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 >
-> ~ *Dennis Ritchie*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 5:27 PM
+  Last Refresh : Tuesday, October 20, 2020, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
