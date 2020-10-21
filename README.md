@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Alan Perlis*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 20, 2020, 10:09 PM
+  Last Refresh : Tuesday, October 20, 2020, 11:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
