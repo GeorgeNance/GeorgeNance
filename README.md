@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 9:13 AM
+  Last Refresh : Thursday, October 22, 2020, 10:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
