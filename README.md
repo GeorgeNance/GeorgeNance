@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Friedrich Bauer*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 12:09 PM
+  Last Refresh : Thursday, October 22, 2020, 1:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
