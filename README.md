@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 4:09 AM
+  Last Refresh : Thursday, October 22, 2020, 5:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
