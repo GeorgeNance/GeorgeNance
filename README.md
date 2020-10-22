@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Michael Stal*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 21, 2020, 9:11 PM
+  Last Refresh : Wednesday, October 21, 2020, 10:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
