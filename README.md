@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Bill Gates*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 11:10 AM
+  Last Refresh : Thursday, October 22, 2020, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
