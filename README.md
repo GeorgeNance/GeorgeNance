@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Grady Booch*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 3:10 PM
+  Last Refresh : Thursday, October 22, 2020, 4:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
