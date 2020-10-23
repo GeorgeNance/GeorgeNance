@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Filipe Fortes*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 6:36 PM
+  Last Refresh : Thursday, October 22, 2020, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
