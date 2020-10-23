@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 10:09 PM
+  Last Refresh : Thursday, October 22, 2020, 11:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
