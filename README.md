@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Hal Abelson*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 23, 2020, 12:13 PM
+  Last Refresh : Friday, October 23, 2020, 1:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
