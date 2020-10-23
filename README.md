@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Gary Kildall*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 11:11 PM
+  Last Refresh : Friday, October 23, 2020, 12:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
