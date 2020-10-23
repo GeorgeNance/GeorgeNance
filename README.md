@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Harlan Mills*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 22, 2020, 5:28 PM
+  Last Refresh : Thursday, October 22, 2020, 6:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
