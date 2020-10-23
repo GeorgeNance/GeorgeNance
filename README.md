@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *René Descartes*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 23, 2020, 8:09 AM
+  Last Refresh : Friday, October 23, 2020, 9:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
