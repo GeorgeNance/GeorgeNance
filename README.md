@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
 >
-> ~ *Fred Brooks*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 24, 2020, 1:09 PM
+  Last Refresh : Saturday, October 24, 2020, 2:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
