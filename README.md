@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 23, 2020, 8:09 PM
+  Last Refresh : Friday, October 23, 2020, 9:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
