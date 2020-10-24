@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Alan Perlis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 24, 2020, 7:10 AM
+  Last Refresh : Saturday, October 24, 2020, 8:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
