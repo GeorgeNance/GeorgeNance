@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 >
-> ~ *Vint Cerf*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 23, 2020, 10:09 PM
+  Last Refresh : Friday, October 23, 2020, 11:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
