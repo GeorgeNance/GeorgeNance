@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Toru Iwatani*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 23, 2020, 6:33 PM
+  Last Refresh : Friday, October 23, 2020, 7:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
