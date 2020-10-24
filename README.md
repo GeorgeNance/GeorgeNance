@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Donald Knuth*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 23, 2020, 5:28 PM
+  Last Refresh : Friday, October 23, 2020, 6:33 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
