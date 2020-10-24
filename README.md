@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Ellen Ullman*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 24, 2020, 9:13 AM
+  Last Refresh : Saturday, October 24, 2020, 10:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
