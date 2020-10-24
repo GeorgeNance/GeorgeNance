@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 >
-> ~ *Fred Brooks*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 24, 2020, 4:09 AM
+  Last Refresh : Saturday, October 24, 2020, 5:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
