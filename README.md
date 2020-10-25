@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 >
-> ~ *Jef Raskin*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 25, 2020, 11:10 AM
+  Last Refresh : Sunday, October 25, 2020, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
