@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Bill Gates*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 25, 2020, 1:11 AM
+  Last Refresh : Sunday, October 25, 2020, 2:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
