@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Fred Brooks*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 25, 2020, 10:09 AM
+  Last Refresh : Sunday, October 25, 2020, 11:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
