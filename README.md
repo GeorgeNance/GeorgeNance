@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 25, 2020, 7:10 AM
+  Last Refresh : Sunday, October 25, 2020, 8:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
