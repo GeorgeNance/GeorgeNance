@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 25, 2020, 4:09 AM
+  Last Refresh : Sunday, October 25, 2020, 5:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
