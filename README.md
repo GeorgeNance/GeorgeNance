@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *Danny Hillis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 24, 2020, 7:12 PM
+  Last Refresh : Saturday, October 24, 2020, 8:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
