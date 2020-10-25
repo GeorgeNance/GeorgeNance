@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Elon Musk*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 25, 2020, 3:10 PM
+  Last Refresh : Sunday, October 25, 2020, 4:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
