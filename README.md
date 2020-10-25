@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 24, 2020, 8:10 PM
+  Last Refresh : Saturday, October 24, 2020, 9:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
