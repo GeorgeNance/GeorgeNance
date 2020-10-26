@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Wayne Ratliff*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 10:11 AM
+  Last Refresh : Monday, October 26, 2020, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
