@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
 >
-> ~ *Albert Einstein*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 8:10 AM
+  Last Refresh : Monday, October 26, 2020, 9:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
