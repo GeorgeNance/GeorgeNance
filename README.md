@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Fred Brooks*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 3:10 PM
+  Last Refresh : Monday, October 26, 2020, 4:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
