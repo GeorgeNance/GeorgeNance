@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 12:10 AM
+  Last Refresh : Monday, October 26, 2020, 1:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
