@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Hal Abelson*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 6:09 AM
+  Last Refresh : Monday, October 26, 2020, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
