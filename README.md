@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Ted Nelson*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 25, 2020, 8:10 PM
+  Last Refresh : Sunday, October 25, 2020, 9:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
