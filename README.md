@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Vannevar Bush*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 25, 2020, 6:38 PM
+  Last Refresh : Sunday, October 25, 2020, 7:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
