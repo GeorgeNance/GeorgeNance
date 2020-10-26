@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Donald Knuth*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 3:12 AM
+  Last Refresh : Monday, October 26, 2020, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
