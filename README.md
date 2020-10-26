@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Kyle Simpson*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 2:10 AM
+  Last Refresh : Monday, October 26, 2020, 3:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
