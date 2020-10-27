@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Ward Cunningham*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 5:13 AM
+  Last Refresh : Tuesday, October 27, 2020, 6:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
