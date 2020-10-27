@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### Never memorize something that you can look up.
 >
-> ~ *Linus Torvalds*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 11:11 PM
+  Last Refresh : Tuesday, October 27, 2020, 12:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
