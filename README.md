@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Gary Kildall*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 4:09 PM
+  Last Refresh : Monday, October 26, 2020, 5:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
