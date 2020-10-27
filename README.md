@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Michael Stal*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 4:10 AM
+  Last Refresh : Tuesday, October 27, 2020, 5:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
