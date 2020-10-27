@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 >
-> ~ *Vannevar Bush*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 7:10 AM
+  Last Refresh : Tuesday, October 27, 2020, 8:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
