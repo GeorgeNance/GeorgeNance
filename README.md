@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 >
-> ~ *Martin Fowler*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 11:10 AM
+  Last Refresh : Tuesday, October 27, 2020, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
