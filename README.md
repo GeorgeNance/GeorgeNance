@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Poul Anderson*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 6:37 PM
+  Last Refresh : Monday, October 26, 2020, 7:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
