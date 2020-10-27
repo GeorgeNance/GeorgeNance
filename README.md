@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 >
-> ~ *Richard Stallman*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 12:09 PM
+  Last Refresh : Tuesday, October 27, 2020, 1:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
