@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Ted Nelson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 7:14 PM
+  Last Refresh : Monday, October 26, 2020, 8:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
