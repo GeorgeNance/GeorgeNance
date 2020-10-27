@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Maurice Wilkes*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 26, 2020, 9:20 PM
+  Last Refresh : Monday, October 26, 2020, 10:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
