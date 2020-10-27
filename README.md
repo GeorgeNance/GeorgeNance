@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 >
-> ~ *Jef Raskin*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 2:09 PM
+  Last Refresh : Tuesday, October 27, 2020, 3:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
