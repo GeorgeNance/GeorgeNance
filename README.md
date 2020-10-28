@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Ted Nelson*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 28, 2020, 1:10 PM
+  Last Refresh : Wednesday, October 28, 2020, 2:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
