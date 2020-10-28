@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Manuel Blum*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 28, 2020, 4:10 AM
+  Last Refresh : Wednesday, October 28, 2020, 5:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
