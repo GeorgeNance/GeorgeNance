@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Tom DeMarco*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 8:10 PM
+  Last Refresh : Tuesday, October 27, 2020, 9:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
