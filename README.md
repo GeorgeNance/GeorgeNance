@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Danny Hillis*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 5:29 PM
+  Last Refresh : Tuesday, October 27, 2020, 6:39 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
