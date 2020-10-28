@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Fred Brooks*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 27, 2020, 7:15 PM
+  Last Refresh : Tuesday, October 27, 2020, 8:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
