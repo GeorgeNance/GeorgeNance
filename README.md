@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Toru Iwatani*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 1:12 AM
+  Last Refresh : Thursday, October 29, 2020, 2:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
