@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *René Descartes*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 5:14 AM
+  Last Refresh : Thursday, October 29, 2020, 6:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
