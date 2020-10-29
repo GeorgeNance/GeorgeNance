@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 >
-> ~ *Bob Frankston*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 7:11 AM
+  Last Refresh : Thursday, October 29, 2020, 8:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
