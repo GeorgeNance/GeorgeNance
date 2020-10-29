@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 12:10 AM
+  Last Refresh : Thursday, October 29, 2020, 1:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
