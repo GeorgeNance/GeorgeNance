@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *John Carmack*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 6:10 AM
+  Last Refresh : Thursday, October 29, 2020, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
