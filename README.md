@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Linus Torvalds*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 2:10 AM
+  Last Refresh : Thursday, October 29, 2020, 3:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
