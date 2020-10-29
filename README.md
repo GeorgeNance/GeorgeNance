@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
 >
-> ~ *Maurice Wilkes*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 10:12 AM
+  Last Refresh : Thursday, October 29, 2020, 11:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
