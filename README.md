@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Danny Hillis*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 8:10 AM
+  Last Refresh : Thursday, October 29, 2020, 9:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
