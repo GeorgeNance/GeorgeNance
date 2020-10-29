@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 >
-> ~ *Fred Brooks*
+> ~ *Tony Hoare*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 28, 2020, 9:13 PM
+  Last Refresh : Wednesday, October 28, 2020, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
