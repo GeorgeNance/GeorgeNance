@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 >
-> ~ *Alan Kay*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 29, 2020, 11:07 AM
+  Last Refresh : Thursday, October 29, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
