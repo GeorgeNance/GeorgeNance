@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 9:09 AM
+  Last Refresh : Friday, October 30, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
