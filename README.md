@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Richard Hamming*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 12:05 PM
+  Last Refresh : Friday, October 30, 2020, 1:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
