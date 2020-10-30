@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Fred Brooks*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 6:05 AM
+  Last Refresh : Friday, October 30, 2020, 7:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
