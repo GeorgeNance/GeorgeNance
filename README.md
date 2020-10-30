@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 8:05 AM
+  Last Refresh : Friday, October 30, 2020, 9:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
