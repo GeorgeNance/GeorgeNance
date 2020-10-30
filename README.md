@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Eric S. Raymond*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 10:06 AM
+  Last Refresh : Friday, October 30, 2020, 11:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
