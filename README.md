@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Tom DeMarco*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 11:10 AM
+  Last Refresh : Friday, October 30, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
