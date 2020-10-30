@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Kent Beck*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 3:06 AM
+  Last Refresh : Friday, October 30, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
