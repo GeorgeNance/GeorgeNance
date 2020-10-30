@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Ken Thompson*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 3:06 PM
+  Last Refresh : Friday, October 30, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
