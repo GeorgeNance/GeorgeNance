@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 7:09 PM
+  Last Refresh : Friday, October 30, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
