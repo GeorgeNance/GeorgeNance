@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Mario Fusco*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 6:05 AM
+  Last Refresh : Saturday, October 31, 2020, 7:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
