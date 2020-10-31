@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Joel Spolsky*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 2:05 PM
+  Last Refresh : Saturday, October 31, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
