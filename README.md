@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Bill Gates*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 5:16 PM
+  Last Refresh : Friday, October 30, 2020, 6:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
