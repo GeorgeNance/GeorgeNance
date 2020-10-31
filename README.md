@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Tom DeMarco*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 1:05 PM
+  Last Refresh : Saturday, October 31, 2020, 2:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
