@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 9:10 AM
+  Last Refresh : Saturday, October 31, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
