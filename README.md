@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### Making things easy is hard.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 7:05 AM
+  Last Refresh : Saturday, October 31, 2020, 8:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
