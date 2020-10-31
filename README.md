@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *William Wulf*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -32,11 +32,11 @@
 ## ✍️ Recent Blog Posts:
 
 
+* [7 Reasons you SHOULD write CSS](https://georgenance.com/write-more-css)
 * [Don’t use frontmatter to seperate your markdown files in GatsbyJS - Use the file system](https://georgenance.com/dont-use-frontmatter-markdown-files-gatsby)
 * [An Open Letter to New Programmers](https://georgenance.com/open-letter-new-programmers)
 * [How to be productive as an ADHD programmer](https://georgenance.com/being-productive-programmer-adhd)
 * [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
-* [Deadlines are important](https://georgenance.com/deadlines-are-important-2017)
 
 [View More](https://georgenance.com)
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 30, 2020, 4:06 PM
+  Last Refresh : Friday, October 30, 2020, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
