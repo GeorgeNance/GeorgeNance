@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 3:07 PM
+  Last Refresh : Saturday, October 31, 2020, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
