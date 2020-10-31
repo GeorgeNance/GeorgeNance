@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Donald Knuth*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 4:10 AM
+  Last Refresh : Saturday, October 31, 2020, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
