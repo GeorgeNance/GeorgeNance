@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 12:05 PM
+  Last Refresh : Saturday, October 31, 2020, 1:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
