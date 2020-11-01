@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
+> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 >
-> ~ *Hal Abelson*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 5:18 PM
+  Last Refresh : Saturday, October 31, 2020, 6:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
