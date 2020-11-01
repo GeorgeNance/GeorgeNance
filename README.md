@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Terry Winograd*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 5:08 AM
+  Last Refresh : Sunday, November 1, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
