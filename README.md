@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Jonathan Sachs*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 31, 2020, 11:08 PM
+  Last Refresh : Sunday, November 1, 2020, 12:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
