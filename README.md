@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 >
-> ~ *Roy Fielding*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 11:07 AM
+  Last Refresh : Sunday, November 1, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
