@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Donald Knuth*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 12:06 AM
+  Last Refresh : Sunday, November 1, 2020, 1:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
