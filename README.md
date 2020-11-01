@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Eric S. Raymond*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 3:07 AM
+  Last Refresh : Sunday, November 1, 2020, 4:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
