@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Donald Knuth*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 4:06 AM
+  Last Refresh : Monday, November 2, 2020, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
