@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Ward Cunningham*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 6:07 PM
+  Last Refresh : Sunday, November 1, 2020, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
