@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 1:07 AM
+  Last Refresh : Monday, November 2, 2020, 2:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
