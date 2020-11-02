@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Robert C. Martin*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 6:08 AM
+  Last Refresh : Monday, November 2, 2020, 7:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
