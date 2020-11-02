@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 10:06 PM
+  Last Refresh : Sunday, November 1, 2020, 11:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
