@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Kevlin Henney*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 3:07 PM
+  Last Refresh : Monday, November 2, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
