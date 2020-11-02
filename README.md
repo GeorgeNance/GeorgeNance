@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Linus Torvalds*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 5:17 PM
+  Last Refresh : Sunday, November 1, 2020, 6:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
