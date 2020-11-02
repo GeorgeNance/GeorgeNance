@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+> ### No code is faster than no code.
 >
-> ~ *Fred Brooks*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 2:05 PM
+  Last Refresh : Monday, November 2, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
