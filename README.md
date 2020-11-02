@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Anonymous*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 9:12 AM
+  Last Refresh : Monday, November 2, 2020, 10:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
