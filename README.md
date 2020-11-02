@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 >
-> ~ *Tom DeMarco*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 5:08 AM
+  Last Refresh : Monday, November 2, 2020, 6:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
