@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *Marijn Haverbeke*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 4:08 PM
+  Last Refresh : Sunday, November 1, 2020, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
