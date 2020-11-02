@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Don Norman*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 1, 2020, 11:07 PM
+  Last Refresh : Monday, November 2, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
