@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *Ward Cunningham*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 3:08 AM
+  Last Refresh : Monday, November 2, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
