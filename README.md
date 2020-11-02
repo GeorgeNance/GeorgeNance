@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Rich Skrenta*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 2:06 AM
+  Last Refresh : Monday, November 2, 2020, 3:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
