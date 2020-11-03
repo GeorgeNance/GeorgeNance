@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Richard Hamming*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 11:06 AM
+  Last Refresh : Tuesday, November 3, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
