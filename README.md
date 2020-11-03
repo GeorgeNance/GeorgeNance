@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
 >
-> ~ *Ken Olsen*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 8:07 AM
+  Last Refresh : Tuesday, November 3, 2020, 9:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
