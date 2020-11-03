@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 12:05 PM
+  Last Refresh : Tuesday, November 3, 2020, 1:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
