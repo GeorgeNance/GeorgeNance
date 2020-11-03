@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 10:06 AM
+  Last Refresh : Tuesday, November 3, 2020, 11:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
