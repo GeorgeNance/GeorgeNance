@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 5:13 AM
+  Last Refresh : Tuesday, November 3, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
