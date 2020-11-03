@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### No code is faster than no code.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 7:07 PM
+  Last Refresh : Monday, November 2, 2020, 8:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
