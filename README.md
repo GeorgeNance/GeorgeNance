@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 6:06 AM
+  Last Refresh : Tuesday, November 3, 2020, 7:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
