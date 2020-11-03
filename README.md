@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Dennis Ritchie*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 9:08 PM
+  Last Refresh : Monday, November 2, 2020, 10:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
