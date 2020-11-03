@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Kevlin Henney*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 2, 2020, 8:06 PM
+  Last Refresh : Monday, November 2, 2020, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
