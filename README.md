@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Bill Gates*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 10:06 PM
+  Last Refresh : Tuesday, November 3, 2020, 11:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
