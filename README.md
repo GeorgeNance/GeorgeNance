@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
 >
-> ~ *Dennis Ritchie*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 4, 2020, 3:08 AM
+  Last Refresh : Wednesday, November 4, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
