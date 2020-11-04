@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Stewart Brand*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 8:06 PM
+  Last Refresh : Tuesday, November 3, 2020, 9:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
