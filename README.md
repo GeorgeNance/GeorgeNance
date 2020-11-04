@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Grady Booch*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 4, 2020, 5:14 AM
+  Last Refresh : Wednesday, November 4, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
