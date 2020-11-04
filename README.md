@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Harlan Mills*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 4:06 PM
+  Last Refresh : Tuesday, November 3, 2020, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
