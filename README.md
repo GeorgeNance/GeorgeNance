@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 >
-> ~ *P. J. Plauger*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 4, 2020, 10:06 AM
+  Last Refresh : Wednesday, November 4, 2020, 11:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
