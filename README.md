@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Alan Perlis*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 4, 2020, 7:06 AM
+  Last Refresh : Wednesday, November 4, 2020, 8:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
