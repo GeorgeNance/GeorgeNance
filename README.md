@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Ken Thompson*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 3, 2020, 5:19 PM
+  Last Refresh : Tuesday, November 3, 2020, 6:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
