@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 4, 2020, 11:06 AM
+  Last Refresh : Wednesday, November 4, 2020, 12:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
