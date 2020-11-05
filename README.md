@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 7:07 AM
+  Last Refresh : Thursday, November 5, 2020, 8:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
