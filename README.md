@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Steve Jobs*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 5:09 AM
+  Last Refresh : Thursday, November 5, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
