@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 4, 2020, 10:06 PM
+  Last Refresh : Wednesday, November 4, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
