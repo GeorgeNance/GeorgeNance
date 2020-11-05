@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *David Leinweber*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 2:07 AM
+  Last Refresh : Thursday, November 5, 2020, 3:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
