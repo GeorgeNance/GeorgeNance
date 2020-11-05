@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Jonathan Sachs*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 12:07 AM
+  Last Refresh : Thursday, November 5, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
