@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Terry Winograd*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 12:05 PM
+  Last Refresh : Thursday, November 5, 2020, 1:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
