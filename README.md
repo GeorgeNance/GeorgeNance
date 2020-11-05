@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Elon Musk*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 1:06 PM
+  Last Refresh : Thursday, November 5, 2020, 2:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
