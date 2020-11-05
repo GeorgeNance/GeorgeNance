@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Albert Einstein*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 10:07 AM
+  Last Refresh : Thursday, November 5, 2020, 11:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
