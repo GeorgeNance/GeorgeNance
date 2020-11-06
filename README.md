@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Ted Nelson*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 6, 2020, 12:07 AM
+  Last Refresh : Friday, November 6, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
