@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 >
-> ~ *Bill Gates*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 6, 2020, 4:06 AM
+  Last Refresh : Friday, November 6, 2020, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
