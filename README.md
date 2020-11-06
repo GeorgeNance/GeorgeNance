@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *John Carmack*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 4:07 PM
+  Last Refresh : Thursday, November 5, 2020, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
