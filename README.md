@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 6, 2020, 3:15 AM
+  Last Refresh : Friday, November 6, 2020, 4:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
