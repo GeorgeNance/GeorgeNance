@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Addy Osmani*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 6, 2020, 5:10 AM
+  Last Refresh : Friday, November 6, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
