@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 5, 2020, 5:19 PM
+  Last Refresh : Thursday, November 5, 2020, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
