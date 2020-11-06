@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 6, 2020, 1:08 AM
+  Last Refresh : Friday, November 6, 2020, 2:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
