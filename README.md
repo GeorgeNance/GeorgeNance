@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 6, 2020, 12:05 PM
+  Last Refresh : Friday, November 6, 2020, 1:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
