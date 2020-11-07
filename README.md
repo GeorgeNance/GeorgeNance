@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Luciano Ramalho*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 6, 2020, 7:08 PM
+  Last Refresh : Friday, November 6, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
