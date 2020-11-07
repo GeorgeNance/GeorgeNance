@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Albert Einstein*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 7, 2020, 1:06 PM
+  Last Refresh : Saturday, November 7, 2020, 2:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
