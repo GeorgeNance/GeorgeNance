@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Ken Olsen*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 7, 2020, 5:09 AM
+  Last Refresh : Saturday, November 7, 2020, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
