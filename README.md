@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Donald Knuth*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 7, 2020, 4:06 AM
+  Last Refresh : Saturday, November 7, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
