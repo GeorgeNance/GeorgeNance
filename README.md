@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Making things easy is hard.
 >
 > ~ *Ted Nelson*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 6:06 AM
+  Last Refresh : Sunday, November 8, 2020, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
