@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Ted Nelson*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 7, 2020, 11:08 PM
+  Last Refresh : Sunday, November 8, 2020, 1:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
