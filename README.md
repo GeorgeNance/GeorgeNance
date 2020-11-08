@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 >
-> ~ *Michael A. Jackson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 2:06 PM
+  Last Refresh : Sunday, November 8, 2020, 3:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
