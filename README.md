@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 3:08 PM
+  Last Refresh : Sunday, November 8, 2020, 4:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
