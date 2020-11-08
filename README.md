@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 12:05 PM
+  Last Refresh : Sunday, November 8, 2020, 1:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
