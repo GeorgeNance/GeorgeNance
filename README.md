@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Robert C. Martin*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 8:07 AM
+  Last Refresh : Sunday, November 8, 2020, 9:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
