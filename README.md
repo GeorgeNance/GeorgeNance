@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Elon Musk*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 1:06 PM
+  Last Refresh : Sunday, November 8, 2020, 2:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
