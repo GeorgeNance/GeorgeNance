@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Linus Torvalds*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 8:08 AM
+  Last Refresh : Monday, November 9, 2020, 9:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
