@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 5:09 AM
+  Last Refresh : Monday, November 9, 2020, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
