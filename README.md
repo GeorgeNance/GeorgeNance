@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 10:07 PM
+  Last Refresh : Sunday, November 8, 2020, 11:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
