@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 4:07 AM
+  Last Refresh : Monday, November 9, 2020, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
