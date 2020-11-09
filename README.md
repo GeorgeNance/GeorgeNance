@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Mark Gibbs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 11:08 PM
+  Last Refresh : Monday, November 9, 2020, 12:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
