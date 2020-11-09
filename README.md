@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Joshua Bloch*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 6:17 PM
+  Last Refresh : Sunday, November 8, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
