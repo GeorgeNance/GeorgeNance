@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 8, 2020, 7:08 PM
+  Last Refresh : Sunday, November 8, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
