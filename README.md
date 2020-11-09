@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Gary Kildall*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 2:10 AM
+  Last Refresh : Monday, November 9, 2020, 3:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
