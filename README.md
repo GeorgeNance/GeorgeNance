@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 >
-> ~ *Mark Gibbs*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 12:08 AM
+  Last Refresh : Monday, November 9, 2020, 1:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
