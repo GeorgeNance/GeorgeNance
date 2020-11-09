@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Ted Nelson*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 1:09 AM
+  Last Refresh : Monday, November 9, 2020, 2:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
