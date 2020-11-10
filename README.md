@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Anonymous*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 10, 2020, 2:10 AM
+  Last Refresh : Tuesday, November 10, 2020, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
