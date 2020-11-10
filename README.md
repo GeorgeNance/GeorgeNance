@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 6:19 PM
+  Last Refresh : Monday, November 9, 2020, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
