@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 5:19 PM
+  Last Refresh : Monday, November 9, 2020, 6:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
