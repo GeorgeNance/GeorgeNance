@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 >
-> ~ *Bob Frankston*
+> ~ *Vint Cerf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 10, 2020, 8:06 AM
+  Last Refresh : Tuesday, November 10, 2020, 9:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
