@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Jonathan Sachs*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 10, 2020, 7:07 AM
+  Last Refresh : Tuesday, November 10, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
