@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 4:14 PM
+  Last Refresh : Monday, November 9, 2020, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
