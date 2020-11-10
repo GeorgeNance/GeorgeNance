@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Albert Einstein*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 10, 2020, 5:08 AM
+  Last Refresh : Tuesday, November 10, 2020, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
