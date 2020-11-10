@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Alan Perlis*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 8:07 PM
+  Last Refresh : Monday, November 9, 2020, 9:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
