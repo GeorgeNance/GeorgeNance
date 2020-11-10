@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 9, 2020, 7:08 PM
+  Last Refresh : Monday, November 9, 2020, 8:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
