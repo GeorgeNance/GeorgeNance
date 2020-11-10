@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 10, 2020, 1:08 AM
+  Last Refresh : Tuesday, November 10, 2020, 2:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
