@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Ada Lovelace*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 11, 2020, 7:07 AM
+  Last Refresh : Wednesday, November 11, 2020, 8:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
