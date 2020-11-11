@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Wayne Ratliff*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 10, 2020, 8:06 PM
+  Last Refresh : Tuesday, November 10, 2020, 9:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
