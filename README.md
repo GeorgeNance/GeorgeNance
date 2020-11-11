@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Gary Kildall*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 10, 2020, 10:06 PM
+  Last Refresh : Tuesday, November 10, 2020, 11:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
