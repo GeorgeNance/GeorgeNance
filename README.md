@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Dennis Ritchie*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 10, 2020, 11:07 PM
+  Last Refresh : Wednesday, November 11, 2020, 12:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
