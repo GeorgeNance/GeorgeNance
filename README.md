@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
 >
-> ~ *Fred Brooks*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -32,8 +32,10 @@
 ## ✍️ Recent Blog Posts:
 
 
+* [7 Reasons you SHOULD write CSS](https://georgenance.com/write-more-css)
+* [Don’t use frontmatter to seperate your markdown files in GatsbyJS - Use the file system](https://georgenance.com/dont-use-frontmatter-markdown-files-gatsby)
 * [An Open Letter to New Programmers](https://georgenance.com/open-letter-new-programmers)
-* [How to be productive as a programmer with ADHD](https://georgenance.com/being-productive-programmer-adhd)
+* [How to be productive as an ADHD programmer](https://georgenance.com/being-productive-programmer-adhd)
 * [Deleting untracked files from git](https://georgenance.com/delete-untracked-files-git)
 
 [View More](https://georgenance.com)
@@ -44,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 13, 2020, 6:06 PM
+  Last Refresh : Wednesday, November 11, 2020, 3:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
