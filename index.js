@@ -6,14 +6,26 @@ const path = require("path");
 let Parser = require('rss-parser');
 let parser = new Parser();
 
+async function getQuote() {
+  const url =
+    "https://raw.githubusercontent.com/skolakoda/programming-quotes-api/master/backup/quotes.json";
+  let response = await fetch(url);
+  let json = await response.json();
+
+  json = json[Math.floor(Math.random() * (json.length + 1))];
+
+  return {
+    text: json["en"],
+    author: json["author"]
+  };
+}
+
 async function main() {
   const readmeTemplate = (
     await fs.readFile(path.join(process.cwd(), "./README.template.md"))
   ).toString("utf-8");
 
-  const { en: qoth, author: qoth_author } = await (
-    await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
-  ).json();
+
   
 
   
@@ -28,10 +40,10 @@ async function main() {
   //Date
 var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',hour:'numeric',minute:'numeric',timeZone: 'America/Phoenix'};
 const date = new Date()
-
+  const qoth =  await getQuote()
   const readme = readmeTemplate
-    .replace("{qoth}", qoth)
-    .replace("{qoth_author}", qoth_author)
+    .replace("{qoth}", qoth.text)
+    .replace("{qoth_author}", qoth.author)
     .replace("{blog_posts}", blogPosts)
     .replace("{build_date}", date.toLocaleString("en-US",options))
 
