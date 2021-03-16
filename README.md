@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 >
-> ~ *Ada Lovelace*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 15, 2021, 4:17 PM
+  Last Refresh : Monday, March 15, 2021, 5:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
