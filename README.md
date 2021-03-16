@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 >
-> ~ *Niklaus Wirth*
+> ~ *Andy Hertzfeld*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 15, 2021, 8:12 PM
+  Last Refresh : Monday, March 15, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
