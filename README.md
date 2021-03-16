@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Jamie Zawinski*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 15, 2021, 11:13 PM
+  Last Refresh : Tuesday, March 16, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
