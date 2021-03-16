@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *René Descartes*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 7:13 AM
+  Last Refresh : Tuesday, March 16, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
