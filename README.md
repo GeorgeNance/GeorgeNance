@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Gary Kildall*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 8:12 AM
+  Last Refresh : Tuesday, March 16, 2021, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
