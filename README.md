@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Jonathan Sachs*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 2:11 AM
+  Last Refresh : Tuesday, March 16, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
