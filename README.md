@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Fred Brooks*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 3:13 PM
+  Last Refresh : Tuesday, March 16, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
