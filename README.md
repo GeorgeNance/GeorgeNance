@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 >
-> ~ *Filipe Fortes*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 4:11 AM
+  Last Refresh : Tuesday, March 16, 2021, 5:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
