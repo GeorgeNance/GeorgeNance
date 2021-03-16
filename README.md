@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Steve Wozniak*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 3:14 AM
+  Last Refresh : Tuesday, March 16, 2021, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
