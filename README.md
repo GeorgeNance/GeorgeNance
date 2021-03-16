@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 >
-> ~ *Dennis Ritchie*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 12:11 AM
+  Last Refresh : Tuesday, March 16, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
