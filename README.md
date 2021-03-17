@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 9:15 PM
+  Last Refresh : Tuesday, March 16, 2021, 10:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
