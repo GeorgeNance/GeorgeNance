@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One accurate measurement is worth more than a thousand expert opinions.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Grace Hopper*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 4:12 PM
+  Last Refresh : Tuesday, March 16, 2021, 5:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
