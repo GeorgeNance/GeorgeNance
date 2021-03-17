@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Ward Cunningham*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 3:14 AM
+  Last Refresh : Wednesday, March 17, 2021, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
