@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Filipe Fortes*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 6:45 PM
+  Last Refresh : Tuesday, March 16, 2021, 7:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
