@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Danny Hillis*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 5:16 AM
+  Last Refresh : Wednesday, March 17, 2021, 6:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
