@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Gary Kildall*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 5:31 PM
+  Last Refresh : Tuesday, March 16, 2021, 6:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
