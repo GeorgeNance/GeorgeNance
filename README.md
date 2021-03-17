@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### Less code equals less bugs.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 1:13 PM
+  Last Refresh : Wednesday, March 17, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
