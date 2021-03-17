@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 16, 2021, 11:13 PM
+  Last Refresh : Wednesday, March 17, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
