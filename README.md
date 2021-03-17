@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Alan Perlis*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 2:13 AM
+  Last Refresh : Wednesday, March 17, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
