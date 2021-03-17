@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 >
-> ~ *Kevlin Henney*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 2:11 PM
+  Last Refresh : Wednesday, March 17, 2021, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
