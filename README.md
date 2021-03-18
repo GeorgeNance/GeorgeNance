@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 8:12 PM
+  Last Refresh : Wednesday, March 17, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
