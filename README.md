@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Rob Pike*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 18, 2021, 2:13 AM
+  Last Refresh : Thursday, March 18, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
