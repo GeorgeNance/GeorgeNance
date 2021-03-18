@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### Cool URIs don't change.
 >
-> ~ *Douglas Crockford*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 18, 2021, 10:30 AM
+  Last Refresh : Thursday, March 18, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
