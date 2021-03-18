@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Richard Feynman*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 4:12 PM
+  Last Refresh : Wednesday, March 17, 2021, 5:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
