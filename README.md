@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Alan Perlis*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 18, 2021, 7:12 AM
+  Last Refresh : Thursday, March 18, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
