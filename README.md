@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 5:31 PM
+  Last Refresh : Wednesday, March 17, 2021, 6:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
