@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 9:15 PM
+  Last Refresh : Wednesday, March 17, 2021, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
