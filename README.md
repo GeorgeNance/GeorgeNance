@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 18, 2021, 4:11 AM
+  Last Refresh : Thursday, March 18, 2021, 5:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
