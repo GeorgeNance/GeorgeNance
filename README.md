@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Alan Turing*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 17, 2021, 6:45 PM
+  Last Refresh : Wednesday, March 17, 2021, 7:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
