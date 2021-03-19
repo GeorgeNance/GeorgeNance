@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 18, 2021, 10:13 PM
+  Last Refresh : Thursday, March 18, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
