@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *David Leinweber*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 4:11 AM
+  Last Refresh : Friday, March 19, 2021, 5:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
