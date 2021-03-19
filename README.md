@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 2:12 AM
+  Last Refresh : Friday, March 19, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
