@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+> ### Once you stop learning you start dying.
 >
-> ~ *Ken Thompson*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 2:11 PM
+  Last Refresh : Friday, March 19, 2021, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
