@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Michael A. Jackson*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 12:10 PM
+  Last Refresh : Friday, March 19, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
