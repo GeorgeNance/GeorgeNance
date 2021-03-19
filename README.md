@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
 >
-> ~ *Jeff Sickel*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 1:16 AM
+  Last Refresh : Friday, March 19, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
