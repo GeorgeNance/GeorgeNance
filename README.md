@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Deleted code is debugged code.
 >
-> ~ *Anonymous*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 12:11 AM
+  Last Refresh : Friday, March 19, 2021, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
