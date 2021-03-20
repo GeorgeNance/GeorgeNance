@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rick Osborne*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 6:45 PM
+  Last Refresh : Friday, March 19, 2021, 7:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
