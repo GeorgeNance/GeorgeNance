@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Rick Osborne*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 7:29 PM
+  Last Refresh : Friday, March 19, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
