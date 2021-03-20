@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 4:12 PM
+  Last Refresh : Friday, March 19, 2021, 5:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
