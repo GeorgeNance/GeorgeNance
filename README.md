@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Ken Thompson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 20, 2021, 2:13 AM
+  Last Refresh : Saturday, March 20, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
