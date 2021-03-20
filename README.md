@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Fred Brooks*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 20, 2021, 3:14 AM
+  Last Refresh : Saturday, March 20, 2021, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
