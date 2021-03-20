@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Never memorize something that you can look up.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 19, 2021, 11:13 PM
+  Last Refresh : Saturday, March 20, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
