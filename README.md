@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 20, 2021, 9:21 AM
+  Last Refresh : Saturday, March 20, 2021, 10:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
