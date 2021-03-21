@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Elon Musk*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 20, 2021, 4:12 PM
+  Last Refresh : Saturday, March 20, 2021, 5:33 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
