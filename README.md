@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Linus Torvalds*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 20, 2021, 11:13 PM
+  Last Refresh : Sunday, March 21, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
