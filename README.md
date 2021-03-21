@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Robert C. Martin*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 20, 2021, 5:33 PM
+  Last Refresh : Saturday, March 20, 2021, 6:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
