@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Quarry worker's creed*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 4:18 AM
+  Last Refresh : Sunday, March 21, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
