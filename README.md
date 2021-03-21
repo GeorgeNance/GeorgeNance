@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 3:14 PM
+  Last Refresh : Sunday, March 21, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
