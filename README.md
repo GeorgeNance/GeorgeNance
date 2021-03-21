@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 20, 2021, 9:15 PM
+  Last Refresh : Saturday, March 20, 2021, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
