@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Mario Fusco*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 3:14 AM
+  Last Refresh : Sunday, March 21, 2021, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
