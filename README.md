@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 >
-> ~ *Eric S. Raymond*
+> ~ *Mark Gibbs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 10:32 AM
+  Last Refresh : Sunday, March 21, 2021, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
