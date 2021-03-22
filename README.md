@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Andy Hunt (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 8:16 PM
+  Last Refresh : Sunday, March 21, 2021, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
