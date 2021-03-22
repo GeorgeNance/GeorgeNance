@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Alan Turing*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 6:48 PM
+  Last Refresh : Sunday, March 21, 2021, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
