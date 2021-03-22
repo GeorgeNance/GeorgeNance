@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 22, 2021, 2:12 PM
+  Last Refresh : Monday, March 22, 2021, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
