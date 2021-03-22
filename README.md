@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Rich Skrenta*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 10:15 PM
+  Last Refresh : Sunday, March 21, 2021, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
