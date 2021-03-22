@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Alan Kay*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 5:32 PM
+  Last Refresh : Sunday, March 21, 2021, 6:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
