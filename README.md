@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Steve Jobs*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 22, 2021, 10:33 AM
+  Last Refresh : Monday, March 22, 2021, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
