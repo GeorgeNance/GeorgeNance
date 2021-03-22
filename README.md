@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 21, 2021, 9:17 PM
+  Last Refresh : Sunday, March 21, 2021, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
