@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *David Leinweber*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 22, 2021, 8:16 PM
+  Last Refresh : Monday, March 22, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
