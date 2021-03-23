@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Gordon Bell*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 23, 2021, 2:12 PM
+  Last Refresh : Tuesday, March 23, 2021, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
