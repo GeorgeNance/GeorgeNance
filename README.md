@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Peter Roizen*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 23, 2021, 1:15 AM
+  Last Refresh : Tuesday, March 23, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
