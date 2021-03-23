@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### Making things easy is hard.
 >
-> ~ *Danny Hillis*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 22, 2021, 5:31 PM
+  Last Refresh : Monday, March 22, 2021, 6:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
