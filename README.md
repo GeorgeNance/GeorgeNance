@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### Once you stop learning you start dying.
 >
-> ~ *Alan Perlis*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 23, 2021, 10:35 AM
+  Last Refresh : Tuesday, March 23, 2021, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
