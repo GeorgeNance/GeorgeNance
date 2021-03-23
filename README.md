@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 23, 2021, 12:12 AM
+  Last Refresh : Tuesday, March 23, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
