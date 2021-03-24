@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Philip Greenspun*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 23, 2021, 8:16 PM
+  Last Refresh : Tuesday, March 23, 2021, 9:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
