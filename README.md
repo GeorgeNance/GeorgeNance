@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 >
-> ~ *Robert C. Martin*
+> ~ *Philip Greenspun*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 23, 2021, 7:32 PM
+  Last Refresh : Tuesday, March 23, 2021, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
