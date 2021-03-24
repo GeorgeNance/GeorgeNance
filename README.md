@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Charles Simonyi*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 24, 2021, 8:20 AM
+  Last Refresh : Wednesday, March 24, 2021, 9:39 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
