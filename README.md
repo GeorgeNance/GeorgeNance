@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### When in doubt, leave it out.
 >
-> ~ *Alan Perlis*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 23, 2021, 9:25 PM
+  Last Refresh : Tuesday, March 23, 2021, 10:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
