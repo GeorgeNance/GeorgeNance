@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Richard Stallman*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 24, 2021, 12:24 AM
+  Last Refresh : Wednesday, March 24, 2021, 1:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
