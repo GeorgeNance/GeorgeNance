@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Tom DeMarco*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 23, 2021, 6:49 PM
+  Last Refresh : Tuesday, March 23, 2021, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
