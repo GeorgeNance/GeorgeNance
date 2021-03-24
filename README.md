@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 >
-> ~ *Alan Perlis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 24, 2021, 4:20 AM
+  Last Refresh : Wednesday, March 24, 2021, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
