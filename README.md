@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Alan Perlis*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 24, 2021, 9:39 AM
+  Last Refresh : Wednesday, March 24, 2021, 11:01 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
