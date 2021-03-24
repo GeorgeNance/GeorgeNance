@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 24, 2021, 3:20 PM
+  Last Refresh : Wednesday, March 24, 2021, 4:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
