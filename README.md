@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 >
-> ~ *Alan Turing*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 24, 2021, 11:21 PM
+  Last Refresh : Thursday, March 25, 2021, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
