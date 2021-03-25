@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Ted Nelson*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 4:11 AM
+  Last Refresh : Thursday, March 25, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
