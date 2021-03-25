@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 9:19 AM
+  Last Refresh : Thursday, March 25, 2021, 10:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
