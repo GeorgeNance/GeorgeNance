@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 >
-> ~ *Gary Kildall*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 11:31 AM
+  Last Refresh : Thursday, March 25, 2021, 12:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
