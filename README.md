@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Alan Turing*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 8:15 AM
+  Last Refresh : Thursday, March 25, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
