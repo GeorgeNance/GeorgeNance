@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 7:14 AM
+  Last Refresh : Thursday, March 25, 2021, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
