@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Pamela Zave*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 24, 2021, 4:22 PM
+  Last Refresh : Wednesday, March 24, 2021, 6:00 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
