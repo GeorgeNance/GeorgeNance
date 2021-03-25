@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Harlan Mills*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 24, 2021, 7:48 PM
+  Last Refresh : Wednesday, March 24, 2021, 9:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
