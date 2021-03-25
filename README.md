@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
 >
-> ~ *Butler Lampson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 1:16 PM
+  Last Refresh : Thursday, March 25, 2021, 2:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
