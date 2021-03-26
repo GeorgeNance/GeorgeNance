@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Douglas Crockford*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 26, 2021, 8:17 AM
+  Last Refresh : Friday, March 26, 2021, 9:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
