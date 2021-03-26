@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Mark Gibbs*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 26, 2021, 10:40 AM
+  Last Refresh : Friday, March 26, 2021, 11:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
