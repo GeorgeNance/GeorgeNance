@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 10:24 PM
+  Last Refresh : Thursday, March 25, 2021, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
