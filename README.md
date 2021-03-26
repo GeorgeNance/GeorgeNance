@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Kent Beck*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 11:18 PM
+  Last Refresh : Friday, March 26, 2021, 12:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
