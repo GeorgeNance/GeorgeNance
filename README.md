@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### Cool URIs don't change.
 >
-> ~ *James Gleick*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 25, 2021, 4:17 PM
+  Last Refresh : Thursday, March 25, 2021, 5:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
