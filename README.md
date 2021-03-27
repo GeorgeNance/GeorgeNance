@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### No code is faster than no code.
 >
-> ~ *Alan Kay*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 2:14 PM
+  Last Refresh : Saturday, March 27, 2021, 3:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
