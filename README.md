@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Mario Fusco*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 26, 2021, 9:21 PM
+  Last Refresh : Friday, March 26, 2021, 10:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
