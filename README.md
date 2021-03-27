@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Anonymous*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 1:17 PM
+  Last Refresh : Saturday, March 27, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
