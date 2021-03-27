@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 1:18 AM
+  Last Refresh : Saturday, March 27, 2021, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
