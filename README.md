@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 26, 2021, 8:22 PM
+  Last Refresh : Friday, March 26, 2021, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
