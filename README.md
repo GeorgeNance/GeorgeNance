@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 26, 2021, 10:21 PM
+  Last Refresh : Friday, March 26, 2021, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
