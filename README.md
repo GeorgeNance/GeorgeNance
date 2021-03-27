@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 11:28 AM
+  Last Refresh : Saturday, March 27, 2021, 12:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
