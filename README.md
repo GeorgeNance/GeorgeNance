@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 >
-> ~ *Tim Berners-Lee*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 7:15 AM
+  Last Refresh : Saturday, March 27, 2021, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
