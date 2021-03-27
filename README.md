@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Danny Hillis*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 12:17 AM
+  Last Refresh : Saturday, March 27, 2021, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
