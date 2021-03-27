@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### Making things easy is hard.
 >
-> ~ *Gordon Bell*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 4:13 AM
+  Last Refresh : Saturday, March 27, 2021, 5:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
