@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Fred Brooks*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 28, 2021, 12:18 PM
+  Last Refresh : Sunday, March 28, 2021, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
