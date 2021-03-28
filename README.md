@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Elon Musk*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 10:22 PM
+  Last Refresh : Saturday, March 27, 2021, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
