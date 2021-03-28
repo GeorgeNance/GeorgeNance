@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Butler Lampson*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 27, 2021, 11:19 PM
+  Last Refresh : Sunday, March 28, 2021, 12:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
