@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 28, 2021, 9:28 AM
+  Last Refresh : Sunday, March 28, 2021, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
