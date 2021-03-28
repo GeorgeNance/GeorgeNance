@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 >
-> ~ *Butler Lampson*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 28, 2021, 2:14 PM
+  Last Refresh : Sunday, March 28, 2021, 3:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
