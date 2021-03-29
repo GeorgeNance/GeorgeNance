@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
 >
-> ~ *Daniel T. Barry*
+> ~ *Steve McConnell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 28, 2021, 8:24 PM
+  Last Refresh : Sunday, March 28, 2021, 9:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
