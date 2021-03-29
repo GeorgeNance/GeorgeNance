@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Charles Simonyi*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 28, 2021, 5:50 PM
+  Last Refresh : Sunday, March 28, 2021, 7:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
