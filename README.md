@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 >
-> ~ *Randall E. Stross*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 29, 2021, 8:22 PM
+  Last Refresh : Monday, March 29, 2021, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
