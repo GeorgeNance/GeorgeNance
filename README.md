@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Eric S. Raymond*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 30, 2021, 3:17 AM
+  Last Refresh : Tuesday, March 30, 2021, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
