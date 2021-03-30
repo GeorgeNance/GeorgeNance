@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Dennis Ritchie*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 29, 2021, 11:19 PM
+  Last Refresh : Tuesday, March 30, 2021, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
