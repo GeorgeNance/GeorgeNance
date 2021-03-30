@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Danny Hillis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 30, 2021, 3:18 PM
+  Last Refresh : Tuesday, March 30, 2021, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
