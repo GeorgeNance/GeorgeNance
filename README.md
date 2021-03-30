@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
 >
-> ~ *Donald Knuth*
+> ~ *Manuel Blum*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 29, 2021, 9:20 PM
+  Last Refresh : Monday, March 29, 2021, 10:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
