@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 >
-> ~ *Vannevar Bush*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 30, 2021, 2:15 PM
+  Last Refresh : Tuesday, March 30, 2021, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
