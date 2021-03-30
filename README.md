@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Danny Hillis*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 30, 2021, 1:17 PM
+  Last Refresh : Tuesday, March 30, 2021, 2:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
