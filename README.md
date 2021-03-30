@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 30, 2021, 4:14 AM
+  Last Refresh : Tuesday, March 30, 2021, 5:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
