@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 30, 2021, 6:59 PM
+  Last Refresh : Tuesday, March 30, 2021, 7:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
