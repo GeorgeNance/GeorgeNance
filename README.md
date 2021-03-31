@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 1:18 PM
+  Last Refresh : Wednesday, March 31, 2021, 2:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
