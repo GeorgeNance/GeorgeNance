@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Ken Thompson*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 30, 2021, 11:19 PM
+  Last Refresh : Wednesday, March 31, 2021, 12:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
