@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Fred Brooks*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 7:16 AM
+  Last Refresh : Wednesday, March 31, 2021, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
