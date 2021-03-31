@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Alan Turing*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 12:18 AM
+  Last Refresh : Wednesday, March 31, 2021, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
