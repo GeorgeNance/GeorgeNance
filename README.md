@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 11:29 AM
+  Last Refresh : Wednesday, March 31, 2021, 12:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
