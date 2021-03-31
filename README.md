@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Alan Perlis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 12:17 PM
+  Last Refresh : Wednesday, March 31, 2021, 1:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
