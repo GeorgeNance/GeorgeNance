@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 5:23 AM
+  Last Refresh : Wednesday, March 31, 2021, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
