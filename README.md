@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 2:15 PM
+  Last Refresh : Wednesday, March 31, 2021, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
