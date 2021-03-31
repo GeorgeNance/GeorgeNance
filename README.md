@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 6:24 AM
+  Last Refresh : Wednesday, March 31, 2021, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
