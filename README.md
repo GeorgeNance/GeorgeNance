@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 >
-> ~ *Vannevar Bush*
+> ~ *Pete Cordell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 8:17 AM
+  Last Refresh : Wednesday, March 31, 2021, 9:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
