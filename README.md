@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Butler Lampson*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 1, 2021, 8:17 AM
+  Last Refresh : Thursday, April 1, 2021, 9:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
