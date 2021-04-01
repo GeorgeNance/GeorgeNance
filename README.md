@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Kevlin Henney*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 1, 2021, 7:17 AM
+  Last Refresh : Thursday, April 1, 2021, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
