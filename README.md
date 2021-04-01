@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *John Warnock*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 1, 2021, 2:15 PM
+  Last Refresh : Thursday, April 1, 2021, 3:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
