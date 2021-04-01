@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Brian Kernighan*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 10:22 PM
+  Last Refresh : Wednesday, March 31, 2021, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
