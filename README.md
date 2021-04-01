@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Addy Osmani*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 1, 2021, 9:30 AM
+  Last Refresh : Thursday, April 1, 2021, 10:45 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
