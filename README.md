@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Martin Fowler*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 31, 2021, 5:50 PM
+  Last Refresh : Wednesday, March 31, 2021, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
