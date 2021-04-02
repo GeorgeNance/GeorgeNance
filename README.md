@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 2:23 AM
+  Last Refresh : Friday, April 2, 2021, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
