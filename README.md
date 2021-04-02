@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Alan Turing*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 1:20 AM
+  Last Refresh : Friday, April 2, 2021, 2:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
