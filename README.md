@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### Cool URIs don't change.
 >
-> ~ *Ada Lovelace*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 1, 2021, 9:31 PM
+  Last Refresh : Thursday, April 1, 2021, 10:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
