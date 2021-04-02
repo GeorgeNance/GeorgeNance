@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Fred Brooks*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 8:17 AM
+  Last Refresh : Friday, April 2, 2021, 9:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
