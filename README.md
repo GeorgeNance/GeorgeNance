@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Seymour Cray*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 3:18 PM
+  Last Refresh : Friday, April 2, 2021, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
