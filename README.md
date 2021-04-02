@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 >
-> ~ *John Carmack*
+> ~ *Seymour Cray*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 2:14 PM
+  Last Refresh : Friday, April 2, 2021, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
