@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Addy Osmani*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 3:18 AM
+  Last Refresh : Friday, April 2, 2021, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
