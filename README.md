@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Danny Hillis*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 10:44 AM
+  Last Refresh : Friday, April 2, 2021, 11:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
