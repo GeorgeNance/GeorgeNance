@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Daniel T. Barry*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 2:14 PM
+  Last Refresh : Saturday, April 3, 2021, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
