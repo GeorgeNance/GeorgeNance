@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Michael A. Jackson*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 5:22 AM
+  Last Refresh : Saturday, April 3, 2021, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
