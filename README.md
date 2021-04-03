@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Ken Thompson*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 10:42 AM
+  Last Refresh : Saturday, April 3, 2021, 11:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
