@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Steve Jobs*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 9:21 PM
+  Last Refresh : Friday, April 2, 2021, 10:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
