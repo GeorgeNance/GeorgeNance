@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Tim Berners-Lee*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 4:17 PM
+  Last Refresh : Friday, April 2, 2021, 5:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
