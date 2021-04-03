@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### When in doubt, leave it out.
 >
-> ~ *Bill Gates*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 7:03 PM
+  Last Refresh : Friday, April 2, 2021, 8:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
