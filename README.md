@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Martin Fowler*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 8:16 AM
+  Last Refresh : Saturday, April 3, 2021, 9:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
