@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 >
-> ~ *Michael A. Jackson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 2, 2021, 5:49 PM
+  Last Refresh : Friday, April 2, 2021, 7:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
