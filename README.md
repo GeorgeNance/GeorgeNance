@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 >
-> ~ *Charles Babbage*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 1:17 PM
+  Last Refresh : Saturday, April 3, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
