@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Richard Hamming*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 8:22 PM
+  Last Refresh : Saturday, April 3, 2021, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
