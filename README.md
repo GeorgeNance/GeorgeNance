@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 >
-> ~ *Martin Fowler*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 4, 2021, 10:42 AM
+  Last Refresh : Sunday, April 4, 2021, 11:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
