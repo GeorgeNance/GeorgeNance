@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 5:52 PM
+  Last Refresh : Saturday, April 3, 2021, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
