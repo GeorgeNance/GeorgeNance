@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Ken Thompson*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 4:17 PM
+  Last Refresh : Saturday, April 3, 2021, 5:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
