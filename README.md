@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Douglas Crockford*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 9:21 PM
+  Last Refresh : Saturday, April 3, 2021, 10:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
