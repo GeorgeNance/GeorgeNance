@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Albert Einstein*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 4, 2021, 9:28 AM
+  Last Refresh : Sunday, April 4, 2021, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
