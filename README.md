@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Maurice Wilkes*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 7:08 PM
+  Last Refresh : Saturday, April 3, 2021, 8:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
