@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Fred Brooks*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 3, 2021, 10:21 PM
+  Last Refresh : Saturday, April 3, 2021, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
