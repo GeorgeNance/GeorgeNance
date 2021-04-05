@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 5, 2021, 3:19 PM
+  Last Refresh : Monday, April 5, 2021, 4:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
