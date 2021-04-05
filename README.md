@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 >
-> ~ *Douglas Crockford*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ make it smaller. If we could just get it down to what it does really well and re
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 4, 2021, 4:17 PM
+  Last Refresh : Sunday, April 4, 2021, 5:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
