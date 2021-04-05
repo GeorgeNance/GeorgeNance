@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The real problem with throwaway code comes when it isn't thrown away.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 5, 2021, 7:16 AM
+  Last Refresh : Monday, April 5, 2021, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
