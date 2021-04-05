@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
 >
-> ~ *Danny Hillis*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 4, 2021, 11:20 PM
+  Last Refresh : Monday, April 5, 2021, 12:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
