@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Douglas Crockford*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 5, 2021, 6:24 AM
+  Last Refresh : Monday, April 5, 2021, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
