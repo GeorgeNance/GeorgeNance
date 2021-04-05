@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Albert Einstein*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 5, 2021, 2:18 AM
+  Last Refresh : Monday, April 5, 2021, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
