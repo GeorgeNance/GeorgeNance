@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### Deleted code is debugged code.
 >
-> ~ *Tom DeMarco*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 5, 2021, 8:17 AM
+  Last Refresh : Monday, April 5, 2021, 9:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
