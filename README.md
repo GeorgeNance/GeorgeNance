@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Ken Thompson*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 6, 2021, 10:47 AM
+  Last Refresh : Tuesday, April 6, 2021, 11:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
