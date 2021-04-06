@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 >
-> ~ *Vannevar Bush*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 6, 2021, 3:17 AM
+  Last Refresh : Tuesday, April 6, 2021, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
