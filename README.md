@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Kevlin Henney*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 6, 2021, 9:29 AM
+  Last Refresh : Tuesday, April 6, 2021, 10:47 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
