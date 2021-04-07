@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Ken Thompson*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 7, 2021, 11:31 AM
+  Last Refresh : Wednesday, April 7, 2021, 12:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
