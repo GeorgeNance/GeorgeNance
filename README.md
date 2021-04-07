@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Alan Kay*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 7, 2021, 3:15 AM
+  Last Refresh : Wednesday, April 7, 2021, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
