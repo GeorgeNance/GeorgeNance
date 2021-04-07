@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Rich Skrenta*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 7, 2021, 12:20 PM
+  Last Refresh : Wednesday, April 7, 2021, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
