@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Tom DeMarco*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 7, 2021, 1:17 PM
+  Last Refresh : Wednesday, April 7, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
