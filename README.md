@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+> ### Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 >
-> ~ *Daniel T. Barry*
+> ~ *Poul-Henning Kamp*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 6, 2021, 11:20 PM
+  Last Refresh : Wednesday, April 7, 2021, 12:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
