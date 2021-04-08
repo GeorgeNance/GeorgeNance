@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Bob Carr*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 8, 2021, 12:20 AM
+  Last Refresh : Thursday, April 8, 2021, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
