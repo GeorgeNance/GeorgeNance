@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Danny Hillis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 8, 2021, 8:16 AM
+  Last Refresh : Thursday, April 8, 2021, 9:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
