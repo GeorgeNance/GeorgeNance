@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *George Boole*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 7, 2021, 7:10 PM
+  Last Refresh : Wednesday, April 7, 2021, 8:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
