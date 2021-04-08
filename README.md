@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Alan Perlis*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 7, 2021, 8:24 PM
+  Last Refresh : Wednesday, April 7, 2021, 9:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
