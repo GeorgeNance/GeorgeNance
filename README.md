@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Ken Thompson*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 8, 2021, 11:29 AM
+  Last Refresh : Thursday, April 8, 2021, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
