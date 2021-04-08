@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Richard Hamming*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 7, 2021, 4:18 PM
+  Last Refresh : Wednesday, April 7, 2021, 5:53 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
