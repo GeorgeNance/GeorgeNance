@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 >
-> ~ *Donald Knuth*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 8, 2021, 6:24 AM
+  Last Refresh : Thursday, April 8, 2021, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
