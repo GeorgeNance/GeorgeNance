@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Elon Musk*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 8, 2021, 10:43 AM
+  Last Refresh : Thursday, April 8, 2021, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
