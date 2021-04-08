@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Anonymous*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 7, 2021, 9:22 PM
+  Last Refresh : Wednesday, April 7, 2021, 10:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
