@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 >
-> ~ *Bill Gates*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 9, 2021, 8:16 AM
+  Last Refresh : Friday, April 9, 2021, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
