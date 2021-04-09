@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 9, 2021, 3:18 PM
+  Last Refresh : Friday, April 9, 2021, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
