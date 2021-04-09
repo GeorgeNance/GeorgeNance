@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
 >
-> ~ *Joel Spolsky*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 8, 2021, 11:20 PM
+  Last Refresh : Friday, April 9, 2021, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
