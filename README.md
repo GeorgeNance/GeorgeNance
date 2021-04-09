@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 9, 2021, 1:21 AM
+  Last Refresh : Friday, April 9, 2021, 2:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
