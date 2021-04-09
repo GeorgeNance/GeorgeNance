@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *David Gelernter*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 9, 2021, 11:21 AM
+  Last Refresh : Friday, April 9, 2021, 12:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
