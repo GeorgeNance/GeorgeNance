@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Charles Simonyi*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 8, 2021, 4:17 PM
+  Last Refresh : Thursday, April 8, 2021, 5:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
