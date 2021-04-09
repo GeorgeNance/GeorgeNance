@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *John Carmack*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 9, 2021, 12:16 PM
+  Last Refresh : Friday, April 9, 2021, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
