@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 10, 2021, 4:13 AM
+  Last Refresh : Saturday, April 10, 2021, 5:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
