@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Daniel T. Barry*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 9, 2021, 11:19 PM
+  Last Refresh : Saturday, April 10, 2021, 12:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
