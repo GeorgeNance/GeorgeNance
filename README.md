@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 9, 2021, 5:51 PM
+  Last Refresh : Friday, April 9, 2021, 7:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
