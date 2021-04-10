@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 10, 2021, 5:22 AM
+  Last Refresh : Saturday, April 10, 2021, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
