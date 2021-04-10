@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
-> ~ *George Boole*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 10, 2021, 1:18 AM
+  Last Refresh : Saturday, April 10, 2021, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
