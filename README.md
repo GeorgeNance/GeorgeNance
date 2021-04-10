@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 10, 2021, 1:16 PM
+  Last Refresh : Saturday, April 10, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
