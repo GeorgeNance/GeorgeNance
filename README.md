@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Wayne Ratliff*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 10, 2021, 12:17 PM
+  Last Refresh : Saturday, April 10, 2021, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
