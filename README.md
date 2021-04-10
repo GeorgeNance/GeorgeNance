@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Alan Turing*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 9, 2021, 7:03 PM
+  Last Refresh : Friday, April 9, 2021, 8:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
