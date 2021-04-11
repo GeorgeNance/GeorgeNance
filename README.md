@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Danny Hillis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 11, 2021, 7:15 AM
+  Last Refresh : Sunday, April 11, 2021, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
