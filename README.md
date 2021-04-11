@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 10, 2021, 10:20 PM
+  Last Refresh : Saturday, April 10, 2021, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
