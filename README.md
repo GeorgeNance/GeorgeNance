@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Richard Stallman*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 10, 2021, 8:22 PM
+  Last Refresh : Saturday, April 10, 2021, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
