@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 >
-> ~ *Kent Beck*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 11, 2021, 12:17 PM
+  Last Refresh : Sunday, April 11, 2021, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
