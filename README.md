@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 11, 2021, 8:16 AM
+  Last Refresh : Sunday, April 11, 2021, 9:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
