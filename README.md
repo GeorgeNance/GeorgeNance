@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Danny Hillis*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 11, 2021, 2:14 PM
+  Last Refresh : Sunday, April 11, 2021, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
