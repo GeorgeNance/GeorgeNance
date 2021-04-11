@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Brian Kernighan*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 11, 2021, 12:18 AM
+  Last Refresh : Sunday, April 11, 2021, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
