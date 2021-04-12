@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Fred Brooks*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 12, 2021, 2:17 AM
+  Last Refresh : Monday, April 12, 2021, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
