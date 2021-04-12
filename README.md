@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Elon Musk*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 12, 2021, 10:38 AM
+  Last Refresh : Monday, April 12, 2021, 11:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
