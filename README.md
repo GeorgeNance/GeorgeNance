@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 11, 2021, 11:20 PM
+  Last Refresh : Monday, April 12, 2021, 12:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
