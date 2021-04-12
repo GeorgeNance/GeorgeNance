@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Dennis Ritchie*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 12, 2021, 7:16 AM
+  Last Refresh : Monday, April 12, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
