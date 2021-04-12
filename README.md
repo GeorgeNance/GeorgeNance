@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 11, 2021, 9:22 PM
+  Last Refresh : Sunday, April 11, 2021, 10:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
