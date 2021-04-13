@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Bdale Garbee*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 13, 2021, 11:26 AM
+  Last Refresh : Tuesday, April 13, 2021, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
