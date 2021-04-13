@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 >
-> ~ *Marijn Haverbeke*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 13, 2021, 4:13 AM
+  Last Refresh : Tuesday, April 13, 2021, 5:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
