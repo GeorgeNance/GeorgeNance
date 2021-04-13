@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 >
-> ~ *Martin Fowler*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 12, 2021, 11:20 PM
+  Last Refresh : Tuesday, April 13, 2021, 12:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
