@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 13, 2021, 6:24 AM
+  Last Refresh : Tuesday, April 13, 2021, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
