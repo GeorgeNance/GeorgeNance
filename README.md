@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Fred Brooks*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 13, 2021, 10:41 AM
+  Last Refresh : Tuesday, April 13, 2021, 11:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
