@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 12, 2021, 5:53 PM
+  Last Refresh : Monday, April 12, 2021, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
