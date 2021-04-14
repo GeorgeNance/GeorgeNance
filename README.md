@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Douglas Crockford*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 14, 2021, 2:16 AM
+  Last Refresh : Wednesday, April 14, 2021, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
