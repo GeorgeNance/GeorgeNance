@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
 >
-> ~ *Daniel T. Barry*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 14, 2021, 11:25 AM
+  Last Refresh : Wednesday, April 14, 2021, 12:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
