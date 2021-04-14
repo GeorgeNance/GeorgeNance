@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *John Carmack*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 14, 2021, 10:35 AM
+  Last Refresh : Wednesday, April 14, 2021, 11:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
