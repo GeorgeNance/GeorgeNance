@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Leslie Lamport*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 13, 2021, 5:47 PM
+  Last Refresh : Tuesday, April 13, 2021, 7:02 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
