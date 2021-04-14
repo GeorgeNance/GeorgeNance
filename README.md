@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *George Boole*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 13, 2021, 10:18 PM
+  Last Refresh : Tuesday, April 13, 2021, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
