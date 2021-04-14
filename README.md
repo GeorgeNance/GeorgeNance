@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Ada Lovelace*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 13, 2021, 8:21 PM
+  Last Refresh : Tuesday, April 13, 2021, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
