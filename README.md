@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 14, 2021, 1:16 PM
+  Last Refresh : Wednesday, April 14, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
