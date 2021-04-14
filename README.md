@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *David Parnas*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 14, 2021, 12:17 AM
+  Last Refresh : Wednesday, April 14, 2021, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
