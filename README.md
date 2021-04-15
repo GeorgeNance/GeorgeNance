@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 >
-> ~ *Gary Kildall*
+> ~ *P. J. Plauger*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 15, 2021, 1:16 PM
+  Last Refresh : Thursday, April 15, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
