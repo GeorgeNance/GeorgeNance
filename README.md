@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Steve Jobs*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 14, 2021, 5:50 PM
+  Last Refresh : Wednesday, April 14, 2021, 7:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
