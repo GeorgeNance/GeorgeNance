@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 15, 2021, 4:13 AM
+  Last Refresh : Thursday, April 15, 2021, 5:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
