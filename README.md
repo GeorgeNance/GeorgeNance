@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 >
-> ~ *Charles Babbage*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 14, 2021, 9:19 PM
+  Last Refresh : Wednesday, April 14, 2021, 10:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
