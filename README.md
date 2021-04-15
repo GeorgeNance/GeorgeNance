@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Albert Einstein*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 15, 2021, 3:16 AM
+  Last Refresh : Thursday, April 15, 2021, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
