@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 >
-> ~ *Dennis Ritchie*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 14, 2021, 8:20 PM
+  Last Refresh : Wednesday, April 14, 2021, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
