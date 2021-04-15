@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Steve Jobs*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 15, 2021, 11:28 AM
+  Last Refresh : Thursday, April 15, 2021, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
