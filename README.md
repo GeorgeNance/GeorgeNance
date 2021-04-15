@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Douglas Crockford*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 15, 2021, 2:16 AM
+  Last Refresh : Thursday, April 15, 2021, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
