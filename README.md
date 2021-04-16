@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Fred Brooks*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 16, 2021, 10:38 AM
+  Last Refresh : Friday, April 16, 2021, 11:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
