@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Fred Brooks*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 16, 2021, 12:17 AM
+  Last Refresh : Friday, April 16, 2021, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
