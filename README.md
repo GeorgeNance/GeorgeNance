@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Brian Kernighan*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 16, 2021, 7:16 AM
+  Last Refresh : Friday, April 16, 2021, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
