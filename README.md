@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Bill Gates*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 16, 2021, 3:16 AM
+  Last Refresh : Friday, April 16, 2021, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
