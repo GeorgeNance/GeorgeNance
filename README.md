@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 >
-> ~ *Fred Brooks*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 15, 2021, 7:05 PM
+  Last Refresh : Thursday, April 15, 2021, 8:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
