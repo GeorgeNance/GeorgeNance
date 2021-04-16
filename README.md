@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Alan Perlis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 15, 2021, 11:18 PM
+  Last Refresh : Friday, April 16, 2021, 12:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
