@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Dennis Ritchie*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 16, 2021, 4:13 AM
+  Last Refresh : Friday, April 16, 2021, 5:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
