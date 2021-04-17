@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 17, 2021, 12:18 AM
+  Last Refresh : Saturday, April 17, 2021, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
