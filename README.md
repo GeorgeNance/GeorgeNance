@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Linus Torvalds*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 17, 2021, 12:16 PM
+  Last Refresh : Saturday, April 17, 2021, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
