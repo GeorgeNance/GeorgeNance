@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### Really good programs live forever.
 >
-> ~ *Sean Parent*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 17, 2021, 4:13 AM
+  Last Refresh : Saturday, April 17, 2021, 5:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
