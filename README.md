@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Jamie Zawinski*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 17, 2021, 2:16 AM
+  Last Refresh : Saturday, April 17, 2021, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
