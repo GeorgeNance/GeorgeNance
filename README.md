@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Charles Simonyi*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 17, 2021, 5:22 AM
+  Last Refresh : Saturday, April 17, 2021, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
