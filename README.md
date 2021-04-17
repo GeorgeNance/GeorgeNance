@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 16, 2021, 5:48 PM
+  Last Refresh : Friday, April 16, 2021, 7:01 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
