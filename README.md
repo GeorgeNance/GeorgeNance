@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 16, 2021, 4:16 PM
+  Last Refresh : Friday, April 16, 2021, 5:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
