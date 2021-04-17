@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Henry Ford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 17, 2021, 2:14 PM
+  Last Refresh : Saturday, April 17, 2021, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
