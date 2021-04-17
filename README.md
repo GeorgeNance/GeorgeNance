@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 16, 2021, 10:19 PM
+  Last Refresh : Friday, April 16, 2021, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
