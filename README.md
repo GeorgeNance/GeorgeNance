@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Sean Parent*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 18, 2021, 2:16 AM
+  Last Refresh : Sunday, April 18, 2021, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
