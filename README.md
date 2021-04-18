@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 >
-> ~ *Albert Einstein*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 18, 2021, 1:16 PM
+  Last Refresh : Sunday, April 18, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
