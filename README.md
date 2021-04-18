@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 >
-> ~ *Manuel Blum*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 18, 2021, 6:22 AM
+  Last Refresh : Sunday, April 18, 2021, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
