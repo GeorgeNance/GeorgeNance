@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *David Leinweber*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 18, 2021, 9:27 AM
+  Last Refresh : Sunday, April 18, 2021, 10:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
