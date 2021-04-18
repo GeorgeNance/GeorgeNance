@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Sean Parent*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 18, 2021, 3:16 AM
+  Last Refresh : Sunday, April 18, 2021, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
