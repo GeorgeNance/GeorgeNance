@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Donald Knuth*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 17, 2021, 4:15 PM
+  Last Refresh : Saturday, April 17, 2021, 5:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
