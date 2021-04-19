@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Donald Knuth*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 18, 2021, 11:20 PM
+  Last Refresh : Monday, April 19, 2021, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
