@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Jim Coplien*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 4:13 AM
+  Last Refresh : Monday, April 19, 2021, 5:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
