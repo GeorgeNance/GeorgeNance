@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 1:19 AM
+  Last Refresh : Monday, April 19, 2021, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
