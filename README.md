@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Anonymous*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 12:19 AM
+  Last Refresh : Monday, April 19, 2021, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
