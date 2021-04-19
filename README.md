@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Ken Olsen*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 3:16 AM
+  Last Refresh : Monday, April 19, 2021, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
