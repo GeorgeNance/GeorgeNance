@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Jaron Lanier*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 18, 2021, 5:50 PM
+  Last Refresh : Sunday, April 18, 2021, 7:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
