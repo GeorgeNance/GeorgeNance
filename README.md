@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Alan Turing*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 2:16 AM
+  Last Refresh : Monday, April 19, 2021, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
