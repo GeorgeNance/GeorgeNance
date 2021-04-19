@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Fred Brooks*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 1:16 PM
+  Last Refresh : Monday, April 19, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
