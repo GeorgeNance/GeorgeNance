@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 18, 2021, 4:15 PM
+  Last Refresh : Sunday, April 18, 2021, 5:50 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
