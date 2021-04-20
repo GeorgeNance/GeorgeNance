@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Ray Ozzie*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 20, 2021, 5:23 AM
+  Last Refresh : Tuesday, April 20, 2021, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
