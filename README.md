@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
 >
-> ~ *Fred Brooks*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 20, 2021, 11:27 AM
+  Last Refresh : Tuesday, April 20, 2021, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
