@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Tom DeMarco*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 20, 2021, 12:16 AM
+  Last Refresh : Tuesday, April 20, 2021, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
