@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 20, 2021, 2:15 PM
+  Last Refresh : Tuesday, April 20, 2021, 3:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
