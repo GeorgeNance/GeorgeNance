@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Bill Gates*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 20, 2021, 1:19 AM
+  Last Refresh : Tuesday, April 20, 2021, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
