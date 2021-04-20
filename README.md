@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *Danny Hillis*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 20, 2021, 12:19 PM
+  Last Refresh : Tuesday, April 20, 2021, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
