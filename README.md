@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 7:04 PM
+  Last Refresh : Monday, April 19, 2021, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
