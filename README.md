@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 >
-> ~ *Elon Musk*
+> ~ *James Gleick*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 8:21 PM
+  Last Refresh : Monday, April 19, 2021, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
