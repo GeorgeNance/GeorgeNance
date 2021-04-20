@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Bill Gates*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 19, 2021, 11:21 PM
+  Last Refresh : Tuesday, April 20, 2021, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
