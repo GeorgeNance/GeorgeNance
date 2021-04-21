@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Jamie Zawinski*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 20, 2021, 10:20 PM
+  Last Refresh : Tuesday, April 20, 2021, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
