@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
 >
-> ~ *Bill Gates*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 21, 2021, 2:14 PM
+  Last Refresh : Wednesday, April 21, 2021, 3:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
