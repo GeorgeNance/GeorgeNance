@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Addy Osmani*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 21, 2021, 10:38 AM
+  Last Refresh : Wednesday, April 21, 2021, 11:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
