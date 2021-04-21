@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Vint Cerf*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 21, 2021, 3:17 AM
+  Last Refresh : Wednesday, April 21, 2021, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
