@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 >
-> ~ *Fred Brooks*
+> ~ *Vint Cerf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 21, 2021, 2:16 AM
+  Last Refresh : Wednesday, April 21, 2021, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
