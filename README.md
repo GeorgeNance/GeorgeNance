@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *John Carmack*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 20, 2021, 8:22 PM
+  Last Refresh : Tuesday, April 20, 2021, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
