@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Bob Frankston*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 22, 2021, 9:29 AM
+  Last Refresh : Thursday, April 22, 2021, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
