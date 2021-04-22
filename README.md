@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 22, 2021, 2:17 AM
+  Last Refresh : Thursday, April 22, 2021, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
