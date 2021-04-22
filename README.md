@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Joshua Bloch*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 22, 2021, 11:29 AM
+  Last Refresh : Thursday, April 22, 2021, 12:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
