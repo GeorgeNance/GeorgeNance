@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 22, 2021, 6:25 AM
+  Last Refresh : Thursday, April 22, 2021, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
