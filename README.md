@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Richard Stallman*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 21, 2021, 10:20 PM
+  Last Refresh : Wednesday, April 21, 2021, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
