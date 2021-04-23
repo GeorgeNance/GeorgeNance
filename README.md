@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Donald Knuth*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 23, 2021, 3:20 PM
+  Last Refresh : Friday, April 23, 2021, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
