@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 23, 2021, 8:17 AM
+  Last Refresh : Friday, April 23, 2021, 9:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
