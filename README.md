@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Vint Cerf*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 22, 2021, 10:21 PM
+  Last Refresh : Thursday, April 22, 2021, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
