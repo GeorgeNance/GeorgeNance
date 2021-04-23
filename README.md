@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Albert Einstein*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 23, 2021, 11:29 AM
+  Last Refresh : Friday, April 23, 2021, 12:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
