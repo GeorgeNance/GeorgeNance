@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Ward Cunningham*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 23, 2021, 7:17 AM
+  Last Refresh : Friday, April 23, 2021, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
