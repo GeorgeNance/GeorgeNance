@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Alan Turing*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 23, 2021, 4:17 PM
+  Last Refresh : Friday, April 23, 2021, 5:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
