@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Charles Simonyi*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 24, 2021, 12:20 AM
+  Last Refresh : Saturday, April 24, 2021, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
