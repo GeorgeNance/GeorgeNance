@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 24, 2021, 10:41 AM
+  Last Refresh : Saturday, April 24, 2021, 11:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
