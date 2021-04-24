@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Quarry worker's creed*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 23, 2021, 5:51 PM
+  Last Refresh : Friday, April 23, 2021, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
