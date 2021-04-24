@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 >
-> ~ *Daniel T. Barry*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 24, 2021, 2:16 AM
+  Last Refresh : Saturday, April 24, 2021, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
