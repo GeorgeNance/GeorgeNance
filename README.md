@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
-> ~ *Pamela Zave*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 24, 2021, 1:18 AM
+  Last Refresh : Saturday, April 24, 2021, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
