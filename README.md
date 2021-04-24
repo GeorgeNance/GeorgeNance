@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *John Gall (author)*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 24, 2021, 7:16 AM
+  Last Refresh : Saturday, April 24, 2021, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
