@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Charles Babbage*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 24, 2021, 1:17 PM
+  Last Refresh : Saturday, April 24, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
