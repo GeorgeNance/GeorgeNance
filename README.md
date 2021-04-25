@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Ted Nelson*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 8:16 AM
+  Last Refresh : Sunday, April 25, 2021, 9:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
