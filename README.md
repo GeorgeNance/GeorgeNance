@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 1:18 AM
+  Last Refresh : Sunday, April 25, 2021, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
