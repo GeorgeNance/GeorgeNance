@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Ted Nelson*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 6:23 AM
+  Last Refresh : Sunday, April 25, 2021, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
