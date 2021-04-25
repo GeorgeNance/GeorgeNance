@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 11:29 AM
+  Last Refresh : Sunday, April 25, 2021, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
