@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Elon Musk*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 2:17 AM
+  Last Refresh : Sunday, April 25, 2021, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
