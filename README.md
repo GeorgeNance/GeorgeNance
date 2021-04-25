@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 >
-> ~ *Alan Perlis*
+> ~ *Anders Hejlsberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 4:13 AM
+  Last Refresh : Sunday, April 25, 2021, 5:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
