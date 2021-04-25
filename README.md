@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Vint Cerf*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 1:16 PM
+  Last Refresh : Sunday, April 25, 2021, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
