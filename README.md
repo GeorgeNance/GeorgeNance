@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Fred Brooks*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 9:22 PM
+  Last Refresh : Sunday, April 25, 2021, 10:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
