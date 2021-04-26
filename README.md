@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Albert Einstein*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 26, 2021, 12:19 PM
+  Last Refresh : Monday, April 26, 2021, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
