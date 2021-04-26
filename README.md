@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 26, 2021, 7:17 AM
+  Last Refresh : Monday, April 26, 2021, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
