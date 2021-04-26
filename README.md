@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Michael A. Jackson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 26, 2021, 1:17 PM
+  Last Refresh : Monday, April 26, 2021, 2:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
