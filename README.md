@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Harlan Mills*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 26, 2021, 3:18 AM
+  Last Refresh : Monday, April 26, 2021, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
