@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *John von Neumann*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 25, 2021, 5:53 PM
+  Last Refresh : Sunday, April 25, 2021, 7:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
