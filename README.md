@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Eric S. Raymond*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 26, 2021, 10:20 PM
+  Last Refresh : Monday, April 26, 2021, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
