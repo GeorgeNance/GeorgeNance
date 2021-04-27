@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Steve Jobs*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 27, 2021, 3:17 AM
+  Last Refresh : Tuesday, April 27, 2021, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
