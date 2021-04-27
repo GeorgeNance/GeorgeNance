@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Marvin Minsky*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 27, 2021, 10:43 AM
+  Last Refresh : Tuesday, April 27, 2021, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
