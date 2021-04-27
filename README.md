@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 26, 2021, 11:20 PM
+  Last Refresh : Tuesday, April 27, 2021, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
