@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Alan Perlis*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 27, 2021, 12:19 AM
+  Last Refresh : Tuesday, April 27, 2021, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
