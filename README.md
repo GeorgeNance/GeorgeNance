@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Douglas Crockford*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 27, 2021, 2:15 PM
+  Last Refresh : Tuesday, April 27, 2021, 3:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
