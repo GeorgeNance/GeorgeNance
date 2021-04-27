@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 >
-> ~ *Ken Thompson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 26, 2021, 8:21 PM
+  Last Refresh : Monday, April 26, 2021, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
