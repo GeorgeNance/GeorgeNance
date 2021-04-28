@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Fred Brooks*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 28, 2021, 2:15 PM
+  Last Refresh : Wednesday, April 28, 2021, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
