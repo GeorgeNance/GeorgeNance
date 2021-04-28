@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Fred Brooks*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 28, 2021, 2:17 AM
+  Last Refresh : Wednesday, April 28, 2021, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
