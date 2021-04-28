@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Joshua Bloch*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 28, 2021, 11:29 AM
+  Last Refresh : Wednesday, April 28, 2021, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
