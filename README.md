@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 27, 2021, 7:06 PM
+  Last Refresh : Tuesday, April 27, 2021, 8:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
