@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### When in doubt, leave it out.
 >
-> ~ *Richard Stallman*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 28, 2021, 10:45 AM
+  Last Refresh : Wednesday, April 28, 2021, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
