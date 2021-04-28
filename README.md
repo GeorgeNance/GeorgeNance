@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Jamie Zawinski*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 27, 2021, 9:21 PM
+  Last Refresh : Tuesday, April 27, 2021, 10:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
