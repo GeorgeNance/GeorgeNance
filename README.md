@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 >
-> ~ *Alan Perlis*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 10:38 AM
+  Last Refresh : Thursday, April 29, 2021, 11:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
