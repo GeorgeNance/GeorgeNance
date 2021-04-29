@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Robert C. Martin*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 12:15 AM
+  Last Refresh : Thursday, April 29, 2021, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
