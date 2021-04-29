@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Charles Babbage*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 11:25 AM
+  Last Refresh : Thursday, April 29, 2021, 12:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
