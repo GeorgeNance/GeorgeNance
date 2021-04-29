@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 6:23 AM
+  Last Refresh : Thursday, April 29, 2021, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
