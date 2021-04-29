@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 >
-> ~ *Gerald Weinberg*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 3:15 AM
+  Last Refresh : Thursday, April 29, 2021, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
