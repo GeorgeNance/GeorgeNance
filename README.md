@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 3:17 PM
+  Last Refresh : Thursday, April 29, 2021, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
