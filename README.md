@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Elon Musk*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 7:14 AM
+  Last Refresh : Thursday, April 29, 2021, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
