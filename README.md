@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 28, 2021, 7:04 PM
+  Last Refresh : Wednesday, April 28, 2021, 8:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
