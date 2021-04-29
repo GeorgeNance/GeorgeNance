@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 28, 2021, 8:19 PM
+  Last Refresh : Wednesday, April 28, 2021, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
