@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 7:05 PM
+  Last Refresh : Thursday, April 29, 2021, 8:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
