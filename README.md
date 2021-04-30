@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Marvin Minsky*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 4:12 AM
+  Last Refresh : Friday, April 30, 2021, 5:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
