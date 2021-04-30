@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Linus Torvalds*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 4:14 PM
+  Last Refresh : Thursday, April 29, 2021, 5:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
