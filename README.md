@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Marvin Minsky*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 12:17 AM
+  Last Refresh : Friday, April 30, 2021, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
