@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Robert C. Martin*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 5:21 AM
+  Last Refresh : Friday, April 30, 2021, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
