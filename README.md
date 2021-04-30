@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Bill Gates*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 12:15 PM
+  Last Refresh : Friday, April 30, 2021, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
