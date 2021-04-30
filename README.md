@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 8:20 PM
+  Last Refresh : Thursday, April 29, 2021, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
