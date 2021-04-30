@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Steve Jobs*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 1:18 AM
+  Last Refresh : Friday, April 30, 2021, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
