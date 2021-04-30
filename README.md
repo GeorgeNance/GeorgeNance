@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 >
-> ~ *Donald Knuth*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 3:15 AM
+  Last Refresh : Friday, April 30, 2021, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
