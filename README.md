@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Ray Ozzie*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 29, 2021, 9:18 PM
+  Last Refresh : Thursday, April 29, 2021, 10:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
