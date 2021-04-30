@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Martin Fowler*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 8:16 AM
+  Last Refresh : Friday, April 30, 2021, 9:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
