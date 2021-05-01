@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Anonymous*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 1, 2021, 11:23 AM
+  Last Refresh : Saturday, May 1, 2021, 12:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
