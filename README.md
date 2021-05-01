@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 7:10 PM
+  Last Refresh : Friday, April 30, 2021, 8:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
