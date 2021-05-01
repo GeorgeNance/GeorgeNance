@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Tom DeMarco*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 1, 2021, 9:24 AM
+  Last Refresh : Saturday, May 1, 2021, 10:38 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
