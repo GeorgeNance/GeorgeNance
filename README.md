@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 1, 2021, 6:23 AM
+  Last Refresh : Saturday, May 1, 2021, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
