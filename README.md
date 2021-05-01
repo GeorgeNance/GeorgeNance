@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 >
-> ~ *Dennis Ritchie*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 10:18 PM
+  Last Refresh : Friday, April 30, 2021, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
