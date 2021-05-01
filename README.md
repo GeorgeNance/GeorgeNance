@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Martin Fowler*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 4:14 PM
+  Last Refresh : Friday, April 30, 2021, 5:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
