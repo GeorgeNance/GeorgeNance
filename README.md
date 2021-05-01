@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *William Wulf*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 1, 2021, 12:16 AM
+  Last Refresh : Saturday, May 1, 2021, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
