@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Jef Raskin*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 1, 2021, 1:16 AM
+  Last Refresh : Saturday, May 1, 2021, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
