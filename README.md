@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Daniel T. Barry*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 30, 2021, 9:18 PM
+  Last Refresh : Friday, April 30, 2021, 10:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
