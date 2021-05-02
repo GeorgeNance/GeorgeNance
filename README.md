@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Gary Kildall*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 2, 2021, 9:25 AM
+  Last Refresh : Sunday, May 2, 2021, 10:37 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
