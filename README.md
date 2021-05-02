@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Steve Wozniak*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 1, 2021, 4:16 PM
+  Last Refresh : Saturday, May 1, 2021, 5:50 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
