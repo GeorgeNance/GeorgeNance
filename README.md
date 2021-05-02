@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Donald Knuth*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 2, 2021, 1:16 AM
+  Last Refresh : Sunday, May 2, 2021, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
