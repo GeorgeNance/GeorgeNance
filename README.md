@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *Chris Sacca*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 1, 2021, 7:14 PM
+  Last Refresh : Saturday, May 1, 2021, 8:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
