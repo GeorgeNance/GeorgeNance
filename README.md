@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 2, 2021, 8:15 AM
+  Last Refresh : Sunday, May 2, 2021, 9:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
