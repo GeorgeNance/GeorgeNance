@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 >
-> ~ *Maurice Wilkes*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 1, 2021, 8:23 PM
+  Last Refresh : Saturday, May 1, 2021, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
