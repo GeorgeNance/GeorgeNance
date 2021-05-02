@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 >
-> ~ *Ada Lovelace*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 2, 2021, 3:15 AM
+  Last Refresh : Sunday, May 2, 2021, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
