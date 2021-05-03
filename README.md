@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 2, 2021, 5:44 PM
+  Last Refresh : Sunday, May 2, 2021, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
