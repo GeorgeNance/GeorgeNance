@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 3, 2021, 1:14 PM
+  Last Refresh : Monday, May 3, 2021, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
