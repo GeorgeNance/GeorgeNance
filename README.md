@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### Never memorize something that you can look up.
 >
-> ~ *Niklaus Wirth*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 3, 2021, 5:21 AM
+  Last Refresh : Monday, May 3, 2021, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
