@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Seymour Cray*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 3, 2021, 9:26 AM
+  Last Refresh : Monday, May 3, 2021, 10:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
