@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Danny Hillis*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 3, 2021, 4:12 AM
+  Last Refresh : Monday, May 3, 2021, 5:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
