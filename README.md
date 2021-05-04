@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Donald Knuth*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 1:15 AM
+  Last Refresh : Tuesday, May 4, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
