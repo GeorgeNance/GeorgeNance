@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 9:20 AM
+  Last Refresh : Tuesday, May 4, 2021, 10:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
