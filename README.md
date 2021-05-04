@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Donald Knuth*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 3, 2021, 4:13 PM
+  Last Refresh : Monday, May 3, 2021, 5:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
