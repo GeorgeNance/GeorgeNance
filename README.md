@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Fred Brooks*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 5:18 AM
+  Last Refresh : Tuesday, May 4, 2021, 6:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
