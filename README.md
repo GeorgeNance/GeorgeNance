@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 3, 2021, 11:15 PM
+  Last Refresh : Tuesday, May 4, 2021, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
