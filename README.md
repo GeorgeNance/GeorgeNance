@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Fred Brooks*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 3, 2021, 7:04 PM
+  Last Refresh : Monday, May 3, 2021, 8:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
