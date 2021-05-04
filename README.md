@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 4:11 AM
+  Last Refresh : Tuesday, May 4, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
