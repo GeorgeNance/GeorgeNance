@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 5, 2021, 7:13 AM
+  Last Refresh : Wednesday, May 5, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
