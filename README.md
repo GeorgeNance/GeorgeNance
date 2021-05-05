@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 5, 2021, 6:23 AM
+  Last Refresh : Wednesday, May 5, 2021, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
