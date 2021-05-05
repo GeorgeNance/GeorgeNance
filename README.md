@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Bill Gates*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 6:59 PM
+  Last Refresh : Tuesday, May 4, 2021, 7:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
