@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Danny Hillis*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 11:16 PM
+  Last Refresh : Wednesday, May 5, 2021, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
