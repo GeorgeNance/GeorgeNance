@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 >
-> ~ *Ward Cunningham*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 10:15 PM
+  Last Refresh : Tuesday, May 4, 2021, 11:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
