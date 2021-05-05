@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Grady Booch*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 7:44 PM
+  Last Refresh : Tuesday, May 4, 2021, 8:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
