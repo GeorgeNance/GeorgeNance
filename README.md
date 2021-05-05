@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 >
 > ~ *Donald Knuth*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 4, 2021, 8:18 PM
+  Last Refresh : Tuesday, May 4, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
