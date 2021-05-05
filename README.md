@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 >
-> ~ *Jim Horning*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 5, 2021, 2:13 AM
+  Last Refresh : Wednesday, May 5, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
