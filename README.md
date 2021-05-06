@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Ken Thompson*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 5, 2021, 7:44 PM
+  Last Refresh : Wednesday, May 5, 2021, 8:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
