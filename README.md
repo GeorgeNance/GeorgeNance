@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 >
-> ~ *Fred Brooks*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 3:13 AM
+  Last Refresh : Thursday, May 6, 2021, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
