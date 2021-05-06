@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *John Warnock*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 12:14 PM
+  Last Refresh : Thursday, May 6, 2021, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
