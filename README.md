@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 >
-> ~ *Fred Brooks*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 2:10 PM
+  Last Refresh : Thursday, May 6, 2021, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
