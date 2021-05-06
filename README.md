@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Don Norman*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 5, 2021, 8:18 PM
+  Last Refresh : Wednesday, May 5, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
