@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Dan Bricklin*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 9:24 AM
+  Last Refresh : Thursday, May 6, 2021, 10:37 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
