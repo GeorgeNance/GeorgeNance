@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 5:18 AM
+  Last Refresh : Thursday, May 6, 2021, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
