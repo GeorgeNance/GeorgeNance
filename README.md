@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 5, 2021, 4:13 PM
+  Last Refresh : Wednesday, May 5, 2021, 5:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
