@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Addy Osmani*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 10:37 AM
+  Last Refresh : Thursday, May 6, 2021, 11:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
