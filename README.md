@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Albert Einstein*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 5, 2021, 5:35 PM
+  Last Refresh : Wednesday, May 5, 2021, 6:59 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
