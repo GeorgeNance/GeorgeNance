@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### Deleted code is debugged code.
 >
-> ~ *Chris Wenham*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 5, 2021, 9:15 PM
+  Last Refresh : Wednesday, May 5, 2021, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
