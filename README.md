@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *Ward Cunningham*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 9:19 PM
+  Last Refresh : Thursday, May 6, 2021, 10:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
