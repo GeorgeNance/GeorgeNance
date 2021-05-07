@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Maurice Wilkes*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 10:17 PM
+  Last Refresh : Thursday, May 6, 2021, 11:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
