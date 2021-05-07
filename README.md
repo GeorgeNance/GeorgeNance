@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 6, 2021, 5:37 PM
+  Last Refresh : Thursday, May 6, 2021, 7:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
