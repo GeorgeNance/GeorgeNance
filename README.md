@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Dennis Ritchie*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 7, 2021, 12:14 PM
+  Last Refresh : Friday, May 7, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
