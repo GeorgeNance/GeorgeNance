@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 >
-> ~ *Alan Perlis*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 7, 2021, 3:16 PM
+  Last Refresh : Friday, May 7, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
