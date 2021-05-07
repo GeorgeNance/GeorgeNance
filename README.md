@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Fred Brooks*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 7, 2021, 1:16 AM
+  Last Refresh : Friday, May 7, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
