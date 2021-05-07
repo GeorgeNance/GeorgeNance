@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 >
-> ~ *Roy Fielding*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 7, 2021, 11:21 AM
+  Last Refresh : Friday, May 7, 2021, 12:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
