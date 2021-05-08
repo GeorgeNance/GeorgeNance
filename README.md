@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Charles Simonyi*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 7, 2021, 8:19 PM
+  Last Refresh : Friday, May 7, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
