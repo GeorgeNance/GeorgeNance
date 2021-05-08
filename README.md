@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Alan Perlis*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 7, 2021, 9:16 PM
+  Last Refresh : Friday, May 7, 2021, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
