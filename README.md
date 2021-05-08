@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Martin Fowler*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 8, 2021, 7:12 AM
+  Last Refresh : Saturday, May 8, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
