@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 8, 2021, 1:13 PM
+  Last Refresh : Saturday, May 8, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
