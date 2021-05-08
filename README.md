@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Seymour Cray*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 8, 2021, 5:18 AM
+  Last Refresh : Saturday, May 8, 2021, 6:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
