@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 >
-> ~ *Danny Hillis*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 7, 2021, 4:12 PM
+  Last Refresh : Friday, May 7, 2021, 5:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
