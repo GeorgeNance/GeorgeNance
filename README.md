@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 >
-> ~ *Jaron Lanier*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 8, 2021, 11:15 PM
+  Last Refresh : Sunday, May 9, 2021, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
