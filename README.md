@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### When in doubt, use brute force.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 10:36 AM
+  Last Refresh : Sunday, May 9, 2021, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
