@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 3:13 AM
+  Last Refresh : Sunday, May 9, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
