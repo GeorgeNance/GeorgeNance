@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 8:13 AM
+  Last Refresh : Sunday, May 9, 2021, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
