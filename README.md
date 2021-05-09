@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 >
-> ~ *Richard Hamming*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 9:23 AM
+  Last Refresh : Sunday, May 9, 2021, 10:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
