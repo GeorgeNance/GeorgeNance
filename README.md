@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 >
-> ~ *Marvin Minsky*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 12:12 PM
+  Last Refresh : Sunday, May 9, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
