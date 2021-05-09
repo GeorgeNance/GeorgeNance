@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Ward Cunningham*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 8, 2021, 10:15 PM
+  Last Refresh : Saturday, May 8, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
