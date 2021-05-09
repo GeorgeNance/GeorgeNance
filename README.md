@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Michael A. Jackson*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 3:15 PM
+  Last Refresh : Sunday, May 9, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
