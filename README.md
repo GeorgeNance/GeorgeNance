@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Danny Hillis*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 12:14 AM
+  Last Refresh : Sunday, May 9, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
