@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *John Gall (author)*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 8, 2021, 9:16 PM
+  Last Refresh : Saturday, May 8, 2021, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
