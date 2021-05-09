@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Chris Sacca*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 8, 2021, 4:13 PM
+  Last Refresh : Saturday, May 8, 2021, 5:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
