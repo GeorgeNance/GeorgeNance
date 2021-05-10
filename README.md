@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Gary Kildall*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 10, 2021, 11:24 AM
+  Last Refresh : Monday, May 10, 2021, 12:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
