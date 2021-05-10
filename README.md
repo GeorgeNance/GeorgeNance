@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 >
 > ~ *Martin Fowler*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 9:18 PM
+  Last Refresh : Sunday, May 9, 2021, 10:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
