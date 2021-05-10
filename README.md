@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Fred Brooks*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 9, 2021, 11:16 PM
+  Last Refresh : Monday, May 10, 2021, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
