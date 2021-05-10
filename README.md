@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 10, 2021, 8:14 AM
+  Last Refresh : Monday, May 10, 2021, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
