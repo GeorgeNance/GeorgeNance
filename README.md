@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Donald Knuth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 10, 2021, 9:23 AM
+  Last Refresh : Monday, May 10, 2021, 10:39 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
