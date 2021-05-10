@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Alan Kay*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 10, 2021, 1:15 AM
+  Last Refresh : Monday, May 10, 2021, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
