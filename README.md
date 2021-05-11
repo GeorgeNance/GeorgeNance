@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Linus Torvalds*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 1:15 AM
+  Last Refresh : Tuesday, May 11, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
