@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Richard Hamming*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 12:16 PM
+  Last Refresh : Tuesday, May 11, 2021, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
