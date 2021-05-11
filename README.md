@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 9:25 AM
+  Last Refresh : Tuesday, May 11, 2021, 10:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
