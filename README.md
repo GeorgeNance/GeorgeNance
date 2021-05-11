@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Mario Fusco*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 11:24 AM
+  Last Refresh : Tuesday, May 11, 2021, 12:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
