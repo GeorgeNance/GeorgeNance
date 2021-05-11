@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Jim Coplien*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 2:13 AM
+  Last Refresh : Tuesday, May 11, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
