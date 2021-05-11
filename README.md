@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Toru Iwatani*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 10:40 AM
+  Last Refresh : Tuesday, May 11, 2021, 11:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
