@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Kevlin Henney*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 12, 2021, 9:30 AM
+  Last Refresh : Wednesday, May 12, 2021, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
