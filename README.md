@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Fred Brooks*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 9:21 PM
+  Last Refresh : Tuesday, May 11, 2021, 10:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
