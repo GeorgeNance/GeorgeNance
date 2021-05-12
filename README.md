@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Kent Beck*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 12, 2021, 4:12 AM
+  Last Refresh : Wednesday, May 12, 2021, 5:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
