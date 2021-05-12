@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Kevlin Henney*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 12, 2021, 1:15 PM
+  Last Refresh : Wednesday, May 12, 2021, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
