@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Robert C. Martin*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 7:07 PM
+  Last Refresh : Tuesday, May 11, 2021, 8:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
