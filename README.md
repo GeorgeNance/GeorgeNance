@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### No code is faster than no code.
 >
-> ~ *George Boole*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 12, 2021, 12:20 PM
+  Last Refresh : Wednesday, May 12, 2021, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
