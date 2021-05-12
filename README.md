@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 10:21 PM
+  Last Refresh : Tuesday, May 11, 2021, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
