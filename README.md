@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 12, 2021, 5:22 AM
+  Last Refresh : Wednesday, May 12, 2021, 6:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
