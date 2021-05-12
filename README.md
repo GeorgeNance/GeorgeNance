@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### Less code equals less bugs.
 >
-> ~ *John Carmack*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 12, 2021, 8:16 AM
+  Last Refresh : Wednesday, May 12, 2021, 9:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
