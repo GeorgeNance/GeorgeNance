@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 4:13 PM
+  Last Refresh : Tuesday, May 11, 2021, 5:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
