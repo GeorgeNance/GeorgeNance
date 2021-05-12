@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Anonymous*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 11, 2021, 5:40 PM
+  Last Refresh : Tuesday, May 11, 2021, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
