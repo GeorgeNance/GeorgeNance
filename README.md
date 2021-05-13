@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Elon Musk*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 9:29 AM
+  Last Refresh : Thursday, May 13, 2021, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
