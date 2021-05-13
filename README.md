@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Martin Fowler*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 12, 2021, 5:47 PM
+  Last Refresh : Wednesday, May 12, 2021, 7:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
