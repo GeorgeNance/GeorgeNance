@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Albert Einstein*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 7:14 AM
+  Last Refresh : Thursday, May 13, 2021, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
