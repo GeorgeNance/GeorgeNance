@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### Once you stop learning you start dying.
 >
-> ~ *Ted Nelson*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 6:25 AM
+  Last Refresh : Thursday, May 13, 2021, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
