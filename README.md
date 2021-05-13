@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### Less code equals less bugs.
 >
-> ~ *Rich Skrenta*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 12, 2021, 7:16 PM
+  Last Refresh : Wednesday, May 12, 2021, 8:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
