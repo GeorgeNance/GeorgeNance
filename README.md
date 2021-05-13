@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 3:15 AM
+  Last Refresh : Thursday, May 13, 2021, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
