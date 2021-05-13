@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 10:42 AM
+  Last Refresh : Thursday, May 13, 2021, 11:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
