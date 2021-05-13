@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Butler Lampson*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 12:19 AM
+  Last Refresh : Thursday, May 13, 2021, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
