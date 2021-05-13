@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Fred Brooks*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 2:13 PM
+  Last Refresh : Thursday, May 13, 2021, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
