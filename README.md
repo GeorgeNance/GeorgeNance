@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Eric S. Raymond*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 11:28 AM
+  Last Refresh : Thursday, May 13, 2021, 12:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
