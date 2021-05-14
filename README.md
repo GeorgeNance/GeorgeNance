@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
 >
-> ~ *Bill Gates*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 14, 2021, 3:17 PM
+  Last Refresh : Friday, May 14, 2021, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
