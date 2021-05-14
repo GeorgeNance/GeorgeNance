@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Martin Fowler*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 14, 2021, 11:30 AM
+  Last Refresh : Friday, May 14, 2021, 12:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
