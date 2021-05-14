@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 >
-> ~ *Linus Torvalds*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 14, 2021, 8:16 AM
+  Last Refresh : Friday, May 14, 2021, 9:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
