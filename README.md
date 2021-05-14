@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 >
-> ~ *Steve Jobs*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 10:22 PM
+  Last Refresh : Thursday, May 13, 2021, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
