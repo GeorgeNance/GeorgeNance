@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Linus Torvalds*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 8:29 PM
+  Last Refresh : Thursday, May 13, 2021, 9:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
