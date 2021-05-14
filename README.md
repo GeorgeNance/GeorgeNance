@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Steve Jobs*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 14, 2021, 6:25 AM
+  Last Refresh : Friday, May 14, 2021, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
