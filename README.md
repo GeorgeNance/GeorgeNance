@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 13, 2021, 11:18 PM
+  Last Refresh : Friday, May 14, 2021, 12:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
