@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Harlan Mills*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 15, 2021, 12:19 AM
+  Last Refresh : Saturday, May 15, 2021, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
