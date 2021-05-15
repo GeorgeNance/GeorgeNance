@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### Programming can be addictive.
 >
-> ~ *Joel Spolsky*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 15, 2021, 4:12 AM
+  Last Refresh : Saturday, May 15, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
