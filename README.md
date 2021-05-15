@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 15, 2021, 3:17 PM
+  Last Refresh : Saturday, May 15, 2021, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
