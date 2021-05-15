@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 >
-> ~ *Gerald Weinberg*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 15, 2021, 9:28 AM
+  Last Refresh : Saturday, May 15, 2021, 10:41 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
