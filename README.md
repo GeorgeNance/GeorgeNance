@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Terry Winograd*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 15, 2021, 3:14 AM
+  Last Refresh : Saturday, May 15, 2021, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
