@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 >
-> ~ *Douglas Crockford*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 14, 2021, 10:20 PM
+  Last Refresh : Friday, May 14, 2021, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
