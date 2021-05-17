@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Hal Abelson*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 16, 2021, 5:46 PM
+  Last Refresh : Sunday, May 16, 2021, 7:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
