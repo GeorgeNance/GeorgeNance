@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Harlan Mills*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 16, 2021, 8:28 PM
+  Last Refresh : Sunday, May 16, 2021, 9:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
