@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Fred Brooks*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 17, 2021, 2:13 PM
+  Last Refresh : Monday, May 17, 2021, 3:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
