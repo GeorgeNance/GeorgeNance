@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 17, 2021, 10:42 AM
+  Last Refresh : Monday, May 17, 2021, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
