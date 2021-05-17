@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *Steve Wozniak*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 16, 2021, 7:16 PM
+  Last Refresh : Sunday, May 16, 2021, 8:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
