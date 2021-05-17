@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Douglas Crockford*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 16, 2021, 9:24 PM
+  Last Refresh : Sunday, May 16, 2021, 10:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
