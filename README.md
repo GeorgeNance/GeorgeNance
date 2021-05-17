@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Daniel T. Barry*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 17, 2021, 6:28 AM
+  Last Refresh : Monday, May 17, 2021, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
