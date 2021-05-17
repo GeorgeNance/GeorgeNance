@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Albert Einstein*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 17, 2021, 7:13 AM
+  Last Refresh : Monday, May 17, 2021, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
