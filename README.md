@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 17, 2021, 5:51 PM
+  Last Refresh : Monday, May 17, 2021, 7:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
