@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Damian Conway*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 18, 2021, 11:32 AM
+  Last Refresh : Tuesday, May 18, 2021, 12:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
