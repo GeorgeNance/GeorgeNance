@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 18, 2021, 10:44 AM
+  Last Refresh : Tuesday, May 18, 2021, 11:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
