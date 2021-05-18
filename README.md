@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 17, 2021, 8:29 PM
+  Last Refresh : Monday, May 17, 2021, 9:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
