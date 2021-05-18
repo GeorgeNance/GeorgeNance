@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Martin Fowler*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 18, 2021, 1:17 AM
+  Last Refresh : Tuesday, May 18, 2021, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
