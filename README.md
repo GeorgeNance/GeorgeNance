@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 >
-> ~ *Tom DeMarco*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 18, 2021, 5:46 PM
+  Last Refresh : Tuesday, May 18, 2021, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
