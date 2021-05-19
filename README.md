@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 19, 2021, 11:30 AM
+  Last Refresh : Wednesday, May 19, 2021, 12:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
