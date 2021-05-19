@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Richard Stallman*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 18, 2021, 4:16 PM
+  Last Refresh : Tuesday, May 18, 2021, 5:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
