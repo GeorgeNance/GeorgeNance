@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 19, 2021, 5:21 AM
+  Last Refresh : Wednesday, May 19, 2021, 6:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
