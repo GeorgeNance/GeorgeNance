@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Steve Jobs*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 19, 2021, 9:29 AM
+  Last Refresh : Wednesday, May 19, 2021, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
