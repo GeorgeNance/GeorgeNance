@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Joshua Bloch*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 19, 2021, 8:25 PM
+  Last Refresh : Wednesday, May 19, 2021, 9:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
