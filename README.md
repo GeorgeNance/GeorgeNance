@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Elon Musk*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 19, 2021, 9:23 PM
+  Last Refresh : Wednesday, May 19, 2021, 10:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
