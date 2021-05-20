@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 >
-> ~ *Eric S. Raymond*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 20, 2021, 12:20 AM
+  Last Refresh : Thursday, May 20, 2021, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
