@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### When in doubt, leave it out.
 >
-> ~ *Alan Perlis*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 19, 2021, 7:11 PM
+  Last Refresh : Wednesday, May 19, 2021, 8:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
