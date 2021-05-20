@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Butler Lampson*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 20, 2021, 3:17 PM
+  Last Refresh : Thursday, May 20, 2021, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
