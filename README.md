@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Hal Abelson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 19, 2021, 10:22 PM
+  Last Refresh : Wednesday, May 19, 2021, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
