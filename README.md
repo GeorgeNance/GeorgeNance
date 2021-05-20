@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Ellen Ullman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 20, 2021, 10:45 AM
+  Last Refresh : Thursday, May 20, 2021, 11:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
