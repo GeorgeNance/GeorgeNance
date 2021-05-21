@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 >
-> ~ *Seymour Cray*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 1:16 PM
+  Last Refresh : Friday, May 21, 2021, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
