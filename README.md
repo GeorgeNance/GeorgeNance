@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 >
-> ~ *Gary Kildall*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 20, 2021, 8:27 PM
+  Last Refresh : Thursday, May 20, 2021, 9:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
