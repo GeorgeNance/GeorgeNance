@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 >
-> ~ *Jamie Zawinski*
+> ~ *David Gelernter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 11:34 AM
+  Last Refresh : Friday, May 21, 2021, 12:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
