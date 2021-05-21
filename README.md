@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 >
-> ~ *Alan Kay*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 5:23 AM
+  Last Refresh : Friday, May 21, 2021, 6:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
