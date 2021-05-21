@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 20, 2021, 5:47 PM
+  Last Refresh : Thursday, May 20, 2021, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
