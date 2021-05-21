@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
 >
-> ~ *Elon Musk*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 1:17 AM
+  Last Refresh : Friday, May 21, 2021, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
