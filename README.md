@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Jaron Lanier*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 12:21 AM
+  Last Refresh : Friday, May 21, 2021, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
