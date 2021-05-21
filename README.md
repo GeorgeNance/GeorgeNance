@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 2:13 PM
+  Last Refresh : Friday, May 21, 2021, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
