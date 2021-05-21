@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Danny Hillis*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 20, 2021, 11:18 PM
+  Last Refresh : Friday, May 21, 2021, 12:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
