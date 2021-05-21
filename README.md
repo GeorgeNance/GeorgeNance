@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 2:16 AM
+  Last Refresh : Friday, May 21, 2021, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
