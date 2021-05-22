@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 22, 2021, 3:14 PM
+  Last Refresh : Saturday, May 22, 2021, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
