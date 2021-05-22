@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *George Boole*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 22, 2021, 12:21 AM
+  Last Refresh : Saturday, May 22, 2021, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
