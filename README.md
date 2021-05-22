@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 >
-> ~ *Bill Gates*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 10:25 PM
+  Last Refresh : Friday, May 21, 2021, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
