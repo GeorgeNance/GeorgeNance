@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 22, 2021, 4:12 AM
+  Last Refresh : Saturday, May 22, 2021, 5:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
