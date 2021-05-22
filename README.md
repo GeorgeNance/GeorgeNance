@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Richard Hamming*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 22, 2021, 2:12 PM
+  Last Refresh : Saturday, May 22, 2021, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
