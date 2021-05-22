@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Douglas Crockford*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 22, 2021, 11:32 AM
+  Last Refresh : Saturday, May 22, 2021, 12:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
