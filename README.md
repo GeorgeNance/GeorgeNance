@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 >
-> ~ *Martin Fowler*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 21, 2021, 11:17 PM
+  Last Refresh : Saturday, May 22, 2021, 12:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
