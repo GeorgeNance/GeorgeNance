@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Tony Hoare*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 3:14 PM
+  Last Refresh : Sunday, May 23, 2021, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
