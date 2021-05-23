@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
-> ~ *Richard E. Pattis*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 11:29 AM
+  Last Refresh : Sunday, May 23, 2021, 12:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
