@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 2:15 AM
+  Last Refresh : Sunday, May 23, 2021, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
