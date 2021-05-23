@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Ivan Sutherland*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 12:21 AM
+  Last Refresh : Sunday, May 23, 2021, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
