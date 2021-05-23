@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Charles Simonyi*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 1:15 PM
+  Last Refresh : Sunday, May 23, 2021, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
