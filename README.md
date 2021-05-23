@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Robert C. Martin*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 1:16 AM
+  Last Refresh : Sunday, May 23, 2021, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
