@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Bill Gates*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 22, 2021, 10:27 PM
+  Last Refresh : Saturday, May 22, 2021, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
