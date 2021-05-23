@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Bill Gates*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 10:42 AM
+  Last Refresh : Sunday, May 23, 2021, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
