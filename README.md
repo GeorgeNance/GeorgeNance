@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 >
-> ~ *Brian Kernighan*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 22, 2021, 8:38 PM
+  Last Refresh : Saturday, May 22, 2021, 9:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
