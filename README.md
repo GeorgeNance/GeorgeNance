@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Ken Thompson*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 8:15 AM
+  Last Refresh : Sunday, May 23, 2021, 9:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
