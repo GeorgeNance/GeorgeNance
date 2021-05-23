@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Fred Brooks*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 5:21 AM
+  Last Refresh : Sunday, May 23, 2021, 6:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
