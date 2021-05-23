@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *William Wulf*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 6:28 AM
+  Last Refresh : Sunday, May 23, 2021, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
