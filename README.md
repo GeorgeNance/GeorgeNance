@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Robert C. Martin*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 22, 2021, 4:14 PM
+  Last Refresh : Saturday, May 22, 2021, 5:53 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
