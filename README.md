@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 >
-> ~ *Rob Pike*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 9:28 AM
+  Last Refresh : Sunday, May 23, 2021, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
