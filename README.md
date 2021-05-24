@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 24, 2021, 8:16 AM
+  Last Refresh : Monday, May 24, 2021, 9:35 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
