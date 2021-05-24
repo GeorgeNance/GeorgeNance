@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Martin Fowler*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 23, 2021, 7:23 PM
+  Last Refresh : Sunday, May 23, 2021, 8:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
