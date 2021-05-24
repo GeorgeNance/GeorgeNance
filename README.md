@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 24, 2021, 5:23 AM
+  Last Refresh : Monday, May 24, 2021, 6:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
