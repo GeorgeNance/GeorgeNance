@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 24, 2021, 6:32 AM
+  Last Refresh : Monday, May 24, 2021, 7:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
