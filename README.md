@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Elon Musk*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 24, 2021, 3:19 AM
+  Last Refresh : Monday, May 24, 2021, 4:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
