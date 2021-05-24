@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 24, 2021, 2:17 AM
+  Last Refresh : Monday, May 24, 2021, 3:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
