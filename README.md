@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
-> ~ *Tom Cargill*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 24, 2021, 1:17 AM
+  Last Refresh : Monday, May 24, 2021, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
