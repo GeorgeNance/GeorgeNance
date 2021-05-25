@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Daniel T. Barry*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 25, 2021, 12:32 PM
+  Last Refresh : Tuesday, May 25, 2021, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
