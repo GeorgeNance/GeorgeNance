@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 >
-> ~ *Alan Perlis*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 25, 2021, 12:30 AM
+  Last Refresh : Tuesday, May 25, 2021, 1:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
