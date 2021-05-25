@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 24, 2021, 9:36 PM
+  Last Refresh : Monday, May 24, 2021, 10:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
