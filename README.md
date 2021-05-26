@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 1:29 AM
+  Last Refresh : Wednesday, May 26, 2021, 2:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
