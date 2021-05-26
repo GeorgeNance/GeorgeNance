@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Ken Olsen*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 1:29 PM
+  Last Refresh : Wednesday, May 26, 2021, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
