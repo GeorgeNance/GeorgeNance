@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Ted Nelson*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 25, 2021, 5:59 PM
+  Last Refresh : Tuesday, May 25, 2021, 7:59 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
