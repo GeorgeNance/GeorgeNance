@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Jef Raskin*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 2:19 PM
+  Last Refresh : Wednesday, May 26, 2021, 3:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
