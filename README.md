@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *John von Neumann*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 7:28 AM
+  Last Refresh : Wednesday, May 26, 2021, 8:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
