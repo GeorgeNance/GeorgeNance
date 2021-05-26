@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 12:40 AM
+  Last Refresh : Wednesday, May 26, 2021, 1:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
