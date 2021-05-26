@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 >
-> ~ *Fred Brooks*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 25, 2021, 11:36 PM
+  Last Refresh : Wednesday, May 26, 2021, 12:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
