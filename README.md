@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Danny Hillis*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 12:49 PM
+  Last Refresh : Wednesday, May 26, 2021, 1:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
