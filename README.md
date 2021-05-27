@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Roy Fielding*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 4:22 PM
+  Last Refresh : Wednesday, May 26, 2021, 6:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
