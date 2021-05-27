@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 6:03 PM
+  Last Refresh : Wednesday, May 26, 2021, 8:39 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
