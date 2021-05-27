@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Robert C. Martin*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 9:59 PM
+  Last Refresh : Wednesday, May 26, 2021, 11:01 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
