@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Joshua Bloch*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 5:35 AM
+  Last Refresh : Thursday, May 27, 2021, 6:49 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
