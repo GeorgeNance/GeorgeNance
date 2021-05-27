@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 >
-> ~ *Eric S. Raymond*
+> ~ *Ellen Ullman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 2:35 AM
+  Last Refresh : Thursday, May 27, 2021, 3:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
