@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Martin Fowler*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 11:35 AM
+  Last Refresh : Thursday, May 27, 2021, 12:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
