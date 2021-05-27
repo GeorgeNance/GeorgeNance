@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Ellen Ullman*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 3:36 AM
+  Last Refresh : Thursday, May 27, 2021, 4:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
