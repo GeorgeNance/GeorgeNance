@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 12:52 PM
+  Last Refresh : Thursday, May 27, 2021, 1:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
