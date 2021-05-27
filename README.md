@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Elon Musk*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 26, 2021, 8:39 PM
+  Last Refresh : Wednesday, May 26, 2021, 9:59 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
