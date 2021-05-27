@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 3:22 PM
+  Last Refresh : Thursday, May 27, 2021, 4:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
