@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### When in doubt, leave it out.
 >
-> ~ *Mario Fusco*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 4:33 AM
+  Last Refresh : Thursday, May 27, 2021, 5:35 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
