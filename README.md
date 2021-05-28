@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 28, 2021, 7:38 AM
+  Last Refresh : Friday, May 28, 2021, 8:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
