@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 28, 2021, 9:55 AM
+  Last Refresh : Friday, May 28, 2021, 11:43 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
