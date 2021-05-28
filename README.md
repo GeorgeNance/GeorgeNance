@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 9:07 PM
+  Last Refresh : Thursday, May 27, 2021, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
