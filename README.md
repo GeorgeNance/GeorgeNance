@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *James Gleick*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 28, 2021, 6:57 AM
+  Last Refresh : Friday, May 28, 2021, 7:38 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
