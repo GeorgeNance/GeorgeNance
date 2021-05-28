@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Danny Hillis*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 27, 2021, 6:11 PM
+  Last Refresh : Thursday, May 27, 2021, 9:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
