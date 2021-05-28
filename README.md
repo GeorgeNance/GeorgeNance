@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 28, 2021, 3:42 AM
+  Last Refresh : Friday, May 28, 2021, 4:41 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
