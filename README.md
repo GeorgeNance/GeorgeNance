@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Philip Greenspun*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 29, 2021, 1:21 AM
+  Last Refresh : Saturday, May 29, 2021, 2:49 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
