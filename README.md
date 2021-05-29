@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *George Boole*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 28, 2021, 4:29 PM
+  Last Refresh : Friday, May 28, 2021, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
