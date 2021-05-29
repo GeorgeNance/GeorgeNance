@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Kent Beck*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 29, 2021, 3:45 AM
+  Last Refresh : Saturday, May 29, 2021, 4:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
