@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Steve Jobs*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 29, 2021, 8:23 AM
+  Last Refresh : Saturday, May 29, 2021, 10:00 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
