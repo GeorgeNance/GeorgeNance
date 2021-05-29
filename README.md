@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Fred Brooks*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 29, 2021, 2:49 AM
+  Last Refresh : Saturday, May 29, 2021, 3:45 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
