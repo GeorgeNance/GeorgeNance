@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Alan Perlis*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 30, 2021, 3:44 AM
+  Last Refresh : Sunday, May 30, 2021, 4:41 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
