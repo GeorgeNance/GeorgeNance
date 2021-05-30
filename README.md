@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *John Carmack*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 30, 2021, 11:50 AM
+  Last Refresh : Sunday, May 30, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
