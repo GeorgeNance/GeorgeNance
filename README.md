@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 30, 2021, 2:29 PM
+  Last Refresh : Sunday, May 30, 2021, 3:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
