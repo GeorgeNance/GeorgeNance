@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 >
-> ~ *Mario Fusco*
+> ~ *David Gelernter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 31, 2021, 12:40 PM
+  Last Refresh : Monday, May 31, 2021, 2:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
