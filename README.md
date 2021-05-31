@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 31, 2021, 7:10 AM
+  Last Refresh : Monday, May 31, 2021, 8:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
