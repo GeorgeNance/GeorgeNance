@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 >
-> ~ *Pete Cordell*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 31, 2021, 3:40 PM
+  Last Refresh : Monday, May 31, 2021, 4:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
