@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
 >
-> ~ *Tom DeMarco*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 30, 2021, 4:34 PM
+  Last Refresh : Sunday, May 30, 2021, 6:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
