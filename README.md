@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Douglas Crockford*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 31, 2021, 5:50 AM
+  Last Refresh : Monday, May 31, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
