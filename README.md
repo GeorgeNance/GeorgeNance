@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 31, 2021, 4:42 PM
+  Last Refresh : Monday, May 31, 2021, 7:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
