@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Robert C. Martin*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 1, 2021, 1:26 PM
+  Last Refresh : Tuesday, June 1, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
