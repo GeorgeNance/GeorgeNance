@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Richard Stallman*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 1, 2021, 4:57 AM
+  Last Refresh : Tuesday, June 1, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
