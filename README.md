@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Martin Fowler*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 1, 2021, 8:41 AM
+  Last Refresh : Tuesday, June 1, 2021, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
