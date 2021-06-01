@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 >
-> ~ *Ward Cunningham*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 1, 2021, 10:42 AM
+  Last Refresh : Tuesday, June 1, 2021, 1:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
