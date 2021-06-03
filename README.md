@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### Really good programs live forever.
 >
-> ~ *Alan Perlis*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 3, 2021, 12:47 PM
+  Last Refresh : Thursday, June 3, 2021, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
