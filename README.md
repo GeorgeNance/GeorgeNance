@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Joshua Bloch*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 3, 2021, 4:06 AM
+  Last Refresh : Thursday, June 3, 2021, 5:44 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
