@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 >
 > ~ *Richard Stallman*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 3, 2021, 3:47 PM
+  Last Refresh : Thursday, June 3, 2021, 4:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
