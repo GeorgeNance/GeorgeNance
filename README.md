@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Butler Lampson*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 3, 2021, 1:25 AM
+  Last Refresh : Thursday, June 3, 2021, 2:57 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
