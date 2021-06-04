@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Linus Torvalds*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 4, 2021, 2:04 PM
+  Last Refresh : Friday, June 4, 2021, 3:38 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
