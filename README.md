@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Vannevar Bush*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 4, 2021, 10:24 AM
+  Last Refresh : Friday, June 4, 2021, 12:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
