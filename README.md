@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Friedrich Bauer*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 3, 2021, 6:34 PM
+  Last Refresh : Thursday, June 3, 2021, 9:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
