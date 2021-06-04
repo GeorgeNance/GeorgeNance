@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Anonymous*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 4, 2021, 12:36 PM
+  Last Refresh : Friday, June 4, 2021, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
