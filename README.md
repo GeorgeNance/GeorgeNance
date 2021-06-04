@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 4, 2021, 1:50 AM
+  Last Refresh : Friday, June 4, 2021, 3:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
