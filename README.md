@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Richard Stallman*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 3, 2021, 4:51 PM
+  Last Refresh : Thursday, June 3, 2021, 6:34 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
