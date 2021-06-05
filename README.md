@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 4, 2021, 11:50 PM
+  Last Refresh : Saturday, June 5, 2021, 12:51 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
