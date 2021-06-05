@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Danny Hillis*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 5, 2021, 5:43 AM
+  Last Refresh : Saturday, June 5, 2021, 7:02 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
