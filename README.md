@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
-> ~ *John Gall (author)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 4, 2021, 6:11 PM
+  Last Refresh : Friday, June 4, 2021, 8:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
