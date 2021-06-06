@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 5, 2021, 6:04 PM
+  Last Refresh : Saturday, June 5, 2021, 8:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
