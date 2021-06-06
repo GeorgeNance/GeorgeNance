@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Steve Jobs*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 6, 2021, 12:55 PM
+  Last Refresh : Sunday, June 6, 2021, 1:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
