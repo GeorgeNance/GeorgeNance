@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 >
-> ~ *Elon Musk*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 5, 2021, 11:43 PM
+  Last Refresh : Sunday, June 6, 2021, 12:54 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
