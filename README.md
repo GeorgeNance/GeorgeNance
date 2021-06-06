@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Butler Lampson*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 6, 2021, 3:43 AM
+  Last Refresh : Sunday, June 6, 2021, 4:41 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
