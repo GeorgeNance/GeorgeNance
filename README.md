@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### When in doubt, use brute force.
 >
-> ~ *Donald Knuth*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 7, 2021, 5:52 AM
+  Last Refresh : Monday, June 7, 2021, 7:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
