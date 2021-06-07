@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Kent Beck*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 7, 2021, 10:15 AM
+  Last Refresh : Monday, June 7, 2021, 12:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
