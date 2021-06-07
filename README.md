@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Damian Conway*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 7, 2021, 12:45 PM
+  Last Refresh : Monday, June 7, 2021, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
