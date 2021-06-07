@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 7, 2021, 2:17 AM
+  Last Refresh : Monday, June 7, 2021, 4:02 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
