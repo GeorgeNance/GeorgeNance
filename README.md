@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 5:21 AM
+  Last Refresh : Tuesday, June 8, 2021, 6:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
