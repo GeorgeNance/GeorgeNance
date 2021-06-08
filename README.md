@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *John Warnock*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 2:12 PM
+  Last Refresh : Tuesday, June 8, 2021, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
