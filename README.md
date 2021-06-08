@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 4:15 AM
+  Last Refresh : Tuesday, June 8, 2021, 5:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
