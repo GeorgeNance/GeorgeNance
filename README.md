@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Terry Winograd*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 2:16 AM
+  Last Refresh : Tuesday, June 8, 2021, 4:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
