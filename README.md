@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Donald Knuth*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 10:52 AM
+  Last Refresh : Tuesday, June 8, 2021, 11:39 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
