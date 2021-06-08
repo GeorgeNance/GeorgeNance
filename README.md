@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *John Johnson*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 7, 2021, 10:51 PM
+  Last Refresh : Monday, June 7, 2021, 11:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
