@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 >
-> ~ *Alan Turing*
+> ~ *Ivan Sutherland*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 8:14 AM
+  Last Refresh : Tuesday, June 8, 2021, 9:35 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
