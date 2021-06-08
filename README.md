@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 7:18 AM
+  Last Refresh : Tuesday, June 8, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
