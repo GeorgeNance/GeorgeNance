@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
 > ~ *Dennis Ritchie*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 7, 2021, 6:04 PM
+  Last Refresh : Monday, June 7, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
