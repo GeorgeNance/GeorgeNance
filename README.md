@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Thomas J. Watson*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 9, 2021, 8:14 AM
+  Last Refresh : Wednesday, June 9, 2021, 9:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
