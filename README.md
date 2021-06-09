@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Linus Torvalds*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 11:24 PM
+  Last Refresh : Wednesday, June 9, 2021, 12:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
