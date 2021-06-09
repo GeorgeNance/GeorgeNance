@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 9, 2021, 2:13 AM
+  Last Refresh : Wednesday, June 9, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
