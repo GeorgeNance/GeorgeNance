@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Chris Wenham*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 10:36 PM
+  Last Refresh : Tuesday, June 8, 2021, 11:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
