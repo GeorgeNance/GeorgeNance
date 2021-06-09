@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 >
-> ~ *Filipe Fortes*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 9, 2021, 1:12 PM
+  Last Refresh : Wednesday, June 9, 2021, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
