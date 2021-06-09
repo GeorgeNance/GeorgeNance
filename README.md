@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 9, 2021, 5:19 AM
+  Last Refresh : Wednesday, June 9, 2021, 6:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
