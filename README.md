@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Daniel T. Barry*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 9:35 PM
+  Last Refresh : Tuesday, June 8, 2021, 10:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
