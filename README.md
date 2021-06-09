@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 >
-> ~ *Elon Musk*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 9, 2021, 3:13 PM
+  Last Refresh : Wednesday, June 9, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
