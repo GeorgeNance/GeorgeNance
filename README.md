@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 >
-> ~ *Dennis Ritchie*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 8, 2021, 5:44 PM
+  Last Refresh : Tuesday, June 8, 2021, 7:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
