@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Robert C. Martin*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 9, 2021, 7:15 AM
+  Last Refresh : Wednesday, June 9, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
