@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 10, 2021, 6:28 AM
+  Last Refresh : Thursday, June 10, 2021, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
