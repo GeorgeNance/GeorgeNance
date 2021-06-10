@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Daniel T. Barry*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 10, 2021, 11:30 AM
+  Last Refresh : Thursday, June 10, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
