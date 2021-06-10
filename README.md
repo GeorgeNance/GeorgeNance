@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Richard Stallman*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 10, 2021, 1:14 AM
+  Last Refresh : Thursday, June 10, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
