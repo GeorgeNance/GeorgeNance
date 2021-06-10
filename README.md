@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
-> ~ *Dennis Ritchie*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 10, 2021, 3:14 AM
+  Last Refresh : Thursday, June 10, 2021, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
