@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Philip Greenspun*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 10, 2021, 2:11 PM
+  Last Refresh : Thursday, June 10, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
