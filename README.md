@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Steve Jobs*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 9, 2021, 11:20 PM
+  Last Refresh : Thursday, June 10, 2021, 12:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
