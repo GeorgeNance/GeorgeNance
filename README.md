@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 >
-> ~ *Elon Musk*
+> ~ *Philip Greenspun*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 10, 2021, 1:12 PM
+  Last Refresh : Thursday, June 10, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
