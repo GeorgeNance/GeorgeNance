@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### Never memorize something that you can look up.
 >
-> ~ *David Leinweber*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 10, 2021, 7:04 PM
+  Last Refresh : Thursday, June 10, 2021, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
