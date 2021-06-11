@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 11, 2021, 5:17 AM
+  Last Refresh : Friday, June 11, 2021, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
