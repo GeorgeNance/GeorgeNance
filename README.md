@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Richard Hamming*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 11, 2021, 3:14 AM
+  Last Refresh : Friday, June 11, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
