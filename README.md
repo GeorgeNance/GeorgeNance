@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Linus Torvalds*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 11, 2021, 1:11 PM
+  Last Refresh : Friday, June 11, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
