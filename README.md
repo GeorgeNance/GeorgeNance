@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Fred Brooks*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 12, 2021, 6:22 AM
+  Last Refresh : Saturday, June 12, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
