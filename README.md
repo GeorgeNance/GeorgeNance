@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 >
-> ~ *Eric S. Raymond*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 12, 2021, 5:17 AM
+  Last Refresh : Saturday, June 12, 2021, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
