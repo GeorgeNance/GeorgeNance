@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Ken Thompson*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 12, 2021, 1:12 PM
+  Last Refresh : Saturday, June 12, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
