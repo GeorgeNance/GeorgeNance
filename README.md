@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Richard E. Pattis*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 11, 2021, 11:14 PM
+  Last Refresh : Saturday, June 12, 2021, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
