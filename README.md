@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Eric S. Raymond*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 12, 2021, 10:26 AM
+  Last Refresh : Saturday, June 12, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
