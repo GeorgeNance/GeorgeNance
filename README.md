@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Alan Kay*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 12, 2021, 3:11 PM
+  Last Refresh : Saturday, June 12, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
