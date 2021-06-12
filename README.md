@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *John Johnson*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 12, 2021, 4:10 AM
+  Last Refresh : Saturday, June 12, 2021, 5:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
