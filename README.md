@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Martin Fowler*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 1:13 AM
+  Last Refresh : Sunday, June 13, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
