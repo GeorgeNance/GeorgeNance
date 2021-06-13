@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 6:23 AM
+  Last Refresh : Sunday, June 13, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
