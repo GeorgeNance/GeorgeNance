@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Donald Knuth*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 3:13 AM
+  Last Refresh : Sunday, June 13, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
