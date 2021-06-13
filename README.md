@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 3:12 PM
+  Last Refresh : Sunday, June 13, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
