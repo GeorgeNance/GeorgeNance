@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One accurate measurement is worth more than a thousand expert opinions.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Grace Hopper*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 2:12 AM
+  Last Refresh : Sunday, June 13, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
