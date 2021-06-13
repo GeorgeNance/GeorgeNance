@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Rob Pike*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 12:12 PM
+  Last Refresh : Sunday, June 13, 2021, 1:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
