@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
+> ### One man's constant is another man's variable.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 7:11 AM
+  Last Refresh : Sunday, June 13, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
