@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Anonymous*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 5:18 AM
+  Last Refresh : Sunday, June 13, 2021, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
