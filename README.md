@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Daniel T. Barry*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 13, 2021, 1:11 PM
+  Last Refresh : Sunday, June 13, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
