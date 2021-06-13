@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Randall E. Stross*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 12, 2021, 5:42 PM
+  Last Refresh : Saturday, June 12, 2021, 7:01 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
