@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *George Carrette*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 12, 2021, 11:15 PM
+  Last Refresh : Sunday, June 13, 2021, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
