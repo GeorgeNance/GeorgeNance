@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Bill Gates*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 14, 2021, 9:22 AM
+  Last Refresh : Monday, June 14, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
