@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 14, 2021, 11:15 AM
+  Last Refresh : Monday, June 14, 2021, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
