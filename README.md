@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 14, 2021, 6:24 AM
+  Last Refresh : Monday, June 14, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
