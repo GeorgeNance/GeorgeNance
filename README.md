@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Donald Knuth*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 14, 2021, 1:12 PM
+  Last Refresh : Monday, June 14, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
