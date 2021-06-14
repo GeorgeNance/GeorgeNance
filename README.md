@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Charles Simonyi*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 14, 2021, 8:14 AM
+  Last Refresh : Monday, June 14, 2021, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
