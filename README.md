@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Andy Hunt (author)*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 14, 2021, 12:17 AM
+  Last Refresh : Monday, June 14, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
