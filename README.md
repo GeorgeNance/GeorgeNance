@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Addy Osmani*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 14, 2021, 11:15 PM
+  Last Refresh : Tuesday, June 15, 2021, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
