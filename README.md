@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 >
-> ~ *Kent Beck*
+> ~ *Rick Osborne*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 15, 2021, 5:18 AM
+  Last Refresh : Tuesday, June 15, 2021, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
