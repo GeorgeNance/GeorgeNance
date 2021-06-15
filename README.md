@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Gerald Weinberg*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 15, 2021, 8:14 AM
+  Last Refresh : Tuesday, June 15, 2021, 9:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
