@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Addy Osmani*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 15, 2021, 4:10 AM
+  Last Refresh : Tuesday, June 15, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
