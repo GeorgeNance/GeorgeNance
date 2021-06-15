@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 >
-> ~ *Marvin Minsky*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 15, 2021, 1:12 PM
+  Last Refresh : Tuesday, June 15, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
