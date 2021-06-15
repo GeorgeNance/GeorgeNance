@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Bob Carr*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 14, 2021, 9:16 PM
+  Last Refresh : Monday, June 14, 2021, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
