@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Albert Einstein*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 16, 2021, 3:14 AM
+  Last Refresh : Wednesday, June 16, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
