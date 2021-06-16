@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Pamela Zave*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 16, 2021, 12:12 PM
+  Last Refresh : Wednesday, June 16, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
