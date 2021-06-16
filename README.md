@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Fred Brooks*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 16, 2021, 3:12 PM
+  Last Refresh : Wednesday, June 16, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
