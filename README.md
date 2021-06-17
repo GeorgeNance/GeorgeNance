@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Joel Spolsky*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 16, 2021, 4:12 PM
+  Last Refresh : Wednesday, June 16, 2021, 5:38 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
