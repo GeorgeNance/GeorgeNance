@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 17, 2021, 10:29 AM
+  Last Refresh : Thursday, June 17, 2021, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
