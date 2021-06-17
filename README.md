@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Bill Gates*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 16, 2021, 5:38 PM
+  Last Refresh : Wednesday, June 16, 2021, 6:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
