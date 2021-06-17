@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 17, 2021, 9:23 AM
+  Last Refresh : Thursday, June 17, 2021, 10:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
