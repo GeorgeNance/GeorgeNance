@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Tom Cargill*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 17, 2021, 12:16 AM
+  Last Refresh : Thursday, June 17, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
