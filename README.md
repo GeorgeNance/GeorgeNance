@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
+> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 >
 > ~ *Danny Hillis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 18, 2021, 6:24 AM
+  Last Refresh : Friday, June 18, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
