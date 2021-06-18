@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Rich Skrenta*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 18, 2021, 3:12 PM
+  Last Refresh : Friday, June 18, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
