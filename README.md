@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 17, 2021, 10:15 PM
+  Last Refresh : Thursday, June 17, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
