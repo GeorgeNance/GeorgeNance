@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Daniel T. Barry*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 18, 2021, 11:14 AM
+  Last Refresh : Friday, June 18, 2021, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
