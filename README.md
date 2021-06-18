@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Martin Fowler*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 18, 2021, 2:11 PM
+  Last Refresh : Friday, June 18, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
