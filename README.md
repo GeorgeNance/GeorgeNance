@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *John von Neumann*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 19, 2021, 10:24 AM
+  Last Refresh : Saturday, June 19, 2021, 11:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
