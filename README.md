@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 19, 2021, 12:09 PM
+  Last Refresh : Saturday, June 19, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
