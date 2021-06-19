@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 18, 2021, 10:15 PM
+  Last Refresh : Friday, June 18, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
