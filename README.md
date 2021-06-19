@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 >
-> ~ *Ken Olsen*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 18, 2021, 4:12 PM
+  Last Refresh : Friday, June 18, 2021, 5:39 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
