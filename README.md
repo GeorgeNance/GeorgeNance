@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Ted Nelson*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 19, 2021, 9:19 AM
+  Last Refresh : Saturday, June 19, 2021, 10:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
