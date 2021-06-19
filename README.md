@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Ken Olsen*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 19, 2021, 2:12 AM
+  Last Refresh : Saturday, June 19, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
