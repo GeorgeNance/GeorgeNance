@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
 >
-> ~ *Richard Hamming*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 19, 2021, 12:14 AM
+  Last Refresh : Saturday, June 19, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
