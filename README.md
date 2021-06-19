@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *John Carmack*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 18, 2021, 9:15 PM
+  Last Refresh : Friday, June 18, 2021, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
