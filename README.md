@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Douglas Crockford*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 20, 2021, 12:14 AM
+  Last Refresh : Sunday, June 20, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
