@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 >
-> ~ *Linus Torvalds*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 20, 2021, 8:13 AM
+  Last Refresh : Sunday, June 20, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
