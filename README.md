@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *David Parnas*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 19, 2021, 5:41 PM
+  Last Refresh : Saturday, June 19, 2021, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
