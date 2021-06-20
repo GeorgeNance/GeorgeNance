@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Gerald Weinberg*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 20, 2021, 3:13 AM
+  Last Refresh : Sunday, June 20, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
