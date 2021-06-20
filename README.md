@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *Robert C. Martin*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 20, 2021, 4:10 AM
+  Last Refresh : Sunday, June 20, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
