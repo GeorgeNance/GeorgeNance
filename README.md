@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 19, 2021, 9:15 PM
+  Last Refresh : Saturday, June 19, 2021, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
