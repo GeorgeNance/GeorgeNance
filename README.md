@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
 >
-> ~ *Maurice Wilkes*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 20, 2021, 5:18 AM
+  Last Refresh : Sunday, June 20, 2021, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
