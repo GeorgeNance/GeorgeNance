@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Laurence J. Peter*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 20, 2021, 3:11 PM
+  Last Refresh : Sunday, June 20, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
