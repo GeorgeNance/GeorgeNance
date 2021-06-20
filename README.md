@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Steve Jobs*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 20, 2021, 9:19 AM
+  Last Refresh : Sunday, June 20, 2021, 10:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
