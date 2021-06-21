@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Donald Knuth*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 2:12 AM
+  Last Refresh : Monday, June 21, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
