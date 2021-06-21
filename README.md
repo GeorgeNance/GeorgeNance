@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Anonymous*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 7:11 AM
+  Last Refresh : Monday, June 21, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
