@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *Filipe Fortes*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 8:13 AM
+  Last Refresh : Monday, June 21, 2021, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
