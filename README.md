@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Butler Lampson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 3:14 AM
+  Last Refresh : Monday, June 21, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
