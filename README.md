@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Anonymous*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 20, 2021, 4:12 PM
+  Last Refresh : Sunday, June 20, 2021, 5:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
