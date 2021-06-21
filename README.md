@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 9:21 AM
+  Last Refresh : Monday, June 21, 2021, 10:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
