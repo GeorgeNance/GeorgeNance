@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Roy Fielding*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 3:13 PM
+  Last Refresh : Monday, June 21, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
