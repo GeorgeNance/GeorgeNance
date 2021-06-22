@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Kevlin Henney*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 6:23 AM
+  Last Refresh : Tuesday, June 22, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
