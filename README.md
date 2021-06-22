@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Bill Gates*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 3:14 AM
+  Last Refresh : Tuesday, June 22, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
