@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### Programming can be addictive.
 >
-> ~ *Richard Stallman*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 3:12 PM
+  Last Refresh : Tuesday, June 22, 2021, 4:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
