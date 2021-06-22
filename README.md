@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 >
-> ~ *Elon Musk*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 10:26 AM
+  Last Refresh : Tuesday, June 22, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
