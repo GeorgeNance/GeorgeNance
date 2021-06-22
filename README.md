@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 4:10 AM
+  Last Refresh : Tuesday, June 22, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
