@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 9:15 PM
+  Last Refresh : Monday, June 21, 2021, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
