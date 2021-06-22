@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Bill Gates*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 9:21 AM
+  Last Refresh : Tuesday, June 22, 2021, 10:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
