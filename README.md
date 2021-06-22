@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 6:56 PM
+  Last Refresh : Monday, June 21, 2021, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
