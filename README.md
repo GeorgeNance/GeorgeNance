@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 21, 2021, 8:13 PM
+  Last Refresh : Monday, June 21, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
