@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 >
-> ~ *Ted Nelson*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 23, 2021, 4:10 AM
+  Last Refresh : Wednesday, June 23, 2021, 5:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
