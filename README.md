@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Bill Gates*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 23, 2021, 12:09 PM
+  Last Refresh : Wednesday, June 23, 2021, 1:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
