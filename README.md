@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Linus Torvalds*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 23, 2021, 2:11 AM
+  Last Refresh : Wednesday, June 23, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
