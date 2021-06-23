@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Anonymous*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 23, 2021, 3:14 AM
+  Last Refresh : Wednesday, June 23, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
