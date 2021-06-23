@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Steve Jobs*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 23, 2021, 11:14 AM
+  Last Refresh : Wednesday, June 23, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
