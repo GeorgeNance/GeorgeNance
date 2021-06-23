@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Alan Perlis*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 8:12 PM
+  Last Refresh : Tuesday, June 22, 2021, 9:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
