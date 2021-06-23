@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 >
-> ~ *Ray Ozzie*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 23, 2021, 1:11 PM
+  Last Refresh : Wednesday, June 23, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
