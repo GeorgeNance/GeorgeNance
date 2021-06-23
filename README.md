@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 7:23 PM
+  Last Refresh : Tuesday, June 22, 2021, 8:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
