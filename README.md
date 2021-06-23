@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 5:37 PM
+  Last Refresh : Tuesday, June 22, 2021, 6:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
