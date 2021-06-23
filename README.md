@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 >
-> ~ *Grady Booch*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 22, 2021, 11:14 PM
+  Last Refresh : Wednesday, June 23, 2021, 12:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
