@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 >
-> ~ *Alan Turing*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 9:20 AM
+  Last Refresh : Thursday, June 24, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
