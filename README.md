@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Gary Kildall*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 7:11 AM
+  Last Refresh : Thursday, June 24, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
