@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Richard Feynman*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 8:14 AM
+  Last Refresh : Thursday, June 24, 2021, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
