@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 >
-> ~ *John Carmack*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 23, 2021, 8:15 PM
+  Last Refresh : Wednesday, June 23, 2021, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
