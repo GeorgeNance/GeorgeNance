@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Fred Brooks*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 12:11 AM
+  Last Refresh : Thursday, June 24, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
