@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Douglas Crockford*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 3:12 PM
+  Last Refresh : Thursday, June 24, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
