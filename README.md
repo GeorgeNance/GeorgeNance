@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 23, 2021, 6:51 PM
+  Last Refresh : Wednesday, June 23, 2021, 7:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
