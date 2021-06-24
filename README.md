@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Fred Brooks*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 2:13 AM
+  Last Refresh : Thursday, June 24, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
