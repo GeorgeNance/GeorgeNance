@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Marvin Minsky*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 9:19 AM
+  Last Refresh : Friday, June 25, 2021, 10:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
