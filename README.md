@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 >
-> ~ *Douglas Crockford*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 2:13 AM
+  Last Refresh : Friday, June 25, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
