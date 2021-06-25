@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 3:12 PM
+  Last Refresh : Friday, June 25, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
