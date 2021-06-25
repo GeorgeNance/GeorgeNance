@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 8:14 PM
+  Last Refresh : Thursday, June 24, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
