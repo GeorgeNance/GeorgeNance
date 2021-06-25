@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *John von Neumann*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 12:09 AM
+  Last Refresh : Friday, June 25, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
