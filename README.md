@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
+> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 >
-> ~ *Hal Abelson*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 9:15 PM
+  Last Refresh : Thursday, June 24, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
