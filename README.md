@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Programming can be addictive.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 4:12 PM
+  Last Refresh : Thursday, June 24, 2021, 5:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
