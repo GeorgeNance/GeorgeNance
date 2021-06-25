@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Donald Knuth*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 3:13 AM
+  Last Refresh : Friday, June 25, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
