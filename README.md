@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 1:13 AM
+  Last Refresh : Friday, June 25, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
