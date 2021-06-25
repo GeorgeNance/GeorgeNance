@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 >
-> ~ *Butler Lampson*
+> ~ *Ellen Ullman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 24, 2021, 6:59 PM
+  Last Refresh : Thursday, June 24, 2021, 7:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
