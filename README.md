@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *George Carrette*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 6:19 AM
+  Last Refresh : Friday, June 25, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
