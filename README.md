@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Jamie Zawinski*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 8:14 AM
+  Last Refresh : Friday, June 25, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
