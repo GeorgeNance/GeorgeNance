@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Cool URIs don't change.
 >
-> ~ *Albert Einstein*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 12:09 PM
+  Last Refresh : Friday, June 25, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
