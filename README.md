@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 7:23 PM
+  Last Refresh : Friday, June 25, 2021, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
