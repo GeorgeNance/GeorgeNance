@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 26, 2021, 1:13 AM
+  Last Refresh : Saturday, June 26, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
