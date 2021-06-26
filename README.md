@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 26, 2021, 1:11 PM
+  Last Refresh : Saturday, June 26, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
