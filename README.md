@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 26, 2021, 2:13 AM
+  Last Refresh : Saturday, June 26, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
