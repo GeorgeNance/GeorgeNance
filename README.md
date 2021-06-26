@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Douglas Crockford*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 6:51 PM
+  Last Refresh : Friday, June 25, 2021, 7:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
