@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Daniel T. Barry*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 8:14 PM
+  Last Refresh : Friday, June 25, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
