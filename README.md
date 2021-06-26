@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Wayne Ratliff*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 26, 2021, 12:10 AM
+  Last Refresh : Saturday, June 26, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
