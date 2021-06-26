@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Ken Thompson*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 26, 2021, 11:14 AM
+  Last Refresh : Saturday, June 26, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
