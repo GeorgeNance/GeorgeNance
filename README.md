@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Richard E. Pattis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 25, 2021, 10:10 PM
+  Last Refresh : Friday, June 25, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
