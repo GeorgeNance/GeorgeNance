@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 >
-> ~ *Douglas Crockford*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ make it smaller. If we could just get it down to what it does really well and re
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 26, 2021, 11:15 PM
+  Last Refresh : Sunday, June 27, 2021, 12:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
