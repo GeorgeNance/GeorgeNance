@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 >
-> ~ *Bill Gates*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 27, 2021, 10:18 AM
+  Last Refresh : Sunday, June 27, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
