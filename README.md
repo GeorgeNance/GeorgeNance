@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### Deleted code is debugged code.
 >
-> ~ *Richard Stallman*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 26, 2021, 5:45 PM
+  Last Refresh : Saturday, June 26, 2021, 7:01 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
