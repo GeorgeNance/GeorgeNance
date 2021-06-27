@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *John von Neumann*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 27, 2021, 5:18 AM
+  Last Refresh : Sunday, June 27, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
