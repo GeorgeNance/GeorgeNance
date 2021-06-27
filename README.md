@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
-> ~ *Daniel T. Barry*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 27, 2021, 6:17 AM
+  Last Refresh : Sunday, June 27, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
