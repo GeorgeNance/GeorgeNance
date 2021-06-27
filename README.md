@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 27, 2021, 12:10 AM
+  Last Refresh : Sunday, June 27, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
