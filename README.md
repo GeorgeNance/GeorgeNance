@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Niklaus Wirth*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 27, 2021, 1:13 AM
+  Last Refresh : Sunday, June 27, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
