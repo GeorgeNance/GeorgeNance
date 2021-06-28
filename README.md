@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 27, 2021, 10:10 PM
+  Last Refresh : Sunday, June 27, 2021, 11:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
