@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Martin Fowler*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 28, 2021, 12:10 AM
+  Last Refresh : Monday, June 28, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
