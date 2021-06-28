@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Ken Thompson*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 28, 2021, 11:24 AM
+  Last Refresh : Monday, June 28, 2021, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
