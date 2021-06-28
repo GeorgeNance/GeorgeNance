@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Martin Fowler*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 27, 2021, 9:16 PM
+  Last Refresh : Sunday, June 27, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
