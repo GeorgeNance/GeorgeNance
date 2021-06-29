@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 28, 2021, 5:39 PM
+  Last Refresh : Monday, June 28, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
