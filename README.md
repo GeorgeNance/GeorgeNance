@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Charles Simonyi*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 9:19 AM
+  Last Refresh : Tuesday, June 29, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
