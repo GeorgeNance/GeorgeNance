@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Douglas Crockford*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 28, 2021, 6:54 PM
+  Last Refresh : Monday, June 28, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
