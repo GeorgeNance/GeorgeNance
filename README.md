@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Linus Torvalds*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 28, 2021, 9:15 PM
+  Last Refresh : Monday, June 28, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
