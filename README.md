@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### Really good programs live forever.
 >
-> ~ *Fred Brooks*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 8:12 AM
+  Last Refresh : Tuesday, June 29, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
