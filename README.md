@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Jaron Lanier*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 1:13 AM
+  Last Refresh : Tuesday, June 29, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
