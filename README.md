@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 >
-> ~ *Danny Hillis*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 1:12 PM
+  Last Refresh : Tuesday, June 29, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
