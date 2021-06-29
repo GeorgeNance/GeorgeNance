@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Luciano Ramalho*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 28, 2021, 10:10 PM
+  Last Refresh : Monday, June 28, 2021, 11:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
