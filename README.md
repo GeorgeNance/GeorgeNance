@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 >
-> ~ *Donald Knuth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 3:12 PM
+  Last Refresh : Tuesday, June 29, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
