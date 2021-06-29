@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 >
-> ~ *Albert Einstein*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 5:19 AM
+  Last Refresh : Tuesday, June 29, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
