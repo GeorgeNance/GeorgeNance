@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 12:10 AM
+  Last Refresh : Tuesday, June 29, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
