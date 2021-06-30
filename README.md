@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Fred Brooks*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 4:12 PM
+  Last Refresh : Tuesday, June 29, 2021, 5:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
