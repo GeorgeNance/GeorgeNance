@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *William Wulf*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 6:59 PM
+  Last Refresh : Tuesday, June 29, 2021, 7:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
