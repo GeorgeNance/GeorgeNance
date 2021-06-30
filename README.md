@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Charles Babbage*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 10:10 PM
+  Last Refresh : Tuesday, June 29, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
