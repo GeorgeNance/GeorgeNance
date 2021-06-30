@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 >
-> ~ *Bill Gates*
+> ~ *Leslie Lamport*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 12:11 AM
+  Last Refresh : Wednesday, June 30, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
