@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 4:10 AM
+  Last Refresh : Wednesday, June 30, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
