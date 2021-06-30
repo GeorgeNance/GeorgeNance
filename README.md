@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 >
 > ~ *Marijn Haverbeke*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 11:15 AM
+  Last Refresh : Wednesday, June 30, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
