@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 >
 > ~ *Bill Gates*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 29, 2021, 11:15 PM
+  Last Refresh : Wednesday, June 30, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
