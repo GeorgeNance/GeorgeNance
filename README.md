@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Bill Gates*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 5:19 AM
+  Last Refresh : Wednesday, June 30, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
