@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 >
-> ~ *Fred Brooks*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 2:11 PM
+  Last Refresh : Wednesday, June 30, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
