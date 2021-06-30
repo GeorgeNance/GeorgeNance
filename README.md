@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 2:13 AM
+  Last Refresh : Wednesday, June 30, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
