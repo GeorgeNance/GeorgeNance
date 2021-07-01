@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 >
-> ~ *Hal Abelson*
+> ~ *Andy Hunt (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 10:20 AM
+  Last Refresh : Thursday, July 1, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
