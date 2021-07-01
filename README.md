@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 >
-> ~ *Danny Hillis*
+> ~ *Laurence J. Peter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 6:58 PM
+  Last Refresh : Wednesday, June 30, 2021, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
