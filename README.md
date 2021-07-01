@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 4:11 PM
+  Last Refresh : Wednesday, June 30, 2021, 5:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
