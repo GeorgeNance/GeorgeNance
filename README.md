@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### Cool URIs don't change.
 >
-> ~ *Laurence J. Peter*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 30, 2021, 7:30 PM
+  Last Refresh : Wednesday, June 30, 2021, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
