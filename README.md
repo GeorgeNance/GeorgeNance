@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 11:15 AM
+  Last Refresh : Thursday, July 1, 2021, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
