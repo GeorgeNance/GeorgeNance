@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Joel Spolsky*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 2:11 PM
+  Last Refresh : Thursday, July 1, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
