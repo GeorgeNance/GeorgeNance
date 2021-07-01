@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 >
-> ~ *Butler Lampson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 12:11 PM
+  Last Refresh : Thursday, July 1, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
