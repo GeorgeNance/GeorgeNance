@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Steve Jobs*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 2:13 AM
+  Last Refresh : Thursday, July 1, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
