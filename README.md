@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Fred Brooks*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 1:13 PM
+  Last Refresh : Thursday, July 1, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
