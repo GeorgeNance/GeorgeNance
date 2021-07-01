@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 5:20 AM
+  Last Refresh : Thursday, July 1, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
