@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Rick Osborne*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 12:12 AM
+  Last Refresh : Friday, July 2, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
