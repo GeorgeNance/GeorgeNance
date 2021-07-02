@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *Edward V. Berard*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 5:19 AM
+  Last Refresh : Friday, July 2, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
