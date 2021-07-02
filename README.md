@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### Less code equals less bugs.
 >
-> ~ *Terry Winograd*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 10:10 PM
+  Last Refresh : Thursday, July 1, 2021, 11:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
