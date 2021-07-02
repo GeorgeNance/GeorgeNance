@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 >
-> ~ *Alan Turing*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 1:12 PM
+  Last Refresh : Friday, July 2, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
