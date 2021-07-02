@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Robert C. Martin*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 1:14 AM
+  Last Refresh : Friday, July 2, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
