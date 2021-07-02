@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Donald Knuth*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 9:20 AM
+  Last Refresh : Friday, July 2, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
