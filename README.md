@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Jaron Lanier*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 10:19 AM
+  Last Refresh : Friday, July 2, 2021, 11:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
