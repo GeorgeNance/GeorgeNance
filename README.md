@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Alan Perlis*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 4:10 AM
+  Last Refresh : Friday, July 2, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
