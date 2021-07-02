@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 >
-> ~ *Damian Conway*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 9:15 PM
+  Last Refresh : Thursday, July 1, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
