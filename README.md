@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Donald Knuth*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 1, 2021, 8:14 PM
+  Last Refresh : Thursday, July 1, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
