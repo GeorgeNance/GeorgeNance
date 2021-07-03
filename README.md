@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 >
-> ~ *Vannevar Bush*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 3, 2021, 6:15 AM
+  Last Refresh : Saturday, July 3, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
