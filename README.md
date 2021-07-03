@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Bill Gates*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 3, 2021, 9:18 AM
+  Last Refresh : Saturday, July 3, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
