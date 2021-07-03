@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *John von Neumann*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 5:40 PM
+  Last Refresh : Friday, July 2, 2021, 6:50 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
