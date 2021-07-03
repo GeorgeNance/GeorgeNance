@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Donald Knuth*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 2, 2021, 11:15 PM
+  Last Refresh : Saturday, July 3, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
