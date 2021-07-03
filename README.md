@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *John von Neumann*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 3, 2021, 12:09 PM
+  Last Refresh : Saturday, July 3, 2021, 1:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
