@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 3, 2021, 4:09 AM
+  Last Refresh : Saturday, July 3, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
