@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 4, 2021, 11:14 AM
+  Last Refresh : Sunday, July 4, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
