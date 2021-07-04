@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Vannevar Bush*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 4, 2021, 1:11 PM
+  Last Refresh : Sunday, July 4, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
