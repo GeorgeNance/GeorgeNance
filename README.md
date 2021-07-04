@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 >
-> ~ *Douglas Crockford*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 4, 2021, 7:10 AM
+  Last Refresh : Sunday, July 4, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
