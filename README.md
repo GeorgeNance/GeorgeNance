@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 >
-> ~ *Alan Turing*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 4, 2021, 5:18 AM
+  Last Refresh : Sunday, July 4, 2021, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
