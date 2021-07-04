@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Fred Brooks*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 3, 2021, 10:10 PM
+  Last Refresh : Saturday, July 3, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
