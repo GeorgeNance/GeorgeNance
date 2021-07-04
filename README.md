@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Fred Brooks*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 3, 2021, 5:40 PM
+  Last Refresh : Saturday, July 3, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
