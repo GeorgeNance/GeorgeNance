@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Donald Knuth*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 4, 2021, 6:16 AM
+  Last Refresh : Sunday, July 4, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
