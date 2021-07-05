@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 >
-> ~ *Alan Turing*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 4:09 AM
+  Last Refresh : Monday, July 5, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
