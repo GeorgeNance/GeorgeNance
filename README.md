@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 3:13 AM
+  Last Refresh : Monday, July 5, 2021, 4:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
