@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 3:11 PM
+  Last Refresh : Monday, July 5, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
