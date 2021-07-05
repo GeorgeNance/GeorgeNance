@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Douglas Crockford*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 12:09 PM
+  Last Refresh : Monday, July 5, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
