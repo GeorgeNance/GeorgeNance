@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
-> ~ *Donald Knuth*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 2:11 PM
+  Last Refresh : Monday, July 5, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
