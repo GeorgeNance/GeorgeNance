@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Dennis Ritchie*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 4, 2021, 7:23 PM
+  Last Refresh : Sunday, July 4, 2021, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
