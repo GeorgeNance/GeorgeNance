@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 9:18 AM
+  Last Refresh : Monday, July 5, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
