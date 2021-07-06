@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *Joshua Bloch*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 11:15 PM
+  Last Refresh : Tuesday, July 6, 2021, 12:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
