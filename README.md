@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Linus Torvalds*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 6, 2021, 1:12 PM
+  Last Refresh : Tuesday, July 6, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
