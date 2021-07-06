@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 >
-> ~ *Fred Brooks*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 6, 2021, 10:18 AM
+  Last Refresh : Tuesday, July 6, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
