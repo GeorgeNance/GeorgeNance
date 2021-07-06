@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+> ### Never memorize something that you can look up.
 >
-> ~ *Daniel T. Barry*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 6, 2021, 7:11 AM
+  Last Refresh : Tuesday, July 6, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
