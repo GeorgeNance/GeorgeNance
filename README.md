@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 >
-> ~ *Ted Nelson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 6, 2021, 4:10 AM
+  Last Refresh : Tuesday, July 6, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
