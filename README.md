@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *John Warnock*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 9:15 PM
+  Last Refresh : Monday, July 5, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
