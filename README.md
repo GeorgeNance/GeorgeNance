@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Jim Horning*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 4:12 PM
+  Last Refresh : Monday, July 5, 2021, 5:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
