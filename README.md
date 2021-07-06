@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 >
-> ~ *Linus Torvalds*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 5, 2021, 7:26 PM
+  Last Refresh : Monday, July 5, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
