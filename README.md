@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Richard Stallman*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 1:13 AM
+  Last Refresh : Wednesday, July 7, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
