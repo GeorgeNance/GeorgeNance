@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *David Gelernter*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 6, 2021, 6:55 PM
+  Last Refresh : Tuesday, July 6, 2021, 7:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
