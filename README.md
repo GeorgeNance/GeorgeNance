@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Dennis Ritchie*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 3:12 PM
+  Last Refresh : Wednesday, July 7, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
