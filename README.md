@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Martin Fowler*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 6, 2021, 9:15 PM
+  Last Refresh : Tuesday, July 6, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
