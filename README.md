@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 1:12 PM
+  Last Refresh : Wednesday, July 7, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
