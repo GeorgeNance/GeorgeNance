@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Gary Kildall*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 6, 2021, 11:15 PM
+  Last Refresh : Wednesday, July 7, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
