@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Luciano Ramalho*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 2:11 PM
+  Last Refresh : Wednesday, July 7, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
