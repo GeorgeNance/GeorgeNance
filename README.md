@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Grady Booch*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 12:09 PM
+  Last Refresh : Wednesday, July 7, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
