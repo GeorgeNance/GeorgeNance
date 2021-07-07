@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 >
-> ~ *Robert C. Martin*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 12:11 AM
+  Last Refresh : Wednesday, July 7, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
