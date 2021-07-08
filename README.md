@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### Really good programs live forever.
 >
-> ~ *Tom DeMarco*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 7:13 AM
+  Last Refresh : Thursday, July 8, 2021, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
