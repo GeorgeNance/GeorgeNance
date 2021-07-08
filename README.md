@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Steve Jobs*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 3:13 AM
+  Last Refresh : Thursday, July 8, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
