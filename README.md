@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *Charles Simonyi*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 8:16 AM
+  Last Refresh : Thursday, July 8, 2021, 9:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
