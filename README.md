@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 11:15 AM
+  Last Refresh : Thursday, July 8, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
