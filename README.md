@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Fred Brooks*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 1:14 AM
+  Last Refresh : Thursday, July 8, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
