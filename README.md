@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Tom DeMarco*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 9:15 PM
+  Last Refresh : Wednesday, July 7, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
