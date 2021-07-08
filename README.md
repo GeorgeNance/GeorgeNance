@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *David Leinweber*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 5:38 PM
+  Last Refresh : Wednesday, July 7, 2021, 6:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
