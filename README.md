@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Douglas Crockford*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 8:13 PM
+  Last Refresh : Wednesday, July 7, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
