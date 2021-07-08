@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Richard Hamming*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 12:11 AM
+  Last Refresh : Thursday, July 8, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
