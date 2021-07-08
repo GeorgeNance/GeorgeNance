@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Douglas Crockford*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 6:22 AM
+  Last Refresh : Thursday, July 8, 2021, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
