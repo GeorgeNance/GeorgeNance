@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
 >
-> ~ *Bill Gates*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 4:10 AM
+  Last Refresh : Thursday, July 8, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
