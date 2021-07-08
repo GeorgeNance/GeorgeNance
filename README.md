@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 7, 2021, 7:27 PM
+  Last Refresh : Wednesday, July 7, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
