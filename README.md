@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Alan Kay*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 3:12 PM
+  Last Refresh : Friday, July 9, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
