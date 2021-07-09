@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Ken Thompson*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 2:11 PM
+  Last Refresh : Friday, July 9, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
