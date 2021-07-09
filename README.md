@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 6:57 PM
+  Last Refresh : Thursday, July 8, 2021, 7:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
