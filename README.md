@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 1:13 AM
+  Last Refresh : Friday, July 9, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
