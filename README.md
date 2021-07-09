@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 >
-> ~ *Elon Musk*
+> ~ *Tony Hoare*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 4:10 AM
+  Last Refresh : Friday, July 9, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
