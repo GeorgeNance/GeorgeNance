@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Gary Kildall*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 7:27 PM
+  Last Refresh : Thursday, July 8, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
