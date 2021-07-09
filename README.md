@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 7:11 AM
+  Last Refresh : Friday, July 9, 2021, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
