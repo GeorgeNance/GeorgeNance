@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 6:17 AM
+  Last Refresh : Friday, July 9, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
