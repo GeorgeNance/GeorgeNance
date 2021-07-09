@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Fred Brooks*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 3:13 AM
+  Last Refresh : Friday, July 9, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
