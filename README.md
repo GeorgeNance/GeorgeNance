@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Tom DeMarco*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 8, 2021, 4:12 PM
+  Last Refresh : Thursday, July 8, 2021, 5:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
