@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Fred Brooks*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 6:51 PM
+  Last Refresh : Friday, July 9, 2021, 7:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
