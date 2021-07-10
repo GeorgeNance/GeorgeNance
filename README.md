@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Gary Kildall*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 10, 2021, 3:12 AM
+  Last Refresh : Saturday, July 10, 2021, 4:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
