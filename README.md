@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 10, 2021, 11:14 AM
+  Last Refresh : Saturday, July 10, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
