@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 9, 2021, 7:23 PM
+  Last Refresh : Friday, July 9, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
