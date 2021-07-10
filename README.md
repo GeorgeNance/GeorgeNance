@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Jamie Zawinski*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 10, 2021, 8:13 AM
+  Last Refresh : Saturday, July 10, 2021, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
