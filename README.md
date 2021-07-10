@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 10, 2021, 12:09 PM
+  Last Refresh : Saturday, July 10, 2021, 1:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
