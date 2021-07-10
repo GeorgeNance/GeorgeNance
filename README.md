@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 10, 2021, 3:11 PM
+  Last Refresh : Saturday, July 10, 2021, 4:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
