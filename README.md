@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Charles Simonyi*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 10, 2021, 9:15 PM
+  Last Refresh : Saturday, July 10, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
