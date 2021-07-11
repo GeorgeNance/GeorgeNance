@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Donald Knuth*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 10, 2021, 5:45 PM
+  Last Refresh : Saturday, July 10, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
