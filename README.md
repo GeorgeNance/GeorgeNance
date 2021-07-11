@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 11, 2021, 5:18 AM
+  Last Refresh : Sunday, July 11, 2021, 6:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
