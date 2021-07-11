@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Martin Fowler*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 11, 2021, 11:14 AM
+  Last Refresh : Sunday, July 11, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
