@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Wayne Ratliff*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 11, 2021, 6:15 AM
+  Last Refresh : Sunday, July 11, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
