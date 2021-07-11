@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Harlan Mills*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 10, 2021, 6:58 PM
+  Last Refresh : Saturday, July 10, 2021, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
