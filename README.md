@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 12, 2021, 9:19 AM
+  Last Refresh : Monday, July 12, 2021, 10:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
