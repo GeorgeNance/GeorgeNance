@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 >
-> ~ *David Leinweber*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 12, 2021, 4:10 AM
+  Last Refresh : Monday, July 12, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
