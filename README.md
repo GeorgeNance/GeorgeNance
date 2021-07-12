@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *John von Neumann*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 11, 2021, 11:16 PM
+  Last Refresh : Monday, July 12, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
