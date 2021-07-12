@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *George Boole*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 11, 2021, 5:39 PM
+  Last Refresh : Sunday, July 11, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
