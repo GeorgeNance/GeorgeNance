@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 12, 2021, 7:11 AM
+  Last Refresh : Monday, July 12, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
