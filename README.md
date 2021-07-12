@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
+> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 >
-> ~ *John Carmack*
+> ~ *Carl Friedrich Gauss*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 12, 2021, 6:19 AM
+  Last Refresh : Monday, July 12, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
