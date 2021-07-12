@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Maurice Wilkes*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 12, 2021, 3:10 PM
+  Last Refresh : Monday, July 12, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
