@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 >
-> ~ *Tony Hoare*
+> ~ *Andy Hertzfeld*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 3:12 PM
+  Last Refresh : Tuesday, July 13, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
