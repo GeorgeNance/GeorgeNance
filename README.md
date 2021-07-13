@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Alan Perlis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 12, 2021, 4:12 PM
+  Last Refresh : Monday, July 12, 2021, 5:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
