@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Fred Brooks*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 5:20 AM
+  Last Refresh : Tuesday, July 13, 2021, 6:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
