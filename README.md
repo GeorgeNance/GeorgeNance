@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Buckminster Fuller*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 1:13 AM
+  Last Refresh : Tuesday, July 13, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
