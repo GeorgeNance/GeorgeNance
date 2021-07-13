@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 12, 2021, 5:43 PM
+  Last Refresh : Monday, July 12, 2021, 6:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
