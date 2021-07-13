@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Elon Musk*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 4:10 AM
+  Last Refresh : Tuesday, July 13, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
