@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 9:19 AM
+  Last Refresh : Tuesday, July 13, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
