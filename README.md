@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Charles Simonyi*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 10:19 AM
+  Last Refresh : Tuesday, July 13, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
