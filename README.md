@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Douglas Crockford*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 8:14 AM
+  Last Refresh : Tuesday, July 13, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
