@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Luciano Ramalho*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 11:14 AM
+  Last Refresh : Tuesday, July 13, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
