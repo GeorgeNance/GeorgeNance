@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *Steve Jobs*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 12, 2021, 9:15 PM
+  Last Refresh : Monday, July 12, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
