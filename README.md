@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 11:15 PM
+  Last Refresh : Wednesday, July 14, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
