@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### Less code equals less bugs.
 >
-> ~ *Eric S. Raymond*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 7:11 AM
+  Last Refresh : Wednesday, July 14, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
