@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *L. Peter Deutsch*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 2:13 AM
+  Last Refresh : Wednesday, July 14, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
