@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Linus Torvalds*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 4:10 AM
+  Last Refresh : Wednesday, July 14, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
