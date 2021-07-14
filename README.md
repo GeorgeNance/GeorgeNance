@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Edward V. Berard*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 5:37 PM
+  Last Refresh : Tuesday, July 13, 2021, 6:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
