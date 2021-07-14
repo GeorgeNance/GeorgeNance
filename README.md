@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 6:52 PM
+  Last Refresh : Tuesday, July 13, 2021, 7:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
