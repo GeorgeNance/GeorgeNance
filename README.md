@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *John Johnson*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 2:11 PM
+  Last Refresh : Wednesday, July 14, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
