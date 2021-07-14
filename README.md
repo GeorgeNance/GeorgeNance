@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Robert C. Martin*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 5:19 AM
+  Last Refresh : Wednesday, July 14, 2021, 6:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
