@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 >
-> ~ *John Carmack*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 11:15 AM
+  Last Refresh : Wednesday, July 14, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
