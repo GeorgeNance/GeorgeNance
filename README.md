@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 >
-> ~ *Kevlin Henney*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 8:13 AM
+  Last Refresh : Wednesday, July 14, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
