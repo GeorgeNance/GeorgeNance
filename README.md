@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 13, 2021, 4:12 PM
+  Last Refresh : Tuesday, July 13, 2021, 5:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
