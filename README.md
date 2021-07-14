@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Douglas Crockford*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 6:21 AM
+  Last Refresh : Wednesday, July 14, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
