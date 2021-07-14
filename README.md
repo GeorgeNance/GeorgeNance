@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Charles Simonyi*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 1:12 PM
+  Last Refresh : Wednesday, July 14, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
