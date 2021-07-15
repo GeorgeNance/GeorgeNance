@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Daniel T. Barry*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 15, 2021, 10:19 AM
+  Last Refresh : Thursday, July 15, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
