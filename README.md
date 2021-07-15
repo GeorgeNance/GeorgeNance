@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Stewart Brand*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 15, 2021, 7:11 AM
+  Last Refresh : Thursday, July 15, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
