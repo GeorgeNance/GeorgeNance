@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 >
-> ~ *Harlan Mills*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 11:15 PM
+  Last Refresh : Thursday, July 15, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
