@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Elon Musk*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 5:41 PM
+  Last Refresh : Wednesday, July 14, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
