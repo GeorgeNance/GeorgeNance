@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Alan Perlis*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 14, 2021, 9:15 PM
+  Last Refresh : Wednesday, July 14, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
