@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 15, 2021, 8:13 AM
+  Last Refresh : Thursday, July 15, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
