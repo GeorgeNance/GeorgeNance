@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 >
-> ~ *Fred Brooks*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 16, 2021, 4:10 AM
+  Last Refresh : Friday, July 16, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
