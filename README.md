@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Peter Roizen*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 15, 2021, 5:40 PM
+  Last Refresh : Thursday, July 15, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
