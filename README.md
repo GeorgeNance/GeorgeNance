@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Maurice Wilkes*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 16, 2021, 12:11 AM
+  Last Refresh : Friday, July 16, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
