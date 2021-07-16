@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 15, 2021, 9:15 PM
+  Last Refresh : Thursday, July 15, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
