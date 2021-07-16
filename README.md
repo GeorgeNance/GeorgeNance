@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 >
-> ~ *Donald Knuth*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 15, 2021, 11:15 PM
+  Last Refresh : Friday, July 16, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
