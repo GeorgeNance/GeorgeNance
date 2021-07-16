@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### Once you stop learning you start dying.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 16, 2021, 1:12 PM
+  Last Refresh : Friday, July 16, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
