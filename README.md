@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 16, 2021, 10:20 AM
+  Last Refresh : Friday, July 16, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
