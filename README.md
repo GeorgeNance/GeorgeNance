@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *David Parnas*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 16, 2021, 3:11 PM
+  Last Refresh : Friday, July 16, 2021, 4:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
