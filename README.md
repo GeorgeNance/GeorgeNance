@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 >
-> ~ *George Boole*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 15, 2021, 8:14 PM
+  Last Refresh : Thursday, July 15, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
