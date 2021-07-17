@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Dennis Ritchie*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 12:11 AM
+  Last Refresh : Saturday, July 17, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
