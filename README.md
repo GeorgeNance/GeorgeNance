@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### Programming can be addictive.
 >
-> ~ *Donald Knuth*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 7:10 AM
+  Last Refresh : Saturday, July 17, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
