@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 16, 2021, 7:24 PM
+  Last Refresh : Friday, July 16, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
