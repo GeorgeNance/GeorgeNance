@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Tom DeMarco*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 12:09 PM
+  Last Refresh : Saturday, July 17, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
