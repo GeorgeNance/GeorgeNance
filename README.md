@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Bob Carr*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 9:18 AM
+  Last Refresh : Saturday, July 17, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
