@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Alan Turing*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 16, 2021, 8:13 PM
+  Last Refresh : Friday, July 16, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
