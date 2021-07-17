@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Linus Torvalds*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 11:14 AM
+  Last Refresh : Saturday, July 17, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
