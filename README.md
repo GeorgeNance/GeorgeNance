@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Jonathan Sachs*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 5:18 AM
+  Last Refresh : Saturday, July 17, 2021, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
