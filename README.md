@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Eric S. Raymond*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 11:15 PM
+  Last Refresh : Sunday, July 18, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
