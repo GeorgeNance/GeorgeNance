@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Philip Greenspun*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 1:11 PM
+  Last Refresh : Sunday, July 18, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
