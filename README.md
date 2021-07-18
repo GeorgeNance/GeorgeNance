@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Rob Pike*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 7:25 PM
+  Last Refresh : Saturday, July 17, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
