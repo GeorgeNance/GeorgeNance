@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Albert Einstein*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 6:56 PM
+  Last Refresh : Saturday, July 17, 2021, 7:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
