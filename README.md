@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Richard Stallman*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 4:09 AM
+  Last Refresh : Sunday, July 18, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
