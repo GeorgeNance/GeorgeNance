@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 >
-> ~ *John Warnock*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 9:18 AM
+  Last Refresh : Sunday, July 18, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
