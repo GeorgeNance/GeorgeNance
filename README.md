@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 >
-> ~ *John Carmack*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 5:18 AM
+  Last Refresh : Sunday, July 18, 2021, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
