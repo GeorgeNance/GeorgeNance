@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Richard E. Pattis*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 12:11 AM
+  Last Refresh : Sunday, July 18, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
