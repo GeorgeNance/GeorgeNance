@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Gordon Bell*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 17, 2021, 8:13 PM
+  Last Refresh : Saturday, July 17, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
