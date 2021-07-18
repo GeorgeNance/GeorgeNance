@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 10:17 AM
+  Last Refresh : Sunday, July 18, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
