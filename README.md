@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Bob Frankston*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 2:11 PM
+  Last Refresh : Sunday, July 18, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
