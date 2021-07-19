@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Eric S. Raymond*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 19, 2021, 12:09 PM
+  Last Refresh : Monday, July 19, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
