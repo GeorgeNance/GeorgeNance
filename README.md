@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Ada Lovelace*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 11:15 PM
+  Last Refresh : Monday, July 19, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
