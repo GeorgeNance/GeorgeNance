@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Rich Skrenta*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 19, 2021, 3:12 PM
+  Last Refresh : Monday, July 19, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
