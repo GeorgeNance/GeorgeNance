@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Ada Lovelace*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 9:16 PM
+  Last Refresh : Sunday, July 18, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
