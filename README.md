@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Fred Brooks*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 19, 2021, 12:11 AM
+  Last Refresh : Monday, July 19, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
