@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Jim Horning*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 4:12 PM
+  Last Refresh : Sunday, July 18, 2021, 5:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
