@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 19, 2021, 10:19 AM
+  Last Refresh : Monday, July 19, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
