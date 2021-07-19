@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 18, 2021, 8:14 PM
+  Last Refresh : Sunday, July 18, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
