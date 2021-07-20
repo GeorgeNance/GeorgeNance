@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Fred Brooks*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 12:11 AM
+  Last Refresh : Tuesday, July 20, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
