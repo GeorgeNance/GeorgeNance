@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 12:09 PM
+  Last Refresh : Tuesday, July 20, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
