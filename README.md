@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 >
-> ~ *Bill Gates*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 11:14 AM
+  Last Refresh : Tuesday, July 20, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
