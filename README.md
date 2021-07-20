@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 19, 2021, 11:15 PM
+  Last Refresh : Tuesday, July 20, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
