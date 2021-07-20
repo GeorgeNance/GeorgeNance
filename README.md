@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Albert Einstein*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 19, 2021, 9:15 PM
+  Last Refresh : Monday, July 19, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
