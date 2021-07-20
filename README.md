@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
 >
-> ~ *Richard Hamming*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 1:13 PM
+  Last Refresh : Tuesday, July 20, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
