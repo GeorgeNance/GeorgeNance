@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 10:19 AM
+  Last Refresh : Tuesday, July 20, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
