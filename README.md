@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 5:19 AM
+  Last Refresh : Tuesday, July 20, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
