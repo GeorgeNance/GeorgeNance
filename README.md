@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 21, 2021, 10:20 AM
+  Last Refresh : Wednesday, July 21, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
