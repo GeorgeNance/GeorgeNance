@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 21, 2021, 12:11 AM
+  Last Refresh : Wednesday, July 21, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
