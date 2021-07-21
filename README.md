@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 8:14 PM
+  Last Refresh : Tuesday, July 20, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
