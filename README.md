@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Linus Torvalds*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 7:32 PM
+  Last Refresh : Tuesday, July 20, 2021, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
