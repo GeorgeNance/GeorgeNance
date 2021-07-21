@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Dennis Ritchie*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 21, 2021, 12:10 PM
+  Last Refresh : Wednesday, July 21, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
