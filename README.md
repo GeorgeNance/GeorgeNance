@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Andy Hunt (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 5:42 PM
+  Last Refresh : Tuesday, July 20, 2021, 6:59 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
