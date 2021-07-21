@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *René Descartes*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 21, 2021, 3:12 PM
+  Last Refresh : Wednesday, July 21, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
