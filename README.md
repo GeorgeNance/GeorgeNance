@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Alan Turing*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 21, 2021, 7:11 AM
+  Last Refresh : Wednesday, July 21, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
