@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 >
-> ~ *Charles Babbage*
+> ~ *Anders Hejlsberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 11:15 PM
+  Last Refresh : Wednesday, July 21, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
