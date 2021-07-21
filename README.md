@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Richard Stallman*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 21, 2021, 2:13 AM
+  Last Refresh : Wednesday, July 21, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
