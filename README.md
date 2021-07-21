@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Alan Turing*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 20, 2021, 4:12 PM
+  Last Refresh : Tuesday, July 20, 2021, 5:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
