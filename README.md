@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Douglas Crockford*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 21, 2021, 5:19 AM
+  Last Refresh : Wednesday, July 21, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
