@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Douglas Crockford*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 22, 2021, 2:11 PM
+  Last Refresh : Thursday, July 22, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
