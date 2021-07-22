@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Jonathan Sachs*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 22, 2021, 5:19 AM
+  Last Refresh : Thursday, July 22, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
