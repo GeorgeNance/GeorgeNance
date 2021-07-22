@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Gordon Bell*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 21, 2021, 4:12 PM
+  Last Refresh : Wednesday, July 21, 2021, 5:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
