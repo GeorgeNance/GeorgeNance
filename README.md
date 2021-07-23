@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 22, 2021, 5:41 PM
+  Last Refresh : Thursday, July 22, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
