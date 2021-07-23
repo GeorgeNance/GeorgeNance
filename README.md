@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 8:14 AM
+  Last Refresh : Friday, July 23, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
