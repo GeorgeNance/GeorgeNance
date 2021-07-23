@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 22, 2021, 6:58 PM
+  Last Refresh : Thursday, July 22, 2021, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
