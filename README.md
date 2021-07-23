@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Fred Brooks*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 22, 2021, 8:13 PM
+  Last Refresh : Thursday, July 22, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
