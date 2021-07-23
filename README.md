@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 >
 > ~ *Wayne Ratliff*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 4:10 AM
+  Last Refresh : Friday, July 23, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
