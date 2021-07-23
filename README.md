@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Martin Fowler*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 2:11 PM
+  Last Refresh : Friday, July 23, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
