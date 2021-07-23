@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 22, 2021, 7:30 PM
+  Last Refresh : Thursday, July 22, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
