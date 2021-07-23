@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
 >
-> ~ *Wayne Ratliff*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 5:19 AM
+  Last Refresh : Friday, July 23, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
