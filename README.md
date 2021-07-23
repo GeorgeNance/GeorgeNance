@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Fred Brooks*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 22, 2021, 4:12 PM
+  Last Refresh : Thursday, July 22, 2021, 5:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
