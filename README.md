@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Fred Brooks*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 12:09 PM
+  Last Refresh : Friday, July 23, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
