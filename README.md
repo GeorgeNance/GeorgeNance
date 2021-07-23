@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 >
-> ~ *John Warnock*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 1:12 PM
+  Last Refresh : Friday, July 23, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
