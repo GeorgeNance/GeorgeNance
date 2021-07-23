@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Bill Gates*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 9:19 AM
+  Last Refresh : Friday, July 23, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
