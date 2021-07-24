@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Alan Perlis*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 3:11 PM
+  Last Refresh : Saturday, July 24, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
