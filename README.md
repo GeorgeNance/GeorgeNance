@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Alan Kay*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 6:54 PM
+  Last Refresh : Friday, July 23, 2021, 7:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
