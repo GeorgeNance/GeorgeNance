@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### One man's constant is another man's variable.
 >
-> ~ *Bob Frankston*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 2:11 PM
+  Last Refresh : Saturday, July 24, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
