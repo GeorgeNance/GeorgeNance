@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
-> ~ *Danny Hillis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 8:13 PM
+  Last Refresh : Friday, July 23, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
