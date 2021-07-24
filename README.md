@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Donald Knuth*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 1:13 AM
+  Last Refresh : Saturday, July 24, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
