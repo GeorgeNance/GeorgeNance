@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Jonathan Sachs*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 4:11 PM
+  Last Refresh : Friday, July 23, 2021, 5:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
