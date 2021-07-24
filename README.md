@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Linus Torvalds*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 23, 2021, 9:16 PM
+  Last Refresh : Friday, July 23, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
