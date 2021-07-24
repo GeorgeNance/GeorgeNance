@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Tom DeMarco*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 7:10 AM
+  Last Refresh : Saturday, July 24, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
