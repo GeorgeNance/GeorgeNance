@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
 >
 > ~ *Donald Knuth*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 12:11 AM
+  Last Refresh : Saturday, July 24, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
