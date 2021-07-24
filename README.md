@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *William Wulf*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 3:13 AM
+  Last Refresh : Saturday, July 24, 2021, 4:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
