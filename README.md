@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Anonymous*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 6:16 AM
+  Last Refresh : Saturday, July 24, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
