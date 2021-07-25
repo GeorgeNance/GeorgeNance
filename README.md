@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 >
-> ~ *Charles Simonyi*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 9:17 AM
+  Last Refresh : Sunday, July 25, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
