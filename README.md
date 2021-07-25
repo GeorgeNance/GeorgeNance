@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Gary Kildall*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 7:10 AM
+  Last Refresh : Sunday, July 25, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
