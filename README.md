@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 >
-> ~ *Alan Perlis*
+> ~ *Roy Fielding*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 7:25 PM
+  Last Refresh : Saturday, July 24, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
