@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *George Boole*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 4:09 AM
+  Last Refresh : Sunday, July 25, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
