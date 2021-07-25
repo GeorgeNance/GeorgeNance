@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 >
 > ~ *Donald Knuth*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 5:18 AM
+  Last Refresh : Sunday, July 25, 2021, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
