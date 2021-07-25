@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 >
-> ~ *Ted Nelson*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 12:11 AM
+  Last Refresh : Sunday, July 25, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
