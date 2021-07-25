@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Roy Fielding*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 24, 2021, 8:13 PM
+  Last Refresh : Saturday, July 24, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
