@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Marvin Minsky*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 26, 2021, 7:11 AM
+  Last Refresh : Monday, July 26, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
