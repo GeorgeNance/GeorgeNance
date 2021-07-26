@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### Deleted code is debugged code.
 >
-> ~ *Vint Cerf*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 5:40 PM
+  Last Refresh : Sunday, July 25, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
