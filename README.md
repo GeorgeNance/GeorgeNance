@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Steve Jobs*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 11:15 PM
+  Last Refresh : Monday, July 26, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
