@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> ~ *Ward Cunningham*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 26, 2021, 10:19 AM
+  Last Refresh : Monday, July 26, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
