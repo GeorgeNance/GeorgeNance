@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Jeff Sickel*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 6:58 PM
+  Last Refresh : Sunday, July 25, 2021, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
