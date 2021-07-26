@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Marvin Minsky*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 26, 2021, 1:14 AM
+  Last Refresh : Monday, July 26, 2021, 2:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
