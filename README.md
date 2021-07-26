@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Eric S. Raymond*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 25, 2021, 10:10 PM
+  Last Refresh : Sunday, July 25, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
