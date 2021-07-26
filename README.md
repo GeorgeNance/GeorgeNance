@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Ward Cunningham*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 26, 2021, 8:14 AM
+  Last Refresh : Monday, July 26, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
