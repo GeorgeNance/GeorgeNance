@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Leslie Lamport*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 26, 2021, 9:14 PM
+  Last Refresh : Monday, July 26, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
