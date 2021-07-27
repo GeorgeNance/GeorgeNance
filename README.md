@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 >
-> ~ *George Boole*
+> ~ *George Carrette*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 26, 2021, 11:15 PM
+  Last Refresh : Tuesday, July 27, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
