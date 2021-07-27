@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *George Boole*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 27, 2021, 5:19 AM
+  Last Refresh : Tuesday, July 27, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
