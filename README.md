@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Ted Nelson*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 27, 2021, 3:13 PM
+  Last Refresh : Tuesday, July 27, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
