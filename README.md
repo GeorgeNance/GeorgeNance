@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Martin Fowler*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 27, 2021, 10:19 AM
+  Last Refresh : Tuesday, July 27, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
