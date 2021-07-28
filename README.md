@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Luciano Ramalho*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 3:11 PM
+  Last Refresh : Wednesday, July 28, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
