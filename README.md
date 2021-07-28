@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### Less code equals less bugs.
 >
-> ~ *Martin Fowler*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 5:19 AM
+  Last Refresh : Wednesday, July 28, 2021, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
