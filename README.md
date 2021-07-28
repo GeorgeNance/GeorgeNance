@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 >
-> ~ *Fred Brooks*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 12:11 AM
+  Last Refresh : Wednesday, July 28, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
