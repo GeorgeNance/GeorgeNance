@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 7:11 AM
+  Last Refresh : Wednesday, July 28, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
