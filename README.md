@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Bill Gates*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 2:12 PM
+  Last Refresh : Wednesday, July 28, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
