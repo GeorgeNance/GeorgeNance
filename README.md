@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ellen Ullman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 11:15 AM
+  Last Refresh : Wednesday, July 28, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
