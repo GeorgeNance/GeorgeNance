@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 >
-> ~ *Michael Hawley*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 27, 2021, 10:11 PM
+  Last Refresh : Tuesday, July 27, 2021, 11:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
