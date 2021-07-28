@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 1:13 AM
+  Last Refresh : Wednesday, July 28, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
