@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 >
-> ~ *Robert C. Martin*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 27, 2021, 4:12 PM
+  Last Refresh : Tuesday, July 27, 2021, 5:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
