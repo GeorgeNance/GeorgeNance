@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Gerald Weinberg*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 1:12 PM
+  Last Refresh : Wednesday, July 28, 2021, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
