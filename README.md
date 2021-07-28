@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 >
-> ~ *Ada Lovelace*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 10:20 AM
+  Last Refresh : Wednesday, July 28, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
