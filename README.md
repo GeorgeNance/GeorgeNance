@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 >
-> ~ *Fred Brooks*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 5:39 PM
+  Last Refresh : Wednesday, July 28, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
