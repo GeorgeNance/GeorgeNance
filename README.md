@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> ~ *Fred Brooks*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 29, 2021, 9:19 AM
+  Last Refresh : Thursday, July 29, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
