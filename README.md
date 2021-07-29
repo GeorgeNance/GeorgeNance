@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Daniel T. Barry*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 29, 2021, 5:19 AM
+  Last Refresh : Thursday, July 29, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
