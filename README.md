@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 >
-> ~ *Douglas Crockford*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 29, 2021, 1:13 PM
+  Last Refresh : Thursday, July 29, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
