@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### It’s all talk until the code runs.
 >
-> ~ *Gerald Weinberg*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 29, 2021, 12:11 AM
+  Last Refresh : Thursday, July 29, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
