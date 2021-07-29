@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 28, 2021, 8:14 PM
+  Last Refresh : Wednesday, July 28, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
