@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 >
-> ~ *Anonymous*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 29, 2021, 6:19 AM
+  Last Refresh : Thursday, July 29, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
