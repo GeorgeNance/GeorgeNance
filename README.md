@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 29, 2021, 4:10 AM
+  Last Refresh : Thursday, July 29, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
