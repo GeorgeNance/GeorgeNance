@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *George Boole*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 30, 2021, 9:18 AM
+  Last Refresh : Friday, July 30, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
