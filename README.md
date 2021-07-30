@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Elon Musk*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 30, 2021, 10:18 AM
+  Last Refresh : Friday, July 30, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
