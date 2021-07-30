@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Daniel T. Barry*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 30, 2021, 6:19 AM
+  Last Refresh : Friday, July 30, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
