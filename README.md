@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Bob Frankston*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 30, 2021, 12:09 PM
+  Last Refresh : Friday, July 30, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
