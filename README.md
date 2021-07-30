@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 >
-> ~ *Martin Fowler*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 29, 2021, 9:16 PM
+  Last Refresh : Thursday, July 29, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
