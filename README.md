@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Tom DeMarco*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 30, 2021, 11:15 AM
+  Last Refresh : Friday, July 30, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
