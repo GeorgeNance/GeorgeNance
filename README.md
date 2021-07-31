@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Kevlin Henney*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 3:11 PM
+  Last Refresh : Saturday, July 31, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
