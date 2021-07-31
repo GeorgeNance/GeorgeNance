@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 >
-> ~ *John Warnock*
+> ~ *David Gelernter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 2:12 AM
+  Last Refresh : Saturday, July 31, 2021, 3:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
