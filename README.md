@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Terry Winograd*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 6:17 AM
+  Last Refresh : Saturday, July 31, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
