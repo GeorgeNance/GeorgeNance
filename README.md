@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Toru Iwatani*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 7:10 AM
+  Last Refresh : Saturday, July 31, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
