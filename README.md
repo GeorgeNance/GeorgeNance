@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 >
-> ~ *Ryan Singer*
+> ~ *George Carrette*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 11:14 AM
+  Last Refresh : Saturday, July 31, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
