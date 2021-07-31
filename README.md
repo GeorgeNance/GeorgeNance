@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 >
-> ~ *Donald Knuth*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 5:19 AM
+  Last Refresh : Saturday, July 31, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
