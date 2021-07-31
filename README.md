@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Danny Hillis*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 10:17 AM
+  Last Refresh : Saturday, July 31, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
