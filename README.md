@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *John Carmack*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 30, 2021, 11:15 PM
+  Last Refresh : Saturday, July 31, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
