@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Charles Simonyi*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 30, 2021, 4:12 PM
+  Last Refresh : Friday, July 30, 2021, 5:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
