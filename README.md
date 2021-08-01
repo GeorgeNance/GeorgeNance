@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Rob Pike*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 5:48 PM
+  Last Refresh : Saturday, July 31, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
