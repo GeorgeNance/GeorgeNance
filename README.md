@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### Never memorize something that you can look up.
 >
-> ~ *Donald Knuth*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 1, 2021, 3:13 AM
+  Last Refresh : Sunday, August 1, 2021, 4:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
