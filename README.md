@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 >
-> ~ *Jef Raskin*
+> ~ *Mark Gibbs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 8:13 PM
+  Last Refresh : Saturday, July 31, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
