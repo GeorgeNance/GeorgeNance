@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Ken Thompson*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 1, 2021, 1:13 PM
+  Last Refresh : Sunday, August 1, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
