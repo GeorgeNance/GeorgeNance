@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Danny Hillis*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 1, 2021, 3:11 PM
+  Last Refresh : Sunday, August 1, 2021, 4:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
