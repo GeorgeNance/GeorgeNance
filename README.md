@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *John von Neumann*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 31, 2021, 10:10 PM
+  Last Refresh : Saturday, July 31, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
