@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 1, 2021, 1:13 AM
+  Last Refresh : Sunday, August 1, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
