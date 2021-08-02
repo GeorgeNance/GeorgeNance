@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Ada Lovelace*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 8:13 AM
+  Last Refresh : Monday, August 2, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
