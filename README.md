@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Gary Kildall*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 6:19 AM
+  Last Refresh : Monday, August 2, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
