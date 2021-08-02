@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Grady Booch*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 2:10 PM
+  Last Refresh : Monday, August 2, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
