@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 1, 2021, 6:56 PM
+  Last Refresh : Sunday, August 1, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
