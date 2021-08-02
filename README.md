@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 >
-> ~ *Richard Hamming*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 5:20 AM
+  Last Refresh : Monday, August 2, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
