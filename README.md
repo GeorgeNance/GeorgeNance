@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 10:19 AM
+  Last Refresh : Monday, August 2, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
