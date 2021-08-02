@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Toru Iwatani*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 9:19 AM
+  Last Refresh : Monday, August 2, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
