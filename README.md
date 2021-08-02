@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Tom Cargill*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 1:13 PM
+  Last Refresh : Monday, August 2, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
