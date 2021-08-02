@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Jamie Zawinski*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 1, 2021, 7:26 PM
+  Last Refresh : Sunday, August 1, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
