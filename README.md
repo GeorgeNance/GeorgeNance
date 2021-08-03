@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Rob Pike*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 4:12 PM
+  Last Refresh : Monday, August 2, 2021, 5:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
