@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### Programming can be addictive.
 >
-> ~ *Philip Greenspun*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 9:16 PM
+  Last Refresh : Monday, August 2, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
