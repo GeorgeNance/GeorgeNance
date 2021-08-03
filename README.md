@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Linus Torvalds*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 3, 2021, 1:15 PM
+  Last Refresh : Tuesday, August 3, 2021, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
