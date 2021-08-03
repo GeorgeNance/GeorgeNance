@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
 >
-> ~ *Martin Fowler*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 3, 2021, 7:11 AM
+  Last Refresh : Tuesday, August 3, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
