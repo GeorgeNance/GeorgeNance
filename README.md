@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Alan Turing*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 3, 2021, 3:12 PM
+  Last Refresh : Tuesday, August 3, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
