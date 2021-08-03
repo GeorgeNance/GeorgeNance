@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Dennis Ritchie*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 3, 2021, 10:25 AM
+  Last Refresh : Tuesday, August 3, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
