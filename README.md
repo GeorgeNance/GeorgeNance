@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Bob Carr*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 10:10 PM
+  Last Refresh : Monday, August 2, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
