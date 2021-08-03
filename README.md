@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
-> ~ *Danny Hillis*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 7:04 PM
+  Last Refresh : Monday, August 2, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
