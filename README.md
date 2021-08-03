@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 >
-> ~ *Douglas Crockford*
+> ~ *Philip Greenspun*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 8:13 PM
+  Last Refresh : Monday, August 2, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
