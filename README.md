@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Pamela Zave*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 2, 2021, 11:15 PM
+  Last Refresh : Tuesday, August 3, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
