@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One accurate measurement is worth more than a thousand expert opinions.
+> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 >
-> ~ *Grace Hopper*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 3, 2021, 6:57 PM
+  Last Refresh : Tuesday, August 3, 2021, 7:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
