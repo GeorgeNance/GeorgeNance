@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Ryan Singer*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 3:12 PM
+  Last Refresh : Wednesday, August 4, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
