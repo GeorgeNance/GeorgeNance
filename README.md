@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Elon Musk*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 4:10 AM
+  Last Refresh : Wednesday, August 4, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
