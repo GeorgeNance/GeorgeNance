@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 >
-> ~ *Donald Knuth*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 7:11 AM
+  Last Refresh : Wednesday, August 4, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
