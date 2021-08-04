@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 >
-> ~ *Fred Brooks*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 3, 2021, 10:10 PM
+  Last Refresh : Tuesday, August 3, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
