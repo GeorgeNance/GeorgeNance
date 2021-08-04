@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 10:22 AM
+  Last Refresh : Wednesday, August 4, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
