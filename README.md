@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 3:13 AM
+  Last Refresh : Wednesday, August 4, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
