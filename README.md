@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *John Carmack*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 5:20 AM
+  Last Refresh : Wednesday, August 4, 2021, 6:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
