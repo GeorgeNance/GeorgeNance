@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Gerald Weinberg*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 2:11 PM
+  Last Refresh : Wednesday, August 4, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
