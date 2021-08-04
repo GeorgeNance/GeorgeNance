@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
 >
-> ~ *David Parnas*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 8:14 AM
+  Last Refresh : Wednesday, August 4, 2021, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
