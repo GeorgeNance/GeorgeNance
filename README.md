@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *René Descartes*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 12:15 PM
+  Last Refresh : Wednesday, August 4, 2021, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
