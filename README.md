@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 3, 2021, 9:16 PM
+  Last Refresh : Tuesday, August 3, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
