@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 8:14 AM
+  Last Refresh : Thursday, August 5, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
