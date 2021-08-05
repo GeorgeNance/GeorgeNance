@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Douglas Crockford*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 7:23 PM
+  Last Refresh : Wednesday, August 4, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
