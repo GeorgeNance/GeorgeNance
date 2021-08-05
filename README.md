@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Gary Kildall*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 10:19 AM
+  Last Refresh : Thursday, August 5, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
