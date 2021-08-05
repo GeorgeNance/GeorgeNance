@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Dennis Ritchie*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 6:21 AM
+  Last Refresh : Thursday, August 5, 2021, 7:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
