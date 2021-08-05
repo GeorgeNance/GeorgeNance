@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 >
 > ~ *George Boole*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 2:12 AM
+  Last Refresh : Thursday, August 5, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
