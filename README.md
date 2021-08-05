@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 >
-> ~ *Steve Jobs*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 2:11 PM
+  Last Refresh : Thursday, August 5, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
