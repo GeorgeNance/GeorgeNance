@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *Douglas Crockford*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 11:15 AM
+  Last Refresh : Thursday, August 5, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
