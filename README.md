@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
 > ~ *Gary Kildall*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 9:19 AM
+  Last Refresh : Thursday, August 5, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
