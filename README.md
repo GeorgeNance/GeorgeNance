@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Harlan Mills*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 9:16 PM
+  Last Refresh : Wednesday, August 4, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
