@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *Charles Babbage*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 3:11 PM
+  Last Refresh : Thursday, August 5, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
