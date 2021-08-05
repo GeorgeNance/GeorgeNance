@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 4, 2021, 10:10 PM
+  Last Refresh : Wednesday, August 4, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
