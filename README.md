@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Ted Nelson*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 5:43 PM
+  Last Refresh : Thursday, August 5, 2021, 6:56 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
