@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### Never memorize something that you can look up.
 >
-> ~ *Jim Horning*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 6:56 PM
+  Last Refresh : Thursday, August 5, 2021, 7:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
