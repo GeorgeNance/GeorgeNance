@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Albert Einstein*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 5, 2021, 7:25 PM
+  Last Refresh : Thursday, August 5, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
