@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Elon Musk*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 3:12 PM
+  Last Refresh : Friday, August 6, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
