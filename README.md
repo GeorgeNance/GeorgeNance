@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *David Parnas*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 4:10 AM
+  Last Refresh : Friday, August 6, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
