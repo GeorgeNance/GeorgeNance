@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Daniel T. Barry*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 2:11 PM
+  Last Refresh : Friday, August 6, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
