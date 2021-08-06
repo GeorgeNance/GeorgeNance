@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Albert Einstein*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 1:12 PM
+  Last Refresh : Friday, August 6, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
