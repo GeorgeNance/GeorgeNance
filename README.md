@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 8:24 AM
+  Last Refresh : Friday, August 6, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
