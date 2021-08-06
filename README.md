@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 10:19 AM
+  Last Refresh : Friday, August 6, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
