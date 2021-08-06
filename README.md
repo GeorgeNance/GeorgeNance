@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
 >
-> ~ *Marijn Haverbeke*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 3:13 AM
+  Last Refresh : Friday, August 6, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
