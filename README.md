@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Donald Knuth*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 6:22 AM
+  Last Refresh : Friday, August 6, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
