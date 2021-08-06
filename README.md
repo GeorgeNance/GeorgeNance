@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Steve Jobs*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 12:09 PM
+  Last Refresh : Friday, August 6, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
