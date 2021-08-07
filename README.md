@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### Good software, like good wine, takes time.
 >
-> ~ *P. J. Plauger*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 4:09 AM
+  Last Refresh : Saturday, August 7, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
