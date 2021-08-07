@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 9:15 PM
+  Last Refresh : Friday, August 6, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
