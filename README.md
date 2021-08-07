@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Steve Jobs*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 6:17 AM
+  Last Refresh : Saturday, August 7, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
