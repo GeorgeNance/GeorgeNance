@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Eric S. Raymond*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 4:12 PM
+  Last Refresh : Friday, August 6, 2021, 5:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
