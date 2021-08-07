@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Grady Booch*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 9:17 AM
+  Last Refresh : Saturday, August 7, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
