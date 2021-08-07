@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Danny Hillis*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 2:10 PM
+  Last Refresh : Saturday, August 7, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
