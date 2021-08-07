@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Alan Perlis*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 12:11 AM
+  Last Refresh : Saturday, August 7, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
