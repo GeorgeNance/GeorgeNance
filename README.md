@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Charles Simonyi*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 11:15 PM
+  Last Refresh : Saturday, August 7, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
