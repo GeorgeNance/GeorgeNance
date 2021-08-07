@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 1:13 AM
+  Last Refresh : Saturday, August 7, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
