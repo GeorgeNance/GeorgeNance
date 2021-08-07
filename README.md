@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Douglas Crockford*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 6, 2021, 6:50 PM
+  Last Refresh : Friday, August 6, 2021, 7:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
