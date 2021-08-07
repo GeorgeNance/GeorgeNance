@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### It’s all talk until the code runs.
 >
-> ~ *Butler Lampson*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 7:10 AM
+  Last Refresh : Saturday, August 7, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
