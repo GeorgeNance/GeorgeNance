@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Ward Cunningham*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 8:12 AM
+  Last Refresh : Saturday, August 7, 2021, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
