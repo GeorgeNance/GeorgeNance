@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 >
-> ~ *Harlan Mills*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 1:13 AM
+  Last Refresh : Sunday, August 8, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
