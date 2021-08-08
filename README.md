@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Carl Friedrich Gauss*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 3:11 PM
+  Last Refresh : Sunday, August 8, 2021, 4:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
