@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 >
-> ~ *Alan Perlis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 10:16 AM
+  Last Refresh : Sunday, August 8, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
