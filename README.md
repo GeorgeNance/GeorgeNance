@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Friedrich Bauer*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 10:10 PM
+  Last Refresh : Saturday, August 7, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
