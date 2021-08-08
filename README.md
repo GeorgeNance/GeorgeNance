@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Alan Turing*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 5:41 PM
+  Last Refresh : Saturday, August 7, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
