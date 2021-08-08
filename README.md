@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Ken Thompson*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 5:18 AM
+  Last Refresh : Sunday, August 8, 2021, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
