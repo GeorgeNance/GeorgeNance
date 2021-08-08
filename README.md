@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 11:14 AM
+  Last Refresh : Sunday, August 8, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
