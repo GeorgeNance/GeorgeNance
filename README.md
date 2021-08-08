@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Dennis Ritchie*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 4:09 AM
+  Last Refresh : Sunday, August 8, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
