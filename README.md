@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 7:10 AM
+  Last Refresh : Sunday, August 8, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
