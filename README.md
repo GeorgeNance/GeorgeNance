@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The real problem with throwaway code comes when it isn't thrown away.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 7, 2021, 11:14 PM
+  Last Refresh : Sunday, August 8, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
