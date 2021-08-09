@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 9, 2021, 5:19 AM
+  Last Refresh : Monday, August 9, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
