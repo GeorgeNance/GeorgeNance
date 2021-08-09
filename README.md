@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 6:54 PM
+  Last Refresh : Sunday, August 8, 2021, 7:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
