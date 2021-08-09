@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Ada Lovelace*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 9, 2021, 3:11 PM
+  Last Refresh : Monday, August 9, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
