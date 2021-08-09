@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Danny Hillis*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 9, 2021, 1:14 AM
+  Last Refresh : Monday, August 9, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
