@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 >
-> ~ *Donald Knuth*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 5:42 PM
+  Last Refresh : Sunday, August 8, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
