@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 9, 2021, 2:13 AM
+  Last Refresh : Monday, August 9, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
