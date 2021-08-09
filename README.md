@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 9, 2021, 8:13 AM
+  Last Refresh : Monday, August 9, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
