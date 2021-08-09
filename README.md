@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 >
-> ~ *Albert Einstein*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 8, 2021, 7:23 PM
+  Last Refresh : Sunday, August 8, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
