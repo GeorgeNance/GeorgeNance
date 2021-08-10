@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *John von Neumann*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 5:19 AM
+  Last Refresh : Tuesday, August 10, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
