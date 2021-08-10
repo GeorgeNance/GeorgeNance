@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *William Wulf*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 12:10 PM
+  Last Refresh : Tuesday, August 10, 2021, 3:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
