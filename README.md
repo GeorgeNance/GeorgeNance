@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Brian Kernighan*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 3:46 PM
+  Last Refresh : Tuesday, August 10, 2021, 4:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
