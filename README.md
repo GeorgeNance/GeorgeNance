@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 9, 2021, 10:10 PM
+  Last Refresh : Monday, August 9, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
