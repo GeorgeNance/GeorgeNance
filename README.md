@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Donald Knuth*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 8:14 AM
+  Last Refresh : Tuesday, August 10, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
