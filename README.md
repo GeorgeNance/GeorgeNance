@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Steve Jobs*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 1:16 AM
+  Last Refresh : Tuesday, August 10, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
