@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Alan Perlis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 9, 2021, 4:12 PM
+  Last Refresh : Monday, August 9, 2021, 5:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
