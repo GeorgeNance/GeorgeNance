@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Seymour Cray*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 11:15 AM
+  Last Refresh : Tuesday, August 10, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
