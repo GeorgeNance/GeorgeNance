@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 11, 2021, 1:12 PM
+  Last Refresh : Wednesday, August 11, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
