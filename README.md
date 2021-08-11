@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Joshua Bloch*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 7:22 PM
+  Last Refresh : Tuesday, August 10, 2021, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
