@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 11, 2021, 8:13 AM
+  Last Refresh : Wednesday, August 11, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
