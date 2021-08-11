@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *George Boole*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 11, 2021, 4:10 AM
+  Last Refresh : Wednesday, August 11, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
