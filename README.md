@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 4:45 PM
+  Last Refresh : Tuesday, August 10, 2021, 5:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
