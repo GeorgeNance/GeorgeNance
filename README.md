@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 11, 2021, 7:11 AM
+  Last Refresh : Wednesday, August 11, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
