@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Ward Cunningham*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 11, 2021, 10:20 AM
+  Last Refresh : Wednesday, August 11, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
