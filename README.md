@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### When in doubt, leave it out.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 10, 2021, 6:53 PM
+  Last Refresh : Tuesday, August 10, 2021, 7:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
