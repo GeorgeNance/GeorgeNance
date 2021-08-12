@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Eric S. Raymond*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 11, 2021, 6:54 PM
+  Last Refresh : Wednesday, August 11, 2021, 7:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
