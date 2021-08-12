@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 12, 2021, 1:14 AM
+  Last Refresh : Thursday, August 12, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
