@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 12, 2021, 12:09 PM
+  Last Refresh : Thursday, August 12, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
