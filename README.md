@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Gordon Bell*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 11, 2021, 5:40 PM
+  Last Refresh : Wednesday, August 11, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
