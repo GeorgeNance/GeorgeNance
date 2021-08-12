@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 11, 2021, 9:16 PM
+  Last Refresh : Wednesday, August 11, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
