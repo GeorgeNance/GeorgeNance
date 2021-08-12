@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Don Norman*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 12, 2021, 2:12 AM
+  Last Refresh : Thursday, August 12, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
