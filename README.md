@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *John Ousterhout*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 4:10 AM
+  Last Refresh : Friday, August 13, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
