@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Michael A. Jackson*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 12:09 PM
+  Last Refresh : Friday, August 13, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
