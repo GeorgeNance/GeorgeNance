@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 >
-> ~ *Ward Cunningham*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 10:17 AM
+  Last Refresh : Friday, August 13, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
