@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Ted Nelson*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 8:13 AM
+  Last Refresh : Friday, August 13, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
