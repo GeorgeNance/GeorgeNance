@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Dennis Ritchie*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 11:14 AM
+  Last Refresh : Friday, August 13, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
