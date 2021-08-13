@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Bob Carr*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 3:13 AM
+  Last Refresh : Friday, August 13, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
