@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Ray Ozzie*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 9:18 AM
+  Last Refresh : Friday, August 13, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
