@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Richard Hamming*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 14, 2021, 8:13 AM
+  Last Refresh : Saturday, August 14, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
