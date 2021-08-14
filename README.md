@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Donald Knuth*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 14, 2021, 3:11 PM
+  Last Refresh : Saturday, August 14, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
