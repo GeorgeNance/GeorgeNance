@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Danny Hillis*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 14, 2021, 10:16 AM
+  Last Refresh : Saturday, August 14, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
