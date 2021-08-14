@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 11:15 PM
+  Last Refresh : Saturday, August 14, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
