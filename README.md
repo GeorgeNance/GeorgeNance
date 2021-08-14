@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 8:13 PM
+  Last Refresh : Friday, August 13, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
