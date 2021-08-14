@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 >
-> ~ *Ted Nelson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 14, 2021, 1:12 PM
+  Last Refresh : Saturday, August 14, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
