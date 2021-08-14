@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 13, 2021, 6:50 PM
+  Last Refresh : Friday, August 13, 2021, 7:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
