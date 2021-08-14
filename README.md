@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 14, 2021, 4:09 AM
+  Last Refresh : Saturday, August 14, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
