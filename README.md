@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### When in doubt, leave it out.
 >
-> ~ *Leslie Lamport*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 14, 2021, 10:10 PM
+  Last Refresh : Saturday, August 14, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
