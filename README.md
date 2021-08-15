@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 >
-> ~ *Edward V. Berard*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 15, 2021, 12:11 AM
+  Last Refresh : Sunday, August 15, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
