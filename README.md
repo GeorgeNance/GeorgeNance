@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Gary Kildall*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 15, 2021, 3:12 PM
+  Last Refresh : Sunday, August 15, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
