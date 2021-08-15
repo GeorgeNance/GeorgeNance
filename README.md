@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Joshua Bloch*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 14, 2021, 11:15 PM
+  Last Refresh : Sunday, August 15, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
