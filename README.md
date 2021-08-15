@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 14, 2021, 4:12 PM
+  Last Refresh : Saturday, August 14, 2021, 5:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
