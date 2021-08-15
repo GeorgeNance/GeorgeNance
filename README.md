@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Charles Simonyi*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 15, 2021, 10:16 AM
+  Last Refresh : Sunday, August 15, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
