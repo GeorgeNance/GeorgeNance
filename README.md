@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Damian Conway*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 3:14 AM
+  Last Refresh : Monday, August 16, 2021, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
