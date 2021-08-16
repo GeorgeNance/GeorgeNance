@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 >
-> ~ *Gerald Weinberg*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 1:14 AM
+  Last Refresh : Monday, August 16, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
