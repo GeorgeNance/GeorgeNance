@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Fred Brooks*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 2:13 AM
+  Last Refresh : Monday, August 16, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
