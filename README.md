@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Tony Hoare*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 3:12 PM
+  Last Refresh : Monday, August 16, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
