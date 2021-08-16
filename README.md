@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 11:15 AM
+  Last Refresh : Monday, August 16, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
