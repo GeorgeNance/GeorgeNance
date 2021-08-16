@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 15, 2021, 9:16 PM
+  Last Refresh : Sunday, August 15, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
