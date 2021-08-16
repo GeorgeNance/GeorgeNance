@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Ken Thompson*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 10:19 AM
+  Last Refresh : Monday, August 16, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
