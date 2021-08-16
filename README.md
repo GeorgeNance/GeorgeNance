@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### It’s all talk until the code runs.
 >
-> ~ *David Parnas*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 8:15 AM
+  Last Refresh : Monday, August 16, 2021, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
