@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Douglas Crockford*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 5:19 AM
+  Last Refresh : Tuesday, August 17, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
