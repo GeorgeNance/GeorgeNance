@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Alan Kay*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 12:09 PM
+  Last Refresh : Tuesday, August 17, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
