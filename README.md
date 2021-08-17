@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 5:40 PM
+  Last Refresh : Monday, August 16, 2021, 6:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
