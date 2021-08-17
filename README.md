@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Fred Brooks*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 3:12 PM
+  Last Refresh : Tuesday, August 17, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
