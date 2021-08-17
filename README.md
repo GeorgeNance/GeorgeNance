@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 8:13 AM
+  Last Refresh : Tuesday, August 17, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
