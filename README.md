@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *John Carmack*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 11:15 AM
+  Last Refresh : Tuesday, August 17, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
