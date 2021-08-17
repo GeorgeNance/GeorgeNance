@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Quarry worker's creed*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 16, 2021, 4:12 PM
+  Last Refresh : Monday, August 16, 2021, 5:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
