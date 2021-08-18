@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 18, 2021, 1:13 PM
+  Last Refresh : Wednesday, August 18, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
