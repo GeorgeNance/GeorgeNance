@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Tom DeMarco*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 18, 2021, 8:13 AM
+  Last Refresh : Wednesday, August 18, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
