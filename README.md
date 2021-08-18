@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Gary Kildall*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 11:15 PM
+  Last Refresh : Wednesday, August 18, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
