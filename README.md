@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Douglas Crockford*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 10:10 PM
+  Last Refresh : Tuesday, August 17, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
