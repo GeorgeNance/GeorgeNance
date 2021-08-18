@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Eric S. Raymond*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 6:52 PM
+  Last Refresh : Tuesday, August 17, 2021, 7:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
