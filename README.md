@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Kent Beck*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 18, 2021, 1:14 AM
+  Last Refresh : Wednesday, August 18, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
