@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 17, 2021, 8:13 PM
+  Last Refresh : Tuesday, August 17, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
