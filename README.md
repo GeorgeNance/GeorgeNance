@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Dennis Ritchie*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 19, 2021, 9:18 AM
+  Last Refresh : Thursday, August 19, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
