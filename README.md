@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Richard Hamming*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 18, 2021, 11:15 PM
+  Last Refresh : Thursday, August 19, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
