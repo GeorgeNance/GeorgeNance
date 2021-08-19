@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The real problem with throwaway code comes when it isn't thrown away.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 19, 2021, 12:12 AM
+  Last Refresh : Thursday, August 19, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
