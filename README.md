@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### Cool URIs don't change.
 >
-> ~ *Alan Perlis*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 19, 2021, 1:14 AM
+  Last Refresh : Thursday, August 19, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
