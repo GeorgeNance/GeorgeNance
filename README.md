@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 19, 2021, 11:15 AM
+  Last Refresh : Thursday, August 19, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
