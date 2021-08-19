@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Jeremy S. Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 19, 2021, 2:12 AM
+  Last Refresh : Thursday, August 19, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
