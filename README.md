@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *George Boole*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 19, 2021, 1:13 PM
+  Last Refresh : Thursday, August 19, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
