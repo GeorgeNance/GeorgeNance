@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 19, 2021, 5:39 PM
+  Last Refresh : Thursday, August 19, 2021, 6:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
