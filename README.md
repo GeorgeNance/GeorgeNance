@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Elon Musk*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 20, 2021, 3:12 PM
+  Last Refresh : Friday, August 20, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
