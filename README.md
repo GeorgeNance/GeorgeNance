@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Ryan Singer*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 20, 2021, 3:13 AM
+  Last Refresh : Friday, August 20, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
