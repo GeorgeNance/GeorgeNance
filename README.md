@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *David Parnas*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 20, 2021, 2:12 AM
+  Last Refresh : Friday, August 20, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
