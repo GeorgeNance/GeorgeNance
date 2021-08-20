@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 >
-> ~ *Philip Greenspun*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 20, 2021, 12:10 PM
+  Last Refresh : Friday, August 20, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
