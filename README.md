@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Elon Musk*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 20, 2021, 5:39 PM
+  Last Refresh : Friday, August 20, 2021, 6:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
