@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 >
-> ~ *Hal Abelson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 21, 2021, 2:12 AM
+  Last Refresh : Saturday, August 21, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
