@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Fred Brooks*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 21, 2021, 5:18 AM
+  Last Refresh : Saturday, August 21, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
