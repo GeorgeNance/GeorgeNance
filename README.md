@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 21, 2021, 6:17 AM
+  Last Refresh : Saturday, August 21, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
