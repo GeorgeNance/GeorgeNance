@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Charles Simonyi*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 20, 2021, 7:24 PM
+  Last Refresh : Friday, August 20, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
