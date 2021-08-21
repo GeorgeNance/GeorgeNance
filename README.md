@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 >
-> ~ *John Johnson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 20, 2021, 6:51 PM
+  Last Refresh : Friday, August 20, 2021, 7:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
