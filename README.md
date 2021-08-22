@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 22, 2021, 8:13 AM
+  Last Refresh : Sunday, August 22, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
