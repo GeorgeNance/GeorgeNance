@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Donald Knuth*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 22, 2021, 5:18 AM
+  Last Refresh : Sunday, August 22, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
