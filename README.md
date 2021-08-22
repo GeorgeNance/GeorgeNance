@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Rich Skrenta*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 22, 2021, 9:18 AM
+  Last Refresh : Sunday, August 22, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
