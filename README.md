@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 21, 2021, 6:52 PM
+  Last Refresh : Saturday, August 21, 2021, 7:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
