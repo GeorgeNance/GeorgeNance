@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 >
-> ~ *Alan Perlis*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 22, 2021, 1:12 PM
+  Last Refresh : Sunday, August 22, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
