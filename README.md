@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 7:11 AM
+  Last Refresh : Monday, August 23, 2021, 8:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
