@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Ken Olsen*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 1:14 AM
+  Last Refresh : Monday, August 23, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
