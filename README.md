@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Albert Einstein*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 4:10 AM
+  Last Refresh : Monday, August 23, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
