@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 22, 2021, 7:21 PM
+  Last Refresh : Sunday, August 22, 2021, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
