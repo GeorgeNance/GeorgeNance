@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 >
-> ~ *Butler Lampson*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 12:08 PM
+  Last Refresh : Monday, August 23, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
