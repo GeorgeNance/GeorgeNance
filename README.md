@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Thomas J. Watson*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 12:12 AM
+  Last Refresh : Monday, August 23, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
