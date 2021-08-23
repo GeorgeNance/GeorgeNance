@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 10:14 AM
+  Last Refresh : Monday, August 23, 2021, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
