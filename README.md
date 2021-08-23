@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
-> ~ *Brian Kernighan*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 22, 2021, 10:10 PM
+  Last Refresh : Sunday, August 22, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
