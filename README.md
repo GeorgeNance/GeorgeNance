@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 >
-> ~ *Lawrence Flon*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 11:16 AM
+  Last Refresh : Monday, August 23, 2021, 12:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
