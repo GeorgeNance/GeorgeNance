@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Marvin Minsky*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 6:18 AM
+  Last Refresh : Monday, August 23, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
