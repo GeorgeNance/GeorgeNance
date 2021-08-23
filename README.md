@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Jef Raskin*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 5:19 AM
+  Last Refresh : Monday, August 23, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
