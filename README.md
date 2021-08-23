@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 22, 2021, 11:15 PM
+  Last Refresh : Monday, August 23, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
