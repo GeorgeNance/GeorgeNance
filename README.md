@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *John von Neumann*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 22, 2021, 6:46 PM
+  Last Refresh : Sunday, August 22, 2021, 7:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
