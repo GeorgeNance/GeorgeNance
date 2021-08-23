@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### Once you stop learning you start dying.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 3:13 AM
+  Last Refresh : Monday, August 23, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
