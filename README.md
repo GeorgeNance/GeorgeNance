@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 11:14 PM
+  Last Refresh : Tuesday, August 24, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
