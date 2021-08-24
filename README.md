@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Fred Brooks*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 24, 2021, 10:18 AM
+  Last Refresh : Tuesday, August 24, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
