@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Alan Perlis*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 24, 2021, 12:10 PM
+  Last Refresh : Tuesday, August 24, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
