@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Butler Lampson*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 23, 2021, 5:38 PM
+  Last Refresh : Monday, August 23, 2021, 6:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
