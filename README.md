@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### One man's constant is another man's variable.
 >
-> ~ *Rich Skrenta*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 24, 2021, 11:14 AM
+  Last Refresh : Tuesday, August 24, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
