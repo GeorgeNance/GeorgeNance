@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Terry Winograd*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 24, 2021, 7:11 AM
+  Last Refresh : Tuesday, August 24, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
