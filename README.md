@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 2:11 PM
+  Last Refresh : Wednesday, August 25, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
