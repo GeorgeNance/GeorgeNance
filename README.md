@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Alan Turing*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 24, 2021, 6:52 PM
+  Last Refresh : Tuesday, August 24, 2021, 7:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
