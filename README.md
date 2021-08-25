@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 9:19 AM
+  Last Refresh : Wednesday, August 25, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
