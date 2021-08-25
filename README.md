@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### Cool URIs don't change.
 >
-> ~ *Ward Cunningham*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 1:13 PM
+  Last Refresh : Wednesday, August 25, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
