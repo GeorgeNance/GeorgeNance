@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Daniel T. Barry*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 10:18 AM
+  Last Refresh : Wednesday, August 25, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
