@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 24, 2021, 9:16 PM
+  Last Refresh : Tuesday, August 24, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
