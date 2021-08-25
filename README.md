@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 >
-> ~ *Charles Babbage*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 7:11 AM
+  Last Refresh : Wednesday, August 25, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
