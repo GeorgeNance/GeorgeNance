@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Donald Knuth*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 24, 2021, 8:13 PM
+  Last Refresh : Tuesday, August 24, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
