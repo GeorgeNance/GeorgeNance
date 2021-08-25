@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Steve Jobs*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 24, 2021, 10:10 PM
+  Last Refresh : Tuesday, August 24, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
