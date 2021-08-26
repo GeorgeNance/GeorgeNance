@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
 > ~ *Bjarne Stroustrup*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 26, 2021, 9:19 AM
+  Last Refresh : Thursday, August 26, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
