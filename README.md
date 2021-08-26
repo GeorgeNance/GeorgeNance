@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Tony Parisi (software developer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 9:16 PM
+  Last Refresh : Wednesday, August 25, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
