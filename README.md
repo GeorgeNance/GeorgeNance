@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 6:49 PM
+  Last Refresh : Wednesday, August 25, 2021, 7:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
