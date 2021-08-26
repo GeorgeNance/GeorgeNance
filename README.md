@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 8:12 PM
+  Last Refresh : Wednesday, August 25, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
