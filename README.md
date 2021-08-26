@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 10:10 PM
+  Last Refresh : Wednesday, August 25, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
