@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 26, 2021, 3:13 AM
+  Last Refresh : Thursday, August 26, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
