@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Richard Feynman*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 26, 2021, 5:20 AM
+  Last Refresh : Thursday, August 26, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
