@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 25, 2021, 7:21 PM
+  Last Refresh : Wednesday, August 25, 2021, 8:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
