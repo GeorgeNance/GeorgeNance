@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 26, 2021, 6:18 AM
+  Last Refresh : Thursday, August 26, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
