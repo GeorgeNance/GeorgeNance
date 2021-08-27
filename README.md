@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 26, 2021, 9:15 PM
+  Last Refresh : Thursday, August 26, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
