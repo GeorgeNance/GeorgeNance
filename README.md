@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 >
-> ~ *Donald Knuth*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 27, 2021, 3:12 PM
+  Last Refresh : Friday, August 27, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
