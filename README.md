@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Alan Turing*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 27, 2021, 8:13 AM
+  Last Refresh : Friday, August 27, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
