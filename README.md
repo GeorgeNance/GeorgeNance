@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Ryan Singer*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 27, 2021, 9:18 AM
+  Last Refresh : Friday, August 27, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
