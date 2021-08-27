@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 27, 2021, 1:13 PM
+  Last Refresh : Friday, August 27, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
