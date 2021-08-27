@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Bill Gates*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 27, 2021, 7:11 AM
+  Last Refresh : Friday, August 27, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
