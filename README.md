@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Linus Torvalds*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 26, 2021, 5:44 PM
+  Last Refresh : Thursday, August 26, 2021, 6:56 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
