@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Jef Raskin*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 27, 2021, 2:10 PM
+  Last Refresh : Friday, August 27, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
