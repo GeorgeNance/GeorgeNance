@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 27, 2021, 12:12 AM
+  Last Refresh : Friday, August 27, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
