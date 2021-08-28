@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Elon Musk*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 28, 2021, 11:13 AM
+  Last Refresh : Saturday, August 28, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
