@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Donald Knuth*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 28, 2021, 10:16 AM
+  Last Refresh : Saturday, August 28, 2021, 11:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
