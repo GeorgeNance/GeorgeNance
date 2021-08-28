@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### Deleted code is debugged code.
 >
-> ~ *Bill Gates*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 28, 2021, 3:13 AM
+  Last Refresh : Saturday, August 28, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
