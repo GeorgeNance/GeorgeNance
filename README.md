@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Richard Hamming*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 28, 2021, 1:14 AM
+  Last Refresh : Saturday, August 28, 2021, 2:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
