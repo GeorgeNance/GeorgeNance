@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 >
-> ~ *Rich Skrenta*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 28, 2021, 2:11 AM
+  Last Refresh : Saturday, August 28, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
