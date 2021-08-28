@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 28, 2021, 12:11 AM
+  Last Refresh : Saturday, August 28, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
