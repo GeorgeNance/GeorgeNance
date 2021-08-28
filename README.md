@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Elon Musk*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 27, 2021, 5:38 PM
+  Last Refresh : Friday, August 27, 2021, 6:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
