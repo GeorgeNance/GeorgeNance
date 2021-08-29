@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 >
-> ~ *Elon Musk*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 28, 2021, 11:14 PM
+  Last Refresh : Sunday, August 29, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
