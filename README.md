@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 >
-> ~ *Marvin Minsky*
+> ~ *Randall E. Stross*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 29, 2021, 9:17 AM
+  Last Refresh : Sunday, August 29, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
