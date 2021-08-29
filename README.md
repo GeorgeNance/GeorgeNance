@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### When in doubt, leave it out.
 >
-> ~ *Ivan Sutherland*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 29, 2021, 1:12 PM
+  Last Refresh : Sunday, August 29, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
