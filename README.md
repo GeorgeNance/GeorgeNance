@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 28, 2021, 10:10 PM
+  Last Refresh : Saturday, August 28, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
