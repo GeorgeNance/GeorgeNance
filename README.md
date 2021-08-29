@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
 >
-> ~ *John Carmack*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 29, 2021, 3:11 PM
+  Last Refresh : Sunday, August 29, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
