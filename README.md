@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 >
-> ~ *Fred Brooks*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 29, 2021, 7:11 AM
+  Last Refresh : Sunday, August 29, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
