@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Danny Hillis*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 29, 2021, 8:12 AM
+  Last Refresh : Sunday, August 29, 2021, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
