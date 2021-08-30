@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 11:14 AM
+  Last Refresh : Monday, August 30, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
