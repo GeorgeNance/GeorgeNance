@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 12:10 PM
+  Last Refresh : Monday, August 30, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
