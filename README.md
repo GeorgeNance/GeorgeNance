@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Toru Iwatani*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 10:18 AM
+  Last Refresh : Monday, August 30, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
