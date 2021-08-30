@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 >
 > ~ *Donald Knuth*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 6:18 AM
+  Last Refresh : Monday, August 30, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
