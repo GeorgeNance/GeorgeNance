@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Edward V. Berard*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 4:10 AM
+  Last Refresh : Monday, August 30, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
