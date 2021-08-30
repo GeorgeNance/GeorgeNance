@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Michael A. Jackson*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 29, 2021, 8:13 PM
+  Last Refresh : Sunday, August 29, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
