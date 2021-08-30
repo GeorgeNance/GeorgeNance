@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *John von Neumann*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 29, 2021, 10:10 PM
+  Last Refresh : Sunday, August 29, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
