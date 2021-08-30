@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Daniel T. Barry*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 9:19 AM
+  Last Refresh : Monday, August 30, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
