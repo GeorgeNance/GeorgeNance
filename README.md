@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *John Warnock*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 6:53 PM
+  Last Refresh : Monday, August 30, 2021, 7:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
