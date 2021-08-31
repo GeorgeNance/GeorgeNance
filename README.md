@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Daniel T. Barry*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 5:42 PM
+  Last Refresh : Monday, August 30, 2021, 6:53 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
