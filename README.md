@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Martin Fowler*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 31, 2021, 12:12 AM
+  Last Refresh : Tuesday, August 31, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
