@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 31, 2021, 11:14 AM
+  Last Refresh : Tuesday, August 31, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
