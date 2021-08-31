@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Gary Kildall*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 30, 2021, 4:12 PM
+  Last Refresh : Monday, August 30, 2021, 5:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
