@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 31, 2021, 6:59 PM
+  Last Refresh : Tuesday, August 31, 2021, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
