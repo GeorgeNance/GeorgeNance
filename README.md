@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 1, 2021, 3:14 AM
+  Last Refresh : Wednesday, September 1, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
