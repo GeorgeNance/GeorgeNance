@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 1, 2021, 4:10 AM
+  Last Refresh : Wednesday, September 1, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
