@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 >
-> ~ *Douglas Crockford*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 1, 2021, 6:18 AM
+  Last Refresh : Wednesday, September 1, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
