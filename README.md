@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Henry Petroski*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 31, 2021, 9:16 PM
+  Last Refresh : Tuesday, August 31, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
