@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Poul Anderson*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 1, 2021, 3:12 PM
+  Last Refresh : Wednesday, September 1, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
