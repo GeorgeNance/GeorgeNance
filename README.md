@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Richard P. Gabriel*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 9:20 AM
+  Last Refresh : Thursday, September 2, 2021, 10:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
