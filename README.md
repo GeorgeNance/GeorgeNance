@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 >
-> ~ *Elon Musk*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 3:12 PM
+  Last Refresh : Thursday, September 2, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
