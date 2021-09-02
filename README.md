@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 >
-> ~ *William Wulf*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 10:19 AM
+  Last Refresh : Thursday, September 2, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
