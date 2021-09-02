@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 7:11 AM
+  Last Refresh : Thursday, September 2, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
