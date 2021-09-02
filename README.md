@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 >
-> ~ *Richard Feynman*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 3:14 AM
+  Last Refresh : Thursday, September 2, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
