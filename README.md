@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 2:12 AM
+  Last Refresh : Thursday, September 2, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
