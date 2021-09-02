@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 >
-> ~ *Harlan Mills*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 12:09 PM
+  Last Refresh : Thursday, September 2, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
