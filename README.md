@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 9:16 PM
+  Last Refresh : Thursday, September 2, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
