@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Rob Pike*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 3, 2021, 9:18 AM
+  Last Refresh : Friday, September 3, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
