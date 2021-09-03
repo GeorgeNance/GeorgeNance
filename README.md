@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 >
-> ~ *Richard Hamming*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 10:11 PM
+  Last Refresh : Thursday, September 2, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
