@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 >
-> ~ *Martin Fowler*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 3, 2021, 1:14 AM
+  Last Refresh : Friday, September 3, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
