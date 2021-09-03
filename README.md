@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Wayne Ratliff*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 3, 2021, 11:14 AM
+  Last Refresh : Friday, September 3, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
