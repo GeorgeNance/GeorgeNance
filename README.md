@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Rick Osborne*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 3, 2021, 1:13 PM
+  Last Refresh : Friday, September 3, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
