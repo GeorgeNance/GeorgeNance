@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Danny Hillis*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 2, 2021, 11:15 PM
+  Last Refresh : Friday, September 3, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
