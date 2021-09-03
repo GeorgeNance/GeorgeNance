@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Ted Nelson*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 3, 2021, 7:11 AM
+  Last Refresh : Friday, September 3, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
