@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 3, 2021, 8:13 AM
+  Last Refresh : Friday, September 3, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
