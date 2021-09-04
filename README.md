@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 >
-> ~ *Douglas Crockford*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 4, 2021, 2:11 AM
+  Last Refresh : Saturday, September 4, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
