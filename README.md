@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Albert Einstein*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 3, 2021, 11:14 PM
+  Last Refresh : Saturday, September 4, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
