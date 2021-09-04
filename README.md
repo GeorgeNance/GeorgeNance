@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Alan Perlis*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 4, 2021, 1:12 PM
+  Last Refresh : Saturday, September 4, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
