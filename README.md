@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### It’s all talk until the code runs.
 >
-> ~ *Maurice Wilkes*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 4, 2021, 4:10 AM
+  Last Refresh : Saturday, September 4, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
