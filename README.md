@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 >
-> ~ *Ward Cunningham*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 4, 2021, 5:18 AM
+  Last Refresh : Saturday, September 4, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
