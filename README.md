@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Linus Torvalds*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 5, 2021, 1:12 PM
+  Last Refresh : Sunday, September 5, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
