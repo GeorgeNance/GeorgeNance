@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Bill Gates*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 4, 2021, 6:56 PM
+  Last Refresh : Saturday, September 4, 2021, 7:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
