@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 >
-> ~ *Gerald Weinberg*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 5, 2021, 7:11 AM
+  Last Refresh : Sunday, September 5, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
