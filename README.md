@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Fred Brooks*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 5, 2021, 10:16 AM
+  Last Refresh : Sunday, September 5, 2021, 11:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
