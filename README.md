@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 4, 2021, 4:12 PM
+  Last Refresh : Saturday, September 4, 2021, 5:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
