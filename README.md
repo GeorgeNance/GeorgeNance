@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Bob Frankston*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 5, 2021, 5:18 AM
+  Last Refresh : Sunday, September 5, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
