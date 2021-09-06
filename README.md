@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Kevlin Henney*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 5, 2021, 6:59 PM
+  Last Refresh : Sunday, September 5, 2021, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
