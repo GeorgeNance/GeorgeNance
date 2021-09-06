@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Douglas Crockford*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 6, 2021, 3:14 AM
+  Last Refresh : Monday, September 6, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
