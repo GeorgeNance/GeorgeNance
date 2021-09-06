@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### No code is faster than no code.
 >
-> ~ *Robert L. Glass*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 5, 2021, 5:46 PM
+  Last Refresh : Sunday, September 5, 2021, 6:59 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
