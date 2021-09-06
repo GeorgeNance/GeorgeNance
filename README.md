@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Tom DeMarco*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 6, 2021, 10:18 AM
+  Last Refresh : Monday, September 6, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
