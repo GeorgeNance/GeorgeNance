@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Chris Sacca*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 6, 2021, 6:19 AM
+  Last Refresh : Monday, September 6, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
