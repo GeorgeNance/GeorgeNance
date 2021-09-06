@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Ted Nelson*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 5, 2021, 7:32 PM
+  Last Refresh : Sunday, September 5, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
