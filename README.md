@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Ted Nelson*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 6, 2021, 1:12 PM
+  Last Refresh : Monday, September 6, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
