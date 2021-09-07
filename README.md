@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Marvin Minsky*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 7, 2021, 2:12 AM
+  Last Refresh : Tuesday, September 7, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
