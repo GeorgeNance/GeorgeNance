@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 6, 2021, 8:12 PM
+  Last Refresh : Monday, September 6, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
