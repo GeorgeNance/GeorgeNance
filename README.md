@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 >
-> ~ *Charles Babbage*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 6, 2021, 11:14 PM
+  Last Refresh : Tuesday, September 7, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
