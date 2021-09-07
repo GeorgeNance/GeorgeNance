@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Linus Torvalds*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 7, 2021, 6:18 AM
+  Last Refresh : Tuesday, September 7, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
