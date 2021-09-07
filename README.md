@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Fred Brooks*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 7, 2021, 4:10 AM
+  Last Refresh : Tuesday, September 7, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
