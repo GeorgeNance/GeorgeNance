@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 7, 2021, 3:13 AM
+  Last Refresh : Tuesday, September 7, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
