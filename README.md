@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 >
-> ~ *Bill Gates*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 7, 2021, 10:09 PM
+  Last Refresh : Tuesday, September 7, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
