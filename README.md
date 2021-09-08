@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### No code is faster than no code.
 >
-> ~ *Linus Torvalds*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 2:10 PM
+  Last Refresh : Wednesday, September 8, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
