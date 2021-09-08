@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Addy Osmani*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 7, 2021, 9:16 PM
+  Last Refresh : Tuesday, September 7, 2021, 10:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
