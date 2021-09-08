@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *John Warnock*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 1:14 AM
+  Last Refresh : Wednesday, September 8, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
