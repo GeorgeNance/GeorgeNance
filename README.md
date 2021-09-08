@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *George Boole*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 8:13 AM
+  Last Refresh : Wednesday, September 8, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
