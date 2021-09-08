@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### It’s all talk until the code runs.
 >
-> ~ *Kevlin Henney*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 3:12 PM
+  Last Refresh : Wednesday, September 8, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
