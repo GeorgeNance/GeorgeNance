@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Douglas Crockford*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 6:19 AM
+  Last Refresh : Wednesday, September 8, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
