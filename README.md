@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Ted Nelson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 1:13 PM
+  Last Refresh : Wednesday, September 8, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
