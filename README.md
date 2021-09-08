@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 >
-> ~ *Charles Babbage*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 7, 2021, 11:15 PM
+  Last Refresh : Wednesday, September 8, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
