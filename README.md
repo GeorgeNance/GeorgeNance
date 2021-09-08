@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Ted Nelson*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 7, 2021, 5:40 PM
+  Last Refresh : Tuesday, September 7, 2021, 6:53 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
