@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### Never memorize something that you can look up.
 >
-> ~ *Ward Cunningham*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 4:12 PM
+  Last Refresh : Wednesday, September 8, 2021, 5:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
