@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Donald Knuth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 2:10 PM
+  Last Refresh : Thursday, September 9, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
