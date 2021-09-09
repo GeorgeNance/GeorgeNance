@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 >
 > ~ *Eric S. Raymond*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 7:11 AM
+  Last Refresh : Thursday, September 9, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
