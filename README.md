@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Alan Perlis*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 12:09 PM
+  Last Refresh : Thursday, September 9, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
