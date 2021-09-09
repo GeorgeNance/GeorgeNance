@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *George Boole*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 10:11 PM
+  Last Refresh : Wednesday, September 8, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
