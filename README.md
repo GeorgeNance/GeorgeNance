@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Fred Brooks*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 3:12 PM
+  Last Refresh : Thursday, September 9, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
