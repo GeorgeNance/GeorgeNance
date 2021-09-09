@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 9:18 AM
+  Last Refresh : Thursday, September 9, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
