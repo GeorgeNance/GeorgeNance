@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Albert Einstein*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 5:43 PM
+  Last Refresh : Wednesday, September 8, 2021, 6:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
