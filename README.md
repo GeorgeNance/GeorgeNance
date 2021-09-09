@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Vint Cerf*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 2:12 AM
+  Last Refresh : Thursday, September 9, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
