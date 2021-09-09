@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 8, 2021, 9:16 PM
+  Last Refresh : Wednesday, September 8, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
