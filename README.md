@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 5:19 AM
+  Last Refresh : Thursday, September 9, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
