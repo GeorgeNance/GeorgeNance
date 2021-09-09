@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Elon Musk*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 10:17 AM
+  Last Refresh : Thursday, September 9, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
