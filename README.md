@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Laurence J. Peter*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 4:10 AM
+  Last Refresh : Thursday, September 9, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
