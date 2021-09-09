@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *John Ousterhout*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 11:14 AM
+  Last Refresh : Thursday, September 9, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
