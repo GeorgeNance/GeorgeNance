@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Daniel T. Barry*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 10, 2021, 12:12 AM
+  Last Refresh : Friday, September 10, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
