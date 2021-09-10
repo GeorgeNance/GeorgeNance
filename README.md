@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 >
-> ~ *Eric S. Raymond*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 10:10 PM
+  Last Refresh : Thursday, September 9, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
