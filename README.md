@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Ken Thompson*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 9:16 PM
+  Last Refresh : Thursday, September 9, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
