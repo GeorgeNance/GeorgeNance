@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In theory, there is no difference between theory and practice. But, in practice, there is.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Jan L. A. van de Snepscheut*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 10, 2021, 3:13 AM
+  Last Refresh : Friday, September 10, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
