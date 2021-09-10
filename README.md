@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### Making things easy is hard.
 >
-> ~ *Alan Kay*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 7:28 PM
+  Last Refresh : Thursday, September 9, 2021, 8:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
