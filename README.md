@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
-> ~ *Ted Nelson*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 8:12 PM
+  Last Refresh : Thursday, September 9, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
