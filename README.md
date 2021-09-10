@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Bill Gates*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 10, 2021, 2:10 PM
+  Last Refresh : Friday, September 10, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
