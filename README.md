@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Chris Wenham*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 4:12 PM
+  Last Refresh : Thursday, September 9, 2021, 5:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
