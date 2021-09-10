@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *John Warnock*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 10, 2021, 11:14 AM
+  Last Refresh : Friday, September 10, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
