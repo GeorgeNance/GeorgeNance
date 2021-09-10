@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 10, 2021, 1:13 PM
+  Last Refresh : Friday, September 10, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
