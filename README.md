@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 >
-> ~ *René Descartes*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 10, 2021, 5:19 AM
+  Last Refresh : Friday, September 10, 2021, 6:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
