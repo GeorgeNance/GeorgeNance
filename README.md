@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Marvin Minsky*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 9, 2021, 11:14 PM
+  Last Refresh : Friday, September 10, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
