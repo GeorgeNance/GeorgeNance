@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Elon Musk*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 11, 2021, 10:15 AM
+  Last Refresh : Saturday, September 11, 2021, 11:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
