@@ -9,11 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
 >
-> ~ *Michael A. Jackson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 10, 2021, 6:52 PM
+  Last Refresh : Friday, September 10, 2021, 7:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
