@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Martin Fowler*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 11, 2021, 12:11 AM
+  Last Refresh : Saturday, September 11, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
