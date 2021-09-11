@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+> ### Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
 >
-> ~ *Eric S. Raymond*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 11, 2021, 5:18 AM
+  Last Refresh : Saturday, September 11, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
