@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### Deleted code is debugged code.
 >
-> ~ *Martin Fowler*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 11, 2021, 3:13 AM
+  Last Refresh : Saturday, September 11, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
