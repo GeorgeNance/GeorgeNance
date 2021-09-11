@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Gary Kildall*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 10, 2021, 5:40 PM
+  Last Refresh : Friday, September 10, 2021, 6:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
