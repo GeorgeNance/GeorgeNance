@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Jamie Zawinski*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 1:13 AM
+  Last Refresh : Sunday, September 12, 2021, 2:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
