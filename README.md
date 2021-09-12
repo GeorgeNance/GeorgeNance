@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Alan Turing*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 1:12 PM
+  Last Refresh : Sunday, September 12, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
