@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 12:09 PM
+  Last Refresh : Sunday, September 12, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
