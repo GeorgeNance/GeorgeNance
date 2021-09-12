@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 >
-> ~ *Alan Perlis*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 2:10 PM
+  Last Refresh : Sunday, September 12, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
