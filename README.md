@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 >
-> ~ *Bill Gates*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 12:12 AM
+  Last Refresh : Sunday, September 12, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
