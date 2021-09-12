@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 >
-> ~ *Dennis Ritchie*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 11, 2021, 4:12 PM
+  Last Refresh : Saturday, September 11, 2021, 5:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
