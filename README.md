@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### Programming can be addictive.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 11, 2021, 9:16 PM
+  Last Refresh : Saturday, September 11, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
