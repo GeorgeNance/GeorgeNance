@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Steve Jobs*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 13, 2021, 7:11 AM
+  Last Refresh : Monday, September 13, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
