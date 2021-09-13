@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Bill Gates*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 4:12 PM
+  Last Refresh : Sunday, September 12, 2021, 5:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
