@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Addy Osmani*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 13, 2021, 8:13 AM
+  Last Refresh : Monday, September 13, 2021, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
