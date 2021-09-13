@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Eric S. Raymond*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 13, 2021, 11:15 AM
+  Last Refresh : Monday, September 13, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
