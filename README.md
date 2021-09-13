@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Kevlin Henney*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 11:15 PM
+  Last Refresh : Monday, September 13, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
