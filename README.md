@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 9:16 PM
+  Last Refresh : Sunday, September 12, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
