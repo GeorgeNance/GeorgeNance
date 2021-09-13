@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Ward Cunningham*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 8:13 PM
+  Last Refresh : Sunday, September 12, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
