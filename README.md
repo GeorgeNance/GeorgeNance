@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Grady Booch*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 6:56 PM
+  Last Refresh : Sunday, September 12, 2021, 7:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
