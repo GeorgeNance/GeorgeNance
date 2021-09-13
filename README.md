@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Jaron Lanier*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 7:25 PM
+  Last Refresh : Sunday, September 12, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
