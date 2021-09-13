@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Randall E. Stross*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 13, 2021, 2:12 AM
+  Last Refresh : Monday, September 13, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
