@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Alan Turing*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 12, 2021, 10:11 PM
+  Last Refresh : Sunday, September 12, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
