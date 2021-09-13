@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Tim Berners-Lee*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 13, 2021, 1:12 PM
+  Last Refresh : Monday, September 13, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
