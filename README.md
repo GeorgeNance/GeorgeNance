@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 >
-> ~ *Brian Kernighan*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 13, 2021, 6:21 AM
+  Last Refresh : Monday, September 13, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
