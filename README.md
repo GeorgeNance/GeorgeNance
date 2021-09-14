@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Daniel T. Barry*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 10:17 AM
+  Last Refresh : Tuesday, September 14, 2021, 11:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
