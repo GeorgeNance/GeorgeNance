@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
 >
-> ~ *Henry Petroski*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 6:19 AM
+  Last Refresh : Tuesday, September 14, 2021, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
