@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Douglas Crockford*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 3:12 PM
+  Last Refresh : Tuesday, September 14, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
