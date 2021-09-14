@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Butler Lampson*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 13, 2021, 11:14 PM
+  Last Refresh : Tuesday, September 14, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
