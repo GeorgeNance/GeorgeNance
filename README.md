@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Albert Einstein*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 7:12 AM
+  Last Refresh : Tuesday, September 14, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
