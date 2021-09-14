@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Roy Fielding*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 13, 2021, 5:45 PM
+  Last Refresh : Monday, September 13, 2021, 6:56 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
