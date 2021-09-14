@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Richard Stallman*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 1:12 PM
+  Last Refresh : Tuesday, September 14, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
