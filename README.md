@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Fred Brooks*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 15, 2021, 12:12 AM
+  Last Refresh : Wednesday, September 15, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
