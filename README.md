@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 6:55 PM
+  Last Refresh : Tuesday, September 14, 2021, 7:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
