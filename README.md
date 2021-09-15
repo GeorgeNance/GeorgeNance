@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 9:16 PM
+  Last Refresh : Tuesday, September 14, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
