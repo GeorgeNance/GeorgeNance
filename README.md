@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Elon Musk*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 7:24 PM
+  Last Refresh : Tuesday, September 14, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
