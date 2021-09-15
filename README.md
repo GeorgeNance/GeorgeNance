@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Randall E. Stross*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 15, 2021, 6:19 AM
+  Last Refresh : Wednesday, September 15, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
