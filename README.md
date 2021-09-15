@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 >
-> ~ *Edward V. Berard*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 15, 2021, 1:14 AM
+  Last Refresh : Wednesday, September 15, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
