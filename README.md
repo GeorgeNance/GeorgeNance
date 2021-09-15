@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 >
-> ~ *Ken Thompson*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 15, 2021, 4:10 AM
+  Last Refresh : Wednesday, September 15, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
