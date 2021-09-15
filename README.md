@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Alan Perlis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 14, 2021, 5:42 PM
+  Last Refresh : Tuesday, September 14, 2021, 6:55 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
