@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Brian Kernighan*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 11:14 AM
+  Last Refresh : Thursday, September 16, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
