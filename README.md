@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Tom DeMarco*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 2:10 PM
+  Last Refresh : Thursday, September 16, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
