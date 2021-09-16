@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
+> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
 >
-> ~ *John Carmack*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 7:12 AM
+  Last Refresh : Thursday, September 16, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
