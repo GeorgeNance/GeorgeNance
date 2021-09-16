@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Rob Pike*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 4:10 AM
+  Last Refresh : Thursday, September 16, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
