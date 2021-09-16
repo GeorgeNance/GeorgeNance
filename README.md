@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 2:12 AM
+  Last Refresh : Thursday, September 16, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
