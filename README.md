@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Ron Jeffries*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 3:12 PM
+  Last Refresh : Thursday, September 16, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
