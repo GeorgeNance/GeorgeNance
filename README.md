@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> ~ *Terry Winograd*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 10:16 AM
+  Last Refresh : Thursday, September 16, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
