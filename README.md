@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Kevlin Henney*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 12:12 AM
+  Last Refresh : Thursday, September 16, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
