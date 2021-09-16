@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Bob Frankston*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 12:09 PM
+  Last Refresh : Thursday, September 16, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
