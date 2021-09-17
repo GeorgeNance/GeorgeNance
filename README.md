@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *John von Neumann*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 16, 2021, 11:15 PM
+  Last Refresh : Friday, September 17, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
