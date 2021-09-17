@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 >
-> ~ *Richard Feynman*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 8:13 AM
+  Last Refresh : Friday, September 17, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
