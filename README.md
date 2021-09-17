@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 >
-> ~ *Lawrence Flon*
+> ~ *Sean Parent*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 1:12 PM
+  Last Refresh : Friday, September 17, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
