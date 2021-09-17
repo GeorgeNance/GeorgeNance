@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### Once you stop learning you start dying.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 9:18 AM
+  Last Refresh : Friday, September 17, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
