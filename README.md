@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *John von Neumann*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 2:12 AM
+  Last Refresh : Friday, September 17, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
