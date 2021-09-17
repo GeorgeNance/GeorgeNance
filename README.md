@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Alan Kay*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 12:12 AM
+  Last Refresh : Friday, September 17, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
