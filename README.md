@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 >
-> ~ *Bob Carr*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 3:13 AM
+  Last Refresh : Friday, September 17, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
