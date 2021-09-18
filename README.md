@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Laurence J. Peter*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 4:13 PM
+  Last Refresh : Friday, September 17, 2021, 5:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
