@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Fred Brooks*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 11:14 PM
+  Last Refresh : Saturday, September 18, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
