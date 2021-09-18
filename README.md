@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *John Ousterhout*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 9:15 PM
+  Last Refresh : Friday, September 17, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
