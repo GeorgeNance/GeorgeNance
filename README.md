@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Ted Nelson*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 17, 2021, 5:41 PM
+  Last Refresh : Friday, September 17, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
