@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 >
-> ~ *James Gleick*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 18, 2021, 7:11 AM
+  Last Refresh : Saturday, September 18, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
