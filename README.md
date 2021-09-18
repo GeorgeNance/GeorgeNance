@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Andy Hertzfeld*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 18, 2021, 1:13 AM
+  Last Refresh : Saturday, September 18, 2021, 2:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
