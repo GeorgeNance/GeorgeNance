@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 18, 2021, 2:11 AM
+  Last Refresh : Saturday, September 18, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
