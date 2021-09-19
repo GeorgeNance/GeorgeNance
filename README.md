@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Alan Perlis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 19, 2021, 7:11 AM
+  Last Refresh : Sunday, September 19, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
