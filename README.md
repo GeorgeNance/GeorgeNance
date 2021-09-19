@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 18, 2021, 5:42 PM
+  Last Refresh : Saturday, September 18, 2021, 6:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
