@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 19, 2021, 12:09 PM
+  Last Refresh : Sunday, September 19, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
