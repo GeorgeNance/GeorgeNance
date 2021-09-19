@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Daniel T. Barry*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 19, 2021, 2:10 PM
+  Last Refresh : Sunday, September 19, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
