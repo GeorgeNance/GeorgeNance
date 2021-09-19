@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 >
-> ~ *Donald Knuth*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 19, 2021, 9:17 AM
+  Last Refresh : Sunday, September 19, 2021, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
