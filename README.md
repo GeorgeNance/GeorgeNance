@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### Really good programs live forever.
 >
-> ~ *John von Neumann*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 19, 2021, 12:12 AM
+  Last Refresh : Sunday, September 19, 2021, 1:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
