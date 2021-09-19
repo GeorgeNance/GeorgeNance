@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Donald Knuth*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 18, 2021, 11:14 PM
+  Last Refresh : Sunday, September 19, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
