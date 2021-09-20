@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Richard Feynman*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 1:15 AM
+  Last Refresh : Monday, September 20, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
