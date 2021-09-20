@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Jonathan Sachs*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 7:11 AM
+  Last Refresh : Monday, September 20, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
