@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *René Descartes*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 19, 2021, 5:47 PM
+  Last Refresh : Sunday, September 19, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
