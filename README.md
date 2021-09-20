@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Michael Hawley*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 8:13 AM
+  Last Refresh : Monday, September 20, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
