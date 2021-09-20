@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Albert Einstein*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 12:10 PM
+  Last Refresh : Monday, September 20, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
