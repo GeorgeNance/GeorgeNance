@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 19, 2021, 9:16 PM
+  Last Refresh : Sunday, September 19, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
