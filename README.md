@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 >
-> ~ *Ted Nelson*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 2:11 PM
+  Last Refresh : Monday, September 20, 2021, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
