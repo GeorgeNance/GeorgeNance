@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### Deleted code is debugged code.
 >
-> ~ *Gary Kildall*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 19, 2021, 7:30 PM
+  Last Refresh : Sunday, September 19, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
