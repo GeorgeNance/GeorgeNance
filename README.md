@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *Ken Thompson*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 6:20 AM
+  Last Refresh : Monday, September 20, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
