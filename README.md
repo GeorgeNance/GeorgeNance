@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 12:12 AM
+  Last Refresh : Monday, September 20, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
