@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Charles Simonyi*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 5:20 AM
+  Last Refresh : Monday, September 20, 2021, 6:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
