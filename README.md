@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Ada Lovelace*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 6:19 AM
+  Last Refresh : Tuesday, September 21, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
