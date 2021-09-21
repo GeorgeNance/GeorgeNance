@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Danny Hillis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 8:13 PM
+  Last Refresh : Monday, September 20, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
