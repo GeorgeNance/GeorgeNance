@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Steve Wozniak*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 7:11 AM
+  Last Refresh : Tuesday, September 21, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
