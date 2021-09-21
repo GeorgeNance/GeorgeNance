@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 3:13 AM
+  Last Refresh : Tuesday, September 21, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
