@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Alan Turing*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 4:10 AM
+  Last Refresh : Tuesday, September 21, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
