@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 3:12 PM
+  Last Refresh : Tuesday, September 21, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
