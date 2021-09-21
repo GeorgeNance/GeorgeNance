@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Sean Parent*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 12:10 PM
+  Last Refresh : Tuesday, September 21, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
