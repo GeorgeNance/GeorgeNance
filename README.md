@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 >
-> ~ *Bob Frankston*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 1:13 PM
+  Last Refresh : Tuesday, September 21, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
