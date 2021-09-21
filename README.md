@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### Programming can be addictive.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 20, 2021, 5:44 PM
+  Last Refresh : Monday, September 20, 2021, 6:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
