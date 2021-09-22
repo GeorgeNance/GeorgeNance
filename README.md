@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *George Carrette*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 22, 2021, 1:13 PM
+  Last Refresh : Wednesday, September 22, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
