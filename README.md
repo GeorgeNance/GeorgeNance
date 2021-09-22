@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Seymour Cray*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 22, 2021, 9:19 AM
+  Last Refresh : Wednesday, September 22, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
