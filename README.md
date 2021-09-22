@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### Cool URIs don't change.
 >
-> ~ *Mario Fusco*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 6:58 PM
+  Last Refresh : Tuesday, September 21, 2021, 7:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
