@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Dennis Ritchie*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 22, 2021, 5:20 AM
+  Last Refresh : Wednesday, September 22, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
