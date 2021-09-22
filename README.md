@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Daniel T. Barry*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 21, 2021, 9:15 PM
+  Last Refresh : Tuesday, September 21, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
