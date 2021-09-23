@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 >
-> ~ *Alan Kay*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 3:12 PM
+  Last Refresh : Thursday, September 23, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
