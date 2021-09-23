@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 >
-> ~ *Daniel T. Barry*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 2:12 AM
+  Last Refresh : Thursday, September 23, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
