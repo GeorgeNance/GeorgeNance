@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Bill Gates*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 1:15 AM
+  Last Refresh : Thursday, September 23, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
