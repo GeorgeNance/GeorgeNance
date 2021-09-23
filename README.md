@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 12:12 AM
+  Last Refresh : Thursday, September 23, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
