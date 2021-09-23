@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Eric S. Raymond*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 5:21 AM
+  Last Refresh : Thursday, September 23, 2021, 6:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
