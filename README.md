@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Philip Greenspun*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 2:10 PM
+  Last Refresh : Thursday, September 23, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
