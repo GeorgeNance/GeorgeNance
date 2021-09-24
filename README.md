@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Arthur C. Clarke*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 9:16 PM
+  Last Refresh : Thursday, September 23, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
