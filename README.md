@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Eric S. Raymond*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 11:15 PM
+  Last Refresh : Friday, September 24, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
