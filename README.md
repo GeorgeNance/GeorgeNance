@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Michael Stal*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 6:56 PM
+  Last Refresh : Thursday, September 23, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
