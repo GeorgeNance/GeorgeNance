@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Harlan Mills*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 24, 2021, 3:13 AM
+  Last Refresh : Friday, September 24, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
