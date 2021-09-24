@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Michael Stal*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 24, 2021, 8:13 AM
+  Last Refresh : Friday, September 24, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
