@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Marvin Minsky*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 24, 2021, 11:14 AM
+  Last Refresh : Friday, September 24, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
