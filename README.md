@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Ellen Ullman*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 24, 2021, 1:13 PM
+  Last Refresh : Friday, September 24, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
