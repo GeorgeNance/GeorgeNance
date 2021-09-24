@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Peter Roizen*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 23, 2021, 7:26 PM
+  Last Refresh : Thursday, September 23, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
