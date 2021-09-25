@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 >
-> ~ *Butler Lampson*
+> ~ *Richard P. Gabriel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 25, 2021, 5:18 AM
+  Last Refresh : Saturday, September 25, 2021, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
