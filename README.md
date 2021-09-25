@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
 > ~ *Gary Kildall*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 25, 2021, 2:10 PM
+  Last Refresh : Saturday, September 25, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
