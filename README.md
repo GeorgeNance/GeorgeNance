@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Dennis Ritchie*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 25, 2021, 9:17 AM
+  Last Refresh : Saturday, September 25, 2021, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
