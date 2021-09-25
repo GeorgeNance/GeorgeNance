@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Linus Torvalds*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 25, 2021, 4:10 AM
+  Last Refresh : Saturday, September 25, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
