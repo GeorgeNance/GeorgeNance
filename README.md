@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Ellen Ullman*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 25, 2021, 11:13 AM
+  Last Refresh : Saturday, September 25, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
