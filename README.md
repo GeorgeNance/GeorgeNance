@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Gary Kildall*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 24, 2021, 5:41 PM
+  Last Refresh : Friday, September 24, 2021, 6:55 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
