@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Steve Jobs*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 25, 2021, 1:13 AM
+  Last Refresh : Saturday, September 25, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
