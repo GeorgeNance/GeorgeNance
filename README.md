@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 >
-> ~ *Joshua Bloch*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 10:14 AM
+  Last Refresh : Sunday, September 26, 2021, 11:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
