@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *John von Neumann*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 7:10 AM
+  Last Refresh : Sunday, September 26, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
