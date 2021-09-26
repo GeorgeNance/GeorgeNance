@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
 >
-> ~ *Wayne Ratliff*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 1:12 PM
+  Last Refresh : Sunday, September 26, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
