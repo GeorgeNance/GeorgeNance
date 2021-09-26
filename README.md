@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 1:14 AM
+  Last Refresh : Sunday, September 26, 2021, 2:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
