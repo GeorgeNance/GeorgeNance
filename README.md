@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 2:11 AM
+  Last Refresh : Sunday, September 26, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
