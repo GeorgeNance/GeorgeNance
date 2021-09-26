@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Alan Perlis*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 25, 2021, 6:57 PM
+  Last Refresh : Saturday, September 25, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
