@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Wayne Ratliff*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 5:19 AM
+  Last Refresh : Sunday, September 26, 2021, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
