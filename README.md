@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### When in doubt, leave it out.
 >
-> ~ *Lawrence Flon*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 9:17 AM
+  Last Refresh : Sunday, September 26, 2021, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
