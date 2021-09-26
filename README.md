@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 3:11 PM
+  Last Refresh : Sunday, September 26, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
