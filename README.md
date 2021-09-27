@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Albert Einstein*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 11:14 AM
+  Last Refresh : Monday, September 27, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
