@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Rob Pike*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 5:20 AM
+  Last Refresh : Monday, September 27, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
