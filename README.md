@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Fred Brooks*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 1:15 AM
+  Last Refresh : Monday, September 27, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
