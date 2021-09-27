@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Chris Wenham*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 4:10 AM
+  Last Refresh : Monday, September 27, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
