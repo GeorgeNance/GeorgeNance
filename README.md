@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Butler Lampson*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 2:12 AM
+  Last Refresh : Monday, September 27, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
