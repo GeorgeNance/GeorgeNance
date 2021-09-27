@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Grady Booch*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 26, 2021, 9:16 PM
+  Last Refresh : Sunday, September 26, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
