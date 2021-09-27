@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 >
-> ~ *Richard Feynman*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 12:09 PM
+  Last Refresh : Monday, September 27, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
