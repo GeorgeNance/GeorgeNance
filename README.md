@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Steve Jobs*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 10:18 AM
+  Last Refresh : Monday, September 27, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
