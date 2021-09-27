@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *John Ousterhout*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 3:13 AM
+  Last Refresh : Monday, September 27, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
