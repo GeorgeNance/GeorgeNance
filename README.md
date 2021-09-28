@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
 >
-> ~ *Fred Brooks*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 4:12 PM
+  Last Refresh : Monday, September 27, 2021, 5:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
