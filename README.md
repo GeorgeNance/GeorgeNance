@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 2:09 PM
+  Last Refresh : Tuesday, September 28, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
