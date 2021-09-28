@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 >
-> ~ *Robert C. Martin*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 1:12 PM
+  Last Refresh : Tuesday, September 28, 2021, 2:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
