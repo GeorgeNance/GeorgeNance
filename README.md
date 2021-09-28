@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 3:12 PM
+  Last Refresh : Tuesday, September 28, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
