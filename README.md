@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *John von Neumann*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 5:44 PM
+  Last Refresh : Monday, September 27, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
