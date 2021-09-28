@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Richard Hamming*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 8:13 PM
+  Last Refresh : Monday, September 27, 2021, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
