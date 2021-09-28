@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Robert C. Martin*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 12:12 AM
+  Last Refresh : Tuesday, September 28, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
