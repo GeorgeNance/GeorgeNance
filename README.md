@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Elon Musk*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 12:10 PM
+  Last Refresh : Tuesday, September 28, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
