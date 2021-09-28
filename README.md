@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Grady Booch*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 1:15 AM
+  Last Refresh : Tuesday, September 28, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
