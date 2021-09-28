@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 6:58 PM
+  Last Refresh : Monday, September 27, 2021, 7:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
