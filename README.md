@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Bill Gates*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 27, 2021, 10:11 PM
+  Last Refresh : Monday, September 27, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
