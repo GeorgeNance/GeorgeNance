@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Alan Turing*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 4:10 AM
+  Last Refresh : Tuesday, September 28, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
