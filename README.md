@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Danny Hillis*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 29, 2021, 6:19 AM
+  Last Refresh : Wednesday, September 29, 2021, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
