@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 4:12 PM
+  Last Refresh : Tuesday, September 28, 2021, 5:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
