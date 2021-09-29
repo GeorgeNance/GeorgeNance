@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Ted Nelson*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 7:21 PM
+  Last Refresh : Tuesday, September 28, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
