@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Steve Wozniak*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 28, 2021, 5:41 PM
+  Last Refresh : Tuesday, September 28, 2021, 6:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
