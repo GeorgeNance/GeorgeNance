@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 >
-> ~ *Richard E. Pattis*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 29, 2021, 7:12 AM
+  Last Refresh : Wednesday, September 29, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
