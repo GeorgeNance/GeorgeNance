@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Seymour Cray*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 29, 2021, 11:14 AM
+  Last Refresh : Wednesday, September 29, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
