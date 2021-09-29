@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Martin Fowler*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 29, 2021, 3:14 AM
+  Last Refresh : Wednesday, September 29, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
