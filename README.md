@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 30, 2021, 9:18 AM
+  Last Refresh : Thursday, September 30, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
