@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 30, 2021, 12:10 PM
+  Last Refresh : Thursday, September 30, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
