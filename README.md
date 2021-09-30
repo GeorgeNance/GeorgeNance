@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 30, 2021, 7:11 AM
+  Last Refresh : Thursday, September 30, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
