@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Martin Fowler*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 3:12 PM
+  Last Refresh : Friday, October 1, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
