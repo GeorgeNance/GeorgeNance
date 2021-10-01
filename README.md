@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Joel Spolsky*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 30, 2021, 4:12 PM
+  Last Refresh : Thursday, September 30, 2021, 5:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
