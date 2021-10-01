@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 7:11 AM
+  Last Refresh : Friday, October 1, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
