@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 30, 2021, 11:15 PM
+  Last Refresh : Friday, October 1, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
