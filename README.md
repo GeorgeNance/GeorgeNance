@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Thomas J. Watson*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 11:14 AM
+  Last Refresh : Friday, October 1, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
