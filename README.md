@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
-> ~ *Danny Hillis*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 3:14 AM
+  Last Refresh : Friday, October 1, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
