@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 6:19 AM
+  Last Refresh : Friday, October 1, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
