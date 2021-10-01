@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *William Wulf*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 1:12 PM
+  Last Refresh : Friday, October 1, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
