@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Donald Knuth*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 12:10 PM
+  Last Refresh : Friday, October 1, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
