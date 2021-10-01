@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Jef Raskin*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 10:18 AM
+  Last Refresh : Friday, October 1, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
