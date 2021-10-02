@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *René Descartes*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 9:16 PM
+  Last Refresh : Friday, October 1, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
