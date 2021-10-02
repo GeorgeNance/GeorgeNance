@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Brian Kernighan*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 10:10 PM
+  Last Refresh : Friday, October 1, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
