@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Randall E. Stross*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 2, 2021, 5:18 AM
+  Last Refresh : Saturday, October 2, 2021, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
