@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 2, 2021, 2:11 AM
+  Last Refresh : Saturday, October 2, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
