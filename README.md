@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> ~ *Daniel T. Barry*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 2, 2021, 6:16 AM
+  Last Refresh : Saturday, October 2, 2021, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
