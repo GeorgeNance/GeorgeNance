@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Alan Perlis*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 1, 2021, 11:14 PM
+  Last Refresh : Saturday, October 2, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
