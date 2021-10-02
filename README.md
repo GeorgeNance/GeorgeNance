@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Albert Einstein*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 2, 2021, 1:14 AM
+  Last Refresh : Saturday, October 2, 2021, 2:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
