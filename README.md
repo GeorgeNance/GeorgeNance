@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Ted Nelson*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 2, 2021, 8:12 PM
+  Last Refresh : Saturday, October 2, 2021, 9:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
