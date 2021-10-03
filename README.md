@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 >
-> ~ *Richard Stallman*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 2, 2021, 4:12 PM
+  Last Refresh : Saturday, October 2, 2021, 5:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
