@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *John Carmack*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 2, 2021, 10:10 PM
+  Last Refresh : Saturday, October 2, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
