@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
 >
-> ~ *Ted Nelson*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 3, 2021, 4:10 AM
+  Last Refresh : Sunday, October 3, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
