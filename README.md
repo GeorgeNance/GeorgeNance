@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 >
-> ~ *Butler Lampson*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 2, 2021, 11:14 PM
+  Last Refresh : Sunday, October 3, 2021, 12:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
