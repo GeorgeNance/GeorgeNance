@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 5:19 AM
+  Last Refresh : Monday, October 4, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
