@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 >
 > ~ *Danny Hillis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 10:19 AM
+  Last Refresh : Monday, October 4, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
