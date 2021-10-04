@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### Once you stop learning you start dying.
 >
-> ~ *George Carrette*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 1:13 PM
+  Last Refresh : Monday, October 4, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
