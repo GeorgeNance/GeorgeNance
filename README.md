@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Danny Hillis*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 11:14 AM
+  Last Refresh : Monday, October 4, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
