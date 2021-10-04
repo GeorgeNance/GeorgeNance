@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 3, 2021, 8:13 PM
+  Last Refresh : Sunday, October 3, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
