@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 3, 2021, 5:49 PM
+  Last Refresh : Sunday, October 3, 2021, 7:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
