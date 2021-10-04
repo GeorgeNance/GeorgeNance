@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 12:12 AM
+  Last Refresh : Monday, October 4, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
