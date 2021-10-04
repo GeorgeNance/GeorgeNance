@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Marvin Minsky*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 3, 2021, 7:03 PM
+  Last Refresh : Sunday, October 3, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
