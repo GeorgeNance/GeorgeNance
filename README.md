@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Kevlin Henney*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 8:13 AM
+  Last Refresh : Monday, October 4, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
