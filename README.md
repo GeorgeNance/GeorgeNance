@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *John von Neumann*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 7:27 PM
+  Last Refresh : Monday, October 4, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
