@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *Tim Berners-Lee*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 9:16 PM
+  Last Refresh : Monday, October 4, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
