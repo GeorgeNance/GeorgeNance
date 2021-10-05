@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *George Boole*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 11:15 PM
+  Last Refresh : Tuesday, October 5, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
