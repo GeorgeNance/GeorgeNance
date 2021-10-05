@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Linus Torvalds*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 3:13 AM
+  Last Refresh : Tuesday, October 5, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
