@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Toru Iwatani*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 5:19 AM
+  Last Refresh : Tuesday, October 5, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
