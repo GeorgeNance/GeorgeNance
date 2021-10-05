@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Doug Linder*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 9:19 AM
+  Last Refresh : Tuesday, October 5, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
