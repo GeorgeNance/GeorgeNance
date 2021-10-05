@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 12:12 AM
+  Last Refresh : Tuesday, October 5, 2021, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
