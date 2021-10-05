@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 >
-> ~ *Martin Fowler*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 3:12 PM
+  Last Refresh : Tuesday, October 5, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
