@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
 >
-> ~ *Richard Hamming*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 8:13 PM
+  Last Refresh : Monday, October 4, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
