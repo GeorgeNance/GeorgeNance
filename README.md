@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Brian Kernighan*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 4, 2021, 4:10 PM
+  Last Refresh : Monday, October 4, 2021, 5:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
