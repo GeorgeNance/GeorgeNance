@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Tom DeMarco*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 4:10 AM
+  Last Refresh : Tuesday, October 5, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
