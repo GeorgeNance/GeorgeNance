@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 6:19 AM
+  Last Refresh : Tuesday, October 5, 2021, 7:59 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
