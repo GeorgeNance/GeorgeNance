@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 >
-> ~ *Elon Musk*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 11:14 AM
+  Last Refresh : Tuesday, October 5, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
