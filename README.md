@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### One man's constant is another man's variable.
 >
-> ~ *Jamie Zawinski*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 4:12 PM
+  Last Refresh : Tuesday, October 5, 2021, 5:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
