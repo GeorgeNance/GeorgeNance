@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Kent Beck*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 11:14 PM
+  Last Refresh : Wednesday, October 6, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
