@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
 >
-> ~ *Henry Petroski*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 5:20 AM
+  Last Refresh : Wednesday, October 6, 2021, 6:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
