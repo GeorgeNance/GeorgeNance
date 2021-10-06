@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Ted Nelson*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 10:11 PM
+  Last Refresh : Tuesday, October 5, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
