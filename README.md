@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 8:13 PM
+  Last Refresh : Tuesday, October 5, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
