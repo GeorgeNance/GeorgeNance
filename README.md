@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Alan Perlis*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 5, 2021, 5:46 PM
+  Last Refresh : Tuesday, October 5, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
