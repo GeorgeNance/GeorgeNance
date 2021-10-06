@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 >
-> ~ *Danny Hillis*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 3:12 PM
+  Last Refresh : Wednesday, October 6, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
