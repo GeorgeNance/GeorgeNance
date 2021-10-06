@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Jim Horning*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 1:13 PM
+  Last Refresh : Wednesday, October 6, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
