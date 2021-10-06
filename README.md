@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 >
-> ~ *Donald Knuth*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 10:15 AM
+  Last Refresh : Wednesday, October 6, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
