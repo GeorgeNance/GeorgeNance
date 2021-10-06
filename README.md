@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Gary Kildall*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 12:12 AM
+  Last Refresh : Wednesday, October 6, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
