@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 8:13 AM
+  Last Refresh : Wednesday, October 6, 2021, 9:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
