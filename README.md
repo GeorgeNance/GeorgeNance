@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Damian Conway*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 1:15 AM
+  Last Refresh : Wednesday, October 6, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
