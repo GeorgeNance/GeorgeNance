@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Douglas Crockford*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 11:14 PM
+  Last Refresh : Thursday, October 7, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
