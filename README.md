@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 7, 2021, 6:23 AM
+  Last Refresh : Thursday, October 7, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
