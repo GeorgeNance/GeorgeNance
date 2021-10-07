@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 7, 2021, 5:21 AM
+  Last Refresh : Thursday, October 7, 2021, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
