@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
-> ~ *Tom DeMarco*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 7, 2021, 9:15 AM
+  Last Refresh : Thursday, October 7, 2021, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
