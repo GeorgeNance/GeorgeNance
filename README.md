@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Tom DeMarco*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 6, 2021, 4:12 PM
+  Last Refresh : Wednesday, October 6, 2021, 5:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
