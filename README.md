@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Fred Brooks*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 7, 2021, 4:10 AM
+  Last Refresh : Thursday, October 7, 2021, 5:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
