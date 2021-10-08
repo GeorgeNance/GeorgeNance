@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Bill Gates*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 6:18 AM
+  Last Refresh : Friday, October 8, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
