@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Richard Hamming*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 7, 2021, 4:12 PM
+  Last Refresh : Thursday, October 7, 2021, 5:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
