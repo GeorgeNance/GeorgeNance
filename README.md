@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Brian Kernighan*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 4:12 AM
+  Last Refresh : Friday, October 8, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
