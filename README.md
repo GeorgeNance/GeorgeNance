@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *William Wulf*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 11:14 AM
+  Last Refresh : Friday, October 8, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
