@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Ward Cunningham*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 7, 2021, 9:16 PM
+  Last Refresh : Thursday, October 7, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
