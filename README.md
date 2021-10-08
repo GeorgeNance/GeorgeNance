@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Roy Fielding*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 2:10 PM
+  Last Refresh : Friday, October 8, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
