@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *David Parnas*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 9:19 AM
+  Last Refresh : Friday, October 8, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
