@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Edward V. Berard*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 7, 2021, 5:47 PM
+  Last Refresh : Thursday, October 7, 2021, 7:02 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
