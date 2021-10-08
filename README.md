@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Thomas J. Watson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 5:20 AM
+  Last Refresh : Friday, October 8, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
