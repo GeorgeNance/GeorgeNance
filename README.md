@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Bill Gates*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 9, 2021, 4:10 AM
+  Last Refresh : Saturday, October 9, 2021, 5:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
