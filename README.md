@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Pamela Zave*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 8:13 PM
+  Last Refresh : Friday, October 8, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
