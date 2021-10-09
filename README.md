@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Douglas Crockford*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 11:14 PM
+  Last Refresh : Saturday, October 9, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
