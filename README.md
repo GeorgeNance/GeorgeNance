@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Manuel Blum*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 8, 2021, 7:25 PM
+  Last Refresh : Friday, October 8, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
