@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Richard Hamming*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 9, 2021, 3:13 AM
+  Last Refresh : Saturday, October 9, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
