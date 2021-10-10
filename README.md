@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *Alan Perlis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 10, 2021, 12:09 PM
+  Last Refresh : Sunday, October 10, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
