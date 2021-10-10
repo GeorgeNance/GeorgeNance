@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### Once you stop learning you start dying.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 9, 2021, 8:12 PM
+  Last Refresh : Saturday, October 9, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
