@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Martin Fowler*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 10, 2021, 10:15 AM
+  Last Refresh : Sunday, October 10, 2021, 11:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
