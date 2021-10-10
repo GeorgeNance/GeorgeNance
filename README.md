@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Joshua Bloch*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 10, 2021, 12:12 AM
+  Last Refresh : Sunday, October 10, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
