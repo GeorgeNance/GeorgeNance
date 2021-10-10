@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *John Johnson*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 10, 2021, 2:10 PM
+  Last Refresh : Sunday, October 10, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
