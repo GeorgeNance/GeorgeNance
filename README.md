@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 >
-> ~ *Albert Einstein*
+> ~ *Poul Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 9, 2021, 9:16 PM
+  Last Refresh : Saturday, October 9, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
