@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### When in doubt, leave it out.
 >
-> ~ *Elon Musk*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 9, 2021, 11:14 PM
+  Last Refresh : Sunday, October 10, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
