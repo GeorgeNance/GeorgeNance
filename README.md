@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Fred Brooks*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 10, 2021, 1:12 PM
+  Last Refresh : Sunday, October 10, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
