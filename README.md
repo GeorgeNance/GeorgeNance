@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Douglas Crockford*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 11, 2021, 1:15 AM
+  Last Refresh : Monday, October 11, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
