@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### Really good programs live forever.
 >
-> ~ *Butler Lampson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 10, 2021, 7:02 PM
+  Last Refresh : Sunday, October 10, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
