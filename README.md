@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Ted Nelson*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 11, 2021, 3:12 PM
+  Last Refresh : Monday, October 11, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
