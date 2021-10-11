@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 11, 2021, 3:14 AM
+  Last Refresh : Monday, October 11, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
