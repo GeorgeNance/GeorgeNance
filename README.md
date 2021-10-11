@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Charles Simonyi*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 10, 2021, 8:13 PM
+  Last Refresh : Sunday, October 10, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
