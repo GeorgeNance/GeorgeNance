@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Dennis Ritchie*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 11, 2021, 2:12 AM
+  Last Refresh : Monday, October 11, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
