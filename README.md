@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *David Parnas*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 11, 2021, 8:13 AM
+  Last Refresh : Monday, October 11, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
