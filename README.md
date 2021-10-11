@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *John Romero*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 11, 2021, 12:12 AM
+  Last Refresh : Monday, October 11, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
