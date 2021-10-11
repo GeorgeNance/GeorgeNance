@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 10, 2021, 10:11 PM
+  Last Refresh : Sunday, October 10, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
