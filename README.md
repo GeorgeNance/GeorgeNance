@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 11, 2021, 9:16 PM
+  Last Refresh : Monday, October 11, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
