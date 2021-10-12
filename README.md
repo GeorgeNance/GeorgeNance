@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 12, 2021, 7:11 AM
+  Last Refresh : Tuesday, October 12, 2021, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
