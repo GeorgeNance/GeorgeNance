@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Laurence J. Peter*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 12, 2021, 3:12 PM
+  Last Refresh : Tuesday, October 12, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
