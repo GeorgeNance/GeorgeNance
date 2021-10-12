@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Joshua Bloch*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 12, 2021, 9:19 AM
+  Last Refresh : Tuesday, October 12, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
