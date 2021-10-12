@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Ken Thompson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 12, 2021, 5:20 AM
+  Last Refresh : Tuesday, October 12, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
