@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Ryan Singer*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 12, 2021, 10:16 AM
+  Last Refresh : Tuesday, October 12, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
