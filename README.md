@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 12, 2021, 6:18 AM
+  Last Refresh : Tuesday, October 12, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
