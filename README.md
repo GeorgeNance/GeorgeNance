@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 11, 2021, 5:48 PM
+  Last Refresh : Monday, October 11, 2021, 7:01 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
