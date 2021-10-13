@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 >
-> ~ *Thomas J. Watson*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 13, 2021, 6:18 AM
+  Last Refresh : Wednesday, October 13, 2021, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
