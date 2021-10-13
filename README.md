@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Richard Hamming*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 12, 2021, 9:16 PM
+  Last Refresh : Tuesday, October 12, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
