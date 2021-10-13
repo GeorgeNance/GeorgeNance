@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Linus Torvalds*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 12, 2021, 8:13 PM
+  Last Refresh : Tuesday, October 12, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
