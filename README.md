@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Never memorize something that you can look up.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 13, 2021, 3:13 AM
+  Last Refresh : Wednesday, October 13, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
