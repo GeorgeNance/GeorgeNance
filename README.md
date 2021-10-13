@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 >
-> ~ *Maurice Wilkes*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 13, 2021, 8:13 AM
+  Last Refresh : Wednesday, October 13, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
