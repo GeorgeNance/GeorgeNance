@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 9:19 AM
+  Last Refresh : Thursday, October 14, 2021, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
