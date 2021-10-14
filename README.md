@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 13, 2021, 4:12 PM
+  Last Refresh : Wednesday, October 13, 2021, 5:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
