@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 13, 2021, 5:42 PM
+  Last Refresh : Wednesday, October 13, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
