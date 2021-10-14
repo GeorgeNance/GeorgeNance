@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
 >
-> ~ *Alan Perlis*
+> ~ *William Wulf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 3:13 PM
+  Last Refresh : Thursday, October 14, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
