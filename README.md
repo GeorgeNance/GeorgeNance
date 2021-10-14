@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 >
-> ~ *Friedrich Bauer*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 13, 2021, 8:13 PM
+  Last Refresh : Wednesday, October 13, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
