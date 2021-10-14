@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 13, 2021, 7:31 PM
+  Last Refresh : Wednesday, October 13, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
