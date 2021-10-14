@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 4:10 AM
+  Last Refresh : Thursday, October 14, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
