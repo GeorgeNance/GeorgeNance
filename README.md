@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Dennis Ritchie*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 10:17 AM
+  Last Refresh : Thursday, October 14, 2021, 11:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
