@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 >
-> ~ *Addy Osmani*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 15, 2021, 1:13 PM
+  Last Refresh : Friday, October 15, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
