@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *William Wulf*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 4:13 PM
+  Last Refresh : Thursday, October 14, 2021, 5:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
