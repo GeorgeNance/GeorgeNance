@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Linus Torvalds*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 7:34 PM
+  Last Refresh : Thursday, October 14, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
