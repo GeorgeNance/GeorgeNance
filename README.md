@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 >
-> ~ *Quarry worker's creed*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 5:47 PM
+  Last Refresh : Thursday, October 14, 2021, 6:59 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
