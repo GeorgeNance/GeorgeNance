@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
-> ~ *Michael Hawley*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 15, 2021, 11:14 AM
+  Last Refresh : Friday, October 15, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
