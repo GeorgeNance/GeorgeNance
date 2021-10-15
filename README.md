@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Ellen Ullman*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 15, 2021, 3:12 PM
+  Last Refresh : Friday, October 15, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
