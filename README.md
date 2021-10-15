@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *Donald Knuth*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 6:59 PM
+  Last Refresh : Thursday, October 14, 2021, 7:34 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
