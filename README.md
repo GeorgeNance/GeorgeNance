@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Bill Gates*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 11:15 PM
+  Last Refresh : Friday, October 15, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
