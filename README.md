@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Alan Perlis*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 14, 2021, 10:11 PM
+  Last Refresh : Thursday, October 14, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
