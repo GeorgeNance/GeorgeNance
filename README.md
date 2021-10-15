@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### Cool URIs don't change.
 >
-> ~ *Linus Torvalds*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 15, 2021, 7:12 AM
+  Last Refresh : Friday, October 15, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
