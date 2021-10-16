@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 >
-> ~ *Luciano Ramalho*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 15, 2021, 7:02 PM
+  Last Refresh : Friday, October 15, 2021, 8:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
