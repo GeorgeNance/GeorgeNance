@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Rob Pike*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 15, 2021, 4:13 PM
+  Last Refresh : Friday, October 15, 2021, 5:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
