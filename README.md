@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Addy Osmani*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 16, 2021, 12:10 PM
+  Last Refresh : Saturday, October 16, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
