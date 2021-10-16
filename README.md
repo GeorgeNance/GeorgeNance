@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Douglas Crockford*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 16, 2021, 7:11 AM
+  Last Refresh : Saturday, October 16, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
