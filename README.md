@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 15, 2021, 10:11 PM
+  Last Refresh : Friday, October 15, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
