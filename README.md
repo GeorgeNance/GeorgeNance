@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Charles Simonyi*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 15, 2021, 5:49 PM
+  Last Refresh : Friday, October 15, 2021, 7:02 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
