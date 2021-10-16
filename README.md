@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 >
-> ~ *Ada Lovelace*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 16, 2021, 3:13 AM
+  Last Refresh : Saturday, October 16, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
