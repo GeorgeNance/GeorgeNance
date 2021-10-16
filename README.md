@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 >
-> ~ *Michael A. Jackson*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 16, 2021, 3:12 PM
+  Last Refresh : Saturday, October 16, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
