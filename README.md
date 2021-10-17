@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 17, 2021, 1:12 PM
+  Last Refresh : Sunday, October 17, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
