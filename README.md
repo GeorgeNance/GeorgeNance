@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Elon Musk*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 16, 2021, 10:10 PM
+  Last Refresh : Saturday, October 16, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
