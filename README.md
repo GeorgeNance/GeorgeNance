@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *John von Neumann*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 17, 2021, 12:12 AM
+  Last Refresh : Sunday, October 17, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
