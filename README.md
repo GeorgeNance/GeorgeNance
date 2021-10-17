@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Anonymous*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 17, 2021, 11:14 AM
+  Last Refresh : Sunday, October 17, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
