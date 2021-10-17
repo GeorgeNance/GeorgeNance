@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Douglas Crockford*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 17, 2021, 3:13 AM
+  Last Refresh : Sunday, October 17, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
