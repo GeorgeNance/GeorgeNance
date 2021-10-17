@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 17, 2021, 3:12 PM
+  Last Refresh : Sunday, October 17, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
