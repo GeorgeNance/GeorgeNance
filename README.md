@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Maurice Wilkes*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 16, 2021, 9:16 PM
+  Last Refresh : Saturday, October 16, 2021, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
