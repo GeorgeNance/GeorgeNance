@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Ted Nelson*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 17, 2021, 5:19 AM
+  Last Refresh : Sunday, October 17, 2021, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
