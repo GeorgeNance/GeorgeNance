@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Douglas Crockford*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 18, 2021, 12:10 PM
+  Last Refresh : Monday, October 18, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
