@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 18, 2021, 2:10 PM
+  Last Refresh : Monday, October 18, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
