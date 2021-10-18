@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Douglas Crockford*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 18, 2021, 6:18 AM
+  Last Refresh : Monday, October 18, 2021, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
