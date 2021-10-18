@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Stewart Brand*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 18, 2021, 9:20 AM
+  Last Refresh : Monday, October 18, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
