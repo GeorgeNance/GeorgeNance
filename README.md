@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 18, 2021, 7:12 AM
+  Last Refresh : Monday, October 18, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
