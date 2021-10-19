@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 >
 > ~ *Ward Cunningham*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 1:13 PM
+  Last Refresh : Tuesday, October 19, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
