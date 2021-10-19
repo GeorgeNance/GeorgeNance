@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Jonathan Sachs*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 1:15 AM
+  Last Refresh : Tuesday, October 19, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
