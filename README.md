@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *John von Neumann*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 3:12 PM
+  Last Refresh : Tuesday, October 19, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
