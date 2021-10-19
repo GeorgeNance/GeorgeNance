@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### It’s all talk until the code runs.
 >
-> ~ *Alan Turing*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 12:10 PM
+  Last Refresh : Tuesday, October 19, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
