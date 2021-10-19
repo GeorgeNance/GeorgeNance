@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Ted Nelson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 6:18 AM
+  Last Refresh : Tuesday, October 19, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
