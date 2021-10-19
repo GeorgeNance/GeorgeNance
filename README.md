@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> ~ *Ward Cunningham*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 2:10 PM
+  Last Refresh : Tuesday, October 19, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
