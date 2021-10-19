@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Philip Greenspun*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 18, 2021, 8:13 PM
+  Last Refresh : Monday, October 18, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
