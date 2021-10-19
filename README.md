@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Charles Simonyi*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 5:20 AM
+  Last Refresh : Tuesday, October 19, 2021, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
