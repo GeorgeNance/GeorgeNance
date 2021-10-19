@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 7:11 AM
+  Last Refresh : Tuesday, October 19, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
