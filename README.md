@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Maurice Wilkes*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 4:10 AM
+  Last Refresh : Tuesday, October 19, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
