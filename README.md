@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Alan Perlis*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 18, 2021, 7:00 PM
+  Last Refresh : Monday, October 18, 2021, 7:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
