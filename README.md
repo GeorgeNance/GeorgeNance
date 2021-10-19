@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Thomas J. Watson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 18, 2021, 9:16 PM
+  Last Refresh : Monday, October 18, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
