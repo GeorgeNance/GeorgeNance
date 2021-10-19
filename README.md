@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Albert Einstein*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 10:17 AM
+  Last Refresh : Tuesday, October 19, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
