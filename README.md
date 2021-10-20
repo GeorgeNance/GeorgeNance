@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 >
-> ~ *James Gleick*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 20, 2021, 2:12 AM
+  Last Refresh : Wednesday, October 20, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
