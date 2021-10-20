@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Jim Horning*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 20, 2021, 4:10 AM
+  Last Refresh : Wednesday, October 20, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
