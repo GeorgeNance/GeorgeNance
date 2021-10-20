@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 20, 2021, 1:13 PM
+  Last Refresh : Wednesday, October 20, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
