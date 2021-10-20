@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Steve Jobs*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 9:16 PM
+  Last Refresh : Tuesday, October 19, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
