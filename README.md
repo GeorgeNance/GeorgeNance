@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *John Carmack*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 20, 2021, 7:12 AM
+  Last Refresh : Wednesday, October 20, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
