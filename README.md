@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Ken Thompson*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 20, 2021, 5:20 AM
+  Last Refresh : Wednesday, October 20, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
