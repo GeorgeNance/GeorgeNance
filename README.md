@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 >
-> ~ *Jim Horning*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 4:13 PM
+  Last Refresh : Tuesday, October 19, 2021, 5:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
