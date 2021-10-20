@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### Making things easy is hard.
 >
-> ~ *Niklaus Wirth*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 19, 2021, 10:11 PM
+  Last Refresh : Wednesday, October 20, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
