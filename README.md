@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### Never memorize something that you can look up.
 >
-> ~ *John Warnock*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 20, 2021, 10:11 PM
+  Last Refresh : Wednesday, October 20, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
