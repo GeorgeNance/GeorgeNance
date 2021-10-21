@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Bob Frankston*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 3:12 PM
+  Last Refresh : Thursday, October 21, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
