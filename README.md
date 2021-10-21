@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Alan Perlis*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 10:20 AM
+  Last Refresh : Thursday, October 21, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
