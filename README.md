@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 8:33 AM
+  Last Refresh : Thursday, October 21, 2021, 9:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
