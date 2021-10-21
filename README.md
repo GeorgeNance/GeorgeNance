@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Stewart Brand*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 6:19 AM
+  Last Refresh : Thursday, October 21, 2021, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
