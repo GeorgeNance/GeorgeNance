@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Alan Turing*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 12:12 AM
+  Last Refresh : Thursday, October 21, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
