@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 20, 2021, 5:50 PM
+  Last Refresh : Wednesday, October 20, 2021, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
