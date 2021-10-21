@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 20, 2021, 11:15 PM
+  Last Refresh : Thursday, October 21, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
