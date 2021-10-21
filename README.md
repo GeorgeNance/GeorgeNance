@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 11:14 AM
+  Last Refresh : Thursday, October 21, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
