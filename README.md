@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 22, 2021, 11:14 AM
+  Last Refresh : Friday, October 22, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
