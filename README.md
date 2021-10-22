@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 >
-> ~ *Michael Hawley*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 7:08 PM
+  Last Refresh : Thursday, October 21, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
