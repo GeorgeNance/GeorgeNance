@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 10:11 PM
+  Last Refresh : Thursday, October 21, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
