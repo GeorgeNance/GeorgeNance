@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 22, 2021, 10:17 AM
+  Last Refresh : Friday, October 22, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
