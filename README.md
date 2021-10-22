@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 8:13 PM
+  Last Refresh : Thursday, October 21, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
