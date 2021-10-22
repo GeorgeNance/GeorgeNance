@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Friedrich Bauer*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 21, 2021, 4:13 PM
+  Last Refresh : Thursday, October 21, 2021, 5:50 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
