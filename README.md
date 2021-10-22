@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Martin Fowler*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 22, 2021, 12:12 AM
+  Last Refresh : Friday, October 22, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
