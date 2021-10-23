@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 10:16 AM
+  Last Refresh : Saturday, October 23, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
