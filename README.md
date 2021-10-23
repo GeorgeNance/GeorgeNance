@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Albert Einstein*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 12:12 AM
+  Last Refresh : Saturday, October 23, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
