@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
 >
-> ~ *Donald Knuth*
+> ~ *Tony Parisi (software developer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 11:14 AM
+  Last Refresh : Saturday, October 23, 2021, 12:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
