@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 9:18 AM
+  Last Refresh : Saturday, October 23, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
