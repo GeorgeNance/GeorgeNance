@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 22, 2021, 10:11 PM
+  Last Refresh : Friday, October 22, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
