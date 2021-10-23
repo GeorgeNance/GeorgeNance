@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Ken Thompson*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 22, 2021, 8:13 PM
+  Last Refresh : Friday, October 22, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
