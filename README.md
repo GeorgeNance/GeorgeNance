@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 >
-> ~ *Tom DeMarco*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 6:17 AM
+  Last Refresh : Saturday, October 23, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
