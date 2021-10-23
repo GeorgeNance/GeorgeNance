@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### Never memorize something that you can look up.
 >
-> ~ *John Carmack*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 2:10 PM
+  Last Refresh : Saturday, October 23, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
