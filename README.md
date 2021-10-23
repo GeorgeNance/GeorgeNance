@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 4:10 AM
+  Last Refresh : Saturday, October 23, 2021, 5:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
