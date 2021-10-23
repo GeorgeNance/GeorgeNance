@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Albert Einstein*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 3:12 PM
+  Last Refresh : Saturday, October 23, 2021, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
