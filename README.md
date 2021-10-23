@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 12:09 PM
+  Last Refresh : Saturday, October 23, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
