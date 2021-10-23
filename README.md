@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 >
-> ~ *Linus Torvalds*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 22, 2021, 4:12 PM
+  Last Refresh : Friday, October 22, 2021, 5:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
