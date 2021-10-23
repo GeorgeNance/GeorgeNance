@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Rich Skrenta*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 2:12 AM
+  Last Refresh : Saturday, October 23, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
