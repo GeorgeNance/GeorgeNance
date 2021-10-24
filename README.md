@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Really good programs live forever.
 >
-> ~ *Gerald Weinberg*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 24, 2021, 1:12 PM
+  Last Refresh : Sunday, October 24, 2021, 2:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
