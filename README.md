@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Charles Simonyi*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 24, 2021, 2:10 PM
+  Last Refresh : Sunday, October 24, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
