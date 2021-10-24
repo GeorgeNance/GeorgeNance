@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Richard Stallman*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 24, 2021, 12:12 AM
+  Last Refresh : Sunday, October 24, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
