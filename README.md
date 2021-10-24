@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Jamie Zawinski*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 24, 2021, 8:12 AM
+  Last Refresh : Sunday, October 24, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
