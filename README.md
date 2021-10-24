@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 >
-> ~ *Richard Hamming*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 23, 2021, 11:14 PM
+  Last Refresh : Sunday, October 24, 2021, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
