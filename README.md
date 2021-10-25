@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Linus Torvalds*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 25, 2021, 12:10 PM
+  Last Refresh : Monday, October 25, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
