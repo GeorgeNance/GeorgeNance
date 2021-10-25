@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Anonymous*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 25, 2021, 6:19 AM
+  Last Refresh : Monday, October 25, 2021, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
