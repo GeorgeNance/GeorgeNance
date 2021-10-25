@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
 >
-> ~ *Jim Horning*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 25, 2021, 3:12 PM
+  Last Refresh : Monday, October 25, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
