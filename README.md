@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Wayne Ratliff*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 25, 2021, 12:13 AM
+  Last Refresh : Monday, October 25, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
