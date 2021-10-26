@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Ward Cunningham*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 26, 2021, 6:19 AM
+  Last Refresh : Tuesday, October 26, 2021, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
