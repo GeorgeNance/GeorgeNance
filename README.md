@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 25, 2021, 4:13 PM
+  Last Refresh : Monday, October 25, 2021, 5:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
