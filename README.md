@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Charles Babbage*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 26, 2021, 9:22 AM
+  Last Refresh : Tuesday, October 26, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
