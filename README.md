@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Butler Lampson*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 25, 2021, 9:16 PM
+  Last Refresh : Monday, October 25, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
