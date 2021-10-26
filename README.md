@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *John Carmack*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 26, 2021, 5:20 AM
+  Last Refresh : Tuesday, October 26, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
