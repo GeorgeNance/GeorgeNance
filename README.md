@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 26, 2021, 12:13 AM
+  Last Refresh : Tuesday, October 26, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
