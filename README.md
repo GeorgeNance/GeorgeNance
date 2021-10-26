@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 >
-> ~ *Gerald Weinberg*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 25, 2021, 5:42 PM
+  Last Refresh : Monday, October 25, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
