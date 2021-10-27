@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 >
-> ~ *Joshua Bloch*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 26, 2021, 10:11 PM
+  Last Refresh : Tuesday, October 26, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
