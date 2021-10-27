@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Ada Lovelace*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 26, 2021, 11:15 PM
+  Last Refresh : Wednesday, October 27, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
