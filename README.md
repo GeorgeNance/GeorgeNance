@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Bill Gates*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 8:13 AM
+  Last Refresh : Wednesday, October 27, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
