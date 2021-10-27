@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 5:21 AM
+  Last Refresh : Wednesday, October 27, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
