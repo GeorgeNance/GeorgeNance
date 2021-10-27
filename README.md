@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### When in doubt, leave it out.
 >
-> ~ *Filipe Fortes*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 26, 2021, 9:16 PM
+  Last Refresh : Tuesday, October 26, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
