@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Tom DeMarco*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 9:19 AM
+  Last Refresh : Wednesday, October 27, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
