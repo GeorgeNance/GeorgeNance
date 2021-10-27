@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Never memorize something that you can look up.
 >
-> ~ *Ray Ozzie*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 1:15 AM
+  Last Refresh : Wednesday, October 27, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
