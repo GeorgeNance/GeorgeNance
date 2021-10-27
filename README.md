@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
 >
-> ~ *Ken Thompson*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 12:10 PM
+  Last Refresh : Wednesday, October 27, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
