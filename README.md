@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 >
-> ~ *Jamie Zawinski*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 7:12 AM
+  Last Refresh : Wednesday, October 27, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
