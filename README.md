@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Grady Booch*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 12:13 AM
+  Last Refresh : Wednesday, October 27, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
