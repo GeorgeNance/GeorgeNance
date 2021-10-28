@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Alan Perlis*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 9:16 PM
+  Last Refresh : Wednesday, October 27, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
