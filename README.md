@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
 >
-> ~ *Albert Einstein*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 28, 2021, 3:11 PM
+  Last Refresh : Thursday, October 28, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
