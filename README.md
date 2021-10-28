@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Douglas Crockford*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 28, 2021, 1:13 PM
+  Last Refresh : Thursday, October 28, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
