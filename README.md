@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Grady Booch*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 28, 2021, 2:11 PM
+  Last Refresh : Thursday, October 28, 2021, 3:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
