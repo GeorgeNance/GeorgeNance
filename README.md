@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Vannevar Bush*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 28, 2021, 2:13 AM
+  Last Refresh : Thursday, October 28, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
