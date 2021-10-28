@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 11:15 PM
+  Last Refresh : Thursday, October 28, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
