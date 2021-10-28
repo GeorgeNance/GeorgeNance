@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### One man's constant is another man's variable.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 8:13 PM
+  Last Refresh : Wednesday, October 27, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
