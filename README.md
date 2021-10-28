@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Richard Hamming*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 27, 2021, 6:54 PM
+  Last Refresh : Wednesday, October 27, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
