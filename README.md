@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+> ### Deleted code is debugged code.
 >
-> ~ *John Carmack*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 28, 2021, 11:15 PM
+  Last Refresh : Friday, October 29, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
