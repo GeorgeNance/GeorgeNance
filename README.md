@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 >
-> ~ *Danny Hillis*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 8:13 AM
+  Last Refresh : Friday, October 29, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
