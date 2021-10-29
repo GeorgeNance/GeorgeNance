@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Fred Brooks*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 12:09 PM
+  Last Refresh : Friday, October 29, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
