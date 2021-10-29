@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Douglas Crockford*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 3:14 AM
+  Last Refresh : Friday, October 29, 2021, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
