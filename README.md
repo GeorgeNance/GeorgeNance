@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 >
-> ~ *Eric S. Raymond*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 2:11 PM
+  Last Refresh : Friday, October 29, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
