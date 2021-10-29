@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Bdale Garbee*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 28, 2021, 6:54 PM
+  Last Refresh : Thursday, October 28, 2021, 7:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
