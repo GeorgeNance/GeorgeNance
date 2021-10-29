@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 28, 2021, 5:42 PM
+  Last Refresh : Thursday, October 28, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
