@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Grady Booch*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 1:13 PM
+  Last Refresh : Friday, October 29, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
