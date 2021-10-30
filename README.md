@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 6:53 PM
+  Last Refresh : Friday, October 29, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
