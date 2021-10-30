@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 4:13 PM
+  Last Refresh : Friday, October 29, 2021, 5:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
