@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Ken Thompson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 7:11 AM
+  Last Refresh : Saturday, October 30, 2021, 8:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
