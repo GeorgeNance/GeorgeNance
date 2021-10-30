@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Ted Nelson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 11:14 AM
+  Last Refresh : Saturday, October 30, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
