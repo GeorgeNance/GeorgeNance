@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 >
-> ~ *Anonymous*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 6:17 AM
+  Last Refresh : Saturday, October 30, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
