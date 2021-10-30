@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Danny Hillis*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 2:11 PM
+  Last Refresh : Saturday, October 30, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
