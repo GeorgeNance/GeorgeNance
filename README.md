@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Bill Gates*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 8:12 AM
+  Last Refresh : Saturday, October 30, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
