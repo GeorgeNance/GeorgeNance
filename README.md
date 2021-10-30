@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Bill Gates*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 12:10 PM
+  Last Refresh : Saturday, October 30, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
