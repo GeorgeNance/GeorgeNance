@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Robert C. Martin*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 3:12 PM
+  Last Refresh : Saturday, October 30, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
