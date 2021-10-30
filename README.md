@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 5:41 PM
+  Last Refresh : Friday, October 29, 2021, 6:53 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
