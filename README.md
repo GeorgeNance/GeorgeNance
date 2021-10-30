@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 10:11 PM
+  Last Refresh : Friday, October 29, 2021, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
