@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### Dealing with failure is easy: Work hard to improve.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 9:17 PM
+  Last Refresh : Friday, October 29, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
