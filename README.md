@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Ada Lovelace*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 2:12 AM
+  Last Refresh : Saturday, October 30, 2021, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
