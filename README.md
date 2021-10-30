@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Harlan Mills*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 29, 2021, 8:13 PM
+  Last Refresh : Friday, October 29, 2021, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
