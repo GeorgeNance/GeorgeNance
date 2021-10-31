@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Joshua Bloch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 2:11 PM
+  Last Refresh : Sunday, October 31, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
