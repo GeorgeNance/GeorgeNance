@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 >
-> ~ *Kyle Simpson*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 8:13 AM
+  Last Refresh : Sunday, October 31, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
