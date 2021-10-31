@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Seymour Cray*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 9:16 PM
+  Last Refresh : Saturday, October 30, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
