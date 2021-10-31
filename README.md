@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Fred Brooks*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 30, 2021, 6:58 PM
+  Last Refresh : Saturday, October 30, 2021, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
