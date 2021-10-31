@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *John Warnock*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 3:13 AM
+  Last Refresh : Sunday, October 31, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
