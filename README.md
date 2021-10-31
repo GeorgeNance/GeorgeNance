@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 3:12 PM
+  Last Refresh : Sunday, October 31, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
