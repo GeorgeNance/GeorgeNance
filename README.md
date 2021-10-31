@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Ted Nelson*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 9:18 AM
+  Last Refresh : Sunday, October 31, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
