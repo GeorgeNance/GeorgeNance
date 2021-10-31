@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### When in doubt, leave it out.
 >
-> ~ *Bill Gates*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 1:12 PM
+  Last Refresh : Sunday, October 31, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
