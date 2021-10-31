@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Rick Osborne*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 11:14 AM
+  Last Refresh : Sunday, October 31, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
