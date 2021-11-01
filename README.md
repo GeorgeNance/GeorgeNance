@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 7:33 PM
+  Last Refresh : Sunday, October 31, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
