@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One accurate measurement is worth more than a thousand expert opinions.
+> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 >
-> ~ *Grace Hopper*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 3:10 PM
+  Last Refresh : Monday, November 1, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
