@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 >
-> ~ *Bill Gates*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 5:21 AM
+  Last Refresh : Monday, November 1, 2021, 6:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
