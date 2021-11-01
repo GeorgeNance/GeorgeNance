@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Richard E. Pattis*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 1:13 PM
+  Last Refresh : Monday, November 1, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
