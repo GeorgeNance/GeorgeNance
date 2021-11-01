@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 6:58 PM
+  Last Refresh : Sunday, October 31, 2021, 7:33 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
