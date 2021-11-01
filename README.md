@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 10:11 PM
+  Last Refresh : Sunday, October 31, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
