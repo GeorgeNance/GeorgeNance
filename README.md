@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 8:15 AM
+  Last Refresh : Monday, November 1, 2021, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
