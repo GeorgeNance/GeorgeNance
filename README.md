@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Addy Osmani*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 2:11 PM
+  Last Refresh : Monday, November 1, 2021, 3:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
