@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Steve Jobs*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 10:20 AM
+  Last Refresh : Monday, November 1, 2021, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
