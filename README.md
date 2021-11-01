@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 11:15 PM
+  Last Refresh : Monday, November 1, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
