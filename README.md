@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Tom DeMarco*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 12:12 PM
+  Last Refresh : Monday, November 1, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
