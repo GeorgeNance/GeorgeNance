@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *George Boole*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 31, 2021, 5:45 PM
+  Last Refresh : Sunday, October 31, 2021, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
