@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Richard Hamming*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 3:14 AM
+  Last Refresh : Monday, November 1, 2021, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
