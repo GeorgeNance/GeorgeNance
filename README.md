@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Jaron Lanier*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 11:16 AM
+  Last Refresh : Monday, November 1, 2021, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
