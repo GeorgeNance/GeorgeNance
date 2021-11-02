@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 2, 2021, 1:13 PM
+  Last Refresh : Tuesday, November 2, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
