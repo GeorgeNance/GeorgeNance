@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Maurice Wilkes*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 10:11 PM
+  Last Refresh : Monday, November 1, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
