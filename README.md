@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 6:59 PM
+  Last Refresh : Monday, November 1, 2021, 7:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
