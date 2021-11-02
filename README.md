@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Fred Brooks*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 2, 2021, 8:18 AM
+  Last Refresh : Tuesday, November 2, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
