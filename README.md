@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Ada Lovelace*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 1, 2021, 11:15 PM
+  Last Refresh : Tuesday, November 2, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
