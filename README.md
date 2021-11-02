@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 2, 2021, 7:12 AM
+  Last Refresh : Tuesday, November 2, 2021, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
