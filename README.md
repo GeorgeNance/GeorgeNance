@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Fred Brooks*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 3:14 AM
+  Last Refresh : Wednesday, November 3, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
