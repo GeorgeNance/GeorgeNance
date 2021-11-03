@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### First do it, then do it right, then do it better.
 >
 > ~ *Addy Osmani*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 7:12 AM
+  Last Refresh : Wednesday, November 3, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
