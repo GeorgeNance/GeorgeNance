@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Bill Gates*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 2:13 AM
+  Last Refresh : Wednesday, November 3, 2021, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
