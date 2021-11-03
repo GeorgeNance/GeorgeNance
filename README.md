@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 >
-> ~ *Maurice Wilkes*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 1:13 PM
+  Last Refresh : Wednesday, November 3, 2021, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
