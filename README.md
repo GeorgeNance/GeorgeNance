@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Gary Kildall*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 4:10 AM
+  Last Refresh : Wednesday, November 3, 2021, 5:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
