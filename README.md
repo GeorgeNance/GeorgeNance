@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Addy Osmani*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 8:13 AM
+  Last Refresh : Wednesday, November 3, 2021, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
