@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Linus Torvalds*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 5:20 AM
+  Last Refresh : Wednesday, November 3, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
