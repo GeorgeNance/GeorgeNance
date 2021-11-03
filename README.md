@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Butler Lampson*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 6:19 AM
+  Last Refresh : Wednesday, November 3, 2021, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
