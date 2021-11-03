@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Doug Linder*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 2, 2021, 6:54 PM
+  Last Refresh : Tuesday, November 2, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
