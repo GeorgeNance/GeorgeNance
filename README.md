@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Douglas Crockford*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 2, 2021, 5:42 PM
+  Last Refresh : Tuesday, November 2, 2021, 6:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
