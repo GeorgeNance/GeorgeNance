@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Wayne Ratliff*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 9:16 PM
+  Last Refresh : Wednesday, November 3, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
