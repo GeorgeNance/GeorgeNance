@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Marvin Minsky*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 4, 2021, 11:15 AM
+  Last Refresh : Thursday, November 4, 2021, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
