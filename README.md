@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Douglas Crockford*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 5:43 PM
+  Last Refresh : Wednesday, November 3, 2021, 6:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
