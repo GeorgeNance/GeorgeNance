@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Fred Brooks*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 11:15 PM
+  Last Refresh : Thursday, November 4, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
