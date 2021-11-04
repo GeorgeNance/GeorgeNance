@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In theory, there is no difference between theory and practice. But, in practice, there is.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Jan L. A. van de Snepscheut*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 4, 2021, 2:11 PM
+  Last Refresh : Thursday, November 4, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
