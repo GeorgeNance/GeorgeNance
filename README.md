@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 3, 2021, 10:11 PM
+  Last Refresh : Wednesday, November 3, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
