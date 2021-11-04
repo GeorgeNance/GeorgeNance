@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### One man's constant is another man's variable.
 >
-> ~ *Steve Wozniak*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 4, 2021, 12:13 AM
+  Last Refresh : Thursday, November 4, 2021, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
