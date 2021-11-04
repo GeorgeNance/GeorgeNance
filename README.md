@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 4, 2021, 5:20 AM
+  Last Refresh : Thursday, November 4, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
