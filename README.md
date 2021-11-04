@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 >
 > ~ *Charles Simonyi*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 4, 2021, 7:12 AM
+  Last Refresh : Thursday, November 4, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
