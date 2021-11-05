@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Gary Kildall*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 4, 2021, 5:42 PM
+  Last Refresh : Thursday, November 4, 2021, 6:56 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
