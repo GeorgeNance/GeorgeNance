@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 4, 2021, 11:15 PM
+  Last Refresh : Friday, November 5, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
