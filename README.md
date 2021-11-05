@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Brian Kernighan*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 6:19 AM
+  Last Refresh : Friday, November 5, 2021, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
