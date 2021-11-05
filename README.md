@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### Less code equals less bugs.
 >
-> ~ *Douglas Crockford*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 8:13 AM
+  Last Refresh : Friday, November 5, 2021, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
