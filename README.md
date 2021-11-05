@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Butler Lampson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 7:12 AM
+  Last Refresh : Friday, November 5, 2021, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
