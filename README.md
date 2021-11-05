@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 >
-> ~ *Kevlin Henney*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 9:19 AM
+  Last Refresh : Friday, November 5, 2021, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
