@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 4, 2021, 9:17 PM
+  Last Refresh : Thursday, November 4, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
