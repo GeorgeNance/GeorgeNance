@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Albert Einstein*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 3:14 AM
+  Last Refresh : Friday, November 5, 2021, 4:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
