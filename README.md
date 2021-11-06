@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 >
-> ~ *Grady Booch*
+> ~ *Laurence J. Peter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 3:12 PM
+  Last Refresh : Saturday, November 6, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
