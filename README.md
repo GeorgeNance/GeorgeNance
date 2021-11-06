@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 2:10 PM
+  Last Refresh : Saturday, November 6, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
