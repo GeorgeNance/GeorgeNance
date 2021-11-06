@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Alan Perlis*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 12:12 AM
+  Last Refresh : Saturday, November 6, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
