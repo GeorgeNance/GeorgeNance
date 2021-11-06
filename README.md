@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 8:13 PM
+  Last Refresh : Friday, November 5, 2021, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
