@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Tom DeMarco*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 6:17 AM
+  Last Refresh : Saturday, November 6, 2021, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
