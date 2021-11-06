@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Tom Cargill*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 6:52 PM
+  Last Refresh : Friday, November 5, 2021, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
