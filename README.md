@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 1:14 AM
+  Last Refresh : Saturday, November 6, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
