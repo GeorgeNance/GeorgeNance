@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 7:26 PM
+  Last Refresh : Friday, November 5, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
