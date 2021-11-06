@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### Adding manpower to a late software project makes it later.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 5, 2021, 10:11 PM
+  Last Refresh : Friday, November 5, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
