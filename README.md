@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Butler Lampson*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 10:11 PM
+  Last Refresh : Saturday, November 6, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
