@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 >
-> ~ *Fred Brooks*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 7:34 PM
+  Last Refresh : Saturday, November 6, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
