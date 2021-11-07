@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 >
-> ~ *Laurence J. Peter*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 4:13 PM
+  Last Refresh : Saturday, November 6, 2021, 5:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
