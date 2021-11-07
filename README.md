@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### Never memorize something that you can look up.
 >
-> ~ *Butler Lampson*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 10:16 AM
+  Last Refresh : Sunday, November 7, 2021, 11:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
