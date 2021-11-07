@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Albert Einstein*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 11:14 AM
+  Last Refresh : Sunday, November 7, 2021, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
