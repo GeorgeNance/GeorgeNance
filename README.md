@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Bill Gates*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 12:12 AM
+  Last Refresh : Sunday, November 7, 2021, 1:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
