@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Michael Stal*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 12:10 PM
+  Last Refresh : Sunday, November 7, 2021, 1:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
