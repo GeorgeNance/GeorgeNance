@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 8:13 AM
+  Last Refresh : Sunday, November 7, 2021, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
