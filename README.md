@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 >
-> ~ *Albert Einstein*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 1:14 AM
+  Last Refresh : Sunday, November 7, 2021, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
