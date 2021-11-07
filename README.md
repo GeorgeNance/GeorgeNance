@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Donald Knuth*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 6, 2021, 9:16 PM
+  Last Refresh : Saturday, November 6, 2021, 10:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
