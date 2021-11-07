@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Fred Brooks*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 9:18 AM
+  Last Refresh : Sunday, November 7, 2021, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
