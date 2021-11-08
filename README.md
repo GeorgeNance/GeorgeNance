@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Ken Olsen*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 3:12 PM
+  Last Refresh : Monday, November 8, 2021, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
