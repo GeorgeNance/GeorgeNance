@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Jim Coplien*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 1:16 AM
+  Last Refresh : Monday, November 8, 2021, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
