@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Alan Turing*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 5:20 AM
+  Last Refresh : Monday, November 8, 2021, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
