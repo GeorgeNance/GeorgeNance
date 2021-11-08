@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Fred Brooks*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 7:27 PM
+  Last Refresh : Sunday, November 7, 2021, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
