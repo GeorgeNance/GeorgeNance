@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 12:10 PM
+  Last Refresh : Monday, November 8, 2021, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
