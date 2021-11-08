@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 >
-> ~ *Donald Knuth*
+> ~ *Leslie Lamport*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 11:16 PM
+  Last Refresh : Monday, November 8, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
