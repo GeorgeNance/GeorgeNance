@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 3:14 AM
+  Last Refresh : Monday, November 8, 2021, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
