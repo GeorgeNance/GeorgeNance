@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Alan Perlis*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 2:12 PM
+  Last Refresh : Monday, November 8, 2021, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
