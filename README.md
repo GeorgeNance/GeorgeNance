@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 >
-> ~ *Donald Knuth*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 8:13 AM
+  Last Refresh : Monday, November 8, 2021, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
