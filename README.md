@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
 > ~ *Tim Berners-Lee*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 7, 2021, 8:13 PM
+  Last Refresh : Sunday, November 7, 2021, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
