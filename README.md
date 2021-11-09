@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Gary Kildall*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 11:15 PM
+  Last Refresh : Tuesday, November 9, 2021, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
