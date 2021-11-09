@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 8, 2021, 10:11 PM
+  Last Refresh : Monday, November 8, 2021, 11:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
