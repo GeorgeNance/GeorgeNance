@@ -8,7 +8,7 @@ let parser = new Parser();
 
 async function getQuote() {
   const url =
-    "https://raw.githubusercontent.com/skolakoda/programming-quotes-api/master/backup/quotes.json";
+    "https://raw.githubusercontent.com/skolakoda/programming-quotes-api/master/Data/quotes.json";
   let response = await fetch(url);
   let json = await response.json();
 
