@@ -24,7 +24,7 @@
 - 📝 I am working on writing more on my [website](https://georgenance.com)
 
 
-- 💬 Ask me about **react, vue and nodejs**
+- 💬 Ask me about **PHP, Vue and NodeJS**
 
 
 - 📫 How to reach me **hello@georgenance.com**
