@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *George Boole*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 9, 2021, 2:13 AM
+  Last Refresh : Tuesday, September 13, 2022, 4:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
