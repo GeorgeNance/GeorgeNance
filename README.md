@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 14, 2022, 9:30 AM
+  Last Refresh : Wednesday, September 14, 2022, 10:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
