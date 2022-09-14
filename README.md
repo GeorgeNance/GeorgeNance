@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Linus Torvalds*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 14, 2022, 3:21 PM
+  Last Refresh : Wednesday, September 14, 2022, 4:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
