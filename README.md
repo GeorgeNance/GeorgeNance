@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Bill Gates*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 14, 2022, 4:18 AM
+  Last Refresh : Wednesday, September 14, 2022, 5:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
