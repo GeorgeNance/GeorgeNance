@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Charles Simonyi*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -24,7 +24,7 @@
 - 📝 I am working on writing more on my [website](https://georgenance.com)
 
 
-- 💬 Ask me about **react, vue and nodejs**
+- 💬 Ask me about **PHP, Vue and NodeJS**
 
 
 - 📫 How to reach me **hello@georgenance.com**
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 13, 2022, 4:47 PM
+  Last Refresh : Tuesday, September 13, 2022, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
