@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 >
-> ~ *Bill Gates*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 15, 2022, 2:19 PM
+  Last Refresh : Thursday, September 15, 2022, 3:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
