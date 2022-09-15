@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Laurence J. Peter*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 15, 2022, 2:21 AM
+  Last Refresh : Thursday, September 15, 2022, 3:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
