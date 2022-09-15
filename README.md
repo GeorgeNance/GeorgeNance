@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Richard Stallman*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 15, 2022, 1:22 PM
+  Last Refresh : Thursday, September 15, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
