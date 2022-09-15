@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 15, 2022, 10:26 AM
+  Last Refresh : Thursday, September 15, 2022, 11:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
