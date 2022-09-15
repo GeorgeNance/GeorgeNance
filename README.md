@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 15, 2022, 9:29 AM
+  Last Refresh : Thursday, September 15, 2022, 10:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
