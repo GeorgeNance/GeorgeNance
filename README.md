@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Ryan Singer*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 15, 2022, 3:23 AM
+  Last Refresh : Thursday, September 15, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
