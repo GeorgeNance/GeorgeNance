@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Bill Gates*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 14, 2022, 11:02 PM
+  Last Refresh : Thursday, September 15, 2022, 12:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
