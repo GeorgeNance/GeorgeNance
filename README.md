@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 15, 2022, 11:26 AM
+  Last Refresh : Thursday, September 15, 2022, 12:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
