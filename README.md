@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Kyle Simpson*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 14, 2022, 4:21 PM
+  Last Refresh : Wednesday, September 14, 2022, 7:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
