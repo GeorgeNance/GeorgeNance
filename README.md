@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### No code is faster than no code.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 2:17 PM
+  Last Refresh : Friday, September 16, 2022, 3:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
