@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Ivan Sutherland*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 5:39 AM
+  Last Refresh : Friday, September 16, 2022, 6:51 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
