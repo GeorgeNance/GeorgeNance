@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Roy Fielding*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 2:21 AM
+  Last Refresh : Friday, September 16, 2022, 3:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
