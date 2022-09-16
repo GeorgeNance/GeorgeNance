@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Ted Nelson*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 8:21 AM
+  Last Refresh : Friday, September 16, 2022, 9:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
