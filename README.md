@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Maurice Wilkes*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 11:26 AM
+  Last Refresh : Friday, September 16, 2022, 12:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
