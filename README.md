@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 >
 > ~ *L. Peter Deutsch*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 1:22 PM
+  Last Refresh : Friday, September 16, 2022, 2:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
