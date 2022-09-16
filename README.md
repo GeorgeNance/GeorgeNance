@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### Making things easy is hard.
 >
-> ~ *Kevlin Henney*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 3:22 PM
+  Last Refresh : Friday, September 16, 2022, 4:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
