@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 15, 2022, 9:51 PM
+  Last Refresh : Thursday, September 15, 2022, 11:06 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
