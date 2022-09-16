@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Making things easy is hard.
 >
-> ~ *Charles Simonyi*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 7:28 AM
+  Last Refresh : Friday, September 16, 2022, 8:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
