@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Brian Kernighan*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 17, 2022, 1:25 AM
+  Last Refresh : Saturday, September 17, 2022, 2:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
