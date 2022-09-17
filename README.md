@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Fred Brooks*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 7:03 PM
+  Last Refresh : Friday, September 16, 2022, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
