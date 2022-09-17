@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Ward Cunningham*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 9:17 PM
+  Last Refresh : Friday, September 16, 2022, 10:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
