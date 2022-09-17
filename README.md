@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> ~ *Gary Kildall*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 17, 2022, 12:19 AM
+  Last Refresh : Saturday, September 17, 2022, 1:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
