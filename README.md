@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Butler Lampson*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 17, 2022, 11:25 AM
+  Last Refresh : Saturday, September 17, 2022, 12:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
