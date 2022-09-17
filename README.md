@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Ted Nelson*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 17, 2022, 10:24 AM
+  Last Refresh : Saturday, September 17, 2022, 11:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
