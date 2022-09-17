@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Ted Nelson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 16, 2022, 4:21 PM
+  Last Refresh : Friday, September 16, 2022, 7:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
