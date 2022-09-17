@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *William Wulf*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 17, 2022, 8:21 AM
+  Last Refresh : Saturday, September 17, 2022, 9:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
