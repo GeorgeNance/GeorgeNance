@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Albert Einstein*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 18, 2022, 1:21 PM
+  Last Refresh : Sunday, September 18, 2022, 2:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
