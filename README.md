@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Richard P. Gabriel*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 18, 2022, 2:19 AM
+  Last Refresh : Sunday, September 18, 2022, 3:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
