@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Butler Lampson*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 17, 2022, 4:20 PM
+  Last Refresh : Saturday, September 17, 2022, 7:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
