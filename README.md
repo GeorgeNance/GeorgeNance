@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Fred Brooks*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 18, 2022, 7:17 AM
+  Last Refresh : Sunday, September 18, 2022, 8:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
