@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 18, 2022, 5:37 AM
+  Last Refresh : Sunday, September 18, 2022, 6:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
