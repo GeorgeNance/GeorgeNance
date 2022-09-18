@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Ryan Singer*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 17, 2022, 11:26 PM
+  Last Refresh : Sunday, September 18, 2022, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
