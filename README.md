@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Thomas J. Watson*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 18, 2022, 8:21 AM
+  Last Refresh : Sunday, September 18, 2022, 9:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
