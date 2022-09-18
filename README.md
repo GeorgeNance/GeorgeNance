@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 >
-> ~ *Tom DeMarco*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 18, 2022, 6:36 AM
+  Last Refresh : Sunday, September 18, 2022, 7:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
