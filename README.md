@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 17, 2022, 10:42 PM
+  Last Refresh : Saturday, September 17, 2022, 11:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
