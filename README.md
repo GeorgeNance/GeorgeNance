@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Tom DeMarco*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 19, 2022, 9:30 AM
+  Last Refresh : Monday, September 19, 2022, 10:35 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
