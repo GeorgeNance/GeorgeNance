@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Albert Einstein*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 19, 2022, 3:25 AM
+  Last Refresh : Monday, September 19, 2022, 4:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
