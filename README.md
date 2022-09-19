@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 18, 2022, 9:53 PM
+  Last Refresh : Sunday, September 18, 2022, 11:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
