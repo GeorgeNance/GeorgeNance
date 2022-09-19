@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 >
-> ~ *Ada Lovelace*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 19, 2022, 11:28 AM
+  Last Refresh : Monday, September 19, 2022, 12:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
