@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 19, 2022, 2:24 AM
+  Last Refresh : Monday, September 19, 2022, 3:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
