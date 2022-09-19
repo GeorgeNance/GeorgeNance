@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Henry Petroski*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 19, 2022, 3:20 PM
+  Last Refresh : Monday, September 19, 2022, 4:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
