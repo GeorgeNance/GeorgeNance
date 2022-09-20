@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 9:30 AM
+  Last Refresh : Tuesday, September 20, 2022, 10:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
