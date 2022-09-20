@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Douglas Crockford*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 3:24 AM
+  Last Refresh : Tuesday, September 20, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
