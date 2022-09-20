@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Pete Cordell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 1:23 PM
+  Last Refresh : Tuesday, September 20, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
