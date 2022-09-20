@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *John Ousterhout*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 10:28 AM
+  Last Refresh : Tuesday, September 20, 2022, 11:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
