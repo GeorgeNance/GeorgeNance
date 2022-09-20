@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Marvin Minsky*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 12:18 PM
+  Last Refresh : Tuesday, September 20, 2022, 1:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
