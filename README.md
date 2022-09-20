@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Jaron Lanier*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 11:26 AM
+  Last Refresh : Tuesday, September 20, 2022, 12:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
