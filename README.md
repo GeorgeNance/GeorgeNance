@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 19, 2022, 11:05 PM
+  Last Refresh : Tuesday, September 20, 2022, 12:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
