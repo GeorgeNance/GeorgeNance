@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Donald Knuth*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 7:29 AM
+  Last Refresh : Tuesday, September 20, 2022, 8:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
