@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Charles Babbage*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 1:30 AM
+  Last Refresh : Tuesday, September 20, 2022, 2:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
