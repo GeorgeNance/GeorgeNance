@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 10:33 AM
+  Last Refresh : Wednesday, September 21, 2022, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
