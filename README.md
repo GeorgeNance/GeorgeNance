@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Donald Knuth*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 2:19 PM
+  Last Refresh : Wednesday, September 21, 2022, 3:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
