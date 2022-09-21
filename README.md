@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Laurence J. Peter*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 6:54 AM
+  Last Refresh : Wednesday, September 21, 2022, 7:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
