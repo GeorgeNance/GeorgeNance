@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 12:42 AM
+  Last Refresh : Wednesday, September 21, 2022, 1:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
