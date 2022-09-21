@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Donald Knuth*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 4:24 PM
+  Last Refresh : Tuesday, September 20, 2022, 7:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
