@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Alan Kay*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 1:31 AM
+  Last Refresh : Wednesday, September 21, 2022, 2:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
