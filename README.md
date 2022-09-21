@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Peter Roizen*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 3:23 PM
+  Last Refresh : Wednesday, September 21, 2022, 4:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
