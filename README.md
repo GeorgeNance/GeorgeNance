@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 3:23 AM
+  Last Refresh : Wednesday, September 21, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
