@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 11:10 PM
+  Last Refresh : Wednesday, September 21, 2022, 12:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
