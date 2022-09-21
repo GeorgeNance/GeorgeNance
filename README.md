@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Ken Thompson*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 9:32 AM
+  Last Refresh : Wednesday, September 21, 2022, 10:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
