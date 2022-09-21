@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### Programming can be addictive.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 20, 2022, 7:24 PM
+  Last Refresh : Tuesday, September 20, 2022, 9:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
