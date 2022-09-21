@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### Never memorize something that you can look up.
 >
-> ~ *Richard Hamming*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 2:23 AM
+  Last Refresh : Wednesday, September 21, 2022, 3:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
