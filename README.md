@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Ken Thompson*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 4:23 PM
+  Last Refresh : Wednesday, September 21, 2022, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
