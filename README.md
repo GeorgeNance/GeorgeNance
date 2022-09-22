@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Elon Musk*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 22, 2022, 1:23 PM
+  Last Refresh : Thursday, September 22, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
