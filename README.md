@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Ken Thompson*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 22, 2022, 5:42 AM
+  Last Refresh : Thursday, September 22, 2022, 6:50 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
