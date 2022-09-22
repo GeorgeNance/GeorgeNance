@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 >
-> ~ *Vannevar Bush*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 22, 2022, 3:23 AM
+  Last Refresh : Thursday, September 22, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
