@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
 >
-> ~ *Leslie Lamport*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 22, 2022, 12:18 PM
+  Last Refresh : Thursday, September 22, 2022, 1:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
