@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Charles Babbage*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 22, 2022, 10:31 AM
+  Last Refresh : Thursday, September 22, 2022, 11:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
