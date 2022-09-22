@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Kevlin Henney*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 22, 2022, 6:50 AM
+  Last Refresh : Thursday, September 22, 2022, 7:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
