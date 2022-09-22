@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 >
-> ~ *John von Neumann*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 7:09 PM
+  Last Refresh : Wednesday, September 21, 2022, 9:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
