@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### When in doubt, use brute force.
 >
-> ~ *Alan Perlis*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 22, 2022, 4:18 AM
+  Last Refresh : Thursday, September 22, 2022, 5:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
