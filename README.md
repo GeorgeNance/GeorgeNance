@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 >
-> ~ *Bob Carr*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 21, 2022, 11:03 PM
+  Last Refresh : Thursday, September 22, 2022, 12:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
