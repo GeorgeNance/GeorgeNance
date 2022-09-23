@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Alan Perlis*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 23, 2022, 2:23 AM
+  Last Refresh : Friday, September 23, 2022, 3:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
