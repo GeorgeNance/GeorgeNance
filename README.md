@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Quarry worker's creed*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 23, 2022, 1:22 PM
+  Last Refresh : Friday, September 23, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
