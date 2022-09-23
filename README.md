@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 >
-> ~ *Eric S. Raymond*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 23, 2022, 2:19 PM
+  Last Refresh : Friday, September 23, 2022, 3:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
