@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Robert C. Martin*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 23, 2022, 4:18 AM
+  Last Refresh : Friday, September 23, 2022, 5:41 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
