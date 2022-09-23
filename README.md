@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Douglas Crockford*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 23, 2022, 12:36 AM
+  Last Refresh : Friday, September 23, 2022, 1:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
