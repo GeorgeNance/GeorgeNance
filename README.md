@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 >
-> ~ *Alan Perlis*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 24, 2022, 12:20 AM
+  Last Refresh : Saturday, September 24, 2022, 1:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
