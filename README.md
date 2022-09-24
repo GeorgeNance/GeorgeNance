@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 24, 2022, 6:36 AM
+  Last Refresh : Saturday, September 24, 2022, 7:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
