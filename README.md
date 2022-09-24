@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 24, 2022, 8:20 AM
+  Last Refresh : Saturday, September 24, 2022, 9:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
