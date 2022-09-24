@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### When in doubt, leave it out.
 >
-> ~ *Douglas Crockford*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 24, 2022, 2:21 AM
+  Last Refresh : Saturday, September 24, 2022, 3:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
