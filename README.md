@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *David Parnas*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 24, 2022, 10:23 AM
+  Last Refresh : Saturday, September 24, 2022, 11:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
