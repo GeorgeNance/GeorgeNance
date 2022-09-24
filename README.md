@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *John Gall (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 23, 2022, 9:41 PM
+  Last Refresh : Friday, September 23, 2022, 10:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
