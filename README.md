@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Bill Gates*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 25, 2022, 6:35 AM
+  Last Refresh : Sunday, September 25, 2022, 7:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
