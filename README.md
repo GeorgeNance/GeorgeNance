@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
 >
-> ~ *Danny Hillis*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 24, 2022, 7:15 PM
+  Last Refresh : Saturday, September 24, 2022, 9:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
