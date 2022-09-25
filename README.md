@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 >
-> ~ *Charles Babbage*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 24, 2022, 4:21 PM
+  Last Refresh : Saturday, September 24, 2022, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
