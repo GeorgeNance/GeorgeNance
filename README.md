@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### Never memorize something that you can look up.
 >
-> ~ *Gerald Weinberg*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 25, 2022, 9:28 AM
+  Last Refresh : Sunday, September 25, 2022, 10:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
