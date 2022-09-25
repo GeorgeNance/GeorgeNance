@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Linus Torvalds*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 25, 2022, 4:17 AM
+  Last Refresh : Sunday, September 25, 2022, 5:38 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
