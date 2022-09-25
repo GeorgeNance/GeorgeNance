@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Danny Hillis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 25, 2022, 3:22 AM
+  Last Refresh : Sunday, September 25, 2022, 4:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
