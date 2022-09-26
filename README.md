@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Martin Fowler*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 26, 2022, 11:28 AM
+  Last Refresh : Monday, September 26, 2022, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
