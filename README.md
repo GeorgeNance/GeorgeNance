@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 >
-> ~ *Tom DeMarco*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 26, 2022, 3:22 PM
+  Last Refresh : Monday, September 26, 2022, 4:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
