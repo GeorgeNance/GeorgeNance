@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Alan Perlis*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 26, 2022, 2:20 PM
+  Last Refresh : Monday, September 26, 2022, 3:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
