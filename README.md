@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Filipe Fortes*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 25, 2022, 7:17 PM
+  Last Refresh : Sunday, September 25, 2022, 9:56 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
