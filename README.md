@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 25, 2022, 11:11 PM
+  Last Refresh : Monday, September 26, 2022, 12:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
