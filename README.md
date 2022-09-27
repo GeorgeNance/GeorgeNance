@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 27, 2022, 3:26 AM
+  Last Refresh : Tuesday, September 27, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
