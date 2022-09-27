@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Codes are a puzzle. A game, just like any other game.
 >
 > ~ *Alan Turing*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 27, 2022, 9:35 AM
+  Last Refresh : Tuesday, September 27, 2022, 10:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
