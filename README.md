@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Elon Musk*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 27, 2022, 11:32 AM
+  Last Refresh : Tuesday, September 27, 2022, 12:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
