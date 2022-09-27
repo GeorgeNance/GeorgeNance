@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Ada Lovelace*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 27, 2022, 5:46 AM
+  Last Refresh : Tuesday, September 27, 2022, 6:56 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
