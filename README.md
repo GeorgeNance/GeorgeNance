@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Alan Turing*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 27, 2022, 10:36 AM
+  Last Refresh : Tuesday, September 27, 2022, 11:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
