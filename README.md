@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Douglas Crockford*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 27, 2022, 2:30 AM
+  Last Refresh : Tuesday, September 27, 2022, 3:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
