@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *James Gleick*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 27, 2022, 12:41 AM
+  Last Refresh : Tuesday, September 27, 2022, 1:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
