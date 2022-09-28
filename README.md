@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 28, 2022, 12:35 AM
+  Last Refresh : Wednesday, September 28, 2022, 1:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
