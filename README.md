@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 28, 2022, 5:43 AM
+  Last Refresh : Wednesday, September 28, 2022, 6:54 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
