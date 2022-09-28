@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 28, 2022, 10:39 AM
+  Last Refresh : Wednesday, September 28, 2022, 11:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
