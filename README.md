@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 10:37 AM
+  Last Refresh : Thursday, September 29, 2022, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
