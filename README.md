@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### No code is faster than no code.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 6:53 AM
+  Last Refresh : Thursday, September 29, 2022, 7:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
