@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Rob Pike*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 4:18 AM
+  Last Refresh : Thursday, September 29, 2022, 5:43 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
