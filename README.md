@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Gary Kildall*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 3:24 AM
+  Last Refresh : Thursday, September 29, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
