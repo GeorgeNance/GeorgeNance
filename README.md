@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Eric S. Raymond*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 8:25 AM
+  Last Refresh : Thursday, September 29, 2022, 9:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
