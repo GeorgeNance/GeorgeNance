@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Gary Kildall*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 11:29 AM
+  Last Refresh : Thursday, September 29, 2022, 12:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
