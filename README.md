@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Danny Hillis*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 1:30 AM
+  Last Refresh : Thursday, September 29, 2022, 2:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
