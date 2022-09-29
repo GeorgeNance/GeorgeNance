@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In theory, there is no difference between theory and practice. But, in practice, there is.
+> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 >
-> ~ *Jan L. A. van de Snepscheut*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 5:43 AM
+  Last Refresh : Thursday, September 29, 2022, 6:53 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
