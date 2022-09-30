@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Alan Perlis*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 30, 2022, 3:23 PM
+  Last Refresh : Friday, September 30, 2022, 4:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
