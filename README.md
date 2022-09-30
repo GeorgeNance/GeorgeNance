@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Jamie Zawinski*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 7:35 PM
+  Last Refresh : Thursday, September 29, 2022, 9:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
