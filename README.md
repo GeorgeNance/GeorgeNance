@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Never memorize something that you can look up.
 >
-> ~ *John Carmack*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 29, 2022, 9:58 PM
+  Last Refresh : Thursday, September 29, 2022, 11:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
