@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 >
-> ~ *Michael A. Jackson*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 30, 2022, 12:42 AM
+  Last Refresh : Friday, September 30, 2022, 1:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
