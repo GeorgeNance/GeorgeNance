@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 >
-> ~ *Fred Brooks*
+> ~ *Tony Hoare*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 30, 2022, 11:29 AM
+  Last Refresh : Friday, September 30, 2022, 12:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
