@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Lawrence Flon*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 30, 2022, 7:36 AM
+  Last Refresh : Friday, September 30, 2022, 8:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
