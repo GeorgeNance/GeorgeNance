@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 30, 2022, 2:20 PM
+  Last Refresh : Friday, September 30, 2022, 3:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
