@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Harlan Mills*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 30, 2022, 1:34 AM
+  Last Refresh : Friday, September 30, 2022, 2:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
