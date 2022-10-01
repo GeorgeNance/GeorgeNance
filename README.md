@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Rob Pike*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 30, 2022, 7:28 PM
+  Last Refresh : Friday, September 30, 2022, 9:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
