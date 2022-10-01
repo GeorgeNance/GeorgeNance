@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Grady Booch*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 1, 2022, 1:28 AM
+  Last Refresh : Saturday, October 1, 2022, 2:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
