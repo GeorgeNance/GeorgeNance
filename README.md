@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *Albert Einstein*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 1, 2022, 4:18 AM
+  Last Refresh : Saturday, October 1, 2022, 5:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
