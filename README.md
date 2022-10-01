@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 >
-> ~ *Tim Berners-Lee*
+> ~ *René Descartes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 1, 2022, 9:30 AM
+  Last Refresh : Saturday, October 1, 2022, 10:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
