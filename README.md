@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
 > ~ *Dennis Ritchie*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 1, 2022, 2:24 AM
+  Last Refresh : Saturday, October 1, 2022, 3:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
