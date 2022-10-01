@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Elon Musk*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 30, 2022, 4:26 PM
+  Last Refresh : Friday, September 30, 2022, 7:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
