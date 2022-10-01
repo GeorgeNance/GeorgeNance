@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *Danny Hillis*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 1, 2022, 1:22 PM
+  Last Refresh : Saturday, October 1, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
