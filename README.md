@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 >
-> ~ *Maurice Wilkes*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 1, 2022, 2:19 PM
+  Last Refresh : Saturday, October 1, 2022, 3:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
