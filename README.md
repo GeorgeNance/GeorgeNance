@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
 >
-> ~ *Martin Fowler*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 2, 2022, 12:23 AM
+  Last Refresh : Sunday, October 2, 2022, 1:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
