@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Charles Babbage*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 2, 2022, 1:27 AM
+  Last Refresh : Sunday, October 2, 2022, 2:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
