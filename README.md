@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 >
-> ~ *Vint Cerf*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 1, 2022, 10:47 PM
+  Last Refresh : Saturday, October 1, 2022, 11:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
