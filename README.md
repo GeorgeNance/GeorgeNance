@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *René Descartes*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 2, 2022, 10:26 AM
+  Last Refresh : Sunday, October 2, 2022, 11:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
