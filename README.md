@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 2, 2022, 3:21 PM
+  Last Refresh : Sunday, October 2, 2022, 4:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
