@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Fred Brooks*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 2, 2022, 7:20 AM
+  Last Refresh : Sunday, October 2, 2022, 8:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
