@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 2, 2022, 4:18 AM
+  Last Refresh : Sunday, October 2, 2022, 5:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
