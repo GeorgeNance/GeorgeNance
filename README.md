@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 3, 2022, 1:30 AM
+  Last Refresh : Monday, October 3, 2022, 2:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
