@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Michael A. Jackson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 3, 2022, 4:19 AM
+  Last Refresh : Monday, October 3, 2022, 5:47 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
