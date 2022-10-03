@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Bill Gates*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 3, 2022, 10:40 AM
+  Last Refresh : Monday, October 3, 2022, 11:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
