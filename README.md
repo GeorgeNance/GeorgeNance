@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Richard E. Pattis*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 3, 2022, 8:27 AM
+  Last Refresh : Monday, October 3, 2022, 9:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
