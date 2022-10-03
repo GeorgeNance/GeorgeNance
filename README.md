@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Richard Stallman*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 3, 2022, 7:38 AM
+  Last Refresh : Monday, October 3, 2022, 8:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
