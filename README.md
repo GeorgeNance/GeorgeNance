@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Lawrence Flon*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 3, 2022, 11:31 AM
+  Last Refresh : Monday, October 3, 2022, 12:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
