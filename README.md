@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 >
-> ~ *Alan Perlis*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 4, 2022, 9:35 AM
+  Last Refresh : Tuesday, October 4, 2022, 10:39 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
