@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### One man's constant is another man's variable.
 >
-> ~ *Anonymous*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 4, 2022, 8:26 AM
+  Last Refresh : Tuesday, October 4, 2022, 9:35 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
