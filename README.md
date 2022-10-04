@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 >
-> ~ *Terry Winograd*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 4, 2022, 10:39 AM
+  Last Refresh : Tuesday, October 4, 2022, 11:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
