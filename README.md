@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 >
 > ~ *Richard Stallman*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 3, 2022, 10:43 PM
+  Last Refresh : Monday, October 3, 2022, 11:34 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
