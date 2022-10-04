@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Ken Thompson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 4, 2022, 1:30 AM
+  Last Refresh : Tuesday, October 4, 2022, 2:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
