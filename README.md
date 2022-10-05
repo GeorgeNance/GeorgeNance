@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 >
-> ~ *Poul Anderson*
+> ~ *James Gleick*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 4, 2022, 4:26 PM
+  Last Refresh : Tuesday, October 4, 2022, 7:02 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
