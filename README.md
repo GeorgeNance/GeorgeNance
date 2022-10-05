@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Chris Sacca*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 4, 2022, 9:00 PM
+  Last Refresh : Tuesday, October 4, 2022, 10:50 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
