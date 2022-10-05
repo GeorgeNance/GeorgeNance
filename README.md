@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
 > ~ *Richard Hamming*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 5, 2022, 1:24 PM
+  Last Refresh : Wednesday, October 5, 2022, 2:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
