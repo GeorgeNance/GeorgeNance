@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 >
-> ~ *James Gleick*
+> ~ *Chris Sacca*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 4, 2022, 7:02 PM
+  Last Refresh : Tuesday, October 4, 2022, 9:00 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
