@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Joshua Bloch*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 5, 2022, 3:24 PM
+  Last Refresh : Wednesday, October 5, 2022, 4:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
