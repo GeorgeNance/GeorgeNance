@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Grady Booch*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 5, 2022, 7:17 AM
+  Last Refresh : Wednesday, October 5, 2022, 8:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
