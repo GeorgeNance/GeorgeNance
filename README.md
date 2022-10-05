@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Ted Nelson*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 5, 2022, 12:29 PM
+  Last Refresh : Wednesday, October 5, 2022, 1:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
