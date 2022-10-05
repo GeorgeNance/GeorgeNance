@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Gordon Bell*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 5, 2022, 5:48 AM
+  Last Refresh : Wednesday, October 5, 2022, 7:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
