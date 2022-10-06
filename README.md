@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Ken Thompson*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 6, 2022, 1:24 PM
+  Last Refresh : Thursday, October 6, 2022, 2:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
