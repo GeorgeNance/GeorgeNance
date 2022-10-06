@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Danny Hillis*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 6, 2022, 11:30 AM
+  Last Refresh : Thursday, October 6, 2022, 12:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
