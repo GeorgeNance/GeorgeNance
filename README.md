@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Friedrich Bauer*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 5, 2022, 11:32 PM
+  Last Refresh : Thursday, October 6, 2022, 12:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
