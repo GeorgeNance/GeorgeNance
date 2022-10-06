@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 >
-> ~ *Michael Stal*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 6, 2022, 5:48 AM
+  Last Refresh : Thursday, October 6, 2022, 6:56 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
