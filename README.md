@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Elon Musk*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 5, 2022, 4:26 PM
+  Last Refresh : Wednesday, October 5, 2022, 6:55 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
