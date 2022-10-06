@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Fred Brooks*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 6, 2022, 3:22 PM
+  Last Refresh : Thursday, October 6, 2022, 4:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
