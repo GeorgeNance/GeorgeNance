@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Toru Iwatani*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 6, 2022, 2:20 PM
+  Last Refresh : Thursday, October 6, 2022, 3:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
