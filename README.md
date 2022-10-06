@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Mario Fusco*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 6, 2022, 1:29 AM
+  Last Refresh : Thursday, October 6, 2022, 2:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
