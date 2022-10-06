@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 5, 2022, 10:37 PM
+  Last Refresh : Wednesday, October 5, 2022, 11:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
