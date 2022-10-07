@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *John von Neumann*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 7, 2022, 10:38 AM
+  Last Refresh : Friday, October 7, 2022, 11:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
