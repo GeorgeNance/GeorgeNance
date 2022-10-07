@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 >
-> ~ *Douglas Crockford*
+> ~ *Chris Sacca*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 7, 2022, 8:25 AM
+  Last Refresh : Friday, October 7, 2022, 9:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
