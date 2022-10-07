@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 6, 2022, 11:35 PM
+  Last Refresh : Friday, October 7, 2022, 12:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
