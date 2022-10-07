@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 7, 2022, 3:23 PM
+  Last Refresh : Friday, October 7, 2022, 4:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
