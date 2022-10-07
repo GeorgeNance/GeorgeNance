@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Hal Abelson*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 6, 2022, 10:36 PM
+  Last Refresh : Thursday, October 6, 2022, 11:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
