@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 8, 2022, 11:26 AM
+  Last Refresh : Saturday, October 8, 2022, 12:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
