@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 >
-> ~ *Alan Perlis*
+> ~ *Chris Sacca*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 7, 2022, 4:26 PM
+  Last Refresh : Friday, October 7, 2022, 6:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
