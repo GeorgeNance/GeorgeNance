@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Maurice Wilkes*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 8, 2022, 3:23 AM
+  Last Refresh : Saturday, October 8, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
