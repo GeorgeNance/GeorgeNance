@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Butler Lampson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 8, 2022, 8:22 AM
+  Last Refresh : Saturday, October 8, 2022, 9:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
