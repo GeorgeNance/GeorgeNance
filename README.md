@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Chris Sacca*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 7, 2022, 6:51 PM
+  Last Refresh : Friday, October 7, 2022, 8:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
