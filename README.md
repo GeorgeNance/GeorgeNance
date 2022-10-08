@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Laurence J. Peter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 8, 2022, 12:18 PM
+  Last Refresh : Saturday, October 8, 2022, 1:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
