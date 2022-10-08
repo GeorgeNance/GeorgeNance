@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Daniel T. Barry*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 8, 2022, 9:29 AM
+  Last Refresh : Saturday, October 8, 2022, 10:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
