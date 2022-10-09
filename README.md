@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Butler Lampson*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 12:22 AM
+  Last Refresh : Sunday, October 9, 2022, 1:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
