@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Linus Torvalds*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 11:26 AM
+  Last Refresh : Sunday, October 9, 2022, 12:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
