@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Fred Brooks*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 9:30 AM
+  Last Refresh : Sunday, October 9, 2022, 10:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
