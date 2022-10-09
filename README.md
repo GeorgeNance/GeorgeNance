@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Steve Jobs*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 8, 2022, 4:24 PM
+  Last Refresh : Saturday, October 8, 2022, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
