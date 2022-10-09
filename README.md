@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Tom DeMarco*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 6:40 AM
+  Last Refresh : Sunday, October 9, 2022, 7:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
