@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 >
-> ~ *Anonymous*
+> ~ *Rick Osborne*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 2:19 PM
+  Last Refresh : Sunday, October 9, 2022, 3:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
