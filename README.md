@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 >
-> ~ *Rick Osborne*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 3:21 PM
+  Last Refresh : Sunday, October 9, 2022, 4:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
