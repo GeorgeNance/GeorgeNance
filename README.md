@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Mark Gibbs*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 8, 2022, 11:29 PM
+  Last Refresh : Sunday, October 9, 2022, 12:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
