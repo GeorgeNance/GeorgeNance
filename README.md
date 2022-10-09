@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Daniel T. Barry*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 5:39 AM
+  Last Refresh : Sunday, October 9, 2022, 6:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
