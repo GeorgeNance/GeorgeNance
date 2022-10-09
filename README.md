@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 10:27 AM
+  Last Refresh : Sunday, October 9, 2022, 11:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
