@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Richard Hamming*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 1:23 PM
+  Last Refresh : Sunday, October 9, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
