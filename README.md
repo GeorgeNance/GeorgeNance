@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Ted Nelson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 8:24 AM
+  Last Refresh : Sunday, October 9, 2022, 9:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
