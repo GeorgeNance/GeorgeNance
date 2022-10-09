@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 >
-> ~ *Bill Gates*
+> ~ *Andy Hunt (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 9, 2022, 3:24 AM
+  Last Refresh : Sunday, October 9, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
