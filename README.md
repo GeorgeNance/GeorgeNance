@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 10, 2022, 2:20 PM
+  Last Refresh : Monday, October 10, 2022, 3:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
