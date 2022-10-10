@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 >
-> ~ *Fred Brooks*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 10, 2022, 3:24 PM
+  Last Refresh : Monday, October 10, 2022, 4:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
