@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Ken Thompson*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 10, 2022, 9:34 AM
+  Last Refresh : Monday, October 10, 2022, 10:38 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
