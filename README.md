@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Terry Winograd*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 10, 2022, 12:39 AM
+  Last Refresh : Monday, October 10, 2022, 1:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
