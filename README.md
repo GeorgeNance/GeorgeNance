@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Martin Fowler*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 10, 2022, 7:01 AM
+  Last Refresh : Monday, October 10, 2022, 8:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
