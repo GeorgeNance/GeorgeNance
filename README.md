@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 10, 2022, 8:27 AM
+  Last Refresh : Monday, October 10, 2022, 9:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
