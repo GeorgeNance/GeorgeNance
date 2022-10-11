@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 >
-> ~ *John Carmack*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 10, 2022, 4:27 PM
+  Last Refresh : Monday, October 10, 2022, 7:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
