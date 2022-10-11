@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### Making things easy is hard.
 >
-> ~ *Douglas Crockford*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 11, 2022, 5:49 AM
+  Last Refresh : Tuesday, October 11, 2022, 6:57 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
