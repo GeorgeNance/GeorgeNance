@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Rob Pike*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 11, 2022, 2:27 AM
+  Last Refresh : Tuesday, October 11, 2022, 3:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
