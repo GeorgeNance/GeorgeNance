@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Albert Einstein*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 11, 2022, 9:34 AM
+  Last Refresh : Tuesday, October 11, 2022, 10:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
