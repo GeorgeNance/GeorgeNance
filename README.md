@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Anonymous*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 11, 2022, 1:32 AM
+  Last Refresh : Tuesday, October 11, 2022, 2:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
