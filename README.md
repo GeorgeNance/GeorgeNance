@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 >
-> ~ *Chris Wenham*
+> ~ *Mark Gibbs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 11, 2022, 10:31 AM
+  Last Refresh : Tuesday, October 11, 2022, 11:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
