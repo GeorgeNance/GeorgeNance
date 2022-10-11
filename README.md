@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### One man's constant is another man's variable.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 11, 2022, 7:34 AM
+  Last Refresh : Tuesday, October 11, 2022, 8:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
