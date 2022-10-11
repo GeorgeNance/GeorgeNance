@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Alan Perlis*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 11, 2022, 8:26 AM
+  Last Refresh : Tuesday, October 11, 2022, 9:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
