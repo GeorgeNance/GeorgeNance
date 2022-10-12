@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Steve Jobs*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 3:26 AM
+  Last Refresh : Wednesday, October 12, 2022, 4:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
