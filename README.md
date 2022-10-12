@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 12:29 AM
+  Last Refresh : Wednesday, October 12, 2022, 1:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
