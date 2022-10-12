@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Bob Carr*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 1:26 PM
+  Last Refresh : Wednesday, October 12, 2022, 2:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
