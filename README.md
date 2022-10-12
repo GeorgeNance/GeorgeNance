@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Gary Kildall*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 1:28 AM
+  Last Refresh : Wednesday, October 12, 2022, 2:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
