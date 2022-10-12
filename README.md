@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *George Boole*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 6:56 AM
+  Last Refresh : Wednesday, October 12, 2022, 7:39 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
