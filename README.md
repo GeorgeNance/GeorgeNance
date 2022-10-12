@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 11, 2022, 4:28 PM
+  Last Refresh : Tuesday, October 11, 2022, 7:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
