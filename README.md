@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Stewart Brand*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 8:29 AM
+  Last Refresh : Wednesday, October 12, 2022, 9:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
