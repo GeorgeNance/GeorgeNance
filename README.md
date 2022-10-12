@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 >
-> ~ *Rich Skrenta*
+> ~ *Stewart Brand*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 7:39 AM
+  Last Refresh : Wednesday, October 12, 2022, 8:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
