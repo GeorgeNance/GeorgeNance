@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *John von Neumann*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 12:24 PM
+  Last Refresh : Wednesday, October 12, 2022, 1:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
