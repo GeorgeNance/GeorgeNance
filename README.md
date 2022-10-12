@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Rob Pike*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 2:21 PM
+  Last Refresh : Wednesday, October 12, 2022, 3:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
