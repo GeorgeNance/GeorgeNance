@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Douglas Crockford*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 13, 2022, 2:22 PM
+  Last Refresh : Thursday, October 13, 2022, 3:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
