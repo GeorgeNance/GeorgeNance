@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Ted Nelson*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 12, 2022, 9:47 PM
+  Last Refresh : Wednesday, October 12, 2022, 11:00 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
