@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Michael A. Jackson*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 13, 2022, 7:31 AM
+  Last Refresh : Thursday, October 13, 2022, 8:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
