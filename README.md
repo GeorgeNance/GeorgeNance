@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Ken Thompson*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 13, 2022, 8:25 AM
+  Last Refresh : Thursday, October 13, 2022, 9:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
