@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 >
-> ~ *Alan Perlis*
+> ~ *Roy Fielding*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 13, 2022, 5:50 AM
+  Last Refresh : Thursday, October 13, 2022, 6:57 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
