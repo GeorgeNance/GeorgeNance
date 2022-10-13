@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 13, 2022, 1:30 AM
+  Last Refresh : Thursday, October 13, 2022, 2:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
