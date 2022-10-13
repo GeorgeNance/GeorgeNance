@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Roy Fielding*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 13, 2022, 6:57 AM
+  Last Refresh : Thursday, October 13, 2022, 7:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
