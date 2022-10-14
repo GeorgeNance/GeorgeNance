@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Martin Fowler*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 10:32 AM
+  Last Refresh : Friday, October 14, 2022, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
