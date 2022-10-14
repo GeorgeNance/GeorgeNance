@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 2:21 PM
+  Last Refresh : Friday, October 14, 2022, 3:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
