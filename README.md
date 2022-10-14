@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 4:19 AM
+  Last Refresh : Friday, October 14, 2022, 5:47 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
