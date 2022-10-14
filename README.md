@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Jaron Lanier*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 8:26 AM
+  Last Refresh : Friday, October 14, 2022, 9:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
