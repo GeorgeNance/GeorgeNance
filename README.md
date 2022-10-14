@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Filipe Fortes*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 5:47 AM
+  Last Refresh : Friday, October 14, 2022, 7:00 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
