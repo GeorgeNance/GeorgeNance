@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Linus Torvalds*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 1:30 AM
+  Last Refresh : Friday, October 14, 2022, 2:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
