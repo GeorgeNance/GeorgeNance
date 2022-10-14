@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 13, 2022, 7:26 PM
+  Last Refresh : Thursday, October 13, 2022, 9:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
