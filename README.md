@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Fred Brooks*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 7:00 AM
+  Last Refresh : Friday, October 14, 2022, 8:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
