@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Douglas Crockford*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 9:33 AM
+  Last Refresh : Friday, October 14, 2022, 10:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
