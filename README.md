@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 15, 2022, 12:18 PM
+  Last Refresh : Saturday, October 15, 2022, 1:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
