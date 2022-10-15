@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 15, 2022, 11:26 AM
+  Last Refresh : Saturday, October 15, 2022, 12:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
