@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Richard Hamming*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 15, 2022, 3:21 PM
+  Last Refresh : Saturday, October 15, 2022, 4:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
