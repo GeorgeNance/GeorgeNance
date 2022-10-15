@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jeremy S. Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 4:25 PM
+  Last Refresh : Friday, October 14, 2022, 7:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
