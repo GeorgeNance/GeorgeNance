@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 7:20 PM
+  Last Refresh : Friday, October 14, 2022, 9:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
