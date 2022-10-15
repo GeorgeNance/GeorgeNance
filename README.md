@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Douglas Crockford*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 15, 2022, 4:18 AM
+  Last Refresh : Saturday, October 15, 2022, 5:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
