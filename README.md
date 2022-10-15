@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Addy Osmani*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 15, 2022, 9:30 AM
+  Last Refresh : Saturday, October 15, 2022, 10:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
