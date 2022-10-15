@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Alan Perlis*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 14, 2022, 9:41 PM
+  Last Refresh : Friday, October 14, 2022, 10:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
