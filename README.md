@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Danny Hillis*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 16, 2022, 1:24 PM
+  Last Refresh : Sunday, October 16, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
