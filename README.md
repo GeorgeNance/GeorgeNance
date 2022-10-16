@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Jamie Zawinski*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 16, 2022, 1:28 AM
+  Last Refresh : Sunday, October 16, 2022, 2:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
