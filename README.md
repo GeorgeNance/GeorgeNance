@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 >
-> ~ *Rob Pike*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 16, 2022, 9:31 AM
+  Last Refresh : Sunday, October 16, 2022, 10:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
