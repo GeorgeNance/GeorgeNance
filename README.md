@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Douglas Crockford*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 16, 2022, 3:23 AM
+  Last Refresh : Sunday, October 16, 2022, 4:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
