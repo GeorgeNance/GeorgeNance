@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### Cool URIs don't change.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 15, 2022, 4:25 PM
+  Last Refresh : Saturday, October 15, 2022, 7:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
