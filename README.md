@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 16, 2022, 4:18 AM
+  Last Refresh : Sunday, October 16, 2022, 5:41 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
