@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Elon Musk*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 16, 2022, 11:26 AM
+  Last Refresh : Sunday, October 16, 2022, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
