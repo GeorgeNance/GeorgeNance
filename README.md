@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 >
-> ~ *Albert Einstein*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 16, 2022, 10:01 PM
+  Last Refresh : Sunday, October 16, 2022, 11:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
