@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Albert Einstein*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 17, 2022, 4:21 AM
+  Last Refresh : Monday, October 17, 2022, 5:51 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
