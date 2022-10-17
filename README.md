@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 17, 2022, 9:40 AM
+  Last Refresh : Monday, October 17, 2022, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
