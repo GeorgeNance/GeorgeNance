@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Donald Knuth*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 17, 2022, 12:31 PM
+  Last Refresh : Monday, October 17, 2022, 1:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
