@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Harlan Mills*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 17, 2022, 10:42 AM
+  Last Refresh : Monday, October 17, 2022, 11:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
