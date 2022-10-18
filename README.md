@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 2:31 AM
+  Last Refresh : Tuesday, October 18, 2022, 3:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
