@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Bob Carr*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 1:25 PM
+  Last Refresh : Tuesday, October 18, 2022, 2:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
