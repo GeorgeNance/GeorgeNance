@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Gerald Weinberg*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 11:36 AM
+  Last Refresh : Tuesday, October 18, 2022, 12:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
