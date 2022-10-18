@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
-> ~ *Dennis Ritchie*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 10:39 AM
+  Last Refresh : Tuesday, October 18, 2022, 11:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
