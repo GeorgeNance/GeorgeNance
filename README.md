@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 >
-> ~ *John Romero*
+> ~ *David Gelernter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 7:38 AM
+  Last Refresh : Tuesday, October 18, 2022, 8:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
