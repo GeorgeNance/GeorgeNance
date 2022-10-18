@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Alan Perlis*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 12:26 PM
+  Last Refresh : Tuesday, October 18, 2022, 1:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
