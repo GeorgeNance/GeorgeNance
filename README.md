@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Albert Einstein*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 17, 2022, 7:19 PM
+  Last Refresh : Monday, October 17, 2022, 9:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
