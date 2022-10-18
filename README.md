@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Charles Simonyi*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 1:36 AM
+  Last Refresh : Tuesday, October 18, 2022, 2:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
