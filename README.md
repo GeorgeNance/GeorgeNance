@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 19, 2022, 4:21 AM
+  Last Refresh : Wednesday, October 19, 2022, 5:51 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
