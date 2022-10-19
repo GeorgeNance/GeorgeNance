@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Ron Jeffries*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 19, 2022, 3:31 AM
+  Last Refresh : Wednesday, October 19, 2022, 4:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
