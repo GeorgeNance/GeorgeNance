@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 11:15 PM
+  Last Refresh : Wednesday, October 19, 2022, 12:44 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
