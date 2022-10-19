@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 7:11 PM
+  Last Refresh : Tuesday, October 18, 2022, 9:53 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
