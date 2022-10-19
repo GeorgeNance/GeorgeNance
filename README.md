@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 19, 2022, 2:32 AM
+  Last Refresh : Wednesday, October 19, 2022, 3:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
