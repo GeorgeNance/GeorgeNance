@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 19, 2022, 9:38 AM
+  Last Refresh : Wednesday, October 19, 2022, 10:44 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
