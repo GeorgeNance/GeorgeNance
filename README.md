@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Terry Winograd*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 18, 2022, 4:28 PM
+  Last Refresh : Tuesday, October 18, 2022, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
