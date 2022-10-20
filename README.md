@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Tom Cargill*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 12:27 PM
+  Last Refresh : Thursday, October 20, 2022, 1:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
