@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Ted Nelson*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 9:36 AM
+  Last Refresh : Thursday, October 20, 2022, 10:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
