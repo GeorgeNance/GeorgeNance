@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 19, 2022, 9:21 PM
+  Last Refresh : Wednesday, October 19, 2022, 10:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
