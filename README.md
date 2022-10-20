@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 12:31 AM
+  Last Refresh : Thursday, October 20, 2022, 1:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
