@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 >
-> ~ *Fred Brooks*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 1:25 PM
+  Last Refresh : Thursday, October 20, 2022, 2:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
