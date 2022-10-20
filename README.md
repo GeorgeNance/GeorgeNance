@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 >
 > ~ *Donald Knuth*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 7:00 AM
+  Last Refresh : Thursday, October 20, 2022, 7:39 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
