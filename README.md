@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Martin Fowler*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 2:28 AM
+  Last Refresh : Thursday, October 20, 2022, 3:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
