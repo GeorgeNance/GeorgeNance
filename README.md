@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Ray Ozzie*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 10:42 AM
+  Last Refresh : Thursday, October 20, 2022, 11:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
