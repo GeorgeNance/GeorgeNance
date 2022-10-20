@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *George Boole*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 19, 2022, 11:36 PM
+  Last Refresh : Thursday, October 20, 2022, 12:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
