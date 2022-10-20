@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 1:30 AM
+  Last Refresh : Thursday, October 20, 2022, 2:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
