@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### Making things easy is hard.
 >
-> ~ *Ward Cunningham*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 8:27 AM
+  Last Refresh : Thursday, October 20, 2022, 9:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
