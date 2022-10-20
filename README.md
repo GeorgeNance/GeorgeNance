@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Wayne Ratliff*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 2:22 PM
+  Last Refresh : Thursday, October 20, 2022, 3:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
