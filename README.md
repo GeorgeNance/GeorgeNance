@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Kyle Simpson*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 11:39 PM
+  Last Refresh : Friday, October 21, 2022, 12:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
