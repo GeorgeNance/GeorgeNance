@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Anonymous*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 21, 2022, 8:31 AM
+  Last Refresh : Friday, October 21, 2022, 9:35 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
