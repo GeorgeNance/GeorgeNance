@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Alan Perlis*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 21, 2022, 6:58 AM
+  Last Refresh : Friday, October 21, 2022, 7:40 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
