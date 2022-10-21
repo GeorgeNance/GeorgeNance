@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Martin Fowler*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 21, 2022, 1:25 PM
+  Last Refresh : Friday, October 21, 2022, 2:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
