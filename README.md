@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 >
-> ~ *Charles Babbage*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 21, 2022, 2:27 AM
+  Last Refresh : Friday, October 21, 2022, 3:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
