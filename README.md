@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
 >
-> ~ *Anonymous*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 21, 2022, 12:30 AM
+  Last Refresh : Friday, October 21, 2022, 1:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
