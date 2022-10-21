@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 8:52 PM
+  Last Refresh : Thursday, October 20, 2022, 10:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
