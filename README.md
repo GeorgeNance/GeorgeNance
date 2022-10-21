@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Edward V. Berard*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 20, 2022, 10:10 PM
+  Last Refresh : Thursday, October 20, 2022, 11:39 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
