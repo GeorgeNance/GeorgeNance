@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Donald Knuth*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 21, 2022, 7:40 AM
+  Last Refresh : Friday, October 21, 2022, 8:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
