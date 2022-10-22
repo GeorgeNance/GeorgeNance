@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 1:24 PM
+  Last Refresh : Saturday, October 22, 2022, 2:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
