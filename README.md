@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 >
-> ~ *Alan Perlis*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 12:19 PM
+  Last Refresh : Saturday, October 22, 2022, 1:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
