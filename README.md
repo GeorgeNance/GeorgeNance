@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 >
-> ~ *Donald Knuth*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 10:29 AM
+  Last Refresh : Saturday, October 22, 2022, 11:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
