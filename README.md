@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 >
-> ~ *Rob Pike*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 21, 2022, 11:31 PM
+  Last Refresh : Saturday, October 22, 2022, 12:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
