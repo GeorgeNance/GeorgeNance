@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 12:24 AM
+  Last Refresh : Saturday, October 22, 2022, 1:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
