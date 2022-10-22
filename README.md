@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Tom DeMarco*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 2:20 PM
+  Last Refresh : Saturday, October 22, 2022, 3:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
