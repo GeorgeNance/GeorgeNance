@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### Simplicity does not precede complexity, but follows it.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 11:27 AM
+  Last Refresh : Saturday, October 22, 2022, 12:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
