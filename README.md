@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 1:30 AM
+  Last Refresh : Saturday, October 22, 2022, 2:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
