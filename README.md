@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Anonymous*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 2:24 AM
+  Last Refresh : Saturday, October 22, 2022, 3:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
