@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Steve Jobs*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 7:21 AM
+  Last Refresh : Saturday, October 22, 2022, 8:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
