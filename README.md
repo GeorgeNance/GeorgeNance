@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Marvin Minsky*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 21, 2022, 10:41 PM
+  Last Refresh : Friday, October 21, 2022, 11:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
