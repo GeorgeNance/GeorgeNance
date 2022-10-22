@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 3:21 PM
+  Last Refresh : Saturday, October 22, 2022, 4:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
