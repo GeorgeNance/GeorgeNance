@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 >
-> ~ *Bill Gates*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 6:41 AM
+  Last Refresh : Saturday, October 22, 2022, 7:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
