@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Douglas Crockford*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 22, 2022, 10:45 PM
+  Last Refresh : Saturday, October 22, 2022, 11:33 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
