@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 23, 2022, 2:20 PM
+  Last Refresh : Sunday, October 23, 2022, 3:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
