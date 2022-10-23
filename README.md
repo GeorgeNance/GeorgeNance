@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *David Gelernter*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 23, 2022, 9:31 AM
+  Last Refresh : Sunday, October 23, 2022, 10:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
