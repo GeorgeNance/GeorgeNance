@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 >
-> ~ *Bob Frankston*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 23, 2022, 1:24 PM
+  Last Refresh : Sunday, October 23, 2022, 2:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
