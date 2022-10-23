@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 23, 2022, 12:19 PM
+  Last Refresh : Sunday, October 23, 2022, 1:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
