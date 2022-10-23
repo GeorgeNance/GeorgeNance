@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 >
-> ~ *Alan Perlis*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 23, 2022, 12:25 AM
+  Last Refresh : Sunday, October 23, 2022, 1:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
