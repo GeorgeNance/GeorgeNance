@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Fred Brooks*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 24, 2022, 11:37 AM
+  Last Refresh : Monday, October 24, 2022, 12:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
