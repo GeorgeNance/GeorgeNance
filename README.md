@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Bill Gates*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 23, 2022, 7:28 PM
+  Last Refresh : Sunday, October 23, 2022, 10:00 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
