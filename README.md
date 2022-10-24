@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Buckminster Fuller*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 24, 2022, 8:27 AM
+  Last Refresh : Monday, October 24, 2022, 9:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
