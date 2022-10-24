@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Elon Musk*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 23, 2022, 10:00 PM
+  Last Refresh : Sunday, October 23, 2022, 11:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
