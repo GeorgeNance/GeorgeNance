@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Brian Kernighan*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 25, 2022, 7:02 AM
+  Last Refresh : Tuesday, October 25, 2022, 8:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
