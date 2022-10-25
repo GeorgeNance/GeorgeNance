@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Donald Knuth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 24, 2022, 7:22 PM
+  Last Refresh : Monday, October 24, 2022, 9:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
