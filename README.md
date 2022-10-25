@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 >
-> ~ *Danny Hillis*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 25, 2022, 9:41 AM
+  Last Refresh : Tuesday, October 25, 2022, 10:55 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
