@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 25, 2022, 12:40 PM
+  Last Refresh : Tuesday, October 25, 2022, 1:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
