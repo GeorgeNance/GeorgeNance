@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Ken Thompson*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 25, 2022, 12:43 AM
+  Last Refresh : Tuesday, October 25, 2022, 1:37 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
