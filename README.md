@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Poul Anderson*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 24, 2022, 11:17 PM
+  Last Refresh : Tuesday, October 25, 2022, 12:43 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
