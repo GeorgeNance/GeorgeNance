@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Daniel T. Barry*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 12:16 PM
+  Last Refresh : Wednesday, October 26, 2022, 1:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
