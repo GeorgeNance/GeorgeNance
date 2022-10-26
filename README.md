@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Elon Musk*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 4:17 AM
+  Last Refresh : Wednesday, October 26, 2022, 5:48 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
