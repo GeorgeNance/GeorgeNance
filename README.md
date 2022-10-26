@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Charles Simonyi*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 25, 2022, 8:55 PM
+  Last Refresh : Tuesday, October 25, 2022, 9:55 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
