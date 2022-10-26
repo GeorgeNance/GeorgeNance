@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Donald Knuth*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 2:20 AM
+  Last Refresh : Wednesday, October 26, 2022, 3:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
