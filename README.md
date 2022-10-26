@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Chris Wenham*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 1:22 PM
+  Last Refresh : Wednesday, October 26, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
