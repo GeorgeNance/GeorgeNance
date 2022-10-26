@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Elon Musk*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 9:29 AM
+  Last Refresh : Wednesday, October 26, 2022, 10:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
