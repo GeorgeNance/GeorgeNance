@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *George Boole*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 25, 2022, 4:23 PM
+  Last Refresh : Tuesday, October 25, 2022, 6:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
