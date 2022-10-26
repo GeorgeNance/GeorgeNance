@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 25, 2022, 6:58 PM
+  Last Refresh : Tuesday, October 25, 2022, 8:55 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
