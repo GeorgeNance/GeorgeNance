@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 25, 2022, 9:55 PM
+  Last Refresh : Tuesday, October 25, 2022, 10:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
