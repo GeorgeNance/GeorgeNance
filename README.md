@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 3:22 AM
+  Last Refresh : Wednesday, October 26, 2022, 4:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
