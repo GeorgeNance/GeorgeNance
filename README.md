@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### Really good programs live forever.
 >
-> ~ *Grady Booch*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 12:19 AM
+  Last Refresh : Thursday, October 27, 2022, 1:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
