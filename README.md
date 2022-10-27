@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Fred Brooks*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 6:55 PM
+  Last Refresh : Wednesday, October 26, 2022, 8:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
