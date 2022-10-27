@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *John Carmack*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 4:23 PM
+  Last Refresh : Wednesday, October 26, 2022, 6:55 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
