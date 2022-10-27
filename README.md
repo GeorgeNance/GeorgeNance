@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Gary Kildall*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 2:17 PM
+  Last Refresh : Thursday, October 27, 2022, 3:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
