@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 9:49 PM
+  Last Refresh : Wednesday, October 26, 2022, 10:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
