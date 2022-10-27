@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 6:49 AM
+  Last Refresh : Thursday, October 27, 2022, 7:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
