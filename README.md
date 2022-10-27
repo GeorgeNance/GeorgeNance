@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Tom DeMarco*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 11:26 PM
+  Last Refresh : Thursday, October 27, 2022, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
