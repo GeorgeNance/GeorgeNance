@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
-> ~ *Albert Einstein*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 3:22 AM
+  Last Refresh : Thursday, October 27, 2022, 4:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
