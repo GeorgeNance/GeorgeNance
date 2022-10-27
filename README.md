@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Martin Fowler*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 10:25 AM
+  Last Refresh : Thursday, October 27, 2022, 11:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
