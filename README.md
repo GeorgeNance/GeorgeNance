@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 26, 2022, 8:47 PM
+  Last Refresh : Wednesday, October 26, 2022, 9:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
