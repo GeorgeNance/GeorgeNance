@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Albert Einstein*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 28, 2022, 12:16 PM
+  Last Refresh : Friday, October 28, 2022, 1:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
