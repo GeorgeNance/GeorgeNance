@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Gary Kildall*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 7:03 PM
+  Last Refresh : Thursday, October 27, 2022, 9:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
