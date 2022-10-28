@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Sean Parent*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 11:26 PM
+  Last Refresh : Friday, October 28, 2022, 12:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
