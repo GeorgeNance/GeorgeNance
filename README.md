@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Richard E. Pattis*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 28, 2022, 12:18 AM
+  Last Refresh : Friday, October 28, 2022, 1:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
