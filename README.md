@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Danny Hillis*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 4:25 PM
+  Last Refresh : Thursday, October 27, 2022, 7:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
