@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Jim Horning*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 28, 2022, 8:22 AM
+  Last Refresh : Friday, October 28, 2022, 9:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
