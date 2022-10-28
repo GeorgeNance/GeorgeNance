@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 28, 2022, 11:26 AM
+  Last Refresh : Friday, October 28, 2022, 12:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
