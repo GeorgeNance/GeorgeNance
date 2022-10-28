@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 >
-> ~ *Danny Hillis*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 28, 2022, 2:18 PM
+  Last Refresh : Friday, October 28, 2022, 3:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
