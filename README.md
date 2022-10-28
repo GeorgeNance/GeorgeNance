@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *Martin Fowler*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 28, 2022, 10:23 AM
+  Last Refresh : Friday, October 28, 2022, 11:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
