@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Dennis Ritchie*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 27, 2022, 9:03 PM
+  Last Refresh : Thursday, October 27, 2022, 10:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
