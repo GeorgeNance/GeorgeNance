@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 >
-> ~ *Anders Hejlsberg*
+> ~ *P. J. Plauger*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 1:25 AM
+  Last Refresh : Saturday, October 29, 2022, 2:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
