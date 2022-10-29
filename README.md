@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Seymour Cray*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 10:20 AM
+  Last Refresh : Saturday, October 29, 2022, 11:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
