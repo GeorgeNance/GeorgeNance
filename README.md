@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Daniel T. Barry*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 7:19 AM
+  Last Refresh : Saturday, October 29, 2022, 8:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
