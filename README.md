@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Richard Hamming*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 4:16 AM
+  Last Refresh : Saturday, October 29, 2022, 5:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
