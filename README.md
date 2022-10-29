@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 >
-> ~ *Elon Musk*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 3:21 AM
+  Last Refresh : Saturday, October 29, 2022, 4:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
