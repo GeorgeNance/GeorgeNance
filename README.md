@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 >
-> ~ *Fred Brooks*
+> ~ *Anders Hejlsberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 12:17 AM
+  Last Refresh : Saturday, October 29, 2022, 1:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
