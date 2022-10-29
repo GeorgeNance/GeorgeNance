@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 >
-> ~ *Michael A. Jackson*
+> ~ *Roy Fielding*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 28, 2022, 10:23 PM
+  Last Refresh : Friday, October 28, 2022, 11:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
