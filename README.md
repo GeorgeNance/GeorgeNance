@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Anonymous*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 5:36 AM
+  Last Refresh : Saturday, October 29, 2022, 6:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
