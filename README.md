@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### Deleted code is debugged code.
 >
-> ~ *Danny Hillis*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 8:20 AM
+  Last Refresh : Sunday, October 30, 2022, 9:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
