@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Bill Gates*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 12:17 AM
+  Last Refresh : Sunday, October 30, 2022, 1:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
