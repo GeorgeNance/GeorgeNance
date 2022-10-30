@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 2:19 AM
+  Last Refresh : Sunday, October 30, 2022, 3:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
