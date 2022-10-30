@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Henry Ford*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 6:33 AM
+  Last Refresh : Sunday, October 30, 2022, 7:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
