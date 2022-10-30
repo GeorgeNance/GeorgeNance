@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 >
-> ~ *Bill Gates*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 1:20 PM
+  Last Refresh : Sunday, October 30, 2022, 2:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
