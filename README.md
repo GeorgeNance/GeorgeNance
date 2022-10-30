@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 9:08 PM
+  Last Refresh : Saturday, October 29, 2022, 10:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
