@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *John von Neumann*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 29, 2022, 10:25 PM
+  Last Refresh : Saturday, October 29, 2022, 11:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
