@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Elon Musk*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 3:21 AM
+  Last Refresh : Sunday, October 30, 2022, 4:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
