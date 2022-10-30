@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### Really good programs live forever.
 >
-> ~ *Alan Perlis*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 2:17 PM
+  Last Refresh : Sunday, October 30, 2022, 3:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
