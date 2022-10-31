@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Robert C. Martin*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 31, 2022, 8:21 AM
+  Last Refresh : Monday, October 31, 2022, 9:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
