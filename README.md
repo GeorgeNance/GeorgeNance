@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 >
-> ~ *Buckminster Fuller*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 31, 2022, 2:22 AM
+  Last Refresh : Monday, October 31, 2022, 3:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
