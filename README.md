@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 9:03 PM
+  Last Refresh : Sunday, October 30, 2022, 10:34 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
