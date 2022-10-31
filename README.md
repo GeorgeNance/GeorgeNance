@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
 >
-> ~ *Dennis Ritchie*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 31, 2022, 1:30 AM
+  Last Refresh : Monday, October 31, 2022, 2:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
