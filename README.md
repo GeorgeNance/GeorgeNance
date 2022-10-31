@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
 >
-> ~ *Gary Kildall*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 31, 2022, 1:22 PM
+  Last Refresh : Monday, October 31, 2022, 2:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
