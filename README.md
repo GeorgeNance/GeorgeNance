@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
 >
-> ~ *Richard Stallman*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 31, 2022, 12:16 PM
+  Last Refresh : Monday, October 31, 2022, 1:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
