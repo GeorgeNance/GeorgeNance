@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Steve Jobs*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 11:26 PM
+  Last Refresh : Monday, October 31, 2022, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
