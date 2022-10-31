@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Charles Simonyi*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 30, 2022, 10:34 PM
+  Last Refresh : Sunday, October 30, 2022, 11:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
