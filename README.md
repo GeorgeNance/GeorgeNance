@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Marvin Minsky*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 31, 2022, 6:52 AM
+  Last Refresh : Monday, October 31, 2022, 7:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
