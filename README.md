@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Maurice Wilkes*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 1, 2022, 6:48 AM
+  Last Refresh : Tuesday, November 1, 2022, 7:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
