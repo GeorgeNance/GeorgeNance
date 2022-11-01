@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Gary Kildall*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 1, 2022, 9:32 AM
+  Last Refresh : Tuesday, November 1, 2022, 10:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
