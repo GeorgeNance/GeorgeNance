@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Wayne Ratliff*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 1, 2022, 3:23 AM
+  Last Refresh : Tuesday, November 1, 2022, 4:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
