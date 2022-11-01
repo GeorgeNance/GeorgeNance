@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Steve Jobs*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 31, 2022, 10:47 PM
+  Last Refresh : Monday, October 31, 2022, 11:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
