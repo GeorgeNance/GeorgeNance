@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 6:53 AM
+  Last Refresh : Wednesday, November 2, 2022, 7:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
