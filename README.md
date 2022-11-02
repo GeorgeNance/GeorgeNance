@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 >
-> ~ *Alan Kay*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 10:32 AM
+  Last Refresh : Wednesday, November 2, 2022, 11:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
