@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Fred Brooks*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 2:20 AM
+  Last Refresh : Wednesday, November 2, 2022, 3:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
