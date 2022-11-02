@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 4:18 AM
+  Last Refresh : Wednesday, November 2, 2022, 5:44 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
