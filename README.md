@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 >
-> ~ *Sean Parent*
+> ~ *Stewart Brand*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 1, 2022, 11:29 PM
+  Last Refresh : Wednesday, November 2, 2022, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
