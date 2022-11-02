@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *John Warnock*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 12:16 PM
+  Last Refresh : Wednesday, November 2, 2022, 1:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
