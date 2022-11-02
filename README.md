@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 9:32 AM
+  Last Refresh : Wednesday, November 2, 2022, 10:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
