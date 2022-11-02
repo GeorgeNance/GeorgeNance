@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Stewart Brand*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 12:19 AM
+  Last Refresh : Wednesday, November 2, 2022, 1:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
