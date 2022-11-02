@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 >
-> ~ *Butler Lampson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 5:44 AM
+  Last Refresh : Wednesday, November 2, 2022, 6:53 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
