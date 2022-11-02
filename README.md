@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### Once you stop learning you start dying.
 >
-> ~ *Ron Jeffries*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 1, 2022, 9:17 PM
+  Last Refresh : Tuesday, November 1, 2022, 10:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
