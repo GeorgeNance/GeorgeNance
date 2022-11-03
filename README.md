@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 >
-> ~ *Arthur C. Clarke*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 3, 2022, 2:15 PM
+  Last Refresh : Thursday, November 3, 2022, 3:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
