@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Richard Stallman*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 3, 2022, 5:41 AM
+  Last Refresh : Thursday, November 3, 2022, 6:45 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
