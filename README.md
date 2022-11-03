@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
-> ~ *Linus Torvalds*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 3, 2022, 12:17 AM
+  Last Refresh : Thursday, November 3, 2022, 1:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
