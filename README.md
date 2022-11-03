@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *Harlan Mills*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 2, 2022, 9:40 PM
+  Last Refresh : Wednesday, November 2, 2022, 10:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
