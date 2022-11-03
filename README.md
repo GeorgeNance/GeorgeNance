@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 >
-> ~ *Richard Stallman*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 3, 2022, 7:20 AM
+  Last Refresh : Thursday, November 3, 2022, 8:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
