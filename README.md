@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 3, 2022, 4:21 PM
+  Last Refresh : Thursday, November 3, 2022, 6:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
