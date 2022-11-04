@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 12:17 AM
+  Last Refresh : Friday, November 4, 2022, 1:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
