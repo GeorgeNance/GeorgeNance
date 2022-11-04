@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 2:18 AM
+  Last Refresh : Friday, November 4, 2022, 3:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
