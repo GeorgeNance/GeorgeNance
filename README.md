@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Jim Horning*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 9:27 AM
+  Last Refresh : Friday, November 4, 2022, 10:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
