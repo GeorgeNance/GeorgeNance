@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 11:24 AM
+  Last Refresh : Friday, November 4, 2022, 12:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
