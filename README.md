@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 8:21 AM
+  Last Refresh : Friday, November 4, 2022, 9:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
