@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Alan Perlis*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 1:28 AM
+  Last Refresh : Friday, November 4, 2022, 2:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
