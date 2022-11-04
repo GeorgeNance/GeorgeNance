@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Jaron Lanier*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 3:21 AM
+  Last Refresh : Friday, November 4, 2022, 4:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
