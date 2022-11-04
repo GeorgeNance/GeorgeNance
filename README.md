@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Charles Babbage*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 1:27 PM
+  Last Refresh : Friday, November 4, 2022, 2:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
