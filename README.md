@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Robert C. Martin*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 4:16 AM
+  Last Refresh : Friday, November 4, 2022, 5:41 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
