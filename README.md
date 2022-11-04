@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Albert Einstein*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 3, 2022, 10:24 PM
+  Last Refresh : Thursday, November 3, 2022, 11:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
