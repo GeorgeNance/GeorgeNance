@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *Richard Stallman*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 5, 2022, 1:22 PM
+  Last Refresh : Saturday, November 5, 2022, 2:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
