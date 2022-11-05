@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Ray Ozzie*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 11:23 PM
+  Last Refresh : Saturday, November 5, 2022, 12:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
