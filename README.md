@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Douglas Crockford*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 10:17 PM
+  Last Refresh : Friday, November 4, 2022, 11:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
