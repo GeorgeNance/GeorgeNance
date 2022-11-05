@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 4:22 PM
+  Last Refresh : Friday, November 4, 2022, 6:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
