@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 6:49 PM
+  Last Refresh : Friday, November 4, 2022, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
