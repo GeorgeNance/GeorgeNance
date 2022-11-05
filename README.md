@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### Really good programs live forever.
 >
-> ~ *Ken Thompson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 5, 2022, 5:33 AM
+  Last Refresh : Saturday, November 5, 2022, 6:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
