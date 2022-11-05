@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 5, 2022, 2:16 PM
+  Last Refresh : Saturday, November 5, 2022, 3:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
