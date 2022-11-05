@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
 > ~ *Tim Berners-Lee*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 4, 2022, 8:21 PM
+  Last Refresh : Friday, November 4, 2022, 9:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
