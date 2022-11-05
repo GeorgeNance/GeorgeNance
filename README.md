@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *John Warnock*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 5, 2022, 2:18 AM
+  Last Refresh : Saturday, November 5, 2022, 3:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
