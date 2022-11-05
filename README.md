@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Alan Perlis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 5, 2022, 3:17 PM
+  Last Refresh : Saturday, November 5, 2022, 4:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
