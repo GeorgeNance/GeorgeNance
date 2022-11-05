@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Bill Gates*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 5, 2022, 10:17 AM
+  Last Refresh : Saturday, November 5, 2022, 11:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
