@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Charles Babbage*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 6, 2022, 7:16 AM
+  Last Refresh : Sunday, November 6, 2022, 8:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
