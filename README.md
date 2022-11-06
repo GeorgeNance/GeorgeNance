@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Addy Osmani*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 6, 2022, 11:23 AM
+  Last Refresh : Sunday, November 6, 2022, 12:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
