@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Tom DeMarco*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 6, 2022, 12:15 PM
+  Last Refresh : Sunday, November 6, 2022, 1:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
