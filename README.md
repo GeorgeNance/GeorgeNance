@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Pete Cordell*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 6, 2022, 10:17 AM
+  Last Refresh : Sunday, November 6, 2022, 11:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
