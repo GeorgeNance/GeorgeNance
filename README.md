@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Jef Raskin*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 1:22 PM
+  Last Refresh : Monday, November 7, 2022, 2:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
