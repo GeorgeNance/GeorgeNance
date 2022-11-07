@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Douglas Crockford*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 12:18 AM
+  Last Refresh : Monday, November 7, 2022, 1:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
