@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Ivan Sutherland*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 6, 2022, 10:27 PM
+  Last Refresh : Sunday, November 6, 2022, 11:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
