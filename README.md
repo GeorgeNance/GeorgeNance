@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 5:42 AM
+  Last Refresh : Monday, November 7, 2022, 6:45 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
