@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *John Johnson*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 10:26 AM
+  Last Refresh : Monday, November 7, 2022, 11:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
