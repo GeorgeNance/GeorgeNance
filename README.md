@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Gordon Bell*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 12:15 PM
+  Last Refresh : Monday, November 7, 2022, 1:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
