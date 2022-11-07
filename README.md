@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Ward Cunningham*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 11:24 AM
+  Last Refresh : Monday, November 7, 2022, 12:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
