@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Fred Brooks*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 9:27 AM
+  Last Refresh : Monday, November 7, 2022, 10:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
