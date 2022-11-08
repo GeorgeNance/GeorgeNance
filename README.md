@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Butler Lampson*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 7:22 AM
+  Last Refresh : Tuesday, November 8, 2022, 8:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
