@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 11:26 PM
+  Last Refresh : Tuesday, November 8, 2022, 12:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
