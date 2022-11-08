@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Douglas Crockford*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 6:43 AM
+  Last Refresh : Tuesday, November 8, 2022, 7:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
