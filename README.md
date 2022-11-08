@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Richard E. Pattis*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 4:23 PM
+  Last Refresh : Monday, November 7, 2022, 6:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
