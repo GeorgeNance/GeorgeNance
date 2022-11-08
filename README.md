@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 7, 2022, 8:27 PM
+  Last Refresh : Monday, November 7, 2022, 9:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
