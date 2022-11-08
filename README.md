@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Elon Musk*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 2:17 PM
+  Last Refresh : Tuesday, November 8, 2022, 3:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
