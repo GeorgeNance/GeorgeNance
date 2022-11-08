@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Gerald Weinberg*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 12:23 PM
+  Last Refresh : Tuesday, November 8, 2022, 1:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
