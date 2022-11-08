@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
-> ~ *Danny Hillis*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 11:28 AM
+  Last Refresh : Tuesday, November 8, 2022, 12:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
