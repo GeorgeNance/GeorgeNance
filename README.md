@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Kevlin Henney*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 3:19 PM
+  Last Refresh : Tuesday, November 8, 2022, 4:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
