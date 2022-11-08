@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### With artificial intelligence we are summoning the demon.
 >
 > ~ *Elon Musk*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 1:22 PM
+  Last Refresh : Tuesday, November 8, 2022, 2:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
