@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 9:31 AM
+  Last Refresh : Tuesday, November 8, 2022, 10:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
