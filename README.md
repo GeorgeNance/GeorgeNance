@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 9, 2022, 1:27 AM
+  Last Refresh : Wednesday, November 9, 2022, 2:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
