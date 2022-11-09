@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
 >
-> ~ *Daniel T. Barry*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 9, 2022, 5:44 AM
+  Last Refresh : Wednesday, November 9, 2022, 6:46 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
