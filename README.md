@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 >
-> ~ *Bob Frankston*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 11:30 PM
+  Last Refresh : Wednesday, November 9, 2022, 12:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
