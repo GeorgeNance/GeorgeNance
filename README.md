@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Douglas Crockford*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 10:28 PM
+  Last Refresh : Tuesday, November 8, 2022, 11:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
