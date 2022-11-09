@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 8:43 PM
+  Last Refresh : Tuesday, November 8, 2022, 9:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
