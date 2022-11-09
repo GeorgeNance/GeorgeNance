@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *John Warnock*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 9, 2022, 4:17 AM
+  Last Refresh : Wednesday, November 9, 2022, 5:44 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
