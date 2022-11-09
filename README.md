@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 9, 2022, 10:22 AM
+  Last Refresh : Wednesday, November 9, 2022, 11:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
