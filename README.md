@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Danny Hillis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 9, 2022, 12:18 AM
+  Last Refresh : Wednesday, November 9, 2022, 1:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
