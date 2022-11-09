@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Hal Abelson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 9:47 PM
+  Last Refresh : Tuesday, November 8, 2022, 10:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
