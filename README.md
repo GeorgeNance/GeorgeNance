@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Pamela Zave*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 9, 2022, 2:19 AM
+  Last Refresh : Wednesday, November 9, 2022, 3:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
