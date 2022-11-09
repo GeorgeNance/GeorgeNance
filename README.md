@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 >
-> ~ *Douglas Crockford*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 8, 2022, 6:57 PM
+  Last Refresh : Tuesday, November 8, 2022, 8:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
