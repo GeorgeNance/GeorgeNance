@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Eric S. Raymond*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 9:28 AM
+  Last Refresh : Thursday, November 10, 2022, 10:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
