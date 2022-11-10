@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
 >
-> ~ *Joshua Bloch*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 2:18 PM
+  Last Refresh : Thursday, November 10, 2022, 3:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
