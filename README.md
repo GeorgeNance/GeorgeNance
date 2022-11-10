@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Fred Brooks*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 9, 2022, 4:23 PM
+  Last Refresh : Wednesday, November 9, 2022, 6:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
