@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Donald Knuth*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 12:18 AM
+  Last Refresh : Thursday, November 10, 2022, 1:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
