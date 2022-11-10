@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Tom DeMarco*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 2:20 AM
+  Last Refresh : Thursday, November 10, 2022, 3:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
