@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 4:17 AM
+  Last Refresh : Thursday, November 10, 2022, 5:42 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
