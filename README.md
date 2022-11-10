@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 5:42 AM
+  Last Refresh : Thursday, November 10, 2022, 6:50 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
