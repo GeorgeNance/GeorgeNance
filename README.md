@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 1:31 AM
+  Last Refresh : Thursday, November 10, 2022, 2:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
