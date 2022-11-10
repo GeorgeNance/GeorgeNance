@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Donald Knuth*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 3:19 PM
+  Last Refresh : Thursday, November 10, 2022, 4:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
