@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 10:22 PM
+  Last Refresh : Thursday, November 10, 2022, 11:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
