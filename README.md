@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 11, 2022, 7:19 AM
+  Last Refresh : Friday, November 11, 2022, 8:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
