@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Linus Torvalds*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 10, 2022, 9:38 PM
+  Last Refresh : Thursday, November 10, 2022, 10:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
