@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Douglas Crockford*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 11, 2022, 10:20 AM
+  Last Refresh : Friday, November 11, 2022, 11:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
