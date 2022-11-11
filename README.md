@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 11, 2022, 12:16 PM
+  Last Refresh : Friday, November 11, 2022, 1:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
