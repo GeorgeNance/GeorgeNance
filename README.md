@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *William Wulf*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 11, 2022, 12:18 AM
+  Last Refresh : Friday, November 11, 2022, 1:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
