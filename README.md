@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *David Gelernter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 1:24 AM
+  Last Refresh : Saturday, November 12, 2022, 2:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
