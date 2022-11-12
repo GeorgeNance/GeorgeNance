@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Maurice Wilkes*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 12:17 AM
+  Last Refresh : Saturday, November 12, 2022, 1:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
