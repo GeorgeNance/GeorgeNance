@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *David Leinweber*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 5:34 AM
+  Last Refresh : Saturday, November 12, 2022, 6:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
