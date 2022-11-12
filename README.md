@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 >
-> ~ *Alan Perlis*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 9:26 AM
+  Last Refresh : Saturday, November 12, 2022, 10:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
