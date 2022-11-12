@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Ada Lovelace*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 1:19 PM
+  Last Refresh : Saturday, November 12, 2022, 2:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
