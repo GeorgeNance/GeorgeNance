@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Donald Knuth*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 10:18 AM
+  Last Refresh : Saturday, November 12, 2022, 11:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
