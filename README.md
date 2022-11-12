@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 >
-> ~ *Fred Brooks*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 3:17 PM
+  Last Refresh : Saturday, November 12, 2022, 4:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
