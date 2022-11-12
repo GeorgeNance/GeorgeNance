@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *John Carmack*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 11, 2022, 10:18 PM
+  Last Refresh : Friday, November 11, 2022, 11:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
