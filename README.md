@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Tom DeMarco*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 2:16 PM
+  Last Refresh : Saturday, November 12, 2022, 3:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
