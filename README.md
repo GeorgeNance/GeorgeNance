@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 13, 2022, 1:24 AM
+  Last Refresh : Sunday, November 13, 2022, 2:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
