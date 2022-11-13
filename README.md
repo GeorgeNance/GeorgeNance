@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Kent Beck*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 13, 2022, 5:35 AM
+  Last Refresh : Sunday, November 13, 2022, 6:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
