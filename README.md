@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 13, 2022, 3:19 AM
+  Last Refresh : Sunday, November 13, 2022, 4:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
