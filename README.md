@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 13, 2022, 2:16 PM
+  Last Refresh : Sunday, November 13, 2022, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
