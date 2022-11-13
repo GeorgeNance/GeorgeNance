@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### When in doubt, leave it out.
 >
-> ~ *Anonymous*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 11:23 PM
+  Last Refresh : Sunday, November 13, 2022, 12:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
