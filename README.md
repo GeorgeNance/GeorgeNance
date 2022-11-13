@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Donald Knuth*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 10:18 PM
+  Last Refresh : Saturday, November 12, 2022, 11:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
