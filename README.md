@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 13, 2022, 3:18 PM
+  Last Refresh : Sunday, November 13, 2022, 4:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
