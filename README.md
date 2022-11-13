@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 12, 2022, 6:45 PM
+  Last Refresh : Saturday, November 12, 2022, 8:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
