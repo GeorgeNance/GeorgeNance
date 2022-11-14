@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Kevlin Henney*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 14, 2022, 1:20 PM
+  Last Refresh : Monday, November 14, 2022, 2:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
