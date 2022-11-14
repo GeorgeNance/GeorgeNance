@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 >
-> ~ *John Carmack*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 13, 2022, 11:25 PM
+  Last Refresh : Monday, November 14, 2022, 12:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
