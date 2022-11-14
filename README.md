@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Less code equals less bugs.
 >
-> ~ *Daniel T. Barry*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 14, 2022, 12:15 PM
+  Last Refresh : Monday, November 14, 2022, 1:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
