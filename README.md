@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 14, 2022, 7:22 AM
+  Last Refresh : Monday, November 14, 2022, 8:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
