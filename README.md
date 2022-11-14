@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Michael A. Jackson*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 13, 2022, 10:26 PM
+  Last Refresh : Sunday, November 13, 2022, 11:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
