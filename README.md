@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *David Parnas*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 14, 2022, 1:27 AM
+  Last Refresh : Monday, November 14, 2022, 2:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
