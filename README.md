@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Ken Thompson*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 15, 2022, 1:19 PM
+  Last Refresh : Tuesday, November 15, 2022, 2:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
