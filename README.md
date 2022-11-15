@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 15, 2022, 10:18 AM
+  Last Refresh : Tuesday, November 15, 2022, 11:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
