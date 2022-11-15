@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Steve Wozniak*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 14, 2022, 10:16 PM
+  Last Refresh : Monday, November 14, 2022, 11:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
