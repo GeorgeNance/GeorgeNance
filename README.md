@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Fred Brooks*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 15, 2022, 8:19 AM
+  Last Refresh : Tuesday, November 15, 2022, 9:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
