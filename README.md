@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 >
-> ~ *John Johnson*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 15, 2022, 3:17 PM
+  Last Refresh : Tuesday, November 15, 2022, 4:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
