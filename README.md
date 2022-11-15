@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 14, 2022, 9:26 PM
+  Last Refresh : Monday, November 14, 2022, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
