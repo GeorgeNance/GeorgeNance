@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *Michael Hawley*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 14, 2022, 8:15 PM
+  Last Refresh : Monday, November 14, 2022, 9:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
