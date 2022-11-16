@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
 > ~ *Robert C. Martin*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 12:16 AM
+  Last Refresh : Wednesday, November 16, 2022, 1:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
