@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 >
-> ~ *Terry Winograd*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 10:17 AM
+  Last Refresh : Wednesday, November 16, 2022, 11:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
