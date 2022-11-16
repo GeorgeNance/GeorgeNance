@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Stewart Brand*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 15, 2022, 11:23 PM
+  Last Refresh : Wednesday, November 16, 2022, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
