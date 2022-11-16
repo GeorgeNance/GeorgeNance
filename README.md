@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 3:17 PM
+  Last Refresh : Wednesday, November 16, 2022, 4:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
