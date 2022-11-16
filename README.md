@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 >
-> ~ *Douglas Crockford*
+> ~ *Michael Hawley*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 4:15 AM
+  Last Refresh : Wednesday, November 16, 2022, 5:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
