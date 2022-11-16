@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 >
-> ~ *Sean Parent*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 3:19 AM
+  Last Refresh : Wednesday, November 16, 2022, 4:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
