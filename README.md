@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 7:16 AM
+  Last Refresh : Wednesday, November 16, 2022, 8:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
