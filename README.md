@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *David Parnas*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 2:16 PM
+  Last Refresh : Wednesday, November 16, 2022, 3:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
