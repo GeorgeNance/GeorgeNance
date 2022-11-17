@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Fred Brooks*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 4:18 PM
+  Last Refresh : Wednesday, November 16, 2022, 6:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
