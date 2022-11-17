@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Alan Turing*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 3:18 PM
+  Last Refresh : Thursday, November 17, 2022, 4:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
