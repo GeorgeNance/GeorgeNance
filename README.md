@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 >
-> ~ *Daniel T. Barry*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 7:16 AM
+  Last Refresh : Thursday, November 17, 2022, 8:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
