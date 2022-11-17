@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
 >
-> ~ *Robert C. Martin*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 16, 2022, 9:22 PM
+  Last Refresh : Wednesday, November 16, 2022, 10:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
