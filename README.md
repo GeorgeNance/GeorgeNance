@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Addy Osmani*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 6:35 AM
+  Last Refresh : Thursday, November 17, 2022, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
