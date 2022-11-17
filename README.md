@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Marijn Haverbeke*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 1:25 AM
+  Last Refresh : Thursday, November 17, 2022, 2:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
