@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Dennis Ritchie*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 2:16 PM
+  Last Refresh : Thursday, November 17, 2022, 3:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
