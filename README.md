@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Once you stop learning you start dying.
 >
-> ~ *John Carmack*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 2:18 AM
+  Last Refresh : Thursday, November 17, 2022, 3:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
