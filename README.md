@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 >
-> ~ *Douglas Crockford*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 1:19 PM
+  Last Refresh : Thursday, November 17, 2022, 2:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
