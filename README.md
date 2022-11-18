@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 >
-> ~ *Marvin Minsky*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 18, 2022, 5:35 AM
+  Last Refresh : Friday, November 18, 2022, 6:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
