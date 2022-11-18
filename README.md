@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 18, 2022, 6:36 AM
+  Last Refresh : Friday, November 18, 2022, 7:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
