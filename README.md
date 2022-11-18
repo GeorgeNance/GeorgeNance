@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
 >
-> ~ *Gary Kildall*
+> ~ *Steve McConnell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 4:19 PM
+  Last Refresh : Thursday, November 17, 2022, 6:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
