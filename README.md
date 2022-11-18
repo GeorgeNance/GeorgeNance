@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In theory, there is no difference between theory and practice. But, in practice, there is.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Jan L. A. van de Snepscheut*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 18, 2022, 8:19 AM
+  Last Refresh : Friday, November 18, 2022, 9:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
