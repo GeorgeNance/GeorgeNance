@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Rob Pike*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 18, 2022, 1:23 AM
+  Last Refresh : Friday, November 18, 2022, 2:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
