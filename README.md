@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *John Warnock*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 8:15 PM
+  Last Refresh : Thursday, November 17, 2022, 9:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
