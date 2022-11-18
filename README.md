@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Steve McConnell*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 17, 2022, 6:46 PM
+  Last Refresh : Thursday, November 17, 2022, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
