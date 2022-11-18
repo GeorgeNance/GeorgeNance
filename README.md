@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Joshua Bloch*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 18, 2022, 12:16 AM
+  Last Refresh : Friday, November 18, 2022, 1:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
