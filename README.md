@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Anonymous*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 18, 2022, 2:18 AM
+  Last Refresh : Friday, November 18, 2022, 3:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
