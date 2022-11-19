@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 19, 2022, 9:24 AM
+  Last Refresh : Saturday, November 19, 2022, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
