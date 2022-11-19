@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 19, 2022, 7:15 AM
+  Last Refresh : Saturday, November 19, 2022, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
