@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Richard Stallman*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 19, 2022, 2:15 PM
+  Last Refresh : Saturday, November 19, 2022, 3:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
