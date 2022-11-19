@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Marvin Minsky*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 18, 2022, 4:18 PM
+  Last Refresh : Friday, November 18, 2022, 6:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
