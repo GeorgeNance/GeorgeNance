@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 19, 2022, 8:18 AM
+  Last Refresh : Saturday, November 19, 2022, 9:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
