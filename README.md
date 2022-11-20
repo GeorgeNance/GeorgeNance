@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 20, 2022, 12:16 AM
+  Last Refresh : Sunday, November 20, 2022, 1:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
