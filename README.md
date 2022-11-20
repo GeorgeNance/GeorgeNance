@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Gerald Weinberg*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 20, 2022, 1:18 PM
+  Last Refresh : Sunday, November 20, 2022, 2:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
