@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 20, 2022, 3:19 AM
+  Last Refresh : Sunday, November 20, 2022, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
