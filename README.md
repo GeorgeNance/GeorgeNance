@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Bob Frankston*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 20, 2022, 8:17 AM
+  Last Refresh : Sunday, November 20, 2022, 9:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
