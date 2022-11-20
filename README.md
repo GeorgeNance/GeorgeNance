@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 19, 2022, 8:19 PM
+  Last Refresh : Saturday, November 19, 2022, 9:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
