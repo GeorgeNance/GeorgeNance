@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Elon Musk*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 20, 2022, 4:14 AM
+  Last Refresh : Sunday, November 20, 2022, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
