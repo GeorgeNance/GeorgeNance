@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 >
-> ~ *Vint Cerf*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 20, 2022, 6:26 AM
+  Last Refresh : Sunday, November 20, 2022, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
