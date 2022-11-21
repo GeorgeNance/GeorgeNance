@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Michael A. Jackson*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 10:19 AM
+  Last Refresh : Monday, November 21, 2022, 11:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
