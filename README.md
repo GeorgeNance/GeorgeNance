@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Ivan Sutherland*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 20, 2022, 4:19 PM
+  Last Refresh : Sunday, November 20, 2022, 6:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
