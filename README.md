@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
 >
-> ~ *Dennis Ritchie*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 4:15 AM
+  Last Refresh : Monday, November 21, 2022, 5:37 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
