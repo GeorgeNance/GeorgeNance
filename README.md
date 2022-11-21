@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 8:19 AM
+  Last Refresh : Monday, November 21, 2022, 9:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
