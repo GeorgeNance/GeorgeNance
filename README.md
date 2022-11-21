@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Danny Hillis*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 12:17 AM
+  Last Refresh : Monday, November 21, 2022, 1:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
