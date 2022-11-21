@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Fred Brooks*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 20, 2022, 6:43 PM
+  Last Refresh : Sunday, November 20, 2022, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
