@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *P. J. Plauger*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 3:17 PM
+  Last Refresh : Monday, November 21, 2022, 4:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
