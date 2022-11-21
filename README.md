@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 1:18 PM
+  Last Refresh : Monday, November 21, 2022, 2:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
