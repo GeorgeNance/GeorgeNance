@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Douglas Crockford*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 22, 2022, 11:23 AM
+  Last Refresh : Tuesday, November 22, 2022, 12:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
