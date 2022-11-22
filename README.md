@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 >
-> ~ *Sean Parent*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 22, 2022, 8:19 AM
+  Last Refresh : Tuesday, November 22, 2022, 9:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
