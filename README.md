@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Gordon Bell*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 10:17 PM
+  Last Refresh : Monday, November 21, 2022, 11:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
