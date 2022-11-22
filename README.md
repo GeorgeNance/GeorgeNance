@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Elon Musk*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 6:45 PM
+  Last Refresh : Monday, November 21, 2022, 8:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
