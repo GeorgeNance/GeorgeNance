@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 9:23 PM
+  Last Refresh : Monday, November 21, 2022, 10:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
