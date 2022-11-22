@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 >
-> ~ *Jim Horning*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 22, 2022, 2:15 PM
+  Last Refresh : Tuesday, November 22, 2022, 3:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
