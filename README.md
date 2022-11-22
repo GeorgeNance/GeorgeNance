@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 21, 2022, 4:20 PM
+  Last Refresh : Monday, November 21, 2022, 6:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
