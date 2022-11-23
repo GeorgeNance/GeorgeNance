@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 11:20 AM
+  Last Refresh : Wednesday, November 23, 2022, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
