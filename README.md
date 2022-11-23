@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Ward Cunningham*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 4:14 AM
+  Last Refresh : Wednesday, November 23, 2022, 5:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
