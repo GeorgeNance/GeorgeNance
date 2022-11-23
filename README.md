@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 >
-> ~ *Eric S. Raymond*
+> ~ *Tony Hoare*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 5:34 AM
+  Last Refresh : Wednesday, November 23, 2022, 6:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
