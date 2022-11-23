@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Martin Fowler*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 22, 2022, 10:15 PM
+  Last Refresh : Tuesday, November 22, 2022, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
