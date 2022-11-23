@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Charles Simonyi*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 2:14 PM
+  Last Refresh : Wednesday, November 23, 2022, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
