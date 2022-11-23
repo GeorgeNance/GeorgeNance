@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *John Carmack*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 1:22 AM
+  Last Refresh : Wednesday, November 23, 2022, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
