@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Daniel T. Barry*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 7:16 AM
+  Last Refresh : Wednesday, November 23, 2022, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
