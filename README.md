@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Fred Brooks*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 3:18 AM
+  Last Refresh : Wednesday, November 23, 2022, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
