@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 >
-> ~ *Pete Cordell*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 3:16 PM
+  Last Refresh : Thursday, November 24, 2022, 4:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
