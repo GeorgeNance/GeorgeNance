@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Douglas Crockford*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 5:35 AM
+  Last Refresh : Thursday, November 24, 2022, 6:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
