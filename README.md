@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Bob Frankston*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 11:21 AM
+  Last Refresh : Thursday, November 24, 2022, 12:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
