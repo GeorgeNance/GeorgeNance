@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Butler Lampson*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 10:15 PM
+  Last Refresh : Wednesday, November 23, 2022, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
