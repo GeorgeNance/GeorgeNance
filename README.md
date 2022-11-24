@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 12:16 AM
+  Last Refresh : Thursday, November 24, 2022, 1:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
