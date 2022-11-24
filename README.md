@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Richard Hamming*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 2:16 AM
+  Last Refresh : Thursday, November 24, 2022, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
