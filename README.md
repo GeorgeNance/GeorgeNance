@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
-> ~ *Donald Knuth*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 4:17 PM
+  Last Refresh : Wednesday, November 23, 2022, 6:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
