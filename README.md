@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Tom DeMarco*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 10:15 AM
+  Last Refresh : Thursday, November 24, 2022, 11:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
