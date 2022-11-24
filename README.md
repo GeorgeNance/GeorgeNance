@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### It’s all talk until the code runs.
 >
-> ~ *Harlan Mills*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 8:26 PM
+  Last Refresh : Wednesday, November 23, 2022, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
