@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *Bob Frankston*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 23, 2022, 7:53 PM
+  Last Refresh : Wednesday, November 23, 2022, 8:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
