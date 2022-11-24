@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Filipe Fortes*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 6:28 AM
+  Last Refresh : Thursday, November 24, 2022, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
