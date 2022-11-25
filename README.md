@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 25, 2022, 2:16 AM
+  Last Refresh : Friday, November 25, 2022, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
