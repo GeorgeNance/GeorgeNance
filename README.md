@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### Adding manpower to a late software project makes it later.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 8:02 PM
+  Last Refresh : Thursday, November 24, 2022, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
