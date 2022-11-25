@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
 >
-> ~ *Alan Kay*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 4:18 PM
+  Last Refresh : Thursday, November 24, 2022, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
