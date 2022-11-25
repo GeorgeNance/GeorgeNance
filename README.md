@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 >
-> ~ *Michael Hawley*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 25, 2022, 2:15 PM
+  Last Refresh : Friday, November 25, 2022, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
