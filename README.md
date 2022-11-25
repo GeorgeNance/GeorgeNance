@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Ray Ozzie*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 24, 2022, 10:15 PM
+  Last Refresh : Thursday, November 24, 2022, 11:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
