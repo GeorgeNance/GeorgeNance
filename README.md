@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
 > ~ *Butler Lampson*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 7:14 AM
+  Last Refresh : Saturday, November 26, 2022, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
