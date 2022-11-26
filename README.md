@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Vint Cerf*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 10:14 AM
+  Last Refresh : Saturday, November 26, 2022, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
