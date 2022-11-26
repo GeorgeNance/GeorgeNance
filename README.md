@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Ted Nelson*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 1:17 PM
+  Last Refresh : Saturday, November 26, 2022, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
