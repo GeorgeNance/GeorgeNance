@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 25, 2022, 6:22 PM
+  Last Refresh : Friday, November 25, 2022, 7:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
