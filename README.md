@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *Douglas Crockford*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 25, 2022, 9:20 PM
+  Last Refresh : Friday, November 25, 2022, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
