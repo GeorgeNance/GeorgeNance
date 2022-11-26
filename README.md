@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Fred Brooks*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 25, 2022, 11:20 PM
+  Last Refresh : Saturday, November 26, 2022, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
