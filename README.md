@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 12:14 AM
+  Last Refresh : Saturday, November 26, 2022, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
