@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Dennis Ritchie*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 4:13 AM
+  Last Refresh : Saturday, November 26, 2022, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
