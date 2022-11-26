@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 2:14 PM
+  Last Refresh : Saturday, November 26, 2022, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
