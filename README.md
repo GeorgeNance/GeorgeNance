@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Jonathan Sachs*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 25, 2022, 10:14 PM
+  Last Refresh : Friday, November 25, 2022, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
