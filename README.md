@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Rich Skrenta*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 3:16 AM
+  Last Refresh : Saturday, November 26, 2022, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
