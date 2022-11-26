@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 2:15 AM
+  Last Refresh : Saturday, November 26, 2022, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
