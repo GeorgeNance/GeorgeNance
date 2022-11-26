@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
 >
-> ~ *Steve Jobs*
+> ~ *Vint Cerf*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 9:22 AM
+  Last Refresh : Saturday, November 26, 2022, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
