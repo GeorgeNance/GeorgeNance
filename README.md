@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Alan Perlis*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 27, 2022, 6:22 AM
+  Last Refresh : Sunday, November 27, 2022, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
