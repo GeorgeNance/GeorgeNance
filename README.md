@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 >
-> ~ *Richard Hamming*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 27, 2022, 2:14 PM
+  Last Refresh : Sunday, November 27, 2022, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
