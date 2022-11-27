@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Ryan Singer*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 27, 2022, 1:17 PM
+  Last Refresh : Sunday, November 27, 2022, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
