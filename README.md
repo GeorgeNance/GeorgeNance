@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Michael Hawley*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 10:15 PM
+  Last Refresh : Saturday, November 26, 2022, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
