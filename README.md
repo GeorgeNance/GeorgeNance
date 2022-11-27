@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 27, 2022, 12:13 PM
+  Last Refresh : Sunday, November 27, 2022, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
