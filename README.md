@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
 > ~ *Ken Thompson*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 26, 2022, 4:16 PM
+  Last Refresh : Saturday, November 26, 2022, 6:39 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
