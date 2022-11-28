@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 28, 2022, 10:16 AM
+  Last Refresh : Monday, November 28, 2022, 11:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
