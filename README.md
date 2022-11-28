@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
 >
-> ~ *Ward Cunningham*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 27, 2022, 7:56 PM
+  Last Refresh : Sunday, November 27, 2022, 8:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
