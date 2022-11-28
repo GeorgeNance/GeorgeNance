@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Ken Thompson*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 27, 2022, 6:24 PM
+  Last Refresh : Sunday, November 27, 2022, 7:56 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
