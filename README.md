@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Addy Osmani*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 28, 2022, 5:33 AM
+  Last Refresh : Monday, November 28, 2022, 6:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
