@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 >
-> ~ *Donald Knuth*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 28, 2022, 2:15 PM
+  Last Refresh : Monday, November 28, 2022, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
