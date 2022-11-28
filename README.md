@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Bill Gates*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 28, 2022, 2:17 AM
+  Last Refresh : Monday, November 28, 2022, 3:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
