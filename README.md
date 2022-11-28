@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
 >
-> ~ *Albert Einstein*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 27, 2022, 9:21 PM
+  Last Refresh : Sunday, November 27, 2022, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
