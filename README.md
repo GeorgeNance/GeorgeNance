@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 5:33 AM
+  Last Refresh : Tuesday, November 29, 2022, 6:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
