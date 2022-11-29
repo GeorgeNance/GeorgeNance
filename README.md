@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 >
-> ~ *Douglas Crockford*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 9:25 AM
+  Last Refresh : Tuesday, November 29, 2022, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
