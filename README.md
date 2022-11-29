@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 4:14 AM
+  Last Refresh : Tuesday, November 29, 2022, 5:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
