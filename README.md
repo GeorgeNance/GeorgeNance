@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 >
-> ~ *Ken Thompson*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 12:13 PM
+  Last Refresh : Tuesday, November 29, 2022, 1:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
