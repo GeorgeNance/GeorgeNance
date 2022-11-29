@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 2:17 AM
+  Last Refresh : Tuesday, November 29, 2022, 3:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
