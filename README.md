@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
 >
-> ~ *Marvin Minsky*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 8:18 AM
+  Last Refresh : Tuesday, November 29, 2022, 9:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
