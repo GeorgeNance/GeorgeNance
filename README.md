@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Steve Jobs*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 28, 2022, 8:26 PM
+  Last Refresh : Monday, November 28, 2022, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
