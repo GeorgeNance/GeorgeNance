@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 >
-> ~ *Donald Knuth*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 3:19 AM
+  Last Refresh : Tuesday, November 29, 2022, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
