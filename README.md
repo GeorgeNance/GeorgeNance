@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Daniel T. Barry*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 30, 2022, 2:17 AM
+  Last Refresh : Wednesday, November 30, 2022, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
