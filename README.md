@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 >
-> ~ *Elon Musk*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 30, 2022, 3:18 AM
+  Last Refresh : Wednesday, November 30, 2022, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
