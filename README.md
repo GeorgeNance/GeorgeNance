@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Steve Jobs*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 30, 2022, 3:17 PM
+  Last Refresh : Wednesday, November 30, 2022, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
