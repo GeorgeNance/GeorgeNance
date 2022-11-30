@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 30, 2022, 1:22 AM
+  Last Refresh : Wednesday, November 30, 2022, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
