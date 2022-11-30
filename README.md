@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 7:50 PM
+  Last Refresh : Tuesday, November 29, 2022, 8:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
