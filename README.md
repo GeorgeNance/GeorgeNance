@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 30, 2022, 11:22 AM
+  Last Refresh : Wednesday, November 30, 2022, 12:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
