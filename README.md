@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 9:22 PM
+  Last Refresh : Tuesday, November 29, 2022, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
