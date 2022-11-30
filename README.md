@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Donald Knuth*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 30, 2022, 7:16 AM
+  Last Refresh : Wednesday, November 30, 2022, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
