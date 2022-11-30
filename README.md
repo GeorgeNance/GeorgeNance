@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Tony Parisi (software developer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 11:22 PM
+  Last Refresh : Wednesday, November 30, 2022, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
