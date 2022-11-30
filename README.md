@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Martin Fowler*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 29, 2022, 4:18 PM
+  Last Refresh : Tuesday, November 29, 2022, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
