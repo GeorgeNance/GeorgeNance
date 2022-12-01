@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 1, 2022, 4:14 AM
+  Last Refresh : Thursday, December 1, 2022, 5:35 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
