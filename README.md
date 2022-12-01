@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
+> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 >
-> ~ *Fred Brooks*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 30, 2022, 11:22 PM
+  Last Refresh : Thursday, December 1, 2022, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
