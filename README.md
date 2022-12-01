@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Alan Perlis*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 1, 2022, 5:35 AM
+  Last Refresh : Thursday, December 1, 2022, 6:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
