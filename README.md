@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Ada Lovelace*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 1, 2022, 3:19 AM
+  Last Refresh : Thursday, December 1, 2022, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
