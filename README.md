@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *James Gleick*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 30, 2022, 8:09 PM
+  Last Refresh : Wednesday, November 30, 2022, 9:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
