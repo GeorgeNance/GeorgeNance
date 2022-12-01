@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 >
-> ~ *Donald Knuth*
+> ~ *Robert L. Glass*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 1, 2022, 12:16 AM
+  Last Refresh : Thursday, December 1, 2022, 1:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
