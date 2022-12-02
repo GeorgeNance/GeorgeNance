@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 >
-> ~ *Doug Linder*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 2, 2022, 6:22 AM
+  Last Refresh : Friday, December 2, 2022, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
