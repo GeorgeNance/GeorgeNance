@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 >
-> ~ *Richard Stallman*
+> ~ *Stewart Brand*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 2, 2022, 1:20 AM
+  Last Refresh : Friday, December 2, 2022, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
