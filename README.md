@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 1, 2022, 10:14 PM
+  Last Refresh : Thursday, December 1, 2022, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
