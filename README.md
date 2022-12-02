@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 2, 2022, 10:14 AM
+  Last Refresh : Friday, December 2, 2022, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
