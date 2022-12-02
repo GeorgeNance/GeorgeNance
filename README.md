@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
+> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 >
-> ~ *Ward Cunningham*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 2, 2022, 3:18 AM
+  Last Refresh : Friday, December 2, 2022, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
