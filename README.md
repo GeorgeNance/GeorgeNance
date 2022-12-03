@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 >
-> ~ *Alan Perlis*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 3, 2022, 5:28 AM
+  Last Refresh : Saturday, December 3, 2022, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
