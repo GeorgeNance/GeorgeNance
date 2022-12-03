@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Douglas Crockford*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 3, 2022, 10:13 AM
+  Last Refresh : Saturday, December 3, 2022, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
