@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *P. J. Plauger*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 3, 2022, 7:13 AM
+  Last Refresh : Saturday, December 3, 2022, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
