@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Dennis Ritchie*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 3, 2022, 3:14 PM
+  Last Refresh : Saturday, December 3, 2022, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
