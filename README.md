@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Bob Carr*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 3, 2022, 1:16 PM
+  Last Refresh : Saturday, December 3, 2022, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
