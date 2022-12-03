@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Jonathan Sachs*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 2, 2022, 8:17 PM
+  Last Refresh : Friday, December 2, 2022, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
