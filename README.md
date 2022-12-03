@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 2, 2022, 10:14 PM
+  Last Refresh : Friday, December 2, 2022, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
