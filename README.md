@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Alan Perlis*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 2, 2022, 6:17 PM
+  Last Refresh : Friday, December 2, 2022, 7:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
