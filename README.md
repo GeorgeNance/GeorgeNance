@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 >
-> ~ *Thomas J. Watson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 3, 2022, 9:21 AM
+  Last Refresh : Saturday, December 3, 2022, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
