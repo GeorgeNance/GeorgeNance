@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
 >
-> ~ *John Gall (author)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 3, 2022, 8:17 PM
+  Last Refresh : Saturday, December 3, 2022, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
