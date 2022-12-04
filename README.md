@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 >
-> ~ *Robert C. Martin*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 1:16 PM
+  Last Refresh : Sunday, December 4, 2022, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
