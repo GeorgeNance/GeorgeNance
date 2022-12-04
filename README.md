@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Steve Jobs*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 12:12 PM
+  Last Refresh : Sunday, December 4, 2022, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
