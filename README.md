@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Wayne Ratliff*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 2:13 PM
+  Last Refresh : Sunday, December 4, 2022, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
