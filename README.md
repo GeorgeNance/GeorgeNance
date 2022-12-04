@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 1:19 AM
+  Last Refresh : Sunday, December 4, 2022, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
