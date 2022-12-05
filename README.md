@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *David Parnas*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 9:23 AM
+  Last Refresh : Monday, December 5, 2022, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
