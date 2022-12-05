@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Terry Winograd*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 4:16 PM
+  Last Refresh : Sunday, December 4, 2022, 6:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
