@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 7:15 AM
+  Last Refresh : Monday, December 5, 2022, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
