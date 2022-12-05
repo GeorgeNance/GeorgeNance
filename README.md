@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Less code equals less bugs.
 >
-> ~ *Jonathan Sachs*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 1:21 AM
+  Last Refresh : Monday, December 5, 2022, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
