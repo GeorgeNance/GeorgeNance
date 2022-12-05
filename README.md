@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Fred Brooks*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 9:20 PM
+  Last Refresh : Sunday, December 4, 2022, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
