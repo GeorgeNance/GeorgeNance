@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Kevlin Henney*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 2:16 AM
+  Last Refresh : Monday, December 5, 2022, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
