@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Henry Petroski*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 1:17 PM
+  Last Refresh : Monday, December 5, 2022, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
