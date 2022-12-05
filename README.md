@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 11:20 PM
+  Last Refresh : Monday, December 5, 2022, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
