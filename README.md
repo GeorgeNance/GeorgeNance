@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Fred Brooks*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 7:41 PM
+  Last Refresh : Sunday, December 4, 2022, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
