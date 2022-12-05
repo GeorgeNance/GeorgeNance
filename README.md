@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 2:14 PM
+  Last Refresh : Monday, December 5, 2022, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
