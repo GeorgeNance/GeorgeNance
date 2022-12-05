@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### One man's constant is another man's variable.
 >
-> ~ *Ryan Singer*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 6:23 AM
+  Last Refresh : Monday, December 5, 2022, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
