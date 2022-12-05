@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Bill Gates*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 11:20 AM
+  Last Refresh : Monday, December 5, 2022, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
