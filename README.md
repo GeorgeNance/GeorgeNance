@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Harlan Mills*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 4, 2022, 6:20 PM
+  Last Refresh : Sunday, December 4, 2022, 7:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
