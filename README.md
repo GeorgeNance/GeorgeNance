@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### Never memorize something that you can look up.
 >
-> ~ *Buckminster Fuller*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 6:25 AM
+  Last Refresh : Tuesday, December 6, 2022, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
