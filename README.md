@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *David Parnas*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 2:14 PM
+  Last Refresh : Tuesday, December 6, 2022, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
