@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Albert Einstein*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 7:14 AM
+  Last Refresh : Tuesday, December 6, 2022, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
