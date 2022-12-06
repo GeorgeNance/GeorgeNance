@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Ted Nelson*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 5, 2022, 11:20 PM
+  Last Refresh : Tuesday, December 6, 2022, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
