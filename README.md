@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Fred Brooks*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 12:13 PM
+  Last Refresh : Tuesday, December 6, 2022, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
