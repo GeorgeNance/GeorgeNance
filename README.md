@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Ted Nelson*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 2:15 AM
+  Last Refresh : Tuesday, December 6, 2022, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
