@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
 > ~ *Richard Hamming*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 12:14 AM
+  Last Refresh : Tuesday, December 6, 2022, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
