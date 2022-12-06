@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 >
-> ~ *Douglas Crockford*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 8:17 AM
+  Last Refresh : Tuesday, December 6, 2022, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
