@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Richard Stallman*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 3:18 AM
+  Last Refresh : Wednesday, December 7, 2022, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
