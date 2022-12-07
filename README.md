@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Donald Knuth*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 8:21 PM
+  Last Refresh : Tuesday, December 6, 2022, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
