@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Alan Perlis*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 3:15 PM
+  Last Refresh : Wednesday, December 7, 2022, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
