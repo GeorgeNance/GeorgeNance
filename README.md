@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Ada Lovelace*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 8:16 AM
+  Last Refresh : Wednesday, December 7, 2022, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
