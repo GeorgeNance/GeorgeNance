@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Alan Perlis*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 4:13 AM
+  Last Refresh : Wednesday, December 7, 2022, 5:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
