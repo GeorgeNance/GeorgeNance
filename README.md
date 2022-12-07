@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 9:23 AM
+  Last Refresh : Wednesday, December 7, 2022, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
