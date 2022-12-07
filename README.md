@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Joshua Bloch*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 1:17 PM
+  Last Refresh : Wednesday, December 7, 2022, 2:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
