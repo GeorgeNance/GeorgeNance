@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Richard Hamming*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 10:14 PM
+  Last Refresh : Tuesday, December 6, 2022, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
