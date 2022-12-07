@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### When in doubt, leave it out.
 >
-> ~ *Wayne Ratliff*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 12:13 PM
+  Last Refresh : Wednesday, December 7, 2022, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
