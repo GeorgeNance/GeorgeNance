@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### One man's constant is another man's variable.
 >
-> ~ *Vannevar Bush*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 2:15 PM
+  Last Refresh : Wednesday, December 7, 2022, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
