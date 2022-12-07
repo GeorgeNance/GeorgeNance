@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Charles Simonyi*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 12:14 AM
+  Last Refresh : Wednesday, December 7, 2022, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
