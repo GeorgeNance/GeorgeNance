@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Bill Gates*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 10:15 AM
+  Last Refresh : Wednesday, December 7, 2022, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
