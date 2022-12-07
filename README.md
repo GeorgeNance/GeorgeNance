@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### Really good programs live forever.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 6, 2022, 11:21 PM
+  Last Refresh : Wednesday, December 7, 2022, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
