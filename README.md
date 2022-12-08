@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Maurice Wilkes*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 6:20 PM
+  Last Refresh : Wednesday, December 7, 2022, 7:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
