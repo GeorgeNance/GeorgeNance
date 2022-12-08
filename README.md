@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Bob Carr*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 8, 2022, 8:16 AM
+  Last Refresh : Thursday, December 8, 2022, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
