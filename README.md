@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 8, 2022, 2:15 PM
+  Last Refresh : Thursday, December 8, 2022, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
