@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
 >
-> ~ *Pamela Zave*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 7, 2022, 9:20 PM
+  Last Refresh : Wednesday, December 7, 2022, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
