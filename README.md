@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Steve Jobs*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 8, 2022, 1:21 AM
+  Last Refresh : Thursday, December 8, 2022, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
