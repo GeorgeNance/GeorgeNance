@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Doug Linder*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 3:15 PM
+  Last Refresh : Friday, December 9, 2022, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
