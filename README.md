@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
 > ~ *Ada Lovelace*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 10:15 AM
+  Last Refresh : Friday, December 9, 2022, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
