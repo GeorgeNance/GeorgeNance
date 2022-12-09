@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Richard Stallman*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 2:14 PM
+  Last Refresh : Friday, December 9, 2022, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
