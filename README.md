@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 1:20 AM
+  Last Refresh : Friday, December 9, 2022, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
