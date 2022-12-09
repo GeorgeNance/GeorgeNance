@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Linus Torvalds*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 2:15 AM
+  Last Refresh : Friday, December 9, 2022, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
