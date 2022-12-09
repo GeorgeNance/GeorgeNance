@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 >
-> ~ *Ada Lovelace*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 11:20 AM
+  Last Refresh : Friday, December 9, 2022, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
