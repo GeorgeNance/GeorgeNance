@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### Never memorize something that you can look up.
 >
-> ~ *Douglas Crockford*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 10, 2022, 11:19 AM
+  Last Refresh : Saturday, December 10, 2022, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
