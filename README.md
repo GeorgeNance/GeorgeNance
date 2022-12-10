@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### Programming can be addictive.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 10:14 PM
+  Last Refresh : Friday, December 9, 2022, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
