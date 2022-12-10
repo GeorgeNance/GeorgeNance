@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Joshua Bloch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 10, 2022, 2:14 AM
+  Last Refresh : Saturday, December 10, 2022, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
