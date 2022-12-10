@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Albert Einstein*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 10, 2022, 12:12 PM
+  Last Refresh : Saturday, December 10, 2022, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
