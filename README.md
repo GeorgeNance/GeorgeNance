@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Ellen Ullman*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 10, 2022, 9:21 AM
+  Last Refresh : Saturday, December 10, 2022, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
