@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Robert C. Martin*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 7:39 PM
+  Last Refresh : Friday, December 9, 2022, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
