@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 >
-> ~ *Bob Carr*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 9, 2022, 11:19 PM
+  Last Refresh : Saturday, December 10, 2022, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
