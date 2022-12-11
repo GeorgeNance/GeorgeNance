@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 >
-> ~ *Quarry worker's creed*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 10, 2022, 9:20 PM
+  Last Refresh : Saturday, December 10, 2022, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
