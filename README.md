@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 11, 2022, 6:20 AM
+  Last Refresh : Sunday, December 11, 2022, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
