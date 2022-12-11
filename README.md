@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Donald Knuth*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 11, 2022, 1:16 PM
+  Last Refresh : Sunday, December 11, 2022, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
