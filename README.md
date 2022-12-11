@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Addy Osmani*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 10, 2022, 8:21 PM
+  Last Refresh : Saturday, December 10, 2022, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
