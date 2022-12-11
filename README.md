@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 >
-> ~ *Alan Perlis*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 11, 2022, 3:16 AM
+  Last Refresh : Sunday, December 11, 2022, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
