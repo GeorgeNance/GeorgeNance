@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 11, 2022, 2:15 AM
+  Last Refresh : Sunday, December 11, 2022, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
