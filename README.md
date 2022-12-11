@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 >
-> ~ *Bill Gates*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 11, 2022, 11:19 AM
+  Last Refresh : Sunday, December 11, 2022, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
