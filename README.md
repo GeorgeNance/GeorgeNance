@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Fred Brooks*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 11, 2022, 7:48 PM
+  Last Refresh : Sunday, December 11, 2022, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
