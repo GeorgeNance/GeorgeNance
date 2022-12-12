@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 12, 2022, 11:20 AM
+  Last Refresh : Monday, December 12, 2022, 12:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
