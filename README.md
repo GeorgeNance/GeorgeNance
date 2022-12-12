@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Fred Brooks*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 12, 2022, 3:18 AM
+  Last Refresh : Monday, December 12, 2022, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
