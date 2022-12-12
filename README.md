@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 >
-> ~ *Chris Sacca*
+> ~ *Ivan Sutherland*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 12, 2022, 2:14 PM
+  Last Refresh : Monday, December 12, 2022, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
