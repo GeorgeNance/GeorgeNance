@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### One man's constant is another man's variable.
 >
-> ~ *John von Neumann*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 12, 2022, 7:15 AM
+  Last Refresh : Monday, December 12, 2022, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
