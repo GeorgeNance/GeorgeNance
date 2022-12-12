@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 >
-> ~ *Fred Brooks*
+> ~ *Nathaniel Borenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 12, 2022, 10:14 AM
+  Last Refresh : Monday, December 12, 2022, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
