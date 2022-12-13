@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 >
-> ~ *Richard Hamming*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 13, 2022, 11:20 AM
+  Last Refresh : Tuesday, December 13, 2022, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
