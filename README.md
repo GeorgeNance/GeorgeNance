@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 >
-> ~ *John Warnock*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 13, 2022, 5:32 AM
+  Last Refresh : Tuesday, December 13, 2022, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
