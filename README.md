@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Linus Torvalds*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 13, 2022, 3:15 PM
+  Last Refresh : Tuesday, December 13, 2022, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
