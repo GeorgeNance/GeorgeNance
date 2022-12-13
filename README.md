@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 13, 2022, 4:13 AM
+  Last Refresh : Tuesday, December 13, 2022, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
