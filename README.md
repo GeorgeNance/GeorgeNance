@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 13, 2022, 8:20 PM
+  Last Refresh : Tuesday, December 13, 2022, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
