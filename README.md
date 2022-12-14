@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 13, 2022, 7:48 PM
+  Last Refresh : Tuesday, December 13, 2022, 8:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
