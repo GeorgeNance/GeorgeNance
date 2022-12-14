@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 14, 2022, 1:21 AM
+  Last Refresh : Wednesday, December 14, 2022, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
