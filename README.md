@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### One man's constant is another man's variable.
 >
-> ~ *Jim Horning*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 14, 2022, 6:23 AM
+  Last Refresh : Wednesday, December 14, 2022, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
