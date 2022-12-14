@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 >
-> ~ *Richard Stallman*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 13, 2022, 10:15 PM
+  Last Refresh : Tuesday, December 13, 2022, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
