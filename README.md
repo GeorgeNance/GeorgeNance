@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 >
-> ~ *George Boole*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 14, 2022, 8:17 AM
+  Last Refresh : Wednesday, December 14, 2022, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
