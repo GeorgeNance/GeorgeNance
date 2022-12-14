@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 >
-> ~ *Alan Perlis*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 14, 2022, 7:15 AM
+  Last Refresh : Wednesday, December 14, 2022, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
