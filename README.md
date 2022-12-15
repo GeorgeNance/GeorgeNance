@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 >
-> ~ *Fred Brooks*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 1:16 PM
+  Last Refresh : Thursday, December 15, 2022, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
