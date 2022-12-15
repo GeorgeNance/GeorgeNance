@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Grady Booch*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 8:17 AM
+  Last Refresh : Thursday, December 15, 2022, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
