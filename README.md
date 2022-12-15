@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Fred Brooks*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 14, 2022, 6:23 PM
+  Last Refresh : Wednesday, December 14, 2022, 7:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
