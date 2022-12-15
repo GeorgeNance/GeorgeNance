@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Richard Hamming*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 9:23 AM
+  Last Refresh : Thursday, December 15, 2022, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
