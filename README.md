@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Martin Fowler*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 2:16 AM
+  Last Refresh : Thursday, December 15, 2022, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
