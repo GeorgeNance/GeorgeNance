@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 1:21 AM
+  Last Refresh : Thursday, December 15, 2022, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
