@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 >
-> ~ *Harlan Mills*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 3:18 AM
+  Last Refresh : Thursday, December 15, 2022, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
