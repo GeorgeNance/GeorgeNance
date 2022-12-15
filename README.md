@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Butler Lampson*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 7:15 AM
+  Last Refresh : Thursday, December 15, 2022, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
