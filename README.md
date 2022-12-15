@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 10:14 AM
+  Last Refresh : Thursday, December 15, 2022, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
