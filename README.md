@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 1:19 AM
+  Last Refresh : Friday, December 16, 2022, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
