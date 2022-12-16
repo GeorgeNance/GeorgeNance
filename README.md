@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Elon Musk*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 12:12 PM
+  Last Refresh : Friday, December 16, 2022, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
