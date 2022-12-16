@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Alan Perlis*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 3:14 PM
+  Last Refresh : Friday, December 16, 2022, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
