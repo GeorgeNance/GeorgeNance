@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 4:16 PM
+  Last Refresh : Thursday, December 15, 2022, 6:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
