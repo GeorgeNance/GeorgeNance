@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Buckminster Fuller*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 9:19 PM
+  Last Refresh : Thursday, December 15, 2022, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
