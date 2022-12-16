@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *John Johnson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 15, 2022, 10:14 PM
+  Last Refresh : Thursday, December 15, 2022, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
