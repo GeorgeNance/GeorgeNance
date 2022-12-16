@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 2:13 PM
+  Last Refresh : Friday, December 16, 2022, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
