@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Buckminster Fuller*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 6:19 AM
+  Last Refresh : Friday, December 16, 2022, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
