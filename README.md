@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
 >
-> ~ *Thomas J. Watson*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 8:17 AM
+  Last Refresh : Friday, December 16, 2022, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
