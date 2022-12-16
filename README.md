@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 >
-> ~ *Ken Thompson*
+> ~ *Philip Greenspun*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 3:16 AM
+  Last Refresh : Friday, December 16, 2022, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
