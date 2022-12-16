@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 11:18 AM
+  Last Refresh : Friday, December 16, 2022, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
