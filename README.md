@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 >
-> ~ *John Carmack*
+> ~ *Roy Fielding*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 9:19 AM
+  Last Refresh : Saturday, December 17, 2022, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
