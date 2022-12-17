@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 >
-> ~ *Bdale Garbee*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 7:12 AM
+  Last Refresh : Saturday, December 17, 2022, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
