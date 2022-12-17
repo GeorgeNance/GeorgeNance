@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Roy Fielding*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 10:12 AM
+  Last Refresh : Saturday, December 17, 2022, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
