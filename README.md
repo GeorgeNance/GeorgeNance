@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### Life is too short to run proprietary software.
 >
-> ~ *René Descartes*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 6:17 AM
+  Last Refresh : Saturday, December 17, 2022, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
