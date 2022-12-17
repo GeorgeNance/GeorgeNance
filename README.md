@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Robert L. Glass*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 9:18 PM
+  Last Refresh : Friday, December 16, 2022, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
