@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Richard Feynman*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 11:17 AM
+  Last Refresh : Saturday, December 17, 2022, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
