@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### Good software, like good wine, takes time.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 2:14 AM
+  Last Refresh : Saturday, December 17, 2022, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
