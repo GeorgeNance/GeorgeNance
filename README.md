@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Ken Thompson*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 4:15 PM
+  Last Refresh : Friday, December 16, 2022, 6:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
