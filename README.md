@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Dennis Ritchie*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 16, 2022, 10:13 PM
+  Last Refresh : Friday, December 16, 2022, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
