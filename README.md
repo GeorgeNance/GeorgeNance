@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 >
-> ~ *Albert Einstein*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 2:12 PM
+  Last Refresh : Saturday, December 17, 2022, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
