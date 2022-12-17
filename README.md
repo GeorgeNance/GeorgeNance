@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Steve Wozniak*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 12:11 PM
+  Last Refresh : Saturday, December 17, 2022, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
