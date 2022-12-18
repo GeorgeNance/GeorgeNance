@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 1:15 PM
+  Last Refresh : Sunday, December 18, 2022, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
