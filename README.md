@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Joshua Bloch*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 11:18 PM
+  Last Refresh : Sunday, December 18, 2022, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
