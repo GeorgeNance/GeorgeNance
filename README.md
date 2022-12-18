@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Gerald Weinberg*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 17, 2022, 4:14 PM
+  Last Refresh : Saturday, December 17, 2022, 6:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
