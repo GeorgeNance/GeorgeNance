@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 12:11 PM
+  Last Refresh : Sunday, December 18, 2022, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
