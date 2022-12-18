@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 >
-> ~ *Douglas Crockford*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 2:14 AM
+  Last Refresh : Sunday, December 18, 2022, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
