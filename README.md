@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *John von Neumann*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 7:12 AM
+  Last Refresh : Sunday, December 18, 2022, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
