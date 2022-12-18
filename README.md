@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 11:17 AM
+  Last Refresh : Sunday, December 18, 2022, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
