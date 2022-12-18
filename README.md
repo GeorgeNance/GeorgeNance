@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 >
-> ~ *John Carmack*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 1:18 AM
+  Last Refresh : Sunday, December 18, 2022, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
