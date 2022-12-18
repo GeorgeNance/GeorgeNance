@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### Making things easy is hard.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 4:11 AM
+  Last Refresh : Sunday, December 18, 2022, 5:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
