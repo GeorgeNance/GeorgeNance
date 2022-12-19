@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 >
-> ~ *Alan Perlis*
+> ~ *Randall E. Stross*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 4:12 AM
+  Last Refresh : Monday, December 19, 2022, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
