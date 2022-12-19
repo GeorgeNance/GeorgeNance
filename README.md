@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Brian Kernighan*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 2:15 AM
+  Last Refresh : Monday, December 19, 2022, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
