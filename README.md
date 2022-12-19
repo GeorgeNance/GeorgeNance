@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Poul Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 8:16 PM
+  Last Refresh : Sunday, December 18, 2022, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
