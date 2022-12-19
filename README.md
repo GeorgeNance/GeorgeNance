@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Gary Kildall*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 6:21 AM
+  Last Refresh : Monday, December 19, 2022, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
