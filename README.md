@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### One man's constant is another man's variable.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 3:18 AM
+  Last Refresh : Monday, December 19, 2022, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
