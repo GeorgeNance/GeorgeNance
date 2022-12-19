@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 7:33 PM
+  Last Refresh : Sunday, December 18, 2022, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
