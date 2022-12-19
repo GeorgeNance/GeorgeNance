@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Donald Knuth*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 9:24 AM
+  Last Refresh : Monday, December 19, 2022, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
