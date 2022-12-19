@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 10:14 PM
+  Last Refresh : Sunday, December 18, 2022, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
