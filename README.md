@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 18, 2022, 4:15 PM
+  Last Refresh : Sunday, December 18, 2022, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
