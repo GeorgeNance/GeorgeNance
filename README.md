@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Randall E. Stross*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 5:30 AM
+  Last Refresh : Monday, December 19, 2022, 6:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
