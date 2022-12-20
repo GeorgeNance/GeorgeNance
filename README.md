@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Steve McConnell*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 20, 2022, 7:15 AM
+  Last Refresh : Tuesday, December 20, 2022, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
