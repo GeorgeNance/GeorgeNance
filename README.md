@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Terry Winograd*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 20, 2022, 1:16 PM
+  Last Refresh : Tuesday, December 20, 2022, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
