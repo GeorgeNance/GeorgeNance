@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Butler Lampson*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 11:21 PM
+  Last Refresh : Tuesday, December 20, 2022, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
