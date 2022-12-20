@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### One man's constant is another man's variable.
 >
-> ~ *Robert C. Martin*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 20, 2022, 12:14 AM
+  Last Refresh : Tuesday, December 20, 2022, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
