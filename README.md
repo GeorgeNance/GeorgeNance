@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 >
-> ~ *Fred Brooks*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 20, 2022, 3:17 AM
+  Last Refresh : Tuesday, December 20, 2022, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
