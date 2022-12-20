@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### It’s all talk until the code runs.
 >
-> ~ *Linus Torvalds*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 6:18 PM
+  Last Refresh : Monday, December 19, 2022, 7:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
