@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 19, 2022, 4:15 PM
+  Last Refresh : Monday, December 19, 2022, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
