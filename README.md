@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Douglas Crockford*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 20, 2022, 4:13 AM
+  Last Refresh : Tuesday, December 20, 2022, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
