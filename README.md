@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 8:16 AM
+  Last Refresh : Wednesday, December 21, 2022, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
