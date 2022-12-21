@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Ted Nelson*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 20, 2022, 7:34 PM
+  Last Refresh : Tuesday, December 20, 2022, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
