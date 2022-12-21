@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Fred Brooks*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 12:14 AM
+  Last Refresh : Wednesday, December 21, 2022, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
