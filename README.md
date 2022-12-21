@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *William Wulf*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 12:12 PM
+  Last Refresh : Wednesday, December 21, 2022, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
