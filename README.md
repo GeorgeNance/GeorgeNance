@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Donald Knuth*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 10:14 AM
+  Last Refresh : Wednesday, December 21, 2022, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
