@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 >
-> ~ *Andy Hunt (author)*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 4:12 AM
+  Last Refresh : Wednesday, December 21, 2022, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
