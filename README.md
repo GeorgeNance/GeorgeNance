@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 >
-> ~ *Vannevar Bush*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 1:20 AM
+  Last Refresh : Wednesday, December 21, 2022, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
