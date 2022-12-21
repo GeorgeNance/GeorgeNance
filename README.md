@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 1:16 PM
+  Last Refresh : Wednesday, December 21, 2022, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
