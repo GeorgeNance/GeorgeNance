@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Ted Nelson*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 2:15 AM
+  Last Refresh : Wednesday, December 21, 2022, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
