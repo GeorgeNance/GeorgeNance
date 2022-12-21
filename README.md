@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 >
-> ~ *Dennis Ritchie*
+> ~ *Andy Hunt (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 3:17 AM
+  Last Refresh : Wednesday, December 21, 2022, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
