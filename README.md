@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *David Parnas*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 20, 2022, 6:14 PM
+  Last Refresh : Tuesday, December 20, 2022, 7:34 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
