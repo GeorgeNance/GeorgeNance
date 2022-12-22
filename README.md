@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 >
 > ~ *Addy Osmani*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 2:13 PM
+  Last Refresh : Thursday, December 22, 2022, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
