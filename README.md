@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Ken Olsen*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 5:30 AM
+  Last Refresh : Thursday, December 22, 2022, 6:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
