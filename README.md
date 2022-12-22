@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 4:17 PM
+  Last Refresh : Wednesday, December 21, 2022, 6:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
