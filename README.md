@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Kent Beck*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 7:14 AM
+  Last Refresh : Thursday, December 22, 2022, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
