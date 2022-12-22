@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 12:14 AM
+  Last Refresh : Thursday, December 22, 2022, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
