@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Martin Fowler*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 7:36 PM
+  Last Refresh : Wednesday, December 21, 2022, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
