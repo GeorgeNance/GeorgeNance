@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Stewart Brand*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 21, 2022, 10:14 PM
+  Last Refresh : Wednesday, December 21, 2022, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
