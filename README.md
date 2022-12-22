@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Bill Gates*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 1:16 PM
+  Last Refresh : Thursday, December 22, 2022, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
