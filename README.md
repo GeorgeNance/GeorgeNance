@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Elon Musk*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 3:17 AM
+  Last Refresh : Thursday, December 22, 2022, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
