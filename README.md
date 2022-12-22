@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 4:13 AM
+  Last Refresh : Thursday, December 22, 2022, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
