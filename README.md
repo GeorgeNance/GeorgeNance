@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Danny Hillis*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 23, 2022, 5:29 AM
+  Last Refresh : Friday, December 23, 2022, 6:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
