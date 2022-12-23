@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### Cool URIs don't change.
 >
-> ~ *Addy Osmani*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 23, 2022, 9:21 AM
+  Last Refresh : Friday, December 23, 2022, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
