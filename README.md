@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Addy Osmani*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 3:14 PM
+  Last Refresh : Thursday, December 22, 2022, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
