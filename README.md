@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Charles Simonyi*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 23, 2022, 6:20 AM
+  Last Refresh : Friday, December 23, 2022, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
