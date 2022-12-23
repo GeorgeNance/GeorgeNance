@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Vannevar Bush*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 22, 2022, 6:15 PM
+  Last Refresh : Thursday, December 22, 2022, 7:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
