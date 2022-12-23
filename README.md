@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 >
-> ~ *Martin Fowler*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 23, 2022, 1:19 AM
+  Last Refresh : Friday, December 23, 2022, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
