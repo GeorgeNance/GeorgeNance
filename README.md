@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Donald Knuth*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 24, 2022, 9:20 AM
+  Last Refresh : Saturday, December 24, 2022, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
