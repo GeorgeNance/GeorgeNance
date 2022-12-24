@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 >
-> ~ *Martin Fowler*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 24, 2022, 6:18 AM
+  Last Refresh : Saturday, December 24, 2022, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
