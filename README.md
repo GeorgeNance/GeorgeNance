@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Harlan Mills*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 23, 2022, 7:30 PM
+  Last Refresh : Friday, December 23, 2022, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
