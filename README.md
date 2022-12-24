@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 >
-> ~ *George Boole*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 24, 2022, 2:12 PM
+  Last Refresh : Saturday, December 24, 2022, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
