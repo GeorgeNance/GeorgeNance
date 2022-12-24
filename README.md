@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Douglas Crockford*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 23, 2022, 6:11 PM
+  Last Refresh : Friday, December 23, 2022, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
