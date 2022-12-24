@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 24, 2022, 3:13 PM
+  Last Refresh : Saturday, December 24, 2022, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
