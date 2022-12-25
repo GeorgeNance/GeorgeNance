@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Thomas J. Watson*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 24, 2022, 8:16 PM
+  Last Refresh : Saturday, December 24, 2022, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
