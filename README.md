@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Friedrich Bauer*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 25, 2022, 8:14 AM
+  Last Refresh : Sunday, December 25, 2022, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
