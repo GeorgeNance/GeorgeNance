@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### Good software, like good wine, takes time.
 >
-> ~ *John von Neumann*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 25, 2022, 12:11 PM
+  Last Refresh : Sunday, December 25, 2022, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
