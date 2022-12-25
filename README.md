@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Alan Perlis*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 24, 2022, 7:37 PM
+  Last Refresh : Saturday, December 24, 2022, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
