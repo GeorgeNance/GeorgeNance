@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 25, 2022, 4:15 PM
+  Last Refresh : Sunday, December 25, 2022, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
