@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Ken Thompson*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 26, 2022, 4:12 AM
+  Last Refresh : Monday, December 26, 2022, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
