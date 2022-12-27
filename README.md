@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Danny Hillis*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 27, 2022, 1:19 AM
+  Last Refresh : Tuesday, December 27, 2022, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
