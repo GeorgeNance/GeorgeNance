@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Martin Fowler*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 27, 2022, 4:12 AM
+  Last Refresh : Tuesday, December 27, 2022, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
