@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
 >
-> ~ *Elon Musk*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 26, 2022, 8:17 PM
+  Last Refresh : Monday, December 26, 2022, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
