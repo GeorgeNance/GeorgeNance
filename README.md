@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Joel Spolsky*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 27, 2022, 2:15 AM
+  Last Refresh : Tuesday, December 27, 2022, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
