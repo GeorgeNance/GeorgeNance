@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *John von Neumann*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 26, 2022, 11:19 PM
+  Last Refresh : Tuesday, December 27, 2022, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
