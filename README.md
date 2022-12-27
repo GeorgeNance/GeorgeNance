@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Alan Turing*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 27, 2022, 2:13 PM
+  Last Refresh : Tuesday, December 27, 2022, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
