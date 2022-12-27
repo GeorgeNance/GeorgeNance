@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Richard Hamming*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 27, 2022, 10:13 AM
+  Last Refresh : Tuesday, December 27, 2022, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
