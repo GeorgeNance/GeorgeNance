@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 27, 2022, 7:13 AM
+  Last Refresh : Tuesday, December 27, 2022, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
