@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Donald Knuth*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 27, 2022, 11:19 AM
+  Last Refresh : Tuesday, December 27, 2022, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
