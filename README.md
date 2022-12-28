@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Dan Bricklin*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 5:28 AM
+  Last Refresh : Wednesday, December 28, 2022, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
