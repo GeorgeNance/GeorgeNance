@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *John Warnock*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 11:18 AM
+  Last Refresh : Wednesday, December 28, 2022, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
