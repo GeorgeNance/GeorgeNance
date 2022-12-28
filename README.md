@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Steve Jobs*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 2:13 PM
+  Last Refresh : Wednesday, December 28, 2022, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
