@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 12:14 AM
+  Last Refresh : Wednesday, December 28, 2022, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
