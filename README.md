@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Albert Einstein*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 9:20 AM
+  Last Refresh : Wednesday, December 28, 2022, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
