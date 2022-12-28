@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 6:19 AM
+  Last Refresh : Wednesday, December 28, 2022, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
