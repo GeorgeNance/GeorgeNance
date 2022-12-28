@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Danny Hillis*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 4:12 AM
+  Last Refresh : Wednesday, December 28, 2022, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
