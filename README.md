@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Richard Hamming*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 8:15 AM
+  Last Refresh : Wednesday, December 28, 2022, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
