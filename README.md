@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 >
-> ~ *Laurence J. Peter*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 1:16 PM
+  Last Refresh : Wednesday, December 28, 2022, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
