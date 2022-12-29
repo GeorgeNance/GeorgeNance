@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 29, 2022, 3:14 PM
+  Last Refresh : Thursday, December 29, 2022, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
