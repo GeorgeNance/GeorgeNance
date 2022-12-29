@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 29, 2022, 2:13 PM
+  Last Refresh : Thursday, December 29, 2022, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
