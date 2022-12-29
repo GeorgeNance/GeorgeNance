@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 29, 2022, 8:15 AM
+  Last Refresh : Thursday, December 29, 2022, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
