@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 29, 2022, 1:19 AM
+  Last Refresh : Thursday, December 29, 2022, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
