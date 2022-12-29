@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 29, 2022, 7:13 AM
+  Last Refresh : Thursday, December 29, 2022, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
