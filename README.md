@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 29, 2022, 9:21 AM
+  Last Refresh : Thursday, December 29, 2022, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
