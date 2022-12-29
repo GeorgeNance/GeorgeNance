@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 29, 2022, 12:12 PM
+  Last Refresh : Thursday, December 29, 2022, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
