@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 4:15 PM
+  Last Refresh : Wednesday, December 28, 2022, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
