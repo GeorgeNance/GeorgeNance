@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Danny Hillis*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 11:19 PM
+  Last Refresh : Thursday, December 29, 2022, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
