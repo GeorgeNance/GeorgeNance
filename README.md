@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Charles Babbage*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 28, 2022, 7:36 PM
+  Last Refresh : Wednesday, December 28, 2022, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
