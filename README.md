@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Linus Torvalds*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 1:19 AM
+  Last Refresh : Friday, December 30, 2022, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
