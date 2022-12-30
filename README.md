@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 >
-> ~ *Robert C. Martin*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 10:13 AM
+  Last Refresh : Friday, December 30, 2022, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
