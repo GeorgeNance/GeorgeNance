@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 29, 2022, 6:18 PM
+  Last Refresh : Thursday, December 29, 2022, 7:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
