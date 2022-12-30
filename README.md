@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
 > ~ *Dennis Ritchie*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 5:28 AM
+  Last Refresh : Friday, December 30, 2022, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
