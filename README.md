@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Grady Booch*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 2:14 AM
+  Last Refresh : Friday, December 30, 2022, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
