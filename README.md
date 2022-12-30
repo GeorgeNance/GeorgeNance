@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Linus Torvalds*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 1:15 PM
+  Last Refresh : Friday, December 30, 2022, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
