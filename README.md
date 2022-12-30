@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Harlan Mills*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 12:11 PM
+  Last Refresh : Friday, December 30, 2022, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
