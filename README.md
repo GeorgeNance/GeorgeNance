@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 >
-> ~ *Richard P. Gabriel*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 5:26 AM
+  Last Refresh : Saturday, December 31, 2022, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
