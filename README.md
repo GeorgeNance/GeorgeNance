@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### Less code equals less bugs.
 >
-> ~ *Butler Lampson*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 7:33 PM
+  Last Refresh : Friday, December 30, 2022, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
