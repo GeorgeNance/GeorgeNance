@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Kevlin Henney*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 8:16 PM
+  Last Refresh : Friday, December 30, 2022, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
