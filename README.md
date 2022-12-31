@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Grady Booch*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 8:14 AM
+  Last Refresh : Saturday, December 31, 2022, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
