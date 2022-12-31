@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Donald Knuth*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 12:13 AM
+  Last Refresh : Saturday, December 31, 2022, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
