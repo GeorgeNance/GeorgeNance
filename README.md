@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### Deleted code is debugged code.
 >
-> ~ *Richard Hamming*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 10:12 AM
+  Last Refresh : Saturday, December 31, 2022, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
