@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Don Norman*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 1:18 AM
+  Last Refresh : Saturday, December 31, 2022, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
