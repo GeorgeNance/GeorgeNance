@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 30, 2022, 11:18 PM
+  Last Refresh : Saturday, December 31, 2022, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
