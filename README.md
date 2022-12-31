@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Linus Torvalds*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 9:20 AM
+  Last Refresh : Saturday, December 31, 2022, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
