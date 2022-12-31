@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 3:13 PM
+  Last Refresh : Saturday, December 31, 2022, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
