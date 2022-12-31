@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Quarry worker's creed*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 7:12 AM
+  Last Refresh : Saturday, December 31, 2022, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
