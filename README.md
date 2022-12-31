@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *René Descartes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 12:11 PM
+  Last Refresh : Saturday, December 31, 2022, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
