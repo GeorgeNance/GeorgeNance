@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 1, 2023, 1:19 AM
+  Last Refresh : Sunday, January 1, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
