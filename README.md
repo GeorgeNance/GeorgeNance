@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 1, 2023, 11:17 AM
+  Last Refresh : Sunday, January 1, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
