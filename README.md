@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### No code is faster than no code.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 10:13 PM
+  Last Refresh : Saturday, December 31, 2022, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
