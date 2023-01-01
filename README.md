@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Martin Fowler*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 9:18 PM
+  Last Refresh : Saturday, December 31, 2022, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
