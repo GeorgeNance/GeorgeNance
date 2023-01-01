@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *John Warnock*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 1, 2023, 5:28 AM
+  Last Refresh : Sunday, January 1, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
