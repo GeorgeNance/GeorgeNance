@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Richard Hamming*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 7:50 PM
+  Last Refresh : Saturday, December 31, 2022, 8:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
