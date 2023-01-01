@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *John Warnock*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 1, 2023, 2:12 PM
+  Last Refresh : Sunday, January 1, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
