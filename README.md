@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
 > ~ *Richard Hamming*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 31, 2022, 6:36 PM
+  Last Refresh : Saturday, December 31, 2022, 7:50 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
