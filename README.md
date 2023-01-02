@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Donald Knuth*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 1, 2023, 6:17 PM
+  Last Refresh : Sunday, January 1, 2023, 7:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
