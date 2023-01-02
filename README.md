@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### If you think your users are idiots, only idiots will use it.
 >
 > ~ *Linus Torvalds*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 2, 2023, 8:16 AM
+  Last Refresh : Monday, January 2, 2023, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
