@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> ~ *Ted Nelson*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 2, 2023, 3:14 PM
+  Last Refresh : Monday, January 2, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
