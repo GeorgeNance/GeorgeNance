@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 >
-> ~ *Joel Spolsky*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 1, 2023, 7:37 PM
+  Last Refresh : Sunday, January 1, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
