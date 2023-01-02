@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 2, 2023, 6:20 AM
+  Last Refresh : Monday, January 2, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
