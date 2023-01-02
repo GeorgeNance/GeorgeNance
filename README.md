@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Richard Stallman*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 1, 2023, 4:15 PM
+  Last Refresh : Sunday, January 1, 2023, 6:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
