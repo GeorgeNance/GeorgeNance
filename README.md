@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Fred Brooks*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 2, 2023, 10:13 AM
+  Last Refresh : Monday, January 2, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
