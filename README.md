@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *David Gelernter*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 2, 2023, 1:16 PM
+  Last Refresh : Monday, January 2, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
