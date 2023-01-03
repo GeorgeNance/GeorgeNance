@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Addy Osmani*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 5:31 AM
+  Last Refresh : Tuesday, January 3, 2023, 6:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
