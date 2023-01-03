@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 >
-> ~ *George Boole*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 2, 2023, 7:35 PM
+  Last Refresh : Monday, January 2, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
