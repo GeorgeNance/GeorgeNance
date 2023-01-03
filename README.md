@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 2, 2023, 11:18 PM
+  Last Refresh : Tuesday, January 3, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
