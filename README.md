@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Fred Brooks*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 3:17 AM
+  Last Refresh : Tuesday, January 3, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
