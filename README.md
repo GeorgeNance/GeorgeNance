@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 >
-> ~ *Richard Hamming*
+> ~ *John Gall (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 6:21 AM
+  Last Refresh : Tuesday, January 3, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
