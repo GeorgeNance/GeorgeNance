@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Charles Simonyi*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 2, 2023, 8:17 PM
+  Last Refresh : Monday, January 2, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
