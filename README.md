@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### Programming can be addictive.
 >
-> ~ *Manuel Blum*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 12:12 PM
+  Last Refresh : Tuesday, January 3, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
