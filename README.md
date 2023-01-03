@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Filipe Fortes*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 12:13 AM
+  Last Refresh : Tuesday, January 3, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
