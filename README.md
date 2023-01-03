@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 4:12 AM
+  Last Refresh : Tuesday, January 3, 2023, 5:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
