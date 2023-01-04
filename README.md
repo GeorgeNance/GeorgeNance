@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### When in doubt, use brute force.
 >
-> ~ *Alan Perlis*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 4, 2023, 6:22 AM
+  Last Refresh : Wednesday, January 4, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
