@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 11:19 PM
+  Last Refresh : Wednesday, January 4, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
