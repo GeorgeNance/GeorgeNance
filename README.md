@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 9:18 PM
+  Last Refresh : Tuesday, January 3, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
