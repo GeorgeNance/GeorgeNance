@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Richard Hamming*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 4, 2023, 1:17 PM
+  Last Refresh : Wednesday, January 4, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
