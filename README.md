@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Fred Brooks*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 3, 2023, 10:14 PM
+  Last Refresh : Tuesday, January 3, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
