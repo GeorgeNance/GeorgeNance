@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 >
-> ~ *Dan Bricklin*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 4, 2023, 12:14 AM
+  Last Refresh : Wednesday, January 4, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
