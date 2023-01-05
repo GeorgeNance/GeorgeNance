@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Danny Hillis*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 4, 2023, 11:18 PM
+  Last Refresh : Thursday, January 5, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
