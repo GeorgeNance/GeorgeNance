@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *John Warnock*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 4, 2023, 8:16 PM
+  Last Refresh : Wednesday, January 4, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
