@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Jim Horning*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 5, 2023, 3:17 AM
+  Last Refresh : Thursday, January 5, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
