@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Albert Einstein*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 4, 2023, 9:19 PM
+  Last Refresh : Wednesday, January 4, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
