@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 >
-> ~ *Daniel T. Barry*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 4, 2023, 7:40 PM
+  Last Refresh : Wednesday, January 4, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
