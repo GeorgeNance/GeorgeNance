@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 >
 > ~ *Ted Nelson*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 5, 2023, 3:15 PM
+  Last Refresh : Thursday, January 5, 2023, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
