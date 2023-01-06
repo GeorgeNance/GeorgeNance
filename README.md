@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Ivan Sutherland*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 5, 2023, 11:20 PM
+  Last Refresh : Friday, January 6, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
