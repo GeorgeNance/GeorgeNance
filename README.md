@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Daniel T. Barry*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 5, 2023, 8:17 PM
+  Last Refresh : Thursday, January 5, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
