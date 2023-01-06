@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 6, 2023, 1:20 AM
+  Last Refresh : Friday, January 6, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
