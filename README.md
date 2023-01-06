@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *David Parnas*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 5, 2023, 6:21 PM
+  Last Refresh : Thursday, January 5, 2023, 7:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
