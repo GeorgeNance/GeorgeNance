@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### Programming can be addictive.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 6, 2023, 3:15 PM
+  Last Refresh : Friday, January 6, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
