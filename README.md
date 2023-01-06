@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Mario Fusco*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 6, 2023, 3:17 AM
+  Last Refresh : Friday, January 6, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
