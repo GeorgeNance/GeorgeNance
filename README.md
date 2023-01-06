@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 5, 2023, 7:43 PM
+  Last Refresh : Thursday, January 5, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
