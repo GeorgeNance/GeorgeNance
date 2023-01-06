@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### Life is too short to run proprietary software.
 >
-> ~ *George Boole*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 6, 2023, 12:12 PM
+  Last Refresh : Friday, January 6, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
