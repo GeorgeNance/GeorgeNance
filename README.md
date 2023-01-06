@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### When in doubt, use brute force.
 >
-> ~ *Richard Hamming*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 6, 2023, 10:14 AM
+  Last Refresh : Friday, January 6, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
