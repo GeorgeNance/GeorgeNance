@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
 >
-> ~ *Arthur C. Clarke*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 6, 2023, 6:21 AM
+  Last Refresh : Friday, January 6, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
