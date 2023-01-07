@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Daniel T. Barry*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 7, 2023, 3:14 PM
+  Last Refresh : Saturday, January 7, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
