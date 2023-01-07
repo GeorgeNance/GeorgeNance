@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Bob Carr*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 6, 2023, 4:15 PM
+  Last Refresh : Friday, January 6, 2023, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
