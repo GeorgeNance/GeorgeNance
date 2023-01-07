@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Daniel T. Barry*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 6, 2023, 6:18 PM
+  Last Refresh : Friday, January 6, 2023, 7:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
