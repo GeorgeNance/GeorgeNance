@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *Richard Stallman*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 7, 2023, 12:13 AM
+  Last Refresh : Saturday, January 7, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
