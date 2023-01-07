@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Albert Einstein*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 7, 2023, 2:12 PM
+  Last Refresh : Saturday, January 7, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
