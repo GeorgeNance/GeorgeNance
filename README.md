@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Albert Einstein*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 7, 2023, 11:18 AM
+  Last Refresh : Saturday, January 7, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
