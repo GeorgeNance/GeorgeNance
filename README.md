@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
 >
-> ~ *Richard Stallman*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 7, 2023, 10:12 AM
+  Last Refresh : Saturday, January 7, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
