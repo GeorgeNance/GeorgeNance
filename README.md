@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 8, 2023, 6:18 AM
+  Last Refresh : Sunday, January 8, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
