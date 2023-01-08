@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 8, 2023, 1:15 PM
+  Last Refresh : Sunday, January 8, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
