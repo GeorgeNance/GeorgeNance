@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 8, 2023, 1:19 AM
+  Last Refresh : Sunday, January 8, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
