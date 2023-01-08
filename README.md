@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Gerald Weinberg*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 8, 2023, 5:29 AM
+  Last Refresh : Sunday, January 8, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
