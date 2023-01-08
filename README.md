@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Danny Hillis*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 8, 2023, 10:13 AM
+  Last Refresh : Sunday, January 8, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
