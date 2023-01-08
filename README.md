@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Grady Booch*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 8, 2023, 11:18 AM
+  Last Refresh : Sunday, January 8, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
