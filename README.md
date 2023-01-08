@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 7, 2023, 11:18 PM
+  Last Refresh : Sunday, January 8, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
