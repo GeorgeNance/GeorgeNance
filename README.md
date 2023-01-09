@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 5:32 AM
+  Last Refresh : Monday, January 9, 2023, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
