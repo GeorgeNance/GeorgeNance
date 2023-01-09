@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 >
-> ~ *Fred Brooks*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 8:23 AM
+  Last Refresh : Monday, January 9, 2023, 9:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
