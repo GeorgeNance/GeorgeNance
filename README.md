@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Kevlin Henney*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 8, 2023, 11:20 PM
+  Last Refresh : Monday, January 9, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
