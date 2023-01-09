@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Robert C. Martin*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 1:21 AM
+  Last Refresh : Monday, January 9, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
