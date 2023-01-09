@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Linus Torvalds*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 7:18 AM
+  Last Refresh : Monday, January 9, 2023, 8:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
