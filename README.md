@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *Elon Musk*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 11:20 AM
+  Last Refresh : Monday, January 9, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
