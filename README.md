@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Maurice Wilkes*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 10:16 AM
+  Last Refresh : Monday, January 9, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
