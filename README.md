@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### Within a computer, natural language is unnatural.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 3:18 AM
+  Last Refresh : Monday, January 9, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
