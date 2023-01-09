@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 >
-> ~ *Tom Cargill*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 8, 2023, 9:19 PM
+  Last Refresh : Sunday, January 8, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
