@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Anonymous*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 7:45 PM
+  Last Refresh : Monday, January 9, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
