@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Ellen Ullman*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 9, 2023, 11:21 PM
+  Last Refresh : Tuesday, January 10, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
