@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 9:26 AM
+  Last Refresh : Tuesday, January 10, 2023, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
