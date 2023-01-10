@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 >
-> ~ *Alan Turing*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 1:20 AM
+  Last Refresh : Tuesday, January 10, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
