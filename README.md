@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Alan Perlis*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 10:16 AM
+  Last Refresh : Tuesday, January 10, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
