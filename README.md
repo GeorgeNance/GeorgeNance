@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *John von Neumann*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 11:19 AM
+  Last Refresh : Tuesday, January 10, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
