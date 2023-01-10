@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 12:14 AM
+  Last Refresh : Tuesday, January 10, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
