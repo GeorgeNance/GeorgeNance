@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Linus Torvalds*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 4:14 AM
+  Last Refresh : Tuesday, January 10, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
