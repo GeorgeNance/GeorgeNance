@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 12:13 PM
+  Last Refresh : Tuesday, January 10, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
