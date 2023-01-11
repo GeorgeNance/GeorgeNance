@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 >
-> ~ *Brian Kernighan*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 2:18 AM
+  Last Refresh : Wednesday, January 11, 2023, 3:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
