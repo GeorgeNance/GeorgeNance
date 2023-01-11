@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 9:19 PM
+  Last Refresh : Tuesday, January 10, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
