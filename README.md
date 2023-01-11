@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Terry Winograd*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 12:14 AM
+  Last Refresh : Wednesday, January 11, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
