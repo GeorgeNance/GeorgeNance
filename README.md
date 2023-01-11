@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Alan Turing*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 5:32 AM
+  Last Refresh : Wednesday, January 11, 2023, 6:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
