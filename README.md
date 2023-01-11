@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Jaron Lanier*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 11:24 AM
+  Last Refresh : Wednesday, January 11, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
