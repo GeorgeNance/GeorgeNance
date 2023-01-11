@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 3:16 PM
+  Last Refresh : Wednesday, January 11, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
