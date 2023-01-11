@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### Never memorize something that you can look up.
 >
-> ~ *Seymour Cray*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 10, 2023, 6:21 PM
+  Last Refresh : Tuesday, January 10, 2023, 7:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
