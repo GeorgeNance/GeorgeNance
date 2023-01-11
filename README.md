@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Stewart Brand*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 10:19 AM
+  Last Refresh : Wednesday, January 11, 2023, 11:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
