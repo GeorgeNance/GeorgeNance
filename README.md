@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Charles Babbage*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 8:30 AM
+  Last Refresh : Wednesday, January 11, 2023, 9:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
