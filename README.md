@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Elon Musk*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 4:16 PM
+  Last Refresh : Wednesday, January 11, 2023, 6:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
