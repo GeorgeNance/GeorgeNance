@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Elon Musk*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 11:20 PM
+  Last Refresh : Thursday, January 12, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
