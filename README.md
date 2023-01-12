@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Dan Bricklin*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 12, 2023, 7:20 AM
+  Last Refresh : Thursday, January 12, 2023, 8:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
