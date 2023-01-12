@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 12, 2023, 3:16 PM
+  Last Refresh : Thursday, January 12, 2023, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
