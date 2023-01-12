@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Douglas Crockford*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 12, 2023, 11:21 AM
+  Last Refresh : Thursday, January 12, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
