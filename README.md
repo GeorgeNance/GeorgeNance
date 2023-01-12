@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 11, 2023, 9:19 PM
+  Last Refresh : Wednesday, January 11, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
