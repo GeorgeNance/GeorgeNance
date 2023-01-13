@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *John Romero*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 2:13 PM
+  Last Refresh : Friday, January 13, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
