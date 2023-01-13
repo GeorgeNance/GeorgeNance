@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Martin Fowler*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 11:19 AM
+  Last Refresh : Friday, January 13, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
