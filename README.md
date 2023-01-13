@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Richard P. Gabriel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 1:21 AM
+  Last Refresh : Friday, January 13, 2023, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
