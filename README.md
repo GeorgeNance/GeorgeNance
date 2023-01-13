@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 >
-> ~ *Harlan Mills*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 12, 2023, 10:15 PM
+  Last Refresh : Thursday, January 12, 2023, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
