@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 5:30 AM
+  Last Refresh : Friday, January 13, 2023, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
