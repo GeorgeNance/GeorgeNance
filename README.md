@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Alan Perlis*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 12:14 AM
+  Last Refresh : Friday, January 13, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
