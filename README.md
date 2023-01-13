@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 3:14 PM
+  Last Refresh : Friday, January 13, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
