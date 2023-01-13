@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 7:15 AM
+  Last Refresh : Friday, January 13, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
