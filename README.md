@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Bill Gates*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 12, 2023, 4:17 PM
+  Last Refresh : Thursday, January 12, 2023, 6:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
