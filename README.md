@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 10:14 AM
+  Last Refresh : Friday, January 13, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
