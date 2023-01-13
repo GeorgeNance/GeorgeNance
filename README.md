@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 >
-> ~ *Alan Perlis*
+> ~ *Richard P. Gabriel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 6:22 AM
+  Last Refresh : Friday, January 13, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
