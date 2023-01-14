@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Linus Torvalds*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 14, 2023, 10:13 AM
+  Last Refresh : Saturday, January 14, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
