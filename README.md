@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Fred Brooks*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 14, 2023, 12:11 PM
+  Last Refresh : Saturday, January 14, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
