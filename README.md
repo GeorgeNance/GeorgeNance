@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *John Ousterhout*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 14, 2023, 6:18 AM
+  Last Refresh : Saturday, January 14, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
