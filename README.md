@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### When in doubt, leave it out.
 >
-> ~ *Terry Winograd*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 14, 2023, 12:13 AM
+  Last Refresh : Saturday, January 14, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
