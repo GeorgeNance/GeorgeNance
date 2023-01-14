@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 14, 2023, 7:13 AM
+  Last Refresh : Saturday, January 14, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
