@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 >
-> ~ *Danny Hillis*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 13, 2023, 7:34 PM
+  Last Refresh : Friday, January 13, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
