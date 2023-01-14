@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Linus Torvalds*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 14, 2023, 8:14 AM
+  Last Refresh : Saturday, January 14, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
