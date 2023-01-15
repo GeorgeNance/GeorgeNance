@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 14, 2023, 4:15 PM
+  Last Refresh : Saturday, January 14, 2023, 6:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
