@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Doug Linder*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 12:11 PM
+  Last Refresh : Sunday, January 15, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
