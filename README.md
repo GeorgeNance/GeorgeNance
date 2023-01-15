@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *James Gleick*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 6:18 AM
+  Last Refresh : Sunday, January 15, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
