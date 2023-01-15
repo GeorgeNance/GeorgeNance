@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Alan Perlis*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 3:14 PM
+  Last Refresh : Sunday, January 15, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
