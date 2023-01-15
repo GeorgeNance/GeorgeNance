@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Linus Torvalds*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 7:13 AM
+  Last Refresh : Sunday, January 15, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
