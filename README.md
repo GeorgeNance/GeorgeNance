@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Less code equals less bugs.
 >
-> ~ *Rob Pike*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 8:15 AM
+  Last Refresh : Sunday, January 15, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
