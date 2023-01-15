@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Ted Nelson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 3:15 AM
+  Last Refresh : Sunday, January 15, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
