@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 14, 2023, 7:43 PM
+  Last Refresh : Saturday, January 14, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
