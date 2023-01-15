@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *P. J. Plauger*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 12:13 AM
+  Last Refresh : Sunday, January 15, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
