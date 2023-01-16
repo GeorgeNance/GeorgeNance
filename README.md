@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Tony Hoare*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 11:19 AM
+  Last Refresh : Monday, January 16, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
