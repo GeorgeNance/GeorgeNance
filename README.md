@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Jaron Lanier*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 1:16 PM
+  Last Refresh : Monday, January 16, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
