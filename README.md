@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Marvin Minsky*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 5:32 AM
+  Last Refresh : Monday, January 16, 2023, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
