@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
 >
-> ~ *Gary Kildall*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 7:15 AM
+  Last Refresh : Monday, January 16, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
