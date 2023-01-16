@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 3:18 AM
+  Last Refresh : Monday, January 16, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
