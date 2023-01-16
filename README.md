@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 11:21 PM
+  Last Refresh : Monday, January 16, 2023, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
