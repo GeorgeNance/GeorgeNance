@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Chris Wenham*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 2:13 PM
+  Last Refresh : Monday, January 16, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
