@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Richard Hamming*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 6:24 AM
+  Last Refresh : Monday, January 16, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
