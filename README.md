@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 15, 2023, 10:14 PM
+  Last Refresh : Sunday, January 15, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
