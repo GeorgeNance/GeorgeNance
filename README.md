@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 4:15 PM
+  Last Refresh : Monday, January 16, 2023, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
