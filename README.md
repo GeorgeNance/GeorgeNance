@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 8:17 PM
+  Last Refresh : Monday, January 16, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
