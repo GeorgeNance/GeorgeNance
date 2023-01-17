@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *Rob Pike*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 17, 2023, 5:33 AM
+  Last Refresh : Tuesday, January 17, 2023, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
