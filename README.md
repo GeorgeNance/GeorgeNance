@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 17, 2023, 10:14 AM
+  Last Refresh : Tuesday, January 17, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
