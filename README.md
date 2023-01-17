@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Edward V. Berard*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 17, 2023, 2:14 PM
+  Last Refresh : Tuesday, January 17, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
