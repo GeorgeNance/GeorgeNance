@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Elon Musk*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 17, 2023, 12:14 AM
+  Last Refresh : Tuesday, January 17, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
