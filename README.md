@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Butler Lampson*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 16, 2023, 11:19 PM
+  Last Refresh : Tuesday, January 17, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
