@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Dennis Ritchie*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 17, 2023, 11:20 PM
+  Last Refresh : Wednesday, January 18, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
