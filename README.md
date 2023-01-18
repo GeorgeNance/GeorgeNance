@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Steve Jobs*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 17, 2023, 9:19 PM
+  Last Refresh : Tuesday, January 17, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
