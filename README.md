@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 10:14 AM
+  Last Refresh : Wednesday, January 18, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
