@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 1:16 PM
+  Last Refresh : Wednesday, January 18, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
