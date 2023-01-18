@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Richard Feynman*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 17, 2023, 7:44 PM
+  Last Refresh : Tuesday, January 17, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
