@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Douglas Crockford*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 17, 2023, 4:16 PM
+  Last Refresh : Tuesday, January 17, 2023, 6:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
