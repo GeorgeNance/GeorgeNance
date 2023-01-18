@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Ray Ozzie*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 7:14 AM
+  Last Refresh : Wednesday, January 18, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
