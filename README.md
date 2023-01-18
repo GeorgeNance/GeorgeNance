@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Gerald Weinberg*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 1:20 AM
+  Last Refresh : Wednesday, January 18, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
