@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### Making things easy is hard.
 >
-> ~ *Elon Musk*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 8:18 PM
+  Last Refresh : Wednesday, January 18, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
