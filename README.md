@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Richard Stallman*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 6:22 PM
+  Last Refresh : Wednesday, January 18, 2023, 7:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
