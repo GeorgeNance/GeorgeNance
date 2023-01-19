@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Anonymous*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 7:45 PM
+  Last Refresh : Wednesday, January 18, 2023, 8:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
