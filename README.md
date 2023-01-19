@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Daniel T. Barry*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 10:15 PM
+  Last Refresh : Wednesday, January 18, 2023, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
