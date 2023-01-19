@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### One man's constant is another man's variable.
 >
-> ~ *Jef Raskin*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 19, 2023, 6:24 AM
+  Last Refresh : Thursday, January 19, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
