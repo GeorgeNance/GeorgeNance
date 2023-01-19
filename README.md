@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Martin Fowler*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 19, 2023, 5:31 AM
+  Last Refresh : Thursday, January 19, 2023, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
