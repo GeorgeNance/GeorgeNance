@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Vint Cerf*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 19, 2023, 12:13 PM
+  Last Refresh : Thursday, January 19, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
