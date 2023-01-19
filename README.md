@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 >
-> ~ *George Boole*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 19, 2023, 4:13 AM
+  Last Refresh : Thursday, January 19, 2023, 5:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
