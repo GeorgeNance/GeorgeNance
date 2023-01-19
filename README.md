@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Poul Anderson*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 19, 2023, 1:21 AM
+  Last Refresh : Thursday, January 19, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
