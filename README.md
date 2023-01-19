@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
 >
-> ~ *Wayne Ratliff*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 18, 2023, 4:16 PM
+  Last Refresh : Wednesday, January 18, 2023, 6:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
