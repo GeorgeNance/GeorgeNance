@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Jamie Zawinski*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 20, 2023, 12:14 AM
+  Last Refresh : Friday, January 20, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
