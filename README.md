@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### Good software, like good wine, takes time.
 >
-> ~ *John Carmack*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 19, 2023, 4:17 PM
+  Last Refresh : Thursday, January 19, 2023, 6:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
