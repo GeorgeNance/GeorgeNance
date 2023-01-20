@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Danny Hillis*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 20, 2023, 8:17 AM
+  Last Refresh : Friday, January 20, 2023, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
