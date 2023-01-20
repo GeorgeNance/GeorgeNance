@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Ken Thompson*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 19, 2023, 8:19 PM
+  Last Refresh : Thursday, January 19, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
