@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 >
 > ~ *Charles Simonyi*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 20, 2023, 4:13 AM
+  Last Refresh : Friday, January 20, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
