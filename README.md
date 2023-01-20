@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Joel Spolsky*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 19, 2023, 6:20 PM
+  Last Refresh : Thursday, January 19, 2023, 7:46 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
