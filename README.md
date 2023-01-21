@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Ward Cunningham*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 3:15 AM
+  Last Refresh : Saturday, January 21, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
