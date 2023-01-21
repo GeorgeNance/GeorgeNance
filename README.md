@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Niklaus Wirth*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 6:18 AM
+  Last Refresh : Saturday, January 21, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
