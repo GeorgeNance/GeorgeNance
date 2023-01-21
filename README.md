@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Harlan Mills*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 8:14 AM
+  Last Refresh : Saturday, January 21, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
