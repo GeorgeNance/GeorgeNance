@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 >
-> ~ *Bob Frankston*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 20, 2023, 6:19 PM
+  Last Refresh : Friday, January 20, 2023, 7:38 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
