@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 >
-> ~ *John von Neumann*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 20, 2023, 11:18 PM
+  Last Refresh : Saturday, January 21, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
