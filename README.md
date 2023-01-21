@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
 >
-> ~ *Donald Knuth*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 20, 2023, 10:13 PM
+  Last Refresh : Friday, January 20, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
