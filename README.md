@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 >
-> ~ *Douglas Crockford*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 1:19 AM
+  Last Refresh : Saturday, January 21, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
