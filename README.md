@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 >
-> ~ *Harlan Mills*
+> ~ *John Romero*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 12:11 PM
+  Last Refresh : Saturday, January 21, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
