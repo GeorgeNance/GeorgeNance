@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### It’s all talk until the code runs.
 >
-> ~ *Jamie Zawinski*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 2:14 AM
+  Last Refresh : Saturday, January 21, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
