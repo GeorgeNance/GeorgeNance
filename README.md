@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 5:27 AM
+  Last Refresh : Saturday, January 21, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
