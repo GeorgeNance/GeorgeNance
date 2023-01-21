@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 12:13 AM
+  Last Refresh : Saturday, January 21, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
