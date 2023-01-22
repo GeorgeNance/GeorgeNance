@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 2:14 AM
+  Last Refresh : Sunday, January 22, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
