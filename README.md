@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
 >
-> ~ *Thomas J. Watson*
+> ~ *Manuel Blum*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 10:13 PM
+  Last Refresh : Saturday, January 21, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
