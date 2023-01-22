@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Grady Booch*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 6:18 AM
+  Last Refresh : Sunday, January 22, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
