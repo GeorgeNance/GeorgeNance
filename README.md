@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 9:19 PM
+  Last Refresh : Saturday, January 21, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
