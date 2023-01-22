@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
 >
-> ~ *Fred Brooks*
+> ~ *Steve McConnell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 7:44 PM
+  Last Refresh : Saturday, January 21, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
