@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Dennis Ritchie*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 11:18 AM
+  Last Refresh : Sunday, January 22, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
