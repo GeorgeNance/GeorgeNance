@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Douglas Crockford*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 12:13 AM
+  Last Refresh : Sunday, January 22, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
