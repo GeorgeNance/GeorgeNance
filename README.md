@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 >
-> ~ *Alan Perlis*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 3:15 AM
+  Last Refresh : Sunday, January 22, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
