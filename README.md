@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Randall E. Stross*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 5:28 AM
+  Last Refresh : Sunday, January 22, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
