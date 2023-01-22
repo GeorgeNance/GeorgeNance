@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Richard Hamming*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 10:13 AM
+  Last Refresh : Sunday, January 22, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
