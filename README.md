@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 21, 2023, 6:23 PM
+  Last Refresh : Saturday, January 21, 2023, 7:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
