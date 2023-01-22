@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Richard E. Pattis*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 1:15 PM
+  Last Refresh : Sunday, January 22, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
