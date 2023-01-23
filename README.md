@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *John Warnock*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 23, 2023, 8:17 AM
+  Last Refresh : Monday, January 23, 2023, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
