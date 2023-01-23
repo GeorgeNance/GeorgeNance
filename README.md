@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *William Wulf*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 22, 2023, 8:17 PM
+  Last Refresh : Sunday, January 22, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
