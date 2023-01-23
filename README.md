@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 >
-> ~ *Ward Cunningham*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 23, 2023, 9:22 AM
+  Last Refresh : Monday, January 23, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
