@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 >
-> ~ *Albert Einstein*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 23, 2023, 11:18 AM
+  Last Refresh : Monday, January 23, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
