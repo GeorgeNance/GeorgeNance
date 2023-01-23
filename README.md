@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Jim Horning*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 23, 2023, 12:12 PM
+  Last Refresh : Monday, January 23, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
