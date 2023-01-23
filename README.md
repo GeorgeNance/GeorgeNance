@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Douglas Crockford*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 23, 2023, 1:20 AM
+  Last Refresh : Monday, January 23, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
