@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Danny Hillis*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 23, 2023, 7:15 AM
+  Last Refresh : Monday, January 23, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
