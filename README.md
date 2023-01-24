@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Daniel T. Barry*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 23, 2023, 8:17 PM
+  Last Refresh : Monday, January 23, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
