@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Gerald Weinberg*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 24, 2023, 2:15 AM
+  Last Refresh : Tuesday, January 24, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
