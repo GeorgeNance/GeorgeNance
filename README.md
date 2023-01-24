@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Danny Hillis*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 24, 2023, 6:21 AM
+  Last Refresh : Tuesday, January 24, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
