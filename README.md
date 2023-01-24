@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 24, 2023, 4:13 AM
+  Last Refresh : Tuesday, January 24, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
