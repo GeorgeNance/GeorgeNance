@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 >
-> ~ *Ward Cunningham*
+> ~ *Laurence J. Peter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 24, 2023, 10:14 AM
+  Last Refresh : Tuesday, January 24, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
