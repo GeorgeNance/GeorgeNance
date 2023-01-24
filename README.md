@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Charles Babbage*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 24, 2023, 3:14 PM
+  Last Refresh : Tuesday, January 24, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
