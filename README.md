@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Marvin Minsky*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 23, 2023, 11:19 PM
+  Last Refresh : Tuesday, January 24, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
