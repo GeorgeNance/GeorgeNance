@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Albert Einstein*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 1:19 AM
+  Last Refresh : Wednesday, January 25, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
