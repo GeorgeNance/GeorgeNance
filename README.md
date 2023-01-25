@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Pete Cordell*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 3:16 AM
+  Last Refresh : Wednesday, January 25, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
