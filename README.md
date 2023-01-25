@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Bill Gates*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 12:12 PM
+  Last Refresh : Wednesday, January 25, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
