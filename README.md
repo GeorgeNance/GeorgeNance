@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Once you stop learning you start dying.
 >
-> ~ *Ray Ozzie*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 12:16 AM
+  Last Refresh : Wednesday, January 25, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
