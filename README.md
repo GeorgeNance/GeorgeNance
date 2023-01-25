@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Linus Torvalds*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 4:12 AM
+  Last Refresh : Wednesday, January 25, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
