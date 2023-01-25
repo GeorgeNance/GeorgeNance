@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Anonymous*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 1:16 PM
+  Last Refresh : Wednesday, January 25, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
