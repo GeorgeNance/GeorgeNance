@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Gerald Weinberg*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 24, 2023, 10:14 PM
+  Last Refresh : Tuesday, January 24, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
