@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 7:14 AM
+  Last Refresh : Wednesday, January 25, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
