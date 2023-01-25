@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Richard Feynman*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 24, 2023, 11:19 PM
+  Last Refresh : Wednesday, January 25, 2023, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
