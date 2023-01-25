@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Programming can be addictive.
 >
-> ~ *Gary Kildall*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 9:21 AM
+  Last Refresh : Wednesday, January 25, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
