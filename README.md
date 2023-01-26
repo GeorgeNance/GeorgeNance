@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Jonathan Sachs*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 26, 2023, 2:13 PM
+  Last Refresh : Thursday, January 26, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
