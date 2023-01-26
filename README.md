@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 26, 2023, 2:15 AM
+  Last Refresh : Thursday, January 26, 2023, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
