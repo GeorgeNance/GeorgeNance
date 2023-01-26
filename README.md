@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Sean Parent*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 7:40 PM
+  Last Refresh : Wednesday, January 25, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
