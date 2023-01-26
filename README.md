@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 4:16 PM
+  Last Refresh : Wednesday, January 25, 2023, 6:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
