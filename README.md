@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *David Parnas*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 26, 2023, 12:12 PM
+  Last Refresh : Thursday, January 26, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
