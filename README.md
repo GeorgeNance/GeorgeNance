@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Anonymous*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 11:19 PM
+  Last Refresh : Thursday, January 26, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
