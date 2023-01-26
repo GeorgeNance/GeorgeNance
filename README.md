@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Elon Musk*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 26, 2023, 3:17 AM
+  Last Refresh : Thursday, January 26, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
