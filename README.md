@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Richard Stallman*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 25, 2023, 10:14 PM
+  Last Refresh : Wednesday, January 25, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
