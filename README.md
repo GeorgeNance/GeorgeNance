@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Linus Torvalds*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 26, 2023, 1:20 AM
+  Last Refresh : Thursday, January 26, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
