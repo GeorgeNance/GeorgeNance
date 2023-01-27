@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *George Boole*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 26, 2023, 8:16 PM
+  Last Refresh : Thursday, January 26, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
