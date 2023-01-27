@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 27, 2023, 11:19 AM
+  Last Refresh : Friday, January 27, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
