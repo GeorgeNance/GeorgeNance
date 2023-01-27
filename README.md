@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 27, 2023, 7:14 AM
+  Last Refresh : Friday, January 27, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
