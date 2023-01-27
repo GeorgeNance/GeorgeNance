@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 >
-> ~ *Jim Coplien*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 26, 2023, 11:20 PM
+  Last Refresh : Friday, January 27, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
