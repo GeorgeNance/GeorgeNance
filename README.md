@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 >
-> ~ *Dennis Ritchie*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 27, 2023, 9:21 AM
+  Last Refresh : Friday, January 27, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
