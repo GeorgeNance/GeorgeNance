@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Eric S. Raymond*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 27, 2023, 5:30 AM
+  Last Refresh : Friday, January 27, 2023, 6:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
