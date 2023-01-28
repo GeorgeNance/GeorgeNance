@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Linus Torvalds*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 27, 2023, 10:14 PM
+  Last Refresh : Friday, January 27, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
