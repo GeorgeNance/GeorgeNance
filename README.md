@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Don Norman*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 27, 2023, 7:41 PM
+  Last Refresh : Friday, January 27, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
