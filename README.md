@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 27, 2023, 6:21 PM
+  Last Refresh : Friday, January 27, 2023, 7:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
