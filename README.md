@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *Danny Hillis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 27, 2023, 9:18 PM
+  Last Refresh : Friday, January 27, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
