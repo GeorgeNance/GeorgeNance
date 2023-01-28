@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *John Gall (author)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 28, 2023, 12:13 AM
+  Last Refresh : Saturday, January 28, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
