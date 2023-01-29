@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Bdale Garbee*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 9:19 AM
+  Last Refresh : Sunday, January 29, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
