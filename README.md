@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Daniel T. Barry*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 3:15 AM
+  Last Refresh : Sunday, January 29, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
