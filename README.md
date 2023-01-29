@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Eric S. Raymond*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 12:11 PM
+  Last Refresh : Sunday, January 29, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
