@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 28, 2023, 10:13 PM
+  Last Refresh : Saturday, January 28, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
