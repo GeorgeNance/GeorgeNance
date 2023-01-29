@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 >
-> ~ *Danny Hillis*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 7:13 AM
+  Last Refresh : Sunday, January 29, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
