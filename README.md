@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 11:17 AM
+  Last Refresh : Sunday, January 29, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
