@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *Richard Hamming*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 1:15 PM
+  Last Refresh : Sunday, January 29, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
