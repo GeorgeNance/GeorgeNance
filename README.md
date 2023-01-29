@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 28, 2023, 6:25 PM
+  Last Refresh : Saturday, January 28, 2023, 7:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
