@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 >
-> ~ *Daniel T. Barry*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 10:13 AM
+  Last Refresh : Sunday, January 29, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
