@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Donald Knuth*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 28, 2023, 4:14 PM
+  Last Refresh : Saturday, January 28, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
