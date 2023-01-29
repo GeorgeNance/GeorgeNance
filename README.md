@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 8:14 AM
+  Last Refresh : Sunday, January 29, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
