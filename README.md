@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *John Warnock*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 30, 2023, 4:15 AM
+  Last Refresh : Monday, January 30, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
