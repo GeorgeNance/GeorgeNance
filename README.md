@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 >
-> ~ *Ward Cunningham*
+> ~ *Tony Hoare*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 30, 2023, 9:22 AM
+  Last Refresh : Monday, January 30, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
