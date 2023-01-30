@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 >
-> ~ *Gordon Bell*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 7:38 PM
+  Last Refresh : Sunday, January 29, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
