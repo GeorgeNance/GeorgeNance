@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Marvin Minsky*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 6:17 PM
+  Last Refresh : Sunday, January 29, 2023, 7:38 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
