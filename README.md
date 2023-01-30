@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 >
-> ~ *Alan Perlis*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 29, 2023, 10:15 PM
+  Last Refresh : Sunday, January 29, 2023, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
