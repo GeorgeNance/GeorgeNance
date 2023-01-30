@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Alan Perlis*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 30, 2023, 1:16 PM
+  Last Refresh : Monday, January 30, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
