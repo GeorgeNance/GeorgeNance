@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Eric S. Raymond*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 31, 2023, 1:20 AM
+  Last Refresh : Tuesday, January 31, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
