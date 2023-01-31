@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Douglas Crockford*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 30, 2023, 8:18 PM
+  Last Refresh : Monday, January 30, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
