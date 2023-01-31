@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
 >
-> ~ *Marvin Minsky*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 31, 2023, 10:14 AM
+  Last Refresh : Tuesday, January 31, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
