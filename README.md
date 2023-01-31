@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Fred Brooks*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 31, 2023, 12:14 AM
+  Last Refresh : Tuesday, January 31, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
