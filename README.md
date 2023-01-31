@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 31, 2023, 8:16 AM
+  Last Refresh : Tuesday, January 31, 2023, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
