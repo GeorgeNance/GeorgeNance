@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 >
-> ~ *Bill Gates*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 31, 2023, 9:22 AM
+  Last Refresh : Tuesday, January 31, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
