@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### Cool URIs don't change.
 >
-> ~ *Linus Torvalds*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 30, 2023, 4:17 PM
+  Last Refresh : Monday, January 30, 2023, 6:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
