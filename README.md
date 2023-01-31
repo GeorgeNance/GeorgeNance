@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### Good software, like good wine, takes time.
 >
-> ~ *John Carmack*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 31, 2023, 1:17 PM
+  Last Refresh : Tuesday, January 31, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
