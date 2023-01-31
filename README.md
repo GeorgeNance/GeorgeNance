@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Friedrich Bauer*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 31, 2023, 4:13 AM
+  Last Refresh : Tuesday, January 31, 2023, 5:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
