@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 31, 2023, 5:31 AM
+  Last Refresh : Tuesday, January 31, 2023, 6:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
