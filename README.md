@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Fred Brooks*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 1, 2023, 3:15 PM
+  Last Refresh : Wednesday, February 1, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
