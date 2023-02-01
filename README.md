@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Bob Carr*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 1, 2023, 12:12 PM
+  Last Refresh : Wednesday, February 1, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
