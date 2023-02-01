@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Gerald Weinberg*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 1, 2023, 4:13 AM
+  Last Refresh : Wednesday, February 1, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
