@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 1, 2023, 7:14 AM
+  Last Refresh : Wednesday, February 1, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
