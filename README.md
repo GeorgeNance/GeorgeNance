@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Wayne Ratliff*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 1, 2023, 11:20 AM
+  Last Refresh : Wednesday, February 1, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
