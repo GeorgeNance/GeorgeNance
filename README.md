@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
 >
-> ~ *Donald Knuth*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 2, 2023, 1:20 AM
+  Last Refresh : Thursday, February 2, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
