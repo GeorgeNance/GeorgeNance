@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Douglas Crockford*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 2, 2023, 10:14 AM
+  Last Refresh : Thursday, February 2, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
