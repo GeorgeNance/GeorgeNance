@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Linus Torvalds*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 1, 2023, 6:22 PM
+  Last Refresh : Wednesday, February 1, 2023, 7:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
