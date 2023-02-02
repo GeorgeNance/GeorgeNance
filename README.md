@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### Programming can be addictive.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 1, 2023, 8:17 PM
+  Last Refresh : Wednesday, February 1, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
