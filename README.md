@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
 >
-> ~ *Terry Winograd*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 2, 2023, 6:27 AM
+  Last Refresh : Thursday, February 2, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
