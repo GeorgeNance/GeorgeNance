@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Richard Stallman*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 2, 2023, 2:15 AM
+  Last Refresh : Thursday, February 2, 2023, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
