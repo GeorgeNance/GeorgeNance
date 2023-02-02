@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### Most errors are introduced during requirements specification!
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 1, 2023, 7:44 PM
+  Last Refresh : Wednesday, February 1, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
