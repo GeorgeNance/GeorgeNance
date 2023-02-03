@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Grady Booch*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 1:16 PM
+  Last Refresh : Friday, February 3, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
