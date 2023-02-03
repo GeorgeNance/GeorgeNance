@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 >
-> ~ *Fred Brooks*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 2, 2023, 6:24 PM
+  Last Refresh : Thursday, February 2, 2023, 7:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
