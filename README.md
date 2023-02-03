@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 >
-> ~ *Stewart Brand*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 6:22 AM
+  Last Refresh : Friday, February 3, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
