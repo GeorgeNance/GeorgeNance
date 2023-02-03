@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Bob Carr*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 11:19 AM
+  Last Refresh : Friday, February 3, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
