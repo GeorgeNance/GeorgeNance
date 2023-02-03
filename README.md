@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Ada Lovelace*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 2, 2023, 7:48 PM
+  Last Refresh : Thursday, February 2, 2023, 8:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
