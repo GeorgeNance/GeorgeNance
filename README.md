@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Alan Perlis*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 12:12 PM
+  Last Refresh : Friday, February 3, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
