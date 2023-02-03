@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
-> ~ *Randall E. Stross*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 3:15 PM
+  Last Refresh : Friday, February 3, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
