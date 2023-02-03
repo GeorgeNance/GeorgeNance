@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
 >
-> ~ *David Parnas*
+> ~ *Manuel Blum*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 8:16 AM
+  Last Refresh : Friday, February 3, 2023, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
