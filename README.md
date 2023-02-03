@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Joshua Bloch*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 2, 2023, 9:19 PM
+  Last Refresh : Thursday, February 2, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
