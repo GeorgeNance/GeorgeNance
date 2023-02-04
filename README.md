@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Robert L. Glass*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 11:19 PM
+  Last Refresh : Saturday, February 4, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
