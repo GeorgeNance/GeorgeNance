@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
 >
-> ~ *Addy Osmani*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 12:11 PM
+  Last Refresh : Saturday, February 4, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
