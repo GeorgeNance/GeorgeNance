@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 >
-> ~ *Donald Knuth*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 1:15 PM
+  Last Refresh : Saturday, February 4, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
