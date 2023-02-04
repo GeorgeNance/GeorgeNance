@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Harlan Mills*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 12:13 AM
+  Last Refresh : Saturday, February 4, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
