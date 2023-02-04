@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Bill Gates*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 8:14 AM
+  Last Refresh : Saturday, February 4, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
