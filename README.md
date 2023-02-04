@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 6:18 PM
+  Last Refresh : Friday, February 3, 2023, 7:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
