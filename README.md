@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 4:12 AM
+  Last Refresh : Saturday, February 4, 2023, 5:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
