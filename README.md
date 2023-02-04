@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
 >
-> ~ *Ted Nelson*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 10:13 AM
+  Last Refresh : Saturday, February 4, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
