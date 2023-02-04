@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Ada Lovelace*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 3, 2023, 9:18 PM
+  Last Refresh : Friday, February 3, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
