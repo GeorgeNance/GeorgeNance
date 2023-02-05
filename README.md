@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Kent Beck*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 5, 2023, 3:15 AM
+  Last Refresh : Sunday, February 5, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
