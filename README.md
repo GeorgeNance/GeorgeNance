@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Grady Booch*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 5, 2023, 1:19 AM
+  Last Refresh : Sunday, February 5, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
