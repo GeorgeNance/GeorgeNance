@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 11:18 PM
+  Last Refresh : Sunday, February 5, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
