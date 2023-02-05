@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Poul Anderson*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 6:26 PM
+  Last Refresh : Saturday, February 4, 2023, 7:49 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
