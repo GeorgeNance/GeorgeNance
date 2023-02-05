@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 4, 2023, 9:18 PM
+  Last Refresh : Saturday, February 4, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
