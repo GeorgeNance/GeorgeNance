@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Anonymous*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 5, 2023, 3:14 PM
+  Last Refresh : Sunday, February 5, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
