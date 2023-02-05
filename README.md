@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *John von Neumann*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 5, 2023, 12:11 PM
+  Last Refresh : Sunday, February 5, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
