@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Toru Iwatani*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 2:16 AM
+  Last Refresh : Monday, February 6, 2023, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
