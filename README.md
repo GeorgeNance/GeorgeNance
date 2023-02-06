@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Elon Musk*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 5, 2023, 9:19 PM
+  Last Refresh : Sunday, February 5, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
