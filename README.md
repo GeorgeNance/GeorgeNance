@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Gerald Weinberg*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 12:12 PM
+  Last Refresh : Monday, February 6, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
