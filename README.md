@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Douglas Crockford*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 5, 2023, 11:20 PM
+  Last Refresh : Monday, February 6, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
