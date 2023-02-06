@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *George Boole*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 1:21 AM
+  Last Refresh : Monday, February 6, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
