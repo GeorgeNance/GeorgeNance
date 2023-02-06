@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Niklaus Wirth*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 5, 2023, 4:16 PM
+  Last Refresh : Sunday, February 5, 2023, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
