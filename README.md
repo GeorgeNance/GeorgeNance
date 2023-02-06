@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
 >
-> ~ *Bob Frankston*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 3:17 AM
+  Last Refresh : Monday, February 6, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
