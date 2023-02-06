@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 >
-> ~ *Kevlin Henney*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 5:31 AM
+  Last Refresh : Monday, February 6, 2023, 6:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
