@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 >
-> ~ *Jim Coplien*
+> ~ *Carl Friedrich Gauss*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 3:15 PM
+  Last Refresh : Monday, February 6, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
