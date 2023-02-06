@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 5, 2023, 8:17 PM
+  Last Refresh : Sunday, February 5, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
