@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *John Warnock*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 7, 2023, 1:20 AM
+  Last Refresh : Tuesday, February 7, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
