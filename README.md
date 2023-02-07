@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Joshua Bloch*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 7, 2023, 3:17 AM
+  Last Refresh : Tuesday, February 7, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
