@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 10:14 PM
+  Last Refresh : Monday, February 6, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
