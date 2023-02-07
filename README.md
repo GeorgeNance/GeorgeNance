@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Vannevar Bush*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 7, 2023, 11:19 AM
+  Last Refresh : Tuesday, February 7, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
