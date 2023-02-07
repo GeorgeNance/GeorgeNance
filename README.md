@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Linus Torvalds*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 7:39 PM
+  Last Refresh : Monday, February 6, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
