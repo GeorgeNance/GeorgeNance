@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Addy Osmani*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 11:19 PM
+  Last Refresh : Tuesday, February 7, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
