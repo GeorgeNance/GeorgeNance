@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *John von Neumann*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 7, 2023, 6:22 AM
+  Last Refresh : Tuesday, February 7, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
