@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Thomas J. Watson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 6, 2023, 6:20 PM
+  Last Refresh : Monday, February 6, 2023, 7:39 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
