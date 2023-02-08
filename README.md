@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Alan Turing*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 8, 2023, 2:14 PM
+  Last Refresh : Wednesday, February 8, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
