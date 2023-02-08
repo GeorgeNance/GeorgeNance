@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Douglas Crockford*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 7, 2023, 9:20 PM
+  Last Refresh : Tuesday, February 7, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
