@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Niklaus Wirth*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 8, 2023, 10:15 AM
+  Last Refresh : Wednesday, February 8, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
