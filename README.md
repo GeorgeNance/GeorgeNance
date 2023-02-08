@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Ada Lovelace*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 8, 2023, 4:14 AM
+  Last Refresh : Wednesday, February 8, 2023, 5:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
