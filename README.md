@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 8, 2023, 9:23 AM
+  Last Refresh : Wednesday, February 8, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
