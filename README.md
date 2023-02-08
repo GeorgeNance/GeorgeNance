@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 7, 2023, 7:47 PM
+  Last Refresh : Tuesday, February 7, 2023, 8:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
