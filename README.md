@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Fred Brooks*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 9, 2023, 2:16 AM
+  Last Refresh : Thursday, February 9, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
