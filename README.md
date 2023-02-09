@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 9, 2023, 5:33 AM
+  Last Refresh : Thursday, February 9, 2023, 6:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
