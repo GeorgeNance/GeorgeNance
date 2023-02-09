@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 >
-> ~ *Charles Simonyi*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 9, 2023, 4:14 AM
+  Last Refresh : Thursday, February 9, 2023, 5:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
