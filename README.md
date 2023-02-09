@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Brian Kernighan*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 8, 2023, 10:15 PM
+  Last Refresh : Wednesday, February 8, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
