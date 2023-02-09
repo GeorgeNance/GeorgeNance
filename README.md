@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### Really good programs live forever.
 >
-> ~ *Jef Raskin*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 9, 2023, 3:16 AM
+  Last Refresh : Thursday, February 9, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
