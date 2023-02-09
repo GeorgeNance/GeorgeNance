@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### It’s all talk until the code runs.
 >
-> ~ *Michael Hawley*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 9, 2023, 3:16 PM
+  Last Refresh : Thursday, February 9, 2023, 4:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
