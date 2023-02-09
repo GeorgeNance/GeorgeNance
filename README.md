@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 9, 2023, 1:21 AM
+  Last Refresh : Thursday, February 9, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
