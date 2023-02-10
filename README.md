@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Ted Nelson*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 9:22 AM
+  Last Refresh : Friday, February 10, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
