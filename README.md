@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *David Leinweber*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 3:18 AM
+  Last Refresh : Friday, February 10, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
