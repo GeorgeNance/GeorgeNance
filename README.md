@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 >
-> ~ *Richard Hamming*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 2:14 PM
+  Last Refresh : Friday, February 10, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
