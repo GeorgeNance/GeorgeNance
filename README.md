@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Ted Nelson*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 5:31 AM
+  Last Refresh : Friday, February 10, 2023, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
