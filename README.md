@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 3:15 PM
+  Last Refresh : Friday, February 10, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
