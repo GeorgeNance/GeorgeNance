@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 >
-> ~ *Steve Jobs*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 9, 2023, 10:15 PM
+  Last Refresh : Thursday, February 9, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
