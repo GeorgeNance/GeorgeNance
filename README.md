@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 12:13 PM
+  Last Refresh : Friday, February 10, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
