@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 11, 2023, 11:18 AM
+  Last Refresh : Saturday, February 11, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
