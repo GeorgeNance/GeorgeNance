@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
-> ~ *Douglas Crockford*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 11, 2023, 3:14 PM
+  Last Refresh : Saturday, February 11, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
