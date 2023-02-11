@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ellen Ullman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 11, 2023, 12:13 AM
+  Last Refresh : Saturday, February 11, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
