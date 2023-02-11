@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Alan Perlis*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 11, 2023, 2:13 PM
+  Last Refresh : Saturday, February 11, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
