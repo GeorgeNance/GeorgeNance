@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Don Norman*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 4:16 PM
+  Last Refresh : Friday, February 10, 2023, 6:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
