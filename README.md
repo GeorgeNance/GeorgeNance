@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Tom DeMarco*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 6:17 PM
+  Last Refresh : Friday, February 10, 2023, 7:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
