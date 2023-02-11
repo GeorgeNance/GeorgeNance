@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Donald Knuth*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 11, 2023, 2:14 AM
+  Last Refresh : Saturday, February 11, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
