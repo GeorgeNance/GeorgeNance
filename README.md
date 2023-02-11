@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Steve Jobs*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 9:19 PM
+  Last Refresh : Friday, February 10, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
