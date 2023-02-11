@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Ted Nelson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 10, 2023, 11:19 PM
+  Last Refresh : Saturday, February 11, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
