@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 >
-> ~ *Dennis Ritchie*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 11, 2023, 3:15 AM
+  Last Refresh : Saturday, February 11, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
