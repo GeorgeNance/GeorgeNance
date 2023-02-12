@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 11, 2023, 7:46 PM
+  Last Refresh : Saturday, February 11, 2023, 8:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
