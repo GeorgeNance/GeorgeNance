@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *Ken Thompson*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 9:20 AM
+  Last Refresh : Sunday, February 12, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
