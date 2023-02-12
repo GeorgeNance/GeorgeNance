@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Linus Torvalds*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 11, 2023, 8:19 PM
+  Last Refresh : Saturday, February 11, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
