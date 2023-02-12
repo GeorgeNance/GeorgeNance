@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Alan Perlis*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 2:14 AM
+  Last Refresh : Sunday, February 12, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
