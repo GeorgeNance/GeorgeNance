@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Michael Stal*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 8:15 AM
+  Last Refresh : Sunday, February 12, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
