@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Grady Booch*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 4:15 PM
+  Last Refresh : Sunday, February 12, 2023, 6:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
