@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Douglas Crockford*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 9:20 PM
+  Last Refresh : Sunday, February 12, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
