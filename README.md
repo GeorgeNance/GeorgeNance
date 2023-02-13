@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Terry Winograd*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 7:47 PM
+  Last Refresh : Sunday, February 12, 2023, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
