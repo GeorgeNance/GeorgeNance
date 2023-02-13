@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 13, 2023, 3:18 AM
+  Last Refresh : Monday, February 13, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
