@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Jim Horning*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 8:21 PM
+  Last Refresh : Sunday, February 12, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
