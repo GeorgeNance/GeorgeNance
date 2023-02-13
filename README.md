@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Stewart Brand*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 13, 2023, 7:15 AM
+  Last Refresh : Monday, February 13, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
