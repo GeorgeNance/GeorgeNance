@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Grady Booch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 13, 2023, 1:22 AM
+  Last Refresh : Monday, February 13, 2023, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
