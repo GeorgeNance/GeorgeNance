@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Fred Brooks*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 13, 2023, 11:20 AM
+  Last Refresh : Monday, February 13, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
