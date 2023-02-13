@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 6:23 PM
+  Last Refresh : Sunday, February 12, 2023, 7:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
