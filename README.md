@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Kent Beck*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 12, 2023, 10:15 PM
+  Last Refresh : Sunday, February 12, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
