@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
-> ~ *Alan Perlis*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 4:13 AM
+  Last Refresh : Tuesday, February 14, 2023, 5:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
