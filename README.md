@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Ron Jeffries*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 12:15 AM
+  Last Refresh : Tuesday, February 14, 2023, 1:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
