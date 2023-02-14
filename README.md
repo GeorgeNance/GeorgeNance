@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 >
-> ~ *George Boole*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 1:17 PM
+  Last Refresh : Tuesday, February 14, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
