@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### It’s all talk until the code runs.
 >
-> ~ *Robert C. Martin*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 3:15 PM
+  Last Refresh : Tuesday, February 14, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
