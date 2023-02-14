@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 >
-> ~ *David Leinweber*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 13, 2023, 7:48 PM
+  Last Refresh : Monday, February 13, 2023, 8:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
