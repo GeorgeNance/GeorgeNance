@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Martin Fowler*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 2:14 PM
+  Last Refresh : Tuesday, February 14, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
