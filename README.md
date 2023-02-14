@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *Alan Perlis*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 12:13 PM
+  Last Refresh : Tuesday, February 14, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
