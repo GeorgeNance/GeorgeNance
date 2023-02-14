@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### Once you stop learning you start dying.
 >
-> ~ *Vannevar Bush*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 13, 2023, 10:15 PM
+  Last Refresh : Monday, February 13, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
