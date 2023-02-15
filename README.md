@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### Deleted code is debugged code.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 10:15 AM
+  Last Refresh : Wednesday, February 15, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
