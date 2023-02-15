@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Fred Brooks*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 2:14 PM
+  Last Refresh : Wednesday, February 15, 2023, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
