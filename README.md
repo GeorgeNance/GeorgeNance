@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 >
-> ~ *Ward Cunningham*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 4:16 PM
+  Last Refresh : Tuesday, February 14, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
