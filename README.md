@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Richard Stallman*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 3:18 AM
+  Last Refresh : Wednesday, February 15, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
