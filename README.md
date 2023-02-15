@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 9:20 PM
+  Last Refresh : Tuesday, February 14, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
