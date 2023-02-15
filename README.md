@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Jaron Lanier*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 12:13 PM
+  Last Refresh : Wednesday, February 15, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
