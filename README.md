@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Daniel T. Barry*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 12:14 AM
+  Last Refresh : Wednesday, February 15, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
