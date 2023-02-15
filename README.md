@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### Deleted code is debugged code.
 >
-> ~ *Fred Brooks*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 5:33 AM
+  Last Refresh : Wednesday, February 15, 2023, 6:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
