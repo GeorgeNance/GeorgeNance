@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 >
-> ~ *Jaron Lanier*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 10:15 PM
+  Last Refresh : Tuesday, February 14, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
