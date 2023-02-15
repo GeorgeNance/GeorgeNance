@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Jeff Sickel*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 11:20 AM
+  Last Refresh : Wednesday, February 15, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
