@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### Programming can be addictive.
 >
-> ~ *Linus Torvalds*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 1:21 AM
+  Last Refresh : Wednesday, February 15, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
