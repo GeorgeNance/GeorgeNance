@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 >
-> ~ *Bob Frankston*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 1:17 PM
+  Last Refresh : Wednesday, February 15, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
