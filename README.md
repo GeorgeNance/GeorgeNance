@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 >
-> ~ *Anonymous*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 14, 2023, 7:49 PM
+  Last Refresh : Tuesday, February 14, 2023, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
