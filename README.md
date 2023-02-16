@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 16, 2023, 2:14 PM
+  Last Refresh : Thursday, February 16, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
