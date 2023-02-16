@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *Jonathan Sachs*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 16, 2023, 5:32 AM
+  Last Refresh : Thursday, February 16, 2023, 6:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
