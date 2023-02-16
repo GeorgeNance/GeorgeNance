@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *John Gall (author)*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 16, 2023, 3:17 AM
+  Last Refresh : Thursday, February 16, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
