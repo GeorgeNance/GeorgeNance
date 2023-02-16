@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 9:20 PM
+  Last Refresh : Wednesday, February 15, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
