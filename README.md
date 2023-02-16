@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 >
-> ~ *Damian Conway*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 16, 2023, 3:15 PM
+  Last Refresh : Thursday, February 16, 2023, 4:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
