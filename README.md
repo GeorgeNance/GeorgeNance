@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 >
-> ~ *Charles Simonyi*
+> ~ *John Gall (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 16, 2023, 2:16 AM
+  Last Refresh : Thursday, February 16, 2023, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
