@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Fred Brooks*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 15, 2023, 7:47 PM
+  Last Refresh : Wednesday, February 15, 2023, 8:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
