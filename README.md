@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Ada Lovelace*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 17, 2023, 3:15 PM
+  Last Refresh : Friday, February 17, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
