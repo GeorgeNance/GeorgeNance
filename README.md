@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Donald Knuth*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 17, 2023, 8:16 AM
+  Last Refresh : Friday, February 17, 2023, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
