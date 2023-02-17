@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Butler Lampson*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 16, 2023, 4:20 PM
+  Last Refresh : Thursday, February 16, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
