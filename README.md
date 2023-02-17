@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Tom DeMarco*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 16, 2023, 7:51 PM
+  Last Refresh : Thursday, February 16, 2023, 8:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
