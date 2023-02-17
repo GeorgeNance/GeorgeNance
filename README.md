@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Wayne Ratliff*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 16, 2023, 10:15 PM
+  Last Refresh : Thursday, February 16, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
