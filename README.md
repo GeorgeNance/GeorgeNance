@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Ted Nelson*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 3:14 PM
+  Last Refresh : Saturday, February 18, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
