@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Robert C. Martin*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 6:19 AM
+  Last Refresh : Saturday, February 18, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
