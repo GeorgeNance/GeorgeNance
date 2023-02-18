@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### It’s all talk until the code runs.
 >
-> ~ *Kyle Simpson*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 7:13 AM
+  Last Refresh : Saturday, February 18, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
