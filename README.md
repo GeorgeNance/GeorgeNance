@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Douglas Crockford*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 5:29 AM
+  Last Refresh : Saturday, February 18, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
