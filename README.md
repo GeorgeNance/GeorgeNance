@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
-> ~ *Jim Horning*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 4:13 AM
+  Last Refresh : Saturday, February 18, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
