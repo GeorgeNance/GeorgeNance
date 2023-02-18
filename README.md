@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 >
-> ~ *Gary Kildall*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 12:13 AM
+  Last Refresh : Saturday, February 18, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
