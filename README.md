@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *David Parnas*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 3:16 AM
+  Last Refresh : Saturday, February 18, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
