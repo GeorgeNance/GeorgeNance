@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Ward Cunningham*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 8:15 AM
+  Last Refresh : Saturday, February 18, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
