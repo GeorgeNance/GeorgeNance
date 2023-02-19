@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Martin Fowler*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 10:14 PM
+  Last Refresh : Saturday, February 18, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
