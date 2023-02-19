@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 19, 2023, 4:12 AM
+  Last Refresh : Sunday, February 19, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
