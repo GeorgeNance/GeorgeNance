@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 >
-> ~ *David Gelernter*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 9:19 PM
+  Last Refresh : Saturday, February 18, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
