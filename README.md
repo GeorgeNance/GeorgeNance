@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 >
-> ~ *Elon Musk*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 4:15 PM
+  Last Refresh : Saturday, February 18, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
