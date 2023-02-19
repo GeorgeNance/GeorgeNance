@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### One man's constant is another man's variable.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 19, 2023, 9:20 AM
+  Last Refresh : Sunday, February 19, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
