@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Gary Kildall*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 18, 2023, 6:25 PM
+  Last Refresh : Saturday, February 18, 2023, 7:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
