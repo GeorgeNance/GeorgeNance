@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Alan Perlis*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 1:17 PM
+  Last Refresh : Monday, February 20, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
