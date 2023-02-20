@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Ken Thompson*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 19, 2023, 8:21 PM
+  Last Refresh : Sunday, February 19, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
