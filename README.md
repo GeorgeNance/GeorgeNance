@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *John Ousterhout*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 19, 2023, 9:20 PM
+  Last Refresh : Sunday, February 19, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
