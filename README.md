@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 6:24 AM
+  Last Refresh : Monday, February 20, 2023, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
