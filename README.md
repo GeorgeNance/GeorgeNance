@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### When in doubt, use brute force.
 >
-> ~ *Steve Jobs*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 4:14 AM
+  Last Refresh : Monday, February 20, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
