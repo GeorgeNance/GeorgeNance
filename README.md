@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 19, 2023, 7:50 PM
+  Last Refresh : Sunday, February 19, 2023, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
