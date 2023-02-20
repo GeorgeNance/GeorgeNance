@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 >
-> ~ *Richard Hamming*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 7:16 AM
+  Last Refresh : Monday, February 20, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
