@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Mario Fusco*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 10:14 AM
+  Last Refresh : Monday, February 20, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
