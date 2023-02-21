@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 4:16 PM
+  Last Refresh : Monday, February 20, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
