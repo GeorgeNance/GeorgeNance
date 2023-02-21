@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *George Boole*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 3:16 PM
+  Last Refresh : Tuesday, February 21, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
