@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 >
-> ~ *Donald Knuth*
+> ~ *Roy Fielding*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 7:15 AM
+  Last Refresh : Tuesday, February 21, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
