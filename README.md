@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 >
-> ~ *Harlan Mills*
+> ~ *Jeremy S. Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 10:15 PM
+  Last Refresh : Monday, February 20, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
