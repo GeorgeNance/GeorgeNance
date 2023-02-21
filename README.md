@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *Seymour Cray*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 2:14 PM
+  Last Refresh : Tuesday, February 21, 2023, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
