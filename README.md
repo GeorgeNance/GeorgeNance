@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Elon Musk*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 7:50 PM
+  Last Refresh : Monday, February 20, 2023, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
