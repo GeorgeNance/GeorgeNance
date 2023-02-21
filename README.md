@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 5:32 AM
+  Last Refresh : Tuesday, February 21, 2023, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
