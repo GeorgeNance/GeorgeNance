@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Charles Simonyi*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 20, 2023, 6:26 PM
+  Last Refresh : Monday, February 20, 2023, 7:50 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
