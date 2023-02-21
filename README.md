@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Seymour Cray*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 1:18 PM
+  Last Refresh : Tuesday, February 21, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
