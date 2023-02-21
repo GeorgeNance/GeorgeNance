@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *John Warnock*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 9:21 AM
+  Last Refresh : Tuesday, February 21, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
