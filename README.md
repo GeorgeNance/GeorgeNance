@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Harlan Mills*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 7:15 AM
+  Last Refresh : Wednesday, February 22, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
