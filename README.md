@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 >
-> ~ *Ward Cunningham*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 9:20 PM
+  Last Refresh : Tuesday, February 21, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
