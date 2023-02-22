@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Anonymous*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 2:16 AM
+  Last Refresh : Wednesday, February 22, 2023, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
