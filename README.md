@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Harlan Mills*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 10:15 PM
+  Last Refresh : Tuesday, February 21, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
