@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Maurice Wilkes*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 8:20 PM
+  Last Refresh : Tuesday, February 21, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
