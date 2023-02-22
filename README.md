@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
-> ~ *Thomas J. Watson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 21, 2023, 11:21 PM
+  Last Refresh : Wednesday, February 22, 2023, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
