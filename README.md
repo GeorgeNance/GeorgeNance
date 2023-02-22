@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Alan Perlis*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 9:23 AM
+  Last Refresh : Wednesday, February 22, 2023, 10:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
