@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Fred Brooks*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 1:17 PM
+  Last Refresh : Wednesday, February 22, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
