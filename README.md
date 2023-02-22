@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
 >
-> ~ *Tom DeMarco*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 10:21 AM
+  Last Refresh : Wednesday, February 22, 2023, 11:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
