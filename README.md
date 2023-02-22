@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Daniel T. Barry*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 5:33 AM
+  Last Refresh : Wednesday, February 22, 2023, 6:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
