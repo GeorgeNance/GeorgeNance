@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Vannevar Bush*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 1:21 AM
+  Last Refresh : Wednesday, February 22, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
