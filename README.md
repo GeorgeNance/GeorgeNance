@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The real problem with throwaway code comes when it isn't thrown away.
+> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 2:14 PM
+  Last Refresh : Wednesday, February 22, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
