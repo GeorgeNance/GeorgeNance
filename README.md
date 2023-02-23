@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Charles Simonyi*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 22, 2023, 6:22 PM
+  Last Refresh : Wednesday, February 22, 2023, 7:45 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
