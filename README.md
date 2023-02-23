@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 23, 2023, 5:34 AM
+  Last Refresh : Thursday, February 23, 2023, 6:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
