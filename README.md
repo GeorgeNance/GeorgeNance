@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 >
-> ~ *Richard Stallman*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 23, 2023, 8:17 AM
+  Last Refresh : Thursday, February 23, 2023, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
