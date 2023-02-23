@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *John Carmack*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 23, 2023, 12:13 PM
+  Last Refresh : Thursday, February 23, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
