@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Peter Roizen*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 23, 2023, 1:17 PM
+  Last Refresh : Thursday, February 23, 2023, 2:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
