@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 8:15 AM
+  Last Refresh : Friday, February 24, 2023, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
