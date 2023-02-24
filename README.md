@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 23, 2023, 8:19 PM
+  Last Refresh : Thursday, February 23, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
