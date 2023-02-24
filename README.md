@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 2:16 AM
+  Last Refresh : Friday, February 24, 2023, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
