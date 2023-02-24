@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 23, 2023, 6:22 PM
+  Last Refresh : Thursday, February 23, 2023, 7:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
