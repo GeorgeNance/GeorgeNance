@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Toru Iwatani*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 7:15 AM
+  Last Refresh : Friday, February 24, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
