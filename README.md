@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Brian Kernighan*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 12:15 AM
+  Last Refresh : Friday, February 24, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
