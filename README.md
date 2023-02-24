@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Fred Brooks*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 4:14 AM
+  Last Refresh : Friday, February 24, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
