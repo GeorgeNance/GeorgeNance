@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Fred Brooks*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 12:13 PM
+  Last Refresh : Friday, February 24, 2023, 1:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
