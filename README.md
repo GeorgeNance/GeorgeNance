@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 6:24 AM
+  Last Refresh : Friday, February 24, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
