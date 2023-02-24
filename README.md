@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Richard E. Pattis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 1:21 AM
+  Last Refresh : Friday, February 24, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
