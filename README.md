@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 23, 2023, 10:15 PM
+  Last Refresh : Thursday, February 23, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
