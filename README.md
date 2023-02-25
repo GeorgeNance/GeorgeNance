@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Donald Knuth*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 25, 2023, 2:15 AM
+  Last Refresh : Saturday, February 25, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
