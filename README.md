@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Michael A. Jackson*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 25, 2023, 3:15 PM
+  Last Refresh : Saturday, February 25, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
