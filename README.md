@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Donald Knuth*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 6:22 PM
+  Last Refresh : Friday, February 24, 2023, 7:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
