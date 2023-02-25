@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *René Descartes*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 25, 2023, 10:14 AM
+  Last Refresh : Saturday, February 25, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
