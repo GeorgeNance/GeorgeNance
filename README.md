@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 25, 2023, 6:19 AM
+  Last Refresh : Saturday, February 25, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
