@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Kyle Simpson*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 25, 2023, 11:19 AM
+  Last Refresh : Saturday, February 25, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
