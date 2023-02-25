@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Ada Lovelace*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 25, 2023, 2:13 PM
+  Last Refresh : Saturday, February 25, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
