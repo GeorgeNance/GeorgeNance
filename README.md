@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 7:48 PM
+  Last Refresh : Friday, February 24, 2023, 8:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
