@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 24, 2023, 9:19 PM
+  Last Refresh : Friday, February 24, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
