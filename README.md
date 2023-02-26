@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Luciano Ramalho*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 26, 2023, 7:14 AM
+  Last Refresh : Sunday, February 26, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
