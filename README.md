@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Leslie Lamport*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 26, 2023, 4:13 AM
+  Last Refresh : Sunday, February 26, 2023, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
