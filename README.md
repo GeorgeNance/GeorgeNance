@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Danny Hillis*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 26, 2023, 9:21 AM
+  Last Refresh : Sunday, February 26, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
