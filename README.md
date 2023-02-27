@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 >
-> ~ *Douglas Crockford*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 26, 2023, 8:21 PM
+  Last Refresh : Sunday, February 26, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
