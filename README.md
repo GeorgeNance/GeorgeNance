@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Donald Knuth*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 27, 2023, 6:26 AM
+  Last Refresh : Monday, February 27, 2023, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
