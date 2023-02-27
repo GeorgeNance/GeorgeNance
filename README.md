@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 27, 2023, 3:19 AM
+  Last Refresh : Monday, February 27, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
