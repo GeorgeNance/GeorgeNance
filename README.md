@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Alan Perlis*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 26, 2023, 4:16 PM
+  Last Refresh : Sunday, February 26, 2023, 6:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
