@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 27, 2023, 12:13 PM
+  Last Refresh : Monday, February 27, 2023, 1:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
