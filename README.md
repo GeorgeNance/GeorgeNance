@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 27, 2023, 8:17 AM
+  Last Refresh : Monday, February 27, 2023, 9:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
