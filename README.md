@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 >
 > ~ *Ken Thompson*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 2:15 PM
+  Last Refresh : Tuesday, February 28, 2023, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
