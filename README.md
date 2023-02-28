@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Bill Gates*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 5:33 AM
+  Last Refresh : Tuesday, February 28, 2023, 6:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
