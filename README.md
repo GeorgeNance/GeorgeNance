@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Anonymous*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 7:16 AM
+  Last Refresh : Tuesday, February 28, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
