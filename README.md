@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Stewart Brand*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 12:13 PM
+  Last Refresh : Tuesday, February 28, 2023, 1:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
