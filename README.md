@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Anonymous*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 1:18 PM
+  Last Refresh : Tuesday, February 28, 2023, 2:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
