@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Ken Thompson*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 3:16 PM
+  Last Refresh : Tuesday, February 28, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
