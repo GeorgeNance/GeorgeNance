@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *John Johnson*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 8:17 AM
+  Last Refresh : Tuesday, February 28, 2023, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
