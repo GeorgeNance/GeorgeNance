@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 9:23 AM
+  Last Refresh : Tuesday, February 28, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
