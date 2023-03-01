@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Jim Horning*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 1, 2023, 11:21 AM
+  Last Refresh : Wednesday, March 1, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
