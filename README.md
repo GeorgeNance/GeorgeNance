@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Jeff Sickel*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 9:20 PM
+  Last Refresh : Tuesday, February 28, 2023, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
