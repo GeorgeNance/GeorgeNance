@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
 >
 > ~ *Joseph Yoder (computer scientist)*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 1, 2023, 2:15 PM
+  Last Refresh : Wednesday, March 1, 2023, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
