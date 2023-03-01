@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 >
-> ~ *Daniel T. Barry*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 1, 2023, 2:17 AM
+  Last Refresh : Wednesday, March 1, 2023, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
