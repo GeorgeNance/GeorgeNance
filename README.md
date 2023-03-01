@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 1, 2023, 10:15 AM
+  Last Refresh : Wednesday, March 1, 2023, 11:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
