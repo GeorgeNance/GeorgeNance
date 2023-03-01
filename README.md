@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Donald Knuth*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 7:59 PM
+  Last Refresh : Tuesday, February 28, 2023, 8:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
