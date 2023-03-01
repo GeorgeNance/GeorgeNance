@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### Deleted code is debugged code.
 >
-> ~ *Ted Nelson*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 28, 2023, 8:32 PM
+  Last Refresh : Tuesday, February 28, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
