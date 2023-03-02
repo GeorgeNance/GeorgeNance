@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 >
-> ~ *Douglas Crockford*
+> ~ *P. J. Plauger*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 2, 2023, 1:22 AM
+  Last Refresh : Thursday, March 2, 2023, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
