@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 2, 2023, 11:24 AM
+  Last Refresh : Thursday, March 2, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
