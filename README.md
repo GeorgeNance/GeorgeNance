@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Martin Fowler*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 2, 2023, 2:15 PM
+  Last Refresh : Thursday, March 2, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
