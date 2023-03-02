@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 2, 2023, 12:15 AM
+  Last Refresh : Thursday, March 2, 2023, 1:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
