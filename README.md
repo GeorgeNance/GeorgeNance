@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Rob Pike*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 1, 2023, 11:21 PM
+  Last Refresh : Thursday, March 2, 2023, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
