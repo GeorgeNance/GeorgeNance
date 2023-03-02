@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 1, 2023, 10:15 PM
+  Last Refresh : Wednesday, March 1, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
