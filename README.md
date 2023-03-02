@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### Once you stop learning you start dying.
 >
-> ~ *Tom DeMarco*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 1, 2023, 4:17 PM
+  Last Refresh : Wednesday, March 1, 2023, 6:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
