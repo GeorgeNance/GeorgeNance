@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 2, 2023, 8:18 AM
+  Last Refresh : Thursday, March 2, 2023, 9:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
