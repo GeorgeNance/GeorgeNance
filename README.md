@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Jaron Lanier*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 2, 2023, 9:24 AM
+  Last Refresh : Thursday, March 2, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
