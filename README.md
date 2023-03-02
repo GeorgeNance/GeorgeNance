@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 >
-> ~ *Dennis Ritchie*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 2, 2023, 5:32 AM
+  Last Refresh : Thursday, March 2, 2023, 6:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
