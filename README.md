@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 >
-> ~ *Laurence J. Peter*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 3, 2023, 1:20 AM
+  Last Refresh : Friday, March 3, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
