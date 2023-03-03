@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### Deleted code is debugged code.
 >
-> ~ *Charles Babbage*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 3, 2023, 6:23 AM
+  Last Refresh : Friday, March 3, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
