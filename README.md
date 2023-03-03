@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 3, 2023, 12:13 PM
+  Last Refresh : Friday, March 3, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
