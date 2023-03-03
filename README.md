@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 >
-> ~ *Steve Jobs*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 2, 2023, 11:21 PM
+  Last Refresh : Friday, March 3, 2023, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
