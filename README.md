@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 3, 2023, 3:16 PM
+  Last Refresh : Friday, March 3, 2023, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
