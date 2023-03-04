@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 1:16 PM
+  Last Refresh : Saturday, March 4, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
