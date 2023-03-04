@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Jamie Zawinski*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 12:14 AM
+  Last Refresh : Saturday, March 4, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
