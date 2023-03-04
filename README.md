@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Joshua Bloch*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 3, 2023, 9:20 PM
+  Last Refresh : Friday, March 3, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
