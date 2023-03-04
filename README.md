@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 >
-> ~ *Luciano Ramalho*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 3, 2023, 4:17 PM
+  Last Refresh : Friday, March 3, 2023, 6:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
