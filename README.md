@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 9:20 AM
+  Last Refresh : Saturday, March 4, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
