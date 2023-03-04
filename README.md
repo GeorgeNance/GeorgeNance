@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 >
-> ~ *Eric S. Raymond*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 3, 2023, 8:17 PM
+  Last Refresh : Friday, March 3, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
