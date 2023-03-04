@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### Really good programs live forever.
 >
-> ~ *Daniel T. Barry*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 5:29 AM
+  Last Refresh : Saturday, March 4, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
