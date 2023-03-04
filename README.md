@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Fred Brooks*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 3:16 AM
+  Last Refresh : Saturday, March 4, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
