@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Linus Torvalds*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 3:15 PM
+  Last Refresh : Sunday, March 5, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
