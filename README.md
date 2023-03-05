@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 4:15 PM
+  Last Refresh : Saturday, March 4, 2023, 6:43 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
