@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### Talk is cheap. Show me the code.
 >
 > ~ *Linus Torvalds*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 2:13 PM
+  Last Refresh : Sunday, March 5, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
