@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 >
-> ~ *Linus Torvalds*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 9:19 PM
+  Last Refresh : Saturday, March 4, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
