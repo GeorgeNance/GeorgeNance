@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 7:14 AM
+  Last Refresh : Sunday, March 5, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
