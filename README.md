@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 11:19 AM
+  Last Refresh : Sunday, March 5, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
