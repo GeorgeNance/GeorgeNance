@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *John Carmack*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 1:19 AM
+  Last Refresh : Sunday, March 5, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
