@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### Deleted code is debugged code.
 >
-> ~ *Elon Musk*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 7:59 PM
+  Last Refresh : Saturday, March 4, 2023, 8:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
