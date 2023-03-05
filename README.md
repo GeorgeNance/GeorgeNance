@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Fred Brooks*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 5:30 AM
+  Last Refresh : Sunday, March 5, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
