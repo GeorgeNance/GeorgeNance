@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Richard Hamming*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 4, 2023, 6:43 PM
+  Last Refresh : Saturday, March 4, 2023, 7:59 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
