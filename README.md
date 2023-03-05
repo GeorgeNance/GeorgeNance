@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
-> ~ *Charles Babbage*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 9:20 AM
+  Last Refresh : Sunday, March 5, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
