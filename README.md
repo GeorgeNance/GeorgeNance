@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### One man's constant is another man's variable.
 >
-> ~ *Alan Turing*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 9:23 AM
+  Last Refresh : Monday, March 6, 2023, 10:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
