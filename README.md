@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Fred Brooks*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 3:16 PM
+  Last Refresh : Monday, March 6, 2023, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
