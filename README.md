@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 3:18 AM
+  Last Refresh : Monday, March 6, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
