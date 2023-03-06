@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 5:33 AM
+  Last Refresh : Monday, March 6, 2023, 6:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
