@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 10:16 AM
+  Last Refresh : Monday, March 6, 2023, 11:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
