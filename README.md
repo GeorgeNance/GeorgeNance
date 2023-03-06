@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Tom DeMarco*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 7:15 AM
+  Last Refresh : Monday, March 6, 2023, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
