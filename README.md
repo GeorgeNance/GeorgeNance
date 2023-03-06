@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 8:18 AM
+  Last Refresh : Monday, March 6, 2023, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
