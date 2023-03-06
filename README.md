@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 9:20 PM
+  Last Refresh : Sunday, March 5, 2023, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
