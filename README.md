@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Bill Gates*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 6:25 AM
+  Last Refresh : Monday, March 6, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
