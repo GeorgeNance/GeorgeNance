@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Charles Babbage*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 5, 2023, 8:22 PM
+  Last Refresh : Sunday, March 5, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
