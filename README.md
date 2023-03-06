@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 2:17 AM
+  Last Refresh : Monday, March 6, 2023, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
