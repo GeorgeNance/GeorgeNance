@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 1:22 AM
+  Last Refresh : Monday, March 6, 2023, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
