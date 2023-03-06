@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 12:13 PM
+  Last Refresh : Monday, March 6, 2023, 1:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
