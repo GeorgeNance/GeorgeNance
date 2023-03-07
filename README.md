@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Alan Kay*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 10:15 AM
+  Last Refresh : Tuesday, March 7, 2023, 11:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
