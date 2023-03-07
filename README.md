@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 >
-> ~ *Donald Knuth*
+> ~ *Michael Hawley*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 8:32 PM
+  Last Refresh : Monday, March 6, 2023, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
