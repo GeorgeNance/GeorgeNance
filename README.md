@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### When in doubt, use brute force.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 3:18 AM
+  Last Refresh : Tuesday, March 7, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
