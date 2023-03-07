@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *John Warnock*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 2:15 PM
+  Last Refresh : Tuesday, March 7, 2023, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
