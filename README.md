@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Donald Knuth*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 9:23 AM
+  Last Refresh : Tuesday, March 7, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
