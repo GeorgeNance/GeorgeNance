@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Don Norman*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 6, 2023, 4:17 PM
+  Last Refresh : Monday, March 6, 2023, 6:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
