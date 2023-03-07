@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Jim Horning*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 6:26 AM
+  Last Refresh : Tuesday, March 7, 2023, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
