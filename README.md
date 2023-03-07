@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *Daniel T. Barry*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 7:16 AM
+  Last Refresh : Tuesday, March 7, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
