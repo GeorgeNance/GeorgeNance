@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 >
-> ~ *Ward Cunningham*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 9:20 PM
+  Last Refresh : Tuesday, March 7, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
