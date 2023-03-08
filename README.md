@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 8, 2023, 3:16 PM
+  Last Refresh : Wednesday, March 8, 2023, 4:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
