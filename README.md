@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Gordon Bell*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 11:21 PM
+  Last Refresh : Wednesday, March 8, 2023, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
