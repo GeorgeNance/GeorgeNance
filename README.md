@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Bill Gates*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 8, 2023, 6:25 AM
+  Last Refresh : Wednesday, March 8, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
