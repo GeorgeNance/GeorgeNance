@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 7, 2023, 8:23 PM
+  Last Refresh : Tuesday, March 7, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
