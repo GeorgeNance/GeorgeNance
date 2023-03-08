@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Butler Lampson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 8, 2023, 2:15 PM
+  Last Refresh : Wednesday, March 8, 2023, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
