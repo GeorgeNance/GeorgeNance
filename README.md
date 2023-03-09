@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### Making things easy is hard.
 >
-> ~ *Linus Torvalds*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 9, 2023, 12:15 AM
+  Last Refresh : Thursday, March 9, 2023, 1:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
