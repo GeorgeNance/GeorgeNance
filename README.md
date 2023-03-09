@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Don Norman*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 9, 2023, 5:34 AM
+  Last Refresh : Thursday, March 9, 2023, 6:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
