@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 9, 2023, 9:24 AM
+  Last Refresh : Thursday, March 9, 2023, 10:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
