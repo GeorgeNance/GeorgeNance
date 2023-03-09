@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 9, 2023, 11:20 AM
+  Last Refresh : Thursday, March 9, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
