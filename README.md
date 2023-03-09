@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 8, 2023, 6:27 PM
+  Last Refresh : Wednesday, March 8, 2023, 7:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
