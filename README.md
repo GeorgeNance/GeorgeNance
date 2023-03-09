@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Douglas Crockford*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 9, 2023, 8:18 AM
+  Last Refresh : Thursday, March 9, 2023, 9:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
