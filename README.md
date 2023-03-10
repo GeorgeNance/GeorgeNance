@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Douglas Crockford*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 1:21 AM
+  Last Refresh : Friday, March 10, 2023, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
