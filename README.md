@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 9, 2023, 9:20 PM
+  Last Refresh : Thursday, March 9, 2023, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
