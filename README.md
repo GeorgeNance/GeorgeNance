@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Mario Fusco*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 3:18 AM
+  Last Refresh : Friday, March 10, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
