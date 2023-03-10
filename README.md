@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Alan Perlis*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 2:13 PM
+  Last Refresh : Friday, March 10, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
