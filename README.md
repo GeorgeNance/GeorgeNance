@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 7:15 AM
+  Last Refresh : Friday, March 10, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
