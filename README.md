@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Steve Wozniak*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 2:17 AM
+  Last Refresh : Friday, March 10, 2023, 3:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
