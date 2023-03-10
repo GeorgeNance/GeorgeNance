@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Fred Brooks*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 8:16 AM
+  Last Refresh : Friday, March 10, 2023, 9:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
