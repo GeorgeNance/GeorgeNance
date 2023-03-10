@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Pete Cordell*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 12:15 AM
+  Last Refresh : Friday, March 10, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
