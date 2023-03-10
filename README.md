@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
-> ~ *Joel Spolsky*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 4:14 AM
+  Last Refresh : Friday, March 10, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
