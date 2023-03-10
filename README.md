@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Jef Raskin*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 9:23 AM
+  Last Refresh : Friday, March 10, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
