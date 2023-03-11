@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Alan Perlis*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 5:28 AM
+  Last Refresh : Saturday, March 11, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
