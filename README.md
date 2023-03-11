@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Jonathan Sachs*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 12:12 PM
+  Last Refresh : Saturday, March 11, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
