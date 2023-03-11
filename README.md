@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 2:14 AM
+  Last Refresh : Saturday, March 11, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
