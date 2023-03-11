@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Vannevar Bush*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 8:16 PM
+  Last Refresh : Friday, March 10, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
