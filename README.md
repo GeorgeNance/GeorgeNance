@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Michael Stal*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 4:15 PM
+  Last Refresh : Friday, March 10, 2023, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
