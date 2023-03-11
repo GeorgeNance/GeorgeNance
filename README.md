@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 4:12 AM
+  Last Refresh : Saturday, March 11, 2023, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
