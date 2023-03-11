@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 10, 2023, 6:15 PM
+  Last Refresh : Friday, March 10, 2023, 7:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
