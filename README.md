@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Bill Gates*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 9:20 AM
+  Last Refresh : Saturday, March 11, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
