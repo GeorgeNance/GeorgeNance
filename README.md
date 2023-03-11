@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 >
-> ~ *Fred Brooks*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 7:13 AM
+  Last Refresh : Saturday, March 11, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
