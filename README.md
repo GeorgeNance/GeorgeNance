@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
-> ~ *Richard Feynman*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 1:19 AM
+  Last Refresh : Saturday, March 11, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
