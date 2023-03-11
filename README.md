@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *Joshua Bloch*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 11:18 AM
+  Last Refresh : Saturday, March 11, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
