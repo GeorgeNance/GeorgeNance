@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Martin Fowler*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 12, 2023, 2:14 AM
+  Last Refresh : Sunday, March 12, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
