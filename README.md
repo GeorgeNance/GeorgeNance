@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### When in doubt, use brute force.
 >
-> ~ *David Parnas*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 12, 2023, 2:13 PM
+  Last Refresh : Sunday, March 12, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
