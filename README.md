@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 11, 2023, 10:13 PM
+  Last Refresh : Saturday, March 11, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
