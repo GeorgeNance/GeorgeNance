@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Alan Turing*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 12, 2023, 11:18 AM
+  Last Refresh : Sunday, March 12, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
