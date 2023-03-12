@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Hal Abelson*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 12, 2023, 1:18 AM
+  Last Refresh : Sunday, March 12, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
