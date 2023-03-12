@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 12, 2023, 10:13 AM
+  Last Refresh : Sunday, March 12, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
