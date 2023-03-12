@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Hal Abelson*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 12, 2023, 3:15 AM
+  Last Refresh : Sunday, March 12, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
