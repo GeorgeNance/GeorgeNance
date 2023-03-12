@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### Programming can be addictive.
 >
-> ~ *John Warnock*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 12, 2023, 8:15 AM
+  Last Refresh : Sunday, March 12, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
