@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### When in doubt, leave it out.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 13, 2023, 1:21 AM
+  Last Refresh : Monday, March 13, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
