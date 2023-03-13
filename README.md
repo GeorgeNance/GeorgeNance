@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 13, 2023, 10:14 AM
+  Last Refresh : Monday, March 13, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
