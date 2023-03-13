@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Sean Parent*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 13, 2023, 8:16 AM
+  Last Refresh : Monday, March 13, 2023, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
