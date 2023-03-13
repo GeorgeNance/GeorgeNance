@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Michael Stal*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 13, 2023, 3:15 PM
+  Last Refresh : Monday, March 13, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
