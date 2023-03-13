@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Hal Abelson*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 13, 2023, 4:13 AM
+  Last Refresh : Monday, March 13, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
