@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Fred Brooks*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 14, 2023, 4:15 AM
+  Last Refresh : Tuesday, March 14, 2023, 5:46 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
