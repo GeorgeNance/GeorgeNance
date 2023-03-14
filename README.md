@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Ted Nelson*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 14, 2023, 1:23 AM
+  Last Refresh : Tuesday, March 14, 2023, 2:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
