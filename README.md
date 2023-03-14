@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *Fred Brooks*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 13, 2023, 8:17 PM
+  Last Refresh : Monday, March 13, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
