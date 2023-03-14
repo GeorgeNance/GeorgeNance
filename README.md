@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Donald Knuth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 13, 2023, 9:20 PM
+  Last Refresh : Monday, March 13, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
