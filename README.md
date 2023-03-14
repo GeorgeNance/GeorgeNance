@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Ted Nelson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 14, 2023, 1:22 PM
+  Last Refresh : Tuesday, March 14, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
