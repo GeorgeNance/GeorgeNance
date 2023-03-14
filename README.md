@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 14, 2023, 2:18 AM
+  Last Refresh : Tuesday, March 14, 2023, 4:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
