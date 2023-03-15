@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
 >
-> ~ *René Descartes*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 15, 2023, 10:23 AM
+  Last Refresh : Wednesday, March 15, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
