@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Gordon Bell*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 14, 2023, 7:37 PM
+  Last Refresh : Tuesday, March 14, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
