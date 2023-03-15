@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 >
-> ~ *Buckminster Fuller*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 15, 2023, 3:14 PM
+  Last Refresh : Wednesday, March 15, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
