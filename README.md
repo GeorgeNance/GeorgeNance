@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 >
-> ~ *George Boole*
+> ~ *René Descartes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 15, 2023, 9:23 AM
+  Last Refresh : Wednesday, March 15, 2023, 10:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
