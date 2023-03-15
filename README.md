@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 15, 2023, 2:14 PM
+  Last Refresh : Wednesday, March 15, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
