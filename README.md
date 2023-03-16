@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Doug Linder*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 16, 2023, 4:13 AM
+  Last Refresh : Thursday, March 16, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
