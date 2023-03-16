@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 >
-> ~ *Vannevar Bush*
+> ~ *Michael Hawley*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 15, 2023, 6:20 PM
+  Last Refresh : Wednesday, March 15, 2023, 7:38 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
