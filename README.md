@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Michael Hawley*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 15, 2023, 7:38 PM
+  Last Refresh : Wednesday, March 15, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
