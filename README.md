@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Jamie Zawinski*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 15, 2023, 10:14 PM
+  Last Refresh : Wednesday, March 15, 2023, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
