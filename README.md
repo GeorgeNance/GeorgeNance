@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Fred Brooks*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 16, 2023, 8:16 PM
+  Last Refresh : Thursday, March 16, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
