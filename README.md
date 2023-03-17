@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 16, 2023, 4:16 PM
+  Last Refresh : Thursday, March 16, 2023, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
