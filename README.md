@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 >
-> ~ *Steve Jobs*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 17, 2023, 3:17 AM
+  Last Refresh : Friday, March 17, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
