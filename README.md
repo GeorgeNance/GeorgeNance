@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Fred Brooks*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 16, 2023, 11:19 PM
+  Last Refresh : Friday, March 17, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
