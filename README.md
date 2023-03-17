@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 17, 2023, 3:14 PM
+  Last Refresh : Friday, March 17, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
