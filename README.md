@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 17, 2023, 2:21 AM
+  Last Refresh : Friday, March 17, 2023, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
