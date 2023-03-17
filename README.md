@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
 >
-> ~ *Martin Fowler*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 17, 2023, 4:13 AM
+  Last Refresh : Friday, March 17, 2023, 5:31 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
