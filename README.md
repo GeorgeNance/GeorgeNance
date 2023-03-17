@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Marvin Minsky*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 17, 2023, 12:14 AM
+  Last Refresh : Friday, March 17, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
