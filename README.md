@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 18, 2023, 8:15 AM
+  Last Refresh : Saturday, March 18, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
