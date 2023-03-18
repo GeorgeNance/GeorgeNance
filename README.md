@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Douglas Crockford*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 18, 2023, 1:15 PM
+  Last Refresh : Saturday, March 18, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
