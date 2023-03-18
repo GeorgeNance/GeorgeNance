@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 18, 2023, 5:28 AM
+  Last Refresh : Saturday, March 18, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
