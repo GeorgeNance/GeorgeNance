@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 >
 > ~ *Linus Torvalds*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 17, 2023, 6:17 PM
+  Last Refresh : Friday, March 17, 2023, 7:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
