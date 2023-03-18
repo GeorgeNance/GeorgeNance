@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Ted Nelson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 18, 2023, 7:13 AM
+  Last Refresh : Saturday, March 18, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
