@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Alan Perlis*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 18, 2023, 1:18 AM
+  Last Refresh : Saturday, March 18, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
