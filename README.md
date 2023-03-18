@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Tom Cargill*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 17, 2023, 9:19 PM
+  Last Refresh : Friday, March 17, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
