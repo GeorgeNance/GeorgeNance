@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 18, 2023, 12:13 AM
+  Last Refresh : Saturday, March 18, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
