@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### Really good programs live forever.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 19, 2023, 2:13 PM
+  Last Refresh : Sunday, March 19, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
