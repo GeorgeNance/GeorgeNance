@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Donald Knuth*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 18, 2023, 7:46 PM
+  Last Refresh : Saturday, March 18, 2023, 8:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
