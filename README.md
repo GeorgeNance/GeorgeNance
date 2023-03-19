@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Bill Gates*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 19, 2023, 5:29 AM
+  Last Refresh : Sunday, March 19, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
