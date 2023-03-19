@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Brian Kernighan*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 19, 2023, 12:12 PM
+  Last Refresh : Sunday, March 19, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
