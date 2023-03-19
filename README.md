@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Ward Cunningham*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 19, 2023, 1:16 PM
+  Last Refresh : Sunday, March 19, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
