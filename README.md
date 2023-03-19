@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 19, 2023, 1:19 AM
+  Last Refresh : Sunday, March 19, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
