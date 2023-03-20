@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
-> ~ *John Gall (author)*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 19, 2023, 7:42 PM
+  Last Refresh : Sunday, March 19, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
