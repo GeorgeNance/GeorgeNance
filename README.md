@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Seymour Cray*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 20, 2023, 7:16 AM
+  Last Refresh : Monday, March 20, 2023, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
