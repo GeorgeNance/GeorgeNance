@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 20, 2023, 12:15 AM
+  Last Refresh : Monday, March 20, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
