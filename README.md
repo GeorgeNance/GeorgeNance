@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Danny Hillis*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 20, 2023, 5:32 AM
+  Last Refresh : Monday, March 20, 2023, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
