@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Alan Perlis*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 19, 2023, 11:21 PM
+  Last Refresh : Monday, March 20, 2023, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
