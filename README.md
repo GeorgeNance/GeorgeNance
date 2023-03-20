@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *John Carmack*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 20, 2023, 10:14 AM
+  Last Refresh : Monday, March 20, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
