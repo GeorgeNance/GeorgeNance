@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### Deleted code is debugged code.
 >
-> ~ *Alan Kay*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 20, 2023, 2:16 AM
+  Last Refresh : Monday, March 20, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
