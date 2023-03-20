@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Michael A. Jackson*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 20, 2023, 1:15 PM
+  Last Refresh : Monday, March 20, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
