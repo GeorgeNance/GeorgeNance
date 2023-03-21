@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 >
-> ~ *Fred Brooks*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 21, 2023, 10:13 AM
+  Last Refresh : Tuesday, March 21, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
