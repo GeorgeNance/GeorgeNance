@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Alan Turing*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 21, 2023, 1:19 AM
+  Last Refresh : Tuesday, March 21, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
