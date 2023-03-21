@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Elon Musk*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 21, 2023, 12:12 PM
+  Last Refresh : Tuesday, March 21, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
