@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 >
-> ~ *Charles Babbage*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 21, 2023, 8:14 AM
+  Last Refresh : Tuesday, March 21, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
