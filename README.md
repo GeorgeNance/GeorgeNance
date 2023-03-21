@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Ken Thompson*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 20, 2023, 4:14 PM
+  Last Refresh : Monday, March 20, 2023, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
