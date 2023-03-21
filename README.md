@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Alan Perlis*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 21, 2023, 2:16 AM
+  Last Refresh : Tuesday, March 21, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
