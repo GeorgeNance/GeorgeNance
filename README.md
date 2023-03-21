@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Jef Raskin*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 20, 2023, 8:15 PM
+  Last Refresh : Monday, March 20, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
