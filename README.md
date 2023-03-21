@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 21, 2023, 12:13 AM
+  Last Refresh : Tuesday, March 21, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
