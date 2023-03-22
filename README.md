@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Donald Knuth*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 21, 2023, 9:18 PM
+  Last Refresh : Tuesday, March 21, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
