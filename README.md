@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Alan Perlis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 6:19 AM
+  Last Refresh : Wednesday, March 22, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
