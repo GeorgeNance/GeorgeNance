@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### Programming can be addictive.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 4:12 AM
+  Last Refresh : Wednesday, March 22, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
