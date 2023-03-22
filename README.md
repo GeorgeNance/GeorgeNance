@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Bob Carr*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 5:29 AM
+  Last Refresh : Wednesday, March 22, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
