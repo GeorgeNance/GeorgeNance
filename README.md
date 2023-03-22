@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 3:16 AM
+  Last Refresh : Wednesday, March 22, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
