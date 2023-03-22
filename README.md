@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 >
-> ~ *Donald Knuth*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 2:14 AM
+  Last Refresh : Wednesday, March 22, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
