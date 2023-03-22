@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Bob Frankston*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 8:16 AM
+  Last Refresh : Wednesday, March 22, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
