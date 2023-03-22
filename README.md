@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Linus Torvalds*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 2:12 PM
+  Last Refresh : Wednesday, March 22, 2023, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
