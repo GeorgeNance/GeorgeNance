@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 >
-> ~ *Philip Greenspun*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 10:13 AM
+  Last Refresh : Wednesday, March 22, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
