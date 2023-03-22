@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 7:14 AM
+  Last Refresh : Wednesday, March 22, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
