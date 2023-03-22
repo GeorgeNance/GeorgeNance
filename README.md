@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Gordon Bell*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 3:12 PM
+  Last Refresh : Wednesday, March 22, 2023, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
