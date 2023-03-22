@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *Laurence J. Peter*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 21, 2023, 6:15 PM
+  Last Refresh : Tuesday, March 21, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
