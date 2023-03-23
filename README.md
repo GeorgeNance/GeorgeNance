@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Alan Perlis*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 23, 2023, 2:12 PM
+  Last Refresh : Thursday, March 23, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
