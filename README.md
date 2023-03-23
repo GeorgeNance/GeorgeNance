@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Donald Knuth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 23, 2023, 12:13 AM
+  Last Refresh : Thursday, March 23, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
