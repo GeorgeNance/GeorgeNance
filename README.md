@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 23, 2023, 1:16 PM
+  Last Refresh : Thursday, March 23, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
