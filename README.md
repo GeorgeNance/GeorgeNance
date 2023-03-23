@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 >
-> ~ *Ken Olsen*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 4:12 PM
+  Last Refresh : Wednesday, March 22, 2023, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
