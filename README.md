@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 22, 2023, 8:15 PM
+  Last Refresh : Wednesday, March 22, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
