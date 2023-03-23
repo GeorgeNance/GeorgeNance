@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 23, 2023, 10:14 AM
+  Last Refresh : Thursday, March 23, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
