@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Alan Kay*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 24, 2023, 12:13 AM
+  Last Refresh : Friday, March 24, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
