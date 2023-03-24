@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Anonymous*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 24, 2023, 11:19 AM
+  Last Refresh : Friday, March 24, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
