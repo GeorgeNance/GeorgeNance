@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Damian Conway*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 24, 2023, 12:12 PM
+  Last Refresh : Friday, March 24, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
