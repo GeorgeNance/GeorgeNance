@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Linus Torvalds*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 24, 2023, 5:28 AM
+  Last Refresh : Friday, March 24, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
