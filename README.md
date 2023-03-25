@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 >
-> ~ *David Parnas*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 25, 2023, 12:12 AM
+  Last Refresh : Saturday, March 25, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
