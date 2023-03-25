@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### It’s all talk until the code runs.
 >
-> ~ *Gerald Weinberg*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 25, 2023, 5:27 AM
+  Last Refresh : Saturday, March 25, 2023, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
