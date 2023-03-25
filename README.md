@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### Cool URIs don't change.
 >
-> ~ *Jamie Zawinski*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 25, 2023, 1:18 AM
+  Last Refresh : Saturday, March 25, 2023, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
