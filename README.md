@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Butler Lampson*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 24, 2023, 8:15 PM
+  Last Refresh : Friday, March 24, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
