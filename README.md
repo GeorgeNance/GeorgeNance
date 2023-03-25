@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 24, 2023, 7:31 PM
+  Last Refresh : Friday, March 24, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
