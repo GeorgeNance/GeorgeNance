@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
 >
-> ~ *Anonymous*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 25, 2023, 3:14 PM
+  Last Refresh : Saturday, March 25, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
