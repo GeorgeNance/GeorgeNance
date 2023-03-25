@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Ward Cunningham*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 25, 2023, 1:14 PM
+  Last Refresh : Saturday, March 25, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
