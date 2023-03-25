@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Marvin Minsky*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 25, 2023, 12:11 PM
+  Last Refresh : Saturday, March 25, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
