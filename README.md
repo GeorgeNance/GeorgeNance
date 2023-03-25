@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 24, 2023, 4:14 PM
+  Last Refresh : Friday, March 24, 2023, 6:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
