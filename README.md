@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Elon Musk*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 25, 2023, 2:12 PM
+  Last Refresh : Saturday, March 25, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
