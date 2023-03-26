@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 26, 2023, 8:14 AM
+  Last Refresh : Sunday, March 26, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
