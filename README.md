@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Charles Simonyi*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 26, 2023, 12:11 PM
+  Last Refresh : Sunday, March 26, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
