@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Bill Gates*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, March 25, 2023, 8:18 PM
+  Last Refresh : Saturday, March 25, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
