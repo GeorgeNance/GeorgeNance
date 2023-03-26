@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 26, 2023, 1:15 PM
+  Last Refresh : Sunday, March 26, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
