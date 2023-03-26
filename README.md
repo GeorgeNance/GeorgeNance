@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 26, 2023, 9:19 AM
+  Last Refresh : Sunday, March 26, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
