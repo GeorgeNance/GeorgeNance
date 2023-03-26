@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *John Warnock*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, March 26, 2023, 4:11 AM
+  Last Refresh : Sunday, March 26, 2023, 5:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
