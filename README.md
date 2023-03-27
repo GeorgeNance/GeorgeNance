@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Daniel T. Barry*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 27, 2023, 3:17 AM
+  Last Refresh : Monday, March 27, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
