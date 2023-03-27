@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 >
-> ~ *Anonymous*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 27, 2023, 12:14 AM
+  Last Refresh : Monday, March 27, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
