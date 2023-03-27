@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 27, 2023, 2:13 PM
+  Last Refresh : Monday, March 27, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
