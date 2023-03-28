@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 28, 2023, 10:14 AM
+  Last Refresh : Tuesday, March 28, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
