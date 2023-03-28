@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Jeff Sickel*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, March 27, 2023, 11:20 PM
+  Last Refresh : Tuesday, March 28, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
