@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Manuel Blum*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 28, 2023, 5:32 AM
+  Last Refresh : Tuesday, March 28, 2023, 6:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
