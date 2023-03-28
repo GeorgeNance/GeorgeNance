@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Danny Hillis*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 28, 2023, 1:21 AM
+  Last Refresh : Tuesday, March 28, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
