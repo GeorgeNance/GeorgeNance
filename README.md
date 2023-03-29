@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Eric S. Raymond*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 29, 2023, 2:13 PM
+  Last Refresh : Wednesday, March 29, 2023, 3:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
