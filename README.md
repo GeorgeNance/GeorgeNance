@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Tony Hoare*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 29, 2023, 12:14 AM
+  Last Refresh : Wednesday, March 29, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
