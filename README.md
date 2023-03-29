@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Martin Fowler*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 29, 2023, 4:16 AM
+  Last Refresh : Wednesday, March 29, 2023, 5:36 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
