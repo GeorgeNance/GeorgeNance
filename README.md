@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 >
-> ~ *Kent Beck*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, March 28, 2023, 7:41 PM
+  Last Refresh : Tuesday, March 28, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
