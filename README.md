@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 >
-> ~ *Henry Ford*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 29, 2023, 3:20 PM
+  Last Refresh : Wednesday, March 29, 2023, 4:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
