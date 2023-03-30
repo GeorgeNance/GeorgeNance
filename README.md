@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 29, 2023, 11:19 PM
+  Last Refresh : Thursday, March 30, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
