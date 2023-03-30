@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 2:12 PM
+  Last Refresh : Thursday, March 30, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
