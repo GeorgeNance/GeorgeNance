@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 2:16 AM
+  Last Refresh : Thursday, March 30, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
