@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Alan Perlis*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 11:17 AM
+  Last Refresh : Thursday, March 30, 2023, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
