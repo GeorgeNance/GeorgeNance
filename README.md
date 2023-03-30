@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 29, 2023, 7:35 PM
+  Last Refresh : Wednesday, March 29, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
