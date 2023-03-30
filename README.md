@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 3:14 PM
+  Last Refresh : Thursday, March 30, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
