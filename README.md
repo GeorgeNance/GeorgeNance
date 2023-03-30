@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Danny Hillis*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 10:13 AM
+  Last Refresh : Thursday, March 30, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
