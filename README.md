@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 >
-> ~ *Seymour Cray*
+> ~ *Carl Friedrich Gauss*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 1:19 AM
+  Last Refresh : Thursday, March 30, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
