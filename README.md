@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### Once you stop learning you start dying.
 >
-> ~ *Alan Perlis*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 7:14 AM
+  Last Refresh : Thursday, March 30, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
