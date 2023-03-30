@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Alan Kay*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 5:31 AM
+  Last Refresh : Thursday, March 30, 2023, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
