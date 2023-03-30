@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Ward Cunningham*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 12:10 PM
+  Last Refresh : Thursday, March 30, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
