@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
 >
-> ~ *Eric S. Raymond*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, March 29, 2023, 9:18 PM
+  Last Refresh : Wednesday, March 29, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
