@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Albert Einstein*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 8:16 AM
+  Last Refresh : Thursday, March 30, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
