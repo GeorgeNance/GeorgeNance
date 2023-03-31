@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Bill Gates*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 31, 2023, 3:13 PM
+  Last Refresh : Friday, March 31, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
