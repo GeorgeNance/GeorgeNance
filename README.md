@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 4:15 PM
+  Last Refresh : Thursday, March 30, 2023, 6:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
