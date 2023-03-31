@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### When in doubt, leave it out.
 >
-> ~ *Tom DeMarco*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 31, 2023, 12:13 AM
+  Last Refresh : Friday, March 31, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
