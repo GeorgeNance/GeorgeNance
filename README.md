@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### Cool URIs don't change.
 >
-> ~ *Bob Carr*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 7:35 PM
+  Last Refresh : Thursday, March 30, 2023, 8:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
