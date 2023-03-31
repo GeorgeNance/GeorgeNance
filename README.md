@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 8:16 PM
+  Last Refresh : Thursday, March 30, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
