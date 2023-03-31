@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Alan Perlis*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 6:17 PM
+  Last Refresh : Thursday, March 30, 2023, 7:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
