@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 31, 2023, 8:15 AM
+  Last Refresh : Friday, March 31, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
