@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Donald Knuth*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 31, 2023, 5:29 AM
+  Last Refresh : Friday, March 31, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
