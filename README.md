@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Marvin Minsky*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, March 30, 2023, 11:19 PM
+  Last Refresh : Friday, March 31, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
