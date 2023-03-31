@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 >
-> ~ *Joshua Bloch*
+> ~ *John Gall (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 31, 2023, 1:19 AM
+  Last Refresh : Friday, March 31, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
