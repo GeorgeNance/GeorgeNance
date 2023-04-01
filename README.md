@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 31, 2023, 11:18 PM
+  Last Refresh : Saturday, April 1, 2023, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
