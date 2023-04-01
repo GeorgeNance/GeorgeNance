@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *John Warnock*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 3:12 PM
+  Last Refresh : Saturday, April 1, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
