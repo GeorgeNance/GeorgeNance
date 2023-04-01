@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 >
-> ~ *Charles Simonyi*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 31, 2023, 10:13 PM
+  Last Refresh : Friday, March 31, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
