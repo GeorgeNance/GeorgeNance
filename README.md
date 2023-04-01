@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Laurence J. Peter*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 12:10 PM
+  Last Refresh : Saturday, April 1, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
