@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Robert C. Martin*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 1:14 PM
+  Last Refresh : Saturday, April 1, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
