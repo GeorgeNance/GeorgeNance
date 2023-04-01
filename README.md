@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 6:15 AM
+  Last Refresh : Saturday, April 1, 2023, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
