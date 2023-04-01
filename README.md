@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
 >
-> ~ *Tom Cargill*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 2:13 AM
+  Last Refresh : Saturday, April 1, 2023, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
