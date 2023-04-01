@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 >
-> ~ *Alan Turing*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 5:26 AM
+  Last Refresh : Saturday, April 1, 2023, 6:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
