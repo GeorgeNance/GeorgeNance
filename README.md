@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *John Carmack*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, March 31, 2023, 7:30 PM
+  Last Refresh : Friday, March 31, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
