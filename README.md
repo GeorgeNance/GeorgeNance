@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 2, 2023, 1:17 AM
+  Last Refresh : Sunday, April 2, 2023, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
