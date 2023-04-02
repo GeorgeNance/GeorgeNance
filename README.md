@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Douglas Crockford*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 2, 2023, 10:11 AM
+  Last Refresh : Sunday, April 2, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
