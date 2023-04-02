@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 4:13 PM
+  Last Refresh : Saturday, April 1, 2023, 6:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
