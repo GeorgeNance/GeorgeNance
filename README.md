@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Robert C. Martin*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 2, 2023, 2:12 AM
+  Last Refresh : Sunday, April 2, 2023, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
