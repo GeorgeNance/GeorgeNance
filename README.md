@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 >
-> ~ *Alan Perlis*
+> ~ *Philip Greenspun*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 11:17 PM
+  Last Refresh : Sunday, April 2, 2023, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
