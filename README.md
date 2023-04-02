@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 >
-> ~ *Bdale Garbee*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 2, 2023, 3:14 AM
+  Last Refresh : Sunday, April 2, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
