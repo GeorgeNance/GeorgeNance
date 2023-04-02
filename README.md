@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 >
-> ~ *Bob Frankston*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 8:14 PM
+  Last Refresh : Saturday, April 1, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
