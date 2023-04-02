@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *John von Neumann*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 1, 2023, 7:30 PM
+  Last Refresh : Saturday, April 1, 2023, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
