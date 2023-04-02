@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Bill Gates*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 2, 2023, 1:14 PM
+  Last Refresh : Sunday, April 2, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
