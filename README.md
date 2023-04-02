@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *John Johnson*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 2, 2023, 2:11 PM
+  Last Refresh : Sunday, April 2, 2023, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
