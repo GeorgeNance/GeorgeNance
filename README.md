@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Philip Greenspun*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 2, 2023, 12:12 AM
+  Last Refresh : Sunday, April 2, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
