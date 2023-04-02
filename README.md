@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 2, 2023, 9:17 AM
+  Last Refresh : Sunday, April 2, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
