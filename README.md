@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 >
-> ~ *Jamie Zawinski*
+> ~ *Ivan Sutherland*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 12:16 AM
+  Last Refresh : Monday, April 3, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
