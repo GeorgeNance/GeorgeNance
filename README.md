@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Charles Babbage*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 2:15 AM
+  Last Refresh : Monday, April 3, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
