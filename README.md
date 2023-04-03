@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Jim Horning*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 7:13 AM
+  Last Refresh : Monday, April 3, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
