@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Kent Beck*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 2:12 PM
+  Last Refresh : Monday, April 3, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
