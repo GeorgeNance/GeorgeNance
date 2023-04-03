@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 4:14 AM
+  Last Refresh : Monday, April 3, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
