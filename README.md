@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Daniel T. Barry*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 9:17 PM
+  Last Refresh : Monday, April 3, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
