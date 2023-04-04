@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Alan Perlis*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 4, 2023, 5:29 AM
+  Last Refresh : Tuesday, April 4, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
