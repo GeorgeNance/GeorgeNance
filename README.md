@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Charles Babbage*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 11:18 PM
+  Last Refresh : Tuesday, April 4, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
