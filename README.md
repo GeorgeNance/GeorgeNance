@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Butler Lampson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 4, 2023, 6:18 AM
+  Last Refresh : Tuesday, April 4, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
