@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 >
-> ~ *Eric S. Raymond*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 6:18 PM
+  Last Refresh : Monday, April 3, 2023, 7:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
