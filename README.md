@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Eric S. Raymond*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 4, 2023, 12:13 AM
+  Last Refresh : Tuesday, April 4, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
