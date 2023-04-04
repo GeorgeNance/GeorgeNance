@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 >
-> ~ *Thomas J. Watson*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 3, 2023, 10:13 PM
+  Last Refresh : Monday, April 3, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
