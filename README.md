@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Michael A. Jackson*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 4, 2023, 2:14 AM
+  Last Refresh : Tuesday, April 4, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
