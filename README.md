@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 >
-> ~ *Martin Fowler*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 5, 2023, 3:13 PM
+  Last Refresh : Wednesday, April 5, 2023, 4:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
