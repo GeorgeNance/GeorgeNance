@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 >
-> ~ *Buckminster Fuller*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 5, 2023, 9:23 AM
+  Last Refresh : Wednesday, April 5, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
