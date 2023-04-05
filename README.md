@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Fred Brooks*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 5, 2023, 1:17 PM
+  Last Refresh : Wednesday, April 5, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
