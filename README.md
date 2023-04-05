@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
 >
-> ~ *Filipe Fortes*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 5, 2023, 2:14 PM
+  Last Refresh : Wednesday, April 5, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
