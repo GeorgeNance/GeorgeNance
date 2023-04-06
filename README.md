@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 6, 2023, 10:12 AM
+  Last Refresh : Thursday, April 6, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
