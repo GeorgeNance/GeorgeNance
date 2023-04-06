@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Dennis Ritchie*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 6, 2023, 1:15 PM
+  Last Refresh : Thursday, April 6, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
