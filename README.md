@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
 >
-> ~ *Dennis Ritchie*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 6, 2023, 3:13 PM
+  Last Refresh : Thursday, April 6, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
