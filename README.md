@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Henry Petroski*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 6, 2023, 2:14 AM
+  Last Refresh : Thursday, April 6, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
