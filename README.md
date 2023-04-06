@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Rick Osborne*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 6, 2023, 12:13 AM
+  Last Refresh : Thursday, April 6, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
