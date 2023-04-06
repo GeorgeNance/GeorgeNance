@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Brian Kernighan*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 6, 2023, 11:18 AM
+  Last Refresh : Thursday, April 6, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
