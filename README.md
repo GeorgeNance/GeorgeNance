@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *John Warnock*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 7, 2023, 10:12 AM
+  Last Refresh : Friday, April 7, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
