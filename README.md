@@ -9,11 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
 >
-> ~ *Michael A. Jackson*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -48,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 6, 2023, 10:13 PM
+  Last Refresh : Thursday, April 6, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
