@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Alan Perlis*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 7, 2023, 6:17 AM
+  Last Refresh : Friday, April 7, 2023, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
