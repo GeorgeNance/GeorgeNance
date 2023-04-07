@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Ted Nelson*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 6, 2023, 9:17 PM
+  Last Refresh : Thursday, April 6, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
