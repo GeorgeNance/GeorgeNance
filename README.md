@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Ken Thompson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 7, 2023, 7:12 AM
+  Last Refresh : Friday, April 7, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
