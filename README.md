@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Alan Perlis*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 7, 2023, 9:18 AM
+  Last Refresh : Friday, April 7, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
