@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Richard Hamming*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 7, 2023, 2:14 AM
+  Last Refresh : Friday, April 7, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
