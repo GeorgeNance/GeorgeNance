@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Gary Kildall*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 8, 2023, 1:14 PM
+  Last Refresh : Saturday, April 8, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
