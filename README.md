@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Kent Beck*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 8, 2023, 10:12 AM
+  Last Refresh : Saturday, April 8, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
