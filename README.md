@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 >
-> ~ *Pete Cordell*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 1:16 AM
+  Last Refresh : Sunday, April 9, 2023, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
