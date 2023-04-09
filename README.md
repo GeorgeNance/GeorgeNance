@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### It’s all talk until the code runs.
 >
-> ~ *Ryan Singer*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 8, 2023, 8:14 PM
+  Last Refresh : Saturday, April 8, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
