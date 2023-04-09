@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Albert Einstein*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 12:10 PM
+  Last Refresh : Sunday, April 9, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
