@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Fred Brooks*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 4:10 AM
+  Last Refresh : Sunday, April 9, 2023, 5:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
