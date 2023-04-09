@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 >
-> ~ *Donald Knuth*
+> ~ *Pete Cordell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 12:12 AM
+  Last Refresh : Sunday, April 9, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
