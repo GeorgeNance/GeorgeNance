@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 9:17 AM
+  Last Refresh : Sunday, April 9, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
