@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 10:12 AM
+  Last Refresh : Sunday, April 9, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
