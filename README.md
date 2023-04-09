@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *George Boole*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 8:13 AM
+  Last Refresh : Sunday, April 9, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
