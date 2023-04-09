@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Butler Lampson*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 11:16 AM
+  Last Refresh : Sunday, April 9, 2023, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
