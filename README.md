@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 >
-> ~ *Richard Feynman*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 7:11 AM
+  Last Refresh : Sunday, April 9, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
