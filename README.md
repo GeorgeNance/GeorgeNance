@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Richard Hamming*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 8, 2023, 4:13 PM
+  Last Refresh : Saturday, April 8, 2023, 6:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
