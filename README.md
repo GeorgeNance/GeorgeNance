@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 >
-> ~ *Ward Cunningham*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 8, 2023, 9:17 PM
+  Last Refresh : Saturday, April 8, 2023, 10:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
