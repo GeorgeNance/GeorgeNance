@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Fred Brooks*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 10, 2023, 4:11 AM
+  Last Refresh : Monday, April 10, 2023, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
