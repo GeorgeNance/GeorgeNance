@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Mark Gibbs*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 10, 2023, 12:11 PM
+  Last Refresh : Monday, April 10, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
