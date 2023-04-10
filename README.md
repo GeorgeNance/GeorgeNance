@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 >
-> ~ *Donald Knuth*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 10, 2023, 2:12 PM
+  Last Refresh : Monday, April 10, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
