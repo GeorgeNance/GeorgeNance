@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Alan Perlis*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 10:14 PM
+  Last Refresh : Sunday, April 9, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
