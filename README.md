@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Ray Ozzie*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 4:13 PM
+  Last Refresh : Sunday, April 9, 2023, 6:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
