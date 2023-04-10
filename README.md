@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 >
-> ~ *David Parnas*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 9, 2023, 7:28 PM
+  Last Refresh : Sunday, April 9, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
