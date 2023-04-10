@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 >
-> ~ *Jim Coplien*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 10, 2023, 5:28 AM
+  Last Refresh : Monday, April 10, 2023, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
