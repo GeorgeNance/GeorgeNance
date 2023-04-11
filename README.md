@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *René Descartes*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 10, 2023, 6:12 PM
+  Last Refresh : Monday, April 10, 2023, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
