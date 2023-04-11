@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Vannevar Bush*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 11, 2023, 1:15 PM
+  Last Refresh : Tuesday, April 11, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
