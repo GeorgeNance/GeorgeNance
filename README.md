@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Martin Fowler*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 11, 2023, 8:15 AM
+  Last Refresh : Tuesday, April 11, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
