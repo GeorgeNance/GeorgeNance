@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Alan Turing*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 10, 2023, 9:17 PM
+  Last Refresh : Monday, April 10, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
