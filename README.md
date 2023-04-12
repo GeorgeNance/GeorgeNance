@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 12, 2023, 6:18 AM
+  Last Refresh : Wednesday, April 12, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
