@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Elon Musk*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 12, 2023, 12:11 PM
+  Last Refresh : Wednesday, April 12, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
