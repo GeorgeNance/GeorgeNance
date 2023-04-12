@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Daniel T. Barry*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 12, 2023, 11:19 AM
+  Last Refresh : Wednesday, April 12, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
