@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Bob Carr*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 12, 2023, 3:13 PM
+  Last Refresh : Wednesday, April 12, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
