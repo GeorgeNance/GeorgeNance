@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Richard Stallman*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 12, 2023, 8:15 AM
+  Last Refresh : Wednesday, April 12, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
