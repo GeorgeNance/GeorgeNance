@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Robert C. Martin*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 11, 2023, 7:30 PM
+  Last Refresh : Tuesday, April 11, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
