@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Elon Musk*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 12, 2023, 12:13 AM
+  Last Refresh : Wednesday, April 12, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
