@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 12, 2023, 2:14 AM
+  Last Refresh : Wednesday, April 12, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
