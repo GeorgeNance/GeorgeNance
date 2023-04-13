@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 13, 2023, 7:13 AM
+  Last Refresh : Thursday, April 13, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
