@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *Alan Perlis*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 13, 2023, 5:30 AM
+  Last Refresh : Thursday, April 13, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
