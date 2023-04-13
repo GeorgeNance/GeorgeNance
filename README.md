@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Steve Jobs*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 12, 2023, 9:17 PM
+  Last Refresh : Wednesday, April 12, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
