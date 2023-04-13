@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Linus Torvalds*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 13, 2023, 11:18 AM
+  Last Refresh : Thursday, April 13, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
