@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Henry Petroski*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 13, 2023, 6:13 PM
+  Last Refresh : Thursday, April 13, 2023, 7:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
