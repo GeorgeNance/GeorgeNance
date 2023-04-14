@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+> ### Programming can be addictive.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 14, 2023, 12:11 PM
+  Last Refresh : Friday, April 14, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
