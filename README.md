@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
-> ~ *Harlan Mills*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 14, 2023, 6:17 AM
+  Last Refresh : Friday, April 14, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
