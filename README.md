@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Edward V. Berard*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 14, 2023, 4:12 AM
+  Last Refresh : Friday, April 14, 2023, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
