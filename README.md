@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Robert C. Martin*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 14, 2023, 2:14 AM
+  Last Refresh : Friday, April 14, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
