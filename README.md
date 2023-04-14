@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Alan Turing*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 14, 2023, 12:13 AM
+  Last Refresh : Friday, April 14, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
