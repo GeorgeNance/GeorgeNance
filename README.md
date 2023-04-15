@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Harlan Mills*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 14, 2023, 11:17 PM
+  Last Refresh : Saturday, April 15, 2023, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
