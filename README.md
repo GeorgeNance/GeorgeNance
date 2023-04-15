@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Fred Brooks*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 14, 2023, 6:15 PM
+  Last Refresh : Friday, April 14, 2023, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
