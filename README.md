@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Danny Hillis*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 15, 2023, 1:14 PM
+  Last Refresh : Saturday, April 15, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
