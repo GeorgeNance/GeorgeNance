@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Daniel T. Barry*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 16, 2023, 3:14 AM
+  Last Refresh : Sunday, April 16, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
