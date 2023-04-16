@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 15, 2023, 4:13 PM
+  Last Refresh : Saturday, April 15, 2023, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
