@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Elon Musk*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 16, 2023, 7:12 AM
+  Last Refresh : Sunday, April 16, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
