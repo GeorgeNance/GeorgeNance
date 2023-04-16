@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 16, 2023, 12:12 AM
+  Last Refresh : Sunday, April 16, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
