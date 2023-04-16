@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Alan Perlis*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 15, 2023, 9:17 PM
+  Last Refresh : Saturday, April 15, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
