@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 >
-> ~ *Ray Ozzie*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 15, 2023, 6:18 PM
+  Last Refresh : Saturday, April 15, 2023, 7:34 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
