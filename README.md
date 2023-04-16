@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### Deleted code is debugged code.
 >
-> ~ *Martin Fowler*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 16, 2023, 5:27 AM
+  Last Refresh : Sunday, April 16, 2023, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
