@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Luciano Ramalho*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 15, 2023, 10:13 PM
+  Last Refresh : Saturday, April 15, 2023, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
