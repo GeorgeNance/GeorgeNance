@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 >
-> ~ *Alan Perlis*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 16, 2023, 9:18 AM
+  Last Refresh : Sunday, April 16, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
