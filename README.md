@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### When in doubt, use brute force.
 >
-> ~ *David Parnas*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 16, 2023, 3:13 PM
+  Last Refresh : Sunday, April 16, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
