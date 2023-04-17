@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Richard Stallman*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 17, 2023, 3:16 AM
+  Last Refresh : Monday, April 17, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
