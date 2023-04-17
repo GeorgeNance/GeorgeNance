@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
 >
-> ~ *Ken Thompson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 17, 2023, 7:14 AM
+  Last Refresh : Monday, April 17, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
