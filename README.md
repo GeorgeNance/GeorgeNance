@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### Deleted code is debugged code.
 >
-> ~ *Butler Lampson*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 17, 2023, 9:19 AM
+  Last Refresh : Monday, April 17, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
