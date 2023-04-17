@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Richard Feynman*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 16, 2023, 11:19 PM
+  Last Refresh : Monday, April 17, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
