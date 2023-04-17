@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 17, 2023, 4:12 AM
+  Last Refresh : Monday, April 17, 2023, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
