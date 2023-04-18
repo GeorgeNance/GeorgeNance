@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 4:12 AM
+  Last Refresh : Tuesday, April 18, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
