@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Martin Fowler*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 17, 2023, 10:14 PM
+  Last Refresh : Monday, April 17, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
