@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 11:19 AM
+  Last Refresh : Tuesday, April 18, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
