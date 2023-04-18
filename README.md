@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
 >
-> ~ *John von Neumann*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 1:16 PM
+  Last Refresh : Tuesday, April 18, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
