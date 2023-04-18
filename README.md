@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Dennis Ritchie*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 8:17 AM
+  Last Refresh : Tuesday, April 18, 2023, 9:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
