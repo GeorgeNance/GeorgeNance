@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 >
-> ~ *Tom DeMarco*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 17, 2023, 6:12 PM
+  Last Refresh : Monday, April 17, 2023, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
