@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Bill Gates*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 12:12 PM
+  Last Refresh : Tuesday, April 18, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
