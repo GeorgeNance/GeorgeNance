@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Douglas Crockford*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 10:13 AM
+  Last Refresh : Wednesday, April 19, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
