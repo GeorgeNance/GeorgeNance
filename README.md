@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Bob Carr*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 2:15 AM
+  Last Refresh : Wednesday, April 19, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
