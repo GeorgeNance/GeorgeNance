@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Gerald Weinberg*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 4:16 AM
+  Last Refresh : Wednesday, April 19, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
