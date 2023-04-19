@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Ray Ozzie*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 2:13 PM
+  Last Refresh : Wednesday, April 19, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
