@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *William Wulf*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 9:19 AM
+  Last Refresh : Wednesday, April 19, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
