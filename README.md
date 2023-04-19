@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 12:12 PM
+  Last Refresh : Wednesday, April 19, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
