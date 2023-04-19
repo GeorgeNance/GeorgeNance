@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### Programming can be addictive.
 >
-> ~ *Terry Winograd*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 1:19 AM
+  Last Refresh : Wednesday, April 19, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
