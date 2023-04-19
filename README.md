@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Hal Abelson*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 8:15 PM
+  Last Refresh : Tuesday, April 18, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
