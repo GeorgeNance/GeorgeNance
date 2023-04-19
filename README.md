@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Steve Jobs*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 10:14 PM
+  Last Refresh : Tuesday, April 18, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
