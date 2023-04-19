@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 >
-> ~ *Edward V. Berard*
+> ~ *Henry Petroski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 11:19 PM
+  Last Refresh : Wednesday, April 19, 2023, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
