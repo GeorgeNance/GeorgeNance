@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Fred Brooks*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 18, 2023, 4:14 PM
+  Last Refresh : Tuesday, April 18, 2023, 6:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
