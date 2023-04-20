@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Steve Jobs*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 20, 2023, 2:14 AM
+  Last Refresh : Thursday, April 20, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
