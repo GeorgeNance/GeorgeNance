@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 >
-> ~ *Friedrich Bauer*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 11:19 PM
+  Last Refresh : Thursday, April 20, 2023, 12:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
