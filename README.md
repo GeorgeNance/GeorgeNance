@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Fred Brooks*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 20, 2023, 6:18 AM
+  Last Refresh : Thursday, April 20, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
