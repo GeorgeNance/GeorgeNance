@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Douglas Crockford*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 19, 2023, 10:14 PM
+  Last Refresh : Wednesday, April 19, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
