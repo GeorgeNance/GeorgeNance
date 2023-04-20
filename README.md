@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Donald Knuth*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 20, 2023, 12:18 AM
+  Last Refresh : Thursday, April 20, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
