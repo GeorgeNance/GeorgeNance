@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 20, 2023, 7:13 AM
+  Last Refresh : Thursday, April 20, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
