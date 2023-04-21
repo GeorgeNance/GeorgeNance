@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Albert Einstein*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 21, 2023, 12:11 PM
+  Last Refresh : Friday, April 21, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
