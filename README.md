@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Alan Perlis*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 21, 2023, 8:14 AM
+  Last Refresh : Friday, April 21, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
