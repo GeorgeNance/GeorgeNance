@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Donald Knuth*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 21, 2023, 4:15 AM
+  Last Refresh : Friday, April 21, 2023, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
