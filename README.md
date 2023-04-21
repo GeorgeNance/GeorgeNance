@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Jim Horning*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 20, 2023, 10:13 PM
+  Last Refresh : Thursday, April 20, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
