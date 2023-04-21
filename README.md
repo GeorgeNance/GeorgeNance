@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 >
-> ~ *Niklaus Wirth*
+> ~ *Stewart Brand*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 21, 2023, 5:28 AM
+  Last Refresh : Friday, April 21, 2023, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
