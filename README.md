@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### When in doubt, leave it out.
 >
-> ~ *Stewart Brand*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 21, 2023, 6:17 AM
+  Last Refresh : Friday, April 21, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
