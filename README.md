@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 21, 2023, 1:18 AM
+  Last Refresh : Friday, April 21, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
