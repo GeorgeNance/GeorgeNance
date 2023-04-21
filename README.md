@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 >
-> ~ *Alan Perlis*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 20, 2023, 6:12 PM
+  Last Refresh : Thursday, April 20, 2023, 7:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
