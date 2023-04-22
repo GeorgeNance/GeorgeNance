@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *George Carrette*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 8:13 AM
+  Last Refresh : Saturday, April 22, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
