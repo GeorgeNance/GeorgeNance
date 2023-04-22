@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *René Descartes*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 2:13 AM
+  Last Refresh : Saturday, April 22, 2023, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
