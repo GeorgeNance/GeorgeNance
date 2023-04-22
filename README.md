@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 3:14 AM
+  Last Refresh : Saturday, April 22, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
