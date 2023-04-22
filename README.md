@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 11:17 AM
+  Last Refresh : Saturday, April 22, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
