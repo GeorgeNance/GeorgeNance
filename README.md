@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Sean Parent*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 1:15 PM
+  Last Refresh : Saturday, April 22, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
