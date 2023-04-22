@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### No code is faster than no code.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 6:16 AM
+  Last Refresh : Saturday, April 22, 2023, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
