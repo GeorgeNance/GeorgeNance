@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Kevlin Henney*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 12:12 AM
+  Last Refresh : Saturday, April 22, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
