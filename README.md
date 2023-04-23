@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Alan Perlis*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 5:27 AM
+  Last Refresh : Sunday, April 23, 2023, 6:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
