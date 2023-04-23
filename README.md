@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 >
 > ~ *Jamie Zawinski*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 7:12 AM
+  Last Refresh : Sunday, April 23, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
