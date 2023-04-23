@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Fred Brooks*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 10:13 PM
+  Last Refresh : Saturday, April 22, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
