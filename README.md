@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### Once you stop learning you start dying.
 >
-> ~ *Jamie Zawinski*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 8:13 AM
+  Last Refresh : Sunday, April 23, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
