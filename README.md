@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Bill Gates*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 12:11 PM
+  Last Refresh : Sunday, April 23, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
