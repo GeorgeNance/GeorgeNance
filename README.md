@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *William Wulf*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 22, 2023, 8:15 PM
+  Last Refresh : Saturday, April 22, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
