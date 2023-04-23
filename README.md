@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Eric S. Raymond*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 3:14 AM
+  Last Refresh : Sunday, April 23, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
