@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Buckminster Fuller*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 12:12 AM
+  Last Refresh : Sunday, April 23, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
