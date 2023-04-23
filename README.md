@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Albert Einstein*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 9:18 AM
+  Last Refresh : Sunday, April 23, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
