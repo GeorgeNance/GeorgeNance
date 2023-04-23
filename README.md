@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Rob Pike*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 1:15 PM
+  Last Refresh : Sunday, April 23, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
