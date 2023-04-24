@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Alan Perlis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 10:13 AM
+  Last Refresh : Monday, April 24, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
