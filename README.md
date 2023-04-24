@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Steve Jobs*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 9:18 PM
+  Last Refresh : Sunday, April 23, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
