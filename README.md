@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Dennis Ritchie*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 11:18 AM
+  Last Refresh : Monday, April 24, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
