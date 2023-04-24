@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Elon Musk*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 9:19 AM
+  Last Refresh : Monday, April 24, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
