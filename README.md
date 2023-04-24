@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Fred Brooks*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 1:19 AM
+  Last Refresh : Monday, April 24, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
