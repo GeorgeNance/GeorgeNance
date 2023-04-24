@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 12:11 PM
+  Last Refresh : Monday, April 24, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
