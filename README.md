@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Jeff Sickel*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 4:12 AM
+  Last Refresh : Monday, April 24, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
