@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 >
-> ~ *Linus Torvalds*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 23, 2023, 7:33 PM
+  Last Refresh : Sunday, April 23, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
