@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### No code is faster than no code.
 >
-> ~ *Steve Jobs*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 7:13 AM
+  Last Refresh : Monday, April 24, 2023, 8:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
