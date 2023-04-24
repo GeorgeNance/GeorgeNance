@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Butler Lampson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 2:15 AM
+  Last Refresh : Monday, April 24, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
