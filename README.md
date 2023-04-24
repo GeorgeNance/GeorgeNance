@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Kevlin Henney*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 8:18 AM
+  Last Refresh : Monday, April 24, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
