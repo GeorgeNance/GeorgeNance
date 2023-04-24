@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### Deleted code is debugged code.
 >
-> ~ *Fred Brooks*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 3:15 AM
+  Last Refresh : Monday, April 24, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
