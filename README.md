@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Daniel T. Barry*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 10:14 PM
+  Last Refresh : Monday, April 24, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
