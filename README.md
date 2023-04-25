@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 >
-> ~ *Fred Brooks*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 10:13 AM
+  Last Refresh : Tuesday, April 25, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
