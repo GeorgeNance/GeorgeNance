@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, April 24, 2023, 6:15 PM
+  Last Refresh : Monday, April 24, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
