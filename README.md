@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 2:14 AM
+  Last Refresh : Tuesday, April 25, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
