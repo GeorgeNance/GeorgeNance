@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Bob Frankston*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 4:13 AM
+  Last Refresh : Tuesday, April 25, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
