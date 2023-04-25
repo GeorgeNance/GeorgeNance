@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because you've implemented something doesn't mean you understand it.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Brian Cantwell Smith*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 3:16 AM
+  Last Refresh : Tuesday, April 25, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
