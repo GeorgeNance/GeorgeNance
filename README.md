@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 7:13 AM
+  Last Refresh : Tuesday, April 25, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
