@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 2:12 PM
+  Last Refresh : Tuesday, April 25, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
