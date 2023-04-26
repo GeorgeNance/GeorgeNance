@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 >
-> ~ *Gary Kildall*
+> ~ *James Gleick*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 1:18 AM
+  Last Refresh : Wednesday, April 26, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
