@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### No code is faster than no code.
 >
-> ~ *James Gleick*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 2:14 AM
+  Last Refresh : Wednesday, April 26, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
