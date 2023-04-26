@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Kevlin Henney*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 3:15 AM
+  Last Refresh : Wednesday, April 26, 2023, 4:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
