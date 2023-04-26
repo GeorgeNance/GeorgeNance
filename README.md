@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 >
-> ~ *Ken Olsen*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 11:19 PM
+  Last Refresh : Wednesday, April 26, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
