@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *John von Neumann*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 10:13 PM
+  Last Refresh : Tuesday, April 25, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
