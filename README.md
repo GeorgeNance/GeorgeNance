@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 1:14 PM
+  Last Refresh : Wednesday, April 26, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
