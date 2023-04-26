@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### Cool URIs don't change.
 >
-> ~ *Damian Conway*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 12:11 PM
+  Last Refresh : Wednesday, April 26, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
