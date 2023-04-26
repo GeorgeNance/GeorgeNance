@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Gary Kildall*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 11:18 AM
+  Last Refresh : Wednesday, April 26, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
