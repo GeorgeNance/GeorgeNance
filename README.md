@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 3:13 PM
+  Last Refresh : Wednesday, April 26, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
