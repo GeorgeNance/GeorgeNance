@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, April 25, 2023, 8:15 PM
+  Last Refresh : Tuesday, April 25, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
