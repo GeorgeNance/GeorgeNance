@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Alan Perlis*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 12:13 AM
+  Last Refresh : Wednesday, April 26, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
