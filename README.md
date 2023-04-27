@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 7:32 PM
+  Last Refresh : Wednesday, April 26, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
