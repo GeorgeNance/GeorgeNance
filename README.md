@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 >
-> ~ *Brian Kernighan*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 2:12 PM
+  Last Refresh : Thursday, April 27, 2023, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
