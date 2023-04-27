@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 >
-> ~ *Terry Winograd*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 6:15 PM
+  Last Refresh : Wednesday, April 26, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
