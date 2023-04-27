@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 7:13 AM
+  Last Refresh : Thursday, April 27, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
