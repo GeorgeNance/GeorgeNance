@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Danny Hillis*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 1:15 PM
+  Last Refresh : Thursday, April 27, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
