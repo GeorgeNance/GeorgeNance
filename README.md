@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Daniel T. Barry*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 2:13 AM
+  Last Refresh : Thursday, April 27, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
