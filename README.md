@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 >
-> ~ *Gary Kildall*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 8:15 PM
+  Last Refresh : Wednesday, April 26, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
