@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 >
 > ~ *Gottfried Wilhelm Leibniz*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 11:18 AM
+  Last Refresh : Thursday, April 27, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
