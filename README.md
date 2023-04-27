@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, April 26, 2023, 9:17 PM
+  Last Refresh : Wednesday, April 26, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
