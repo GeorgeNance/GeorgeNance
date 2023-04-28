@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 6:14 PM
+  Last Refresh : Thursday, April 27, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
