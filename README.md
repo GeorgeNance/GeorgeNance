@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Bob Frankston*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 28, 2023, 8:14 AM
+  Last Refresh : Friday, April 28, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
