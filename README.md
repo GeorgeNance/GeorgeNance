@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 8:15 PM
+  Last Refresh : Thursday, April 27, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
