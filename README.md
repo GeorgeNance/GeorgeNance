@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 >
-> ~ *Bill Gates*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 10:13 PM
+  Last Refresh : Thursday, April 27, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
