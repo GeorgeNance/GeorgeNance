@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Wayne Ratliff*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 28, 2023, 6:17 AM
+  Last Refresh : Friday, April 28, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
