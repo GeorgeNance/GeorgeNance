@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Elon Musk*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 28, 2023, 12:11 PM
+  Last Refresh : Friday, April 28, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
