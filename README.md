@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
+> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 >
-> ~ *Bill Gates*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 28, 2023, 12:16 AM
+  Last Refresh : Friday, April 28, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
