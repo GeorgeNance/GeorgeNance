@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Danny Hillis*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, April 27, 2023, 9:17 PM
+  Last Refresh : Thursday, April 27, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
