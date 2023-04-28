@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Brian Kernighan*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 28, 2023, 9:18 AM
+  Last Refresh : Friday, April 28, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
