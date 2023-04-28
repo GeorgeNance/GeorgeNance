@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Bill Gates*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 28, 2023, 1:15 PM
+  Last Refresh : Friday, April 28, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
