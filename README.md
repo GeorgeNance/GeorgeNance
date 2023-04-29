@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Tony Parisi (software developer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 29, 2023, 8:13 AM
+  Last Refresh : Saturday, April 29, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
