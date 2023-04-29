@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 28, 2023, 9:17 PM
+  Last Refresh : Friday, April 28, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
