@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Dennis Ritchie*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 29, 2023, 1:14 PM
+  Last Refresh : Saturday, April 29, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
