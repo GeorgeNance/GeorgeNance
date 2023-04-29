@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Alan Perlis*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 29, 2023, 7:11 AM
+  Last Refresh : Saturday, April 29, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
