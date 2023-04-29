@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 29, 2023, 12:14 AM
+  Last Refresh : Saturday, April 29, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
