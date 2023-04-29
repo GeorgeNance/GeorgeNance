@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### Programming can be addictive.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, April 28, 2023, 10:13 PM
+  Last Refresh : Friday, April 28, 2023, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
