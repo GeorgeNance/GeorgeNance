@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Albert Einstein*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 29, 2023, 11:18 PM
+  Last Refresh : Sunday, April 30, 2023, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
