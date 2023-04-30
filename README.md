@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Joshua Bloch*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 29, 2023, 8:14 PM
+  Last Refresh : Saturday, April 29, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
