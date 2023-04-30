@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 10:12 AM
+  Last Refresh : Sunday, April 30, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
