@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 29, 2023, 6:18 PM
+  Last Refresh : Saturday, April 29, 2023, 7:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
