@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### I have no special talent. I am only passionately curious.
 >
 > ~ *Albert Einstein*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, April 29, 2023, 10:13 PM
+  Last Refresh : Saturday, April 29, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
