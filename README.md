@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Tim Berners-Lee*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 6:15 AM
+  Last Refresh : Sunday, April 30, 2023, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
