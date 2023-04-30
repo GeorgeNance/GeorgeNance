@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### Cool URIs don't change.
 >
-> ~ *Linus Torvalds*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 9:17 AM
+  Last Refresh : Sunday, April 30, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
