@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Elon Musk*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 11:16 AM
+  Last Refresh : Sunday, April 30, 2023, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
