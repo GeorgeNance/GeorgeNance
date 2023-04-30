@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 >
-> ~ *Fred Brooks*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 2:11 PM
+  Last Refresh : Sunday, April 30, 2023, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
