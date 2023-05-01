@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 >
-> ~ *Alan Perlis*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 1, 2023, 10:12 AM
+  Last Refresh : Monday, May 1, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
