@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Bill Gates*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 11:19 PM
+  Last Refresh : Monday, May 1, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
