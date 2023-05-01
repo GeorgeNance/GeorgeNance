@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Donald Knuth*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 1, 2023, 6:17 AM
+  Last Refresh : Monday, May 1, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
