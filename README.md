@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Filipe Fortes*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 1, 2023, 9:19 AM
+  Last Refresh : Monday, May 1, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
