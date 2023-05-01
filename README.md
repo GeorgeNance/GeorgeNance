@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Kent Beck*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 9:18 PM
+  Last Refresh : Sunday, April 30, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
