@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Donald Knuth*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 1, 2023, 8:14 AM
+  Last Refresh : Monday, May 1, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
