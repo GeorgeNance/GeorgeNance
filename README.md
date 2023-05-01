@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Dennis Ritchie*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 7:32 PM
+  Last Refresh : Sunday, April 30, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
