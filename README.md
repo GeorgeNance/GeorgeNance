@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Joel Spolsky*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, April 30, 2023, 6:17 PM
+  Last Refresh : Sunday, April 30, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
