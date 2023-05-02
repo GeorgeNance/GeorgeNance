@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### It’s all talk until the code runs.
 >
-> ~ *Donald Knuth*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 2, 2023, 1:18 AM
+  Last Refresh : Tuesday, May 2, 2023, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
