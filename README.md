@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Brian Kernighan*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 2, 2023, 5:29 AM
+  Last Refresh : Tuesday, May 2, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
