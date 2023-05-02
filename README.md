@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Dennis Ritchie*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 1, 2023, 6:14 PM
+  Last Refresh : Monday, May 1, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
