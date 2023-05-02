@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 >
-> ~ *Douglas Crockford*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 1, 2023, 10:13 PM
+  Last Refresh : Monday, May 1, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
