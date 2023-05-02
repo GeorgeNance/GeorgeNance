@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 >
-> ~ *Bob Frankston*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 2, 2023, 9:19 AM
+  Last Refresh : Tuesday, May 2, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
