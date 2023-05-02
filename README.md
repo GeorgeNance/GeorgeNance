@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 1, 2023, 7:32 PM
+  Last Refresh : Monday, May 1, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
