@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
 >
-> ~ *Ward Cunningham*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 2, 2023, 2:17 AM
+  Last Refresh : Tuesday, May 2, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
