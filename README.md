@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Quarry worker's creed*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 2, 2023, 8:16 AM
+  Last Refresh : Tuesday, May 2, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
