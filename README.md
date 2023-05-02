@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Addy Osmani*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 2, 2023, 7:13 AM
+  Last Refresh : Tuesday, May 2, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
