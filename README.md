@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 >
-> ~ *Mark Gibbs*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 2, 2023, 6:14 PM
+  Last Refresh : Tuesday, May 2, 2023, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
