@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Alan Kay*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 3, 2023, 3:15 AM
+  Last Refresh : Wednesday, May 3, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
