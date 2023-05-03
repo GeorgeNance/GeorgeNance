@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Tom DeMarco*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 3, 2023, 2:14 AM
+  Last Refresh : Wednesday, May 3, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
