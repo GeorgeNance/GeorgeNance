@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Richard E. Pattis*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 4, 2023, 1:18 AM
+  Last Refresh : Thursday, May 4, 2023, 2:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
