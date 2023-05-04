@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *John von Neumann*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 4, 2023, 10:12 AM
+  Last Refresh : Thursday, May 4, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
