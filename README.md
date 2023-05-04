@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Ken Thompson*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 4, 2023, 5:28 AM
+  Last Refresh : Thursday, May 4, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
