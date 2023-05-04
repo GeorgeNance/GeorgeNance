@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 >
-> ~ *John Ousterhout*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 4, 2023, 2:19 AM
+  Last Refresh : Thursday, May 4, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
