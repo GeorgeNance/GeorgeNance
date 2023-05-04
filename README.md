@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Chris Sacca*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 3, 2023, 11:18 PM
+  Last Refresh : Thursday, May 4, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
