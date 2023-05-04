@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Jeff Sickel*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 4, 2023, 9:28 AM
+  Last Refresh : Thursday, May 4, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
