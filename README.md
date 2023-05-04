@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 >
-> ~ *Eric S. Raymond*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 4, 2023, 6:18 AM
+  Last Refresh : Thursday, May 4, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
