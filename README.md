@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
 >
-> ~ *Elon Musk*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 3, 2023, 6:13 PM
+  Last Refresh : Wednesday, May 3, 2023, 7:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
