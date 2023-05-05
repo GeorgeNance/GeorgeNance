@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *George Boole*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 5, 2023, 1:15 PM
+  Last Refresh : Friday, May 5, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
