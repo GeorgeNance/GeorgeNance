@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 5, 2023, 9:19 AM
+  Last Refresh : Friday, May 5, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
