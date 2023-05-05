@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 4, 2023, 6:07 PM
+  Last Refresh : Thursday, May 4, 2023, 7:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
