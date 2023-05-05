@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Steve Jobs*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 5, 2023, 6:21 AM
+  Last Refresh : Friday, May 5, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
