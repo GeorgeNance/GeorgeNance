@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Ryan Singer*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 4, 2023, 7:29 PM
+  Last Refresh : Thursday, May 4, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
