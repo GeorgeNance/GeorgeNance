@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *David Parnas*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 5, 2023, 8:15 PM
+  Last Refresh : Friday, May 5, 2023, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
