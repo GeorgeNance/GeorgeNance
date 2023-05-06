@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 6, 2023, 2:12 PM
+  Last Refresh : Saturday, May 6, 2023, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
