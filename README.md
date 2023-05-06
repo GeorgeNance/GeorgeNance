@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Daniel T. Barry*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 6, 2023, 8:13 AM
+  Last Refresh : Saturday, May 6, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
