@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Richard Hamming*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 6, 2023, 4:11 AM
+  Last Refresh : Saturday, May 6, 2023, 5:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
