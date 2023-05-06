@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Steve Wozniak*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 6, 2023, 9:17 AM
+  Last Refresh : Saturday, May 6, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
