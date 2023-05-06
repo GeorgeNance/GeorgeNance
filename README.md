@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Richard Hamming*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 5, 2023, 6:09 PM
+  Last Refresh : Friday, May 5, 2023, 7:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
