@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 6, 2023, 3:14 AM
+  Last Refresh : Saturday, May 6, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
