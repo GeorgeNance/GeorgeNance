@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
-> ~ *Ellen Ullman*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 6, 2023, 2:13 AM
+  Last Refresh : Saturday, May 6, 2023, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
