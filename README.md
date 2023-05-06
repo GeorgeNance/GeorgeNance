@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 >
-> ~ *Daniel T. Barry*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 5, 2023, 7:27 PM
+  Last Refresh : Friday, May 5, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
