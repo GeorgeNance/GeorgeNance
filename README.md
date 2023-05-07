@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Robert C. Martin*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 6, 2023, 8:15 PM
+  Last Refresh : Saturday, May 6, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
