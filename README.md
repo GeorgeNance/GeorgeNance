@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
 >
-> ~ *Tony Hoare*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 7, 2023, 2:13 PM
+  Last Refresh : Sunday, May 7, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
