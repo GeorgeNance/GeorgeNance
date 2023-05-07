@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Alan Perlis*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 7, 2023, 12:12 AM
+  Last Refresh : Sunday, May 7, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
