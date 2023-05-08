@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Linus Torvalds*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 7, 2023, 10:14 PM
+  Last Refresh : Sunday, May 7, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
