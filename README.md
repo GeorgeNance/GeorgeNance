@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Linus Torvalds*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 8, 2023, 5:29 AM
+  Last Refresh : Monday, May 8, 2023, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
