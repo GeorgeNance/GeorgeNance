@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Ted Nelson*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 8, 2023, 8:15 AM
+  Last Refresh : Monday, May 8, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
