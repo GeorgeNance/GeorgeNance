@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 >
-> ~ *Daniel T. Barry*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 7, 2023, 11:18 PM
+  Last Refresh : Monday, May 8, 2023, 12:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
