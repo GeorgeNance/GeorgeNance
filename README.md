@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *Donald Knuth*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 8, 2023, 10:13 PM
+  Last Refresh : Monday, May 8, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
