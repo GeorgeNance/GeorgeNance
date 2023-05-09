@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 >
-> ~ *Eric S. Raymond*
+> ~ *George Carrette*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 9, 2023, 6:04 AM
+  Last Refresh : Tuesday, May 9, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
