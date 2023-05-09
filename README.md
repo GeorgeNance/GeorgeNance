@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Joshua Bloch*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 8, 2023, 8:16 PM
+  Last Refresh : Monday, May 8, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
