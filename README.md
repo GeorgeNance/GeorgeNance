@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
 >
-> ~ *Dan Bricklin*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 9, 2023, 8:15 AM
+  Last Refresh : Tuesday, May 9, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
