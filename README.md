@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Jim Coplien*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 8, 2023, 9:17 PM
+  Last Refresh : Monday, May 8, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
