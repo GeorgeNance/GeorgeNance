@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *George Carrette*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 9, 2023, 7:14 AM
+  Last Refresh : Tuesday, May 9, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
