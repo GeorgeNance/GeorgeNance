@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Joshua Bloch*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 9, 2023, 1:17 AM
+  Last Refresh : Tuesday, May 9, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
