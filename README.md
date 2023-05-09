@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Ken Thompson*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 8, 2023, 6:15 PM
+  Last Refresh : Monday, May 8, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
