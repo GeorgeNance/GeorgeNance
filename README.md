@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Fred Brooks*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 8, 2023, 4:15 PM
+  Last Refresh : Monday, May 8, 2023, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
