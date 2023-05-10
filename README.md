@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 10, 2023, 1:21 PM
+  Last Refresh : Wednesday, May 10, 2023, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
