@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Ray Ozzie*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 10, 2023, 3:16 PM
+  Last Refresh : Wednesday, May 10, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
