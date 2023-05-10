@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Martin Fowler*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 9, 2023, 8:15 PM
+  Last Refresh : Tuesday, May 9, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
