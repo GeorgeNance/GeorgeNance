@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Alan Turing*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 9, 2023, 11:19 PM
+  Last Refresh : Wednesday, May 10, 2023, 12:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
