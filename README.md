@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Daniel T. Barry*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 10, 2023, 4:11 AM
+  Last Refresh : Wednesday, May 10, 2023, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
