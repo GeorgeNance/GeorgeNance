@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Making things easy is hard.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 10, 2023, 7:18 AM
+  Last Refresh : Wednesday, May 10, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
