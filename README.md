@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 >
-> ~ *Charles Simonyi*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 10, 2023, 9:30 AM
+  Last Refresh : Wednesday, May 10, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
