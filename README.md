@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Marvin Minsky*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 10, 2023, 12:13 PM
+  Last Refresh : Wednesday, May 10, 2023, 1:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
