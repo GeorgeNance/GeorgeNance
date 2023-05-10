@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Ted Nelson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 10, 2023, 8:14 AM
+  Last Refresh : Wednesday, May 10, 2023, 9:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
