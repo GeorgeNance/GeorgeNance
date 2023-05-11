@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Jef Raskin*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 10, 2023, 4:14 PM
+  Last Refresh : Wednesday, May 10, 2023, 6:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
