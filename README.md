@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Albert Einstein*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 11, 2023, 1:14 PM
+  Last Refresh : Thursday, May 11, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
