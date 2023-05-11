@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Kyle Simpson*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 11, 2023, 2:12 PM
+  Last Refresh : Thursday, May 11, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
