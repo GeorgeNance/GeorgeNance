@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Richard Hamming*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 11, 2023, 12:11 PM
+  Last Refresh : Thursday, May 11, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
