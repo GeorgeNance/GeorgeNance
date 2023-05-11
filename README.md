@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### When in doubt, leave it out.
 >
-> ~ *Ken Thompson*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 11, 2023, 2:13 AM
+  Last Refresh : Thursday, May 11, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
