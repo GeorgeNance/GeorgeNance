@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Michael Stal*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 11, 2023, 10:12 AM
+  Last Refresh : Thursday, May 11, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
