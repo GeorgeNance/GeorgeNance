@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 2:14 AM
+  Last Refresh : Friday, May 12, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
