@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 2:11 PM
+  Last Refresh : Friday, May 12, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
