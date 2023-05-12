@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 4:20 AM
+  Last Refresh : Friday, May 12, 2023, 5:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
