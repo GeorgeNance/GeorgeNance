@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Richard Stallman*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 6:22 AM
+  Last Refresh : Friday, May 12, 2023, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
