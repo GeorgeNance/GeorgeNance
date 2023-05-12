@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Richard Stallman*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 8:14 AM
+  Last Refresh : Friday, May 12, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
