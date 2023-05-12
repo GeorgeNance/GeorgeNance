@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 1:14 PM
+  Last Refresh : Friday, May 12, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
