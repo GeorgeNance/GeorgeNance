@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 11, 2023, 9:17 PM
+  Last Refresh : Thursday, May 11, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
