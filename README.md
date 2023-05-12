@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Bill Gates*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 11, 2023, 11:18 PM
+  Last Refresh : Friday, May 12, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
