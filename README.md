@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Ray Ozzie*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 3:13 PM
+  Last Refresh : Friday, May 12, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
