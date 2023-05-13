@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 11:17 PM
+  Last Refresh : Saturday, May 13, 2023, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
