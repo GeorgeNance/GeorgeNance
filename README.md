@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Eric S. Raymond*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 13, 2023, 12:10 PM
+  Last Refresh : Saturday, May 13, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
