@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Harlan Mills*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 13, 2023, 3:12 PM
+  Last Refresh : Saturday, May 13, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
