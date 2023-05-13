@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *John Carmack*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 13, 2023, 1:16 AM
+  Last Refresh : Saturday, May 13, 2023, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
