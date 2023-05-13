@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 13, 2023, 2:11 PM
+  Last Refresh : Saturday, May 13, 2023, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
