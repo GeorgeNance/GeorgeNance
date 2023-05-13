@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Steve Jobs*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 13, 2023, 11:17 AM
+  Last Refresh : Saturday, May 13, 2023, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
