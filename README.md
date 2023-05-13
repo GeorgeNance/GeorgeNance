@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Martin Fowler*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 13, 2023, 5:25 AM
+  Last Refresh : Saturday, May 13, 2023, 6:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
