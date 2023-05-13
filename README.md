@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 12, 2023, 10:13 PM
+  Last Refresh : Friday, May 12, 2023, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
