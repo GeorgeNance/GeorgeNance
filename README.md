@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Danny Hillis*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 14, 2023, 7:12 AM
+  Last Refresh : Sunday, May 14, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
