@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Really good programs live forever.
 >
 > ~ *Charles Simonyi*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 13, 2023, 6:18 PM
+  Last Refresh : Saturday, May 13, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
