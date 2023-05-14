@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Fred Brooks*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 14, 2023, 4:11 AM
+  Last Refresh : Sunday, May 14, 2023, 5:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
