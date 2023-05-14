@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 14, 2023, 9:17 AM
+  Last Refresh : Sunday, May 14, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
