@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *James Gleick*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 14, 2023, 11:16 AM
+  Last Refresh : Sunday, May 14, 2023, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
