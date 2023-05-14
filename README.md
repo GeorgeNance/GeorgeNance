@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 14, 2023, 12:13 AM
+  Last Refresh : Sunday, May 14, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
