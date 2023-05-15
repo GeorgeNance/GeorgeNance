@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 >
-> ~ *Daniel T. Barry*
+> ~ *Sean Parent*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 15, 2023, 7:13 AM
+  Last Refresh : Monday, May 15, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
