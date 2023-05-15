@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
 > ~ *Gerald Weinberg*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 14, 2023, 7:34 PM
+  Last Refresh : Sunday, May 14, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
