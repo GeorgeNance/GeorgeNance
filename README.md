@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 >
-> ~ *Donald Knuth*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 15, 2023, 5:30 AM
+  Last Refresh : Monday, May 15, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
