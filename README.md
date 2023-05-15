@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Sean Parent*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 15, 2023, 8:15 AM
+  Last Refresh : Monday, May 15, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
