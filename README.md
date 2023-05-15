@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 14, 2023, 10:13 PM
+  Last Refresh : Sunday, May 14, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
