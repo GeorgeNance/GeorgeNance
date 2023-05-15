@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Gerald Weinberg*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 14, 2023, 8:15 PM
+  Last Refresh : Sunday, May 14, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
