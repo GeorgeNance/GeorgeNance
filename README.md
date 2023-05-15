@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *René Descartes*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 15, 2023, 2:14 AM
+  Last Refresh : Monday, May 15, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
