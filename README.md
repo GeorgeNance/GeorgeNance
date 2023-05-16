@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Linus Torvalds*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 16, 2023, 3:13 PM
+  Last Refresh : Tuesday, May 16, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
