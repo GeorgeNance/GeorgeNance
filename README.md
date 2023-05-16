@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 15, 2023, 10:13 PM
+  Last Refresh : Monday, May 15, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
