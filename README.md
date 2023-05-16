@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Leslie Lamport*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 16, 2023, 2:14 AM
+  Last Refresh : Tuesday, May 16, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
