@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 >
-> ~ *Kevlin Henney*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 16, 2023, 6:17 AM
+  Last Refresh : Tuesday, May 16, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
