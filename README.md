@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Daniel T. Barry*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 16, 2023, 3:15 AM
+  Last Refresh : Tuesday, May 16, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
