@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Jamie Zawinski*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 17, 2023, 2:14 AM
+  Last Refresh : Wednesday, May 17, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
