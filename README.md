@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 16, 2023, 11:18 PM
+  Last Refresh : Wednesday, May 17, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
