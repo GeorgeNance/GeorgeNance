@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *Ted Nelson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 16, 2023, 8:15 PM
+  Last Refresh : Tuesday, May 16, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
