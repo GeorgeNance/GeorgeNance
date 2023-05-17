@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Kent Beck*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 16, 2023, 4:13 PM
+  Last Refresh : Tuesday, May 16, 2023, 6:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
