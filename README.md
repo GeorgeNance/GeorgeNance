@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 17, 2023, 3:13 PM
+  Last Refresh : Wednesday, May 17, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
