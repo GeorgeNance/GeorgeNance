@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 18, 2023, 7:12 AM
+  Last Refresh : Thursday, May 18, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
