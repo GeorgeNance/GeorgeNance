@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Fred Brooks*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 17, 2023, 7:31 PM
+  Last Refresh : Wednesday, May 17, 2023, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
