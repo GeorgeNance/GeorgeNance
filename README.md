@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 18, 2023, 8:14 AM
+  Last Refresh : Thursday, May 18, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
