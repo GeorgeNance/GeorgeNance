@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 18, 2023, 6:17 AM
+  Last Refresh : Thursday, May 18, 2023, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
