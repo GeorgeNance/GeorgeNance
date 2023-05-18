@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 18, 2023, 2:12 PM
+  Last Refresh : Thursday, May 18, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
