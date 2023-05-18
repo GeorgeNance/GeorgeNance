@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 18, 2023, 3:13 PM
+  Last Refresh : Thursday, May 18, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
