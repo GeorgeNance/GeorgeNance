@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 >
-> ~ *Niklaus Wirth*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 18, 2023, 10:12 AM
+  Last Refresh : Thursday, May 18, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
