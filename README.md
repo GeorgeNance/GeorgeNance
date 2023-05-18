@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Richard Hamming*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 17, 2023, 6:14 PM
+  Last Refresh : Wednesday, May 17, 2023, 7:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
