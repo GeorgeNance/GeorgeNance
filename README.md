@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 19, 2023, 2:11 PM
+  Last Refresh : Friday, May 19, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
