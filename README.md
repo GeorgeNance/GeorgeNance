@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Sean Parent*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 19, 2023, 3:15 AM
+  Last Refresh : Friday, May 19, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
