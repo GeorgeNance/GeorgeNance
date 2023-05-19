@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 18, 2023, 9:17 PM
+  Last Refresh : Thursday, May 18, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
