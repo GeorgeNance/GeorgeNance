@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Elon Musk*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 19, 2023, 12:12 AM
+  Last Refresh : Friday, May 19, 2023, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
