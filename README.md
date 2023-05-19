@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Donald Knuth*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 19, 2023, 8:14 AM
+  Last Refresh : Friday, May 19, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
