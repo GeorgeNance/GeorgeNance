@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Jef Raskin*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 19, 2023, 4:11 AM
+  Last Refresh : Friday, May 19, 2023, 5:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
