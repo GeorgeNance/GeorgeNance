@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Anonymous*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 19, 2023, 10:12 AM
+  Last Refresh : Friday, May 19, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
