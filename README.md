@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
-> ~ *John Warnock*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 19, 2023, 1:14 PM
+  Last Refresh : Friday, May 19, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
