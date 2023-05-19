@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 18, 2023, 4:14 PM
+  Last Refresh : Thursday, May 18, 2023, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
