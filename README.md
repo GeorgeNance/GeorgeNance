@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
 >
-> ~ *Douglas Crockford*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 3:12 PM
+  Last Refresh : Saturday, May 20, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
