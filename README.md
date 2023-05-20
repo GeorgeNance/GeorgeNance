@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Marvin Minsky*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 7:12 AM
+  Last Refresh : Saturday, May 20, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
