@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Robert C. Martin*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 11:16 AM
+  Last Refresh : Saturday, May 20, 2023, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
