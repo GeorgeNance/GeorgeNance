@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 >
-> ~ *Albert Einstein*
+> ~ *Randall E. Stross*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 8:13 AM
+  Last Refresh : Saturday, May 20, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
