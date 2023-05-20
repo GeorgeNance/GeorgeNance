@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Linus Torvalds*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 12:10 PM
+  Last Refresh : Saturday, May 20, 2023, 1:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
