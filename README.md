@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
-> ~ *Ada Lovelace*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 5:26 AM
+  Last Refresh : Saturday, May 20, 2023, 6:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
