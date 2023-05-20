@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Randall E. Stross*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 9:17 AM
+  Last Refresh : Saturday, May 20, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
