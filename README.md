@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 12:12 AM
+  Last Refresh : Saturday, May 20, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
