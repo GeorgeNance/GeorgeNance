@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 10:11 AM
+  Last Refresh : Saturday, May 20, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
