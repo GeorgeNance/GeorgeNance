@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 21, 2023, 1:14 PM
+  Last Refresh : Sunday, May 21, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
