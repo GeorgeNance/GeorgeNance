@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Richard Hamming*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 8:15 PM
+  Last Refresh : Saturday, May 20, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
