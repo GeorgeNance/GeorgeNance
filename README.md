@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Peter Roizen*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 21, 2023, 8:13 AM
+  Last Refresh : Sunday, May 21, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
