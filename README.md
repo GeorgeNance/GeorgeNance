@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Ken Thompson*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 21, 2023, 6:15 AM
+  Last Refresh : Sunday, May 21, 2023, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
