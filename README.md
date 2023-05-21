@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
 >
-> ~ *Daniel T. Barry*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 21, 2023, 10:11 AM
+  Last Refresh : Sunday, May 21, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
