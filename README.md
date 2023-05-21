@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Richard Feynman*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 21, 2023, 7:12 AM
+  Last Refresh : Sunday, May 21, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
