@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *Ward Cunningham*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 21, 2023, 4:10 AM
+  Last Refresh : Sunday, May 21, 2023, 5:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
