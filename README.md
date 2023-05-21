@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Dennis Ritchie*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 20, 2023, 9:17 PM
+  Last Refresh : Saturday, May 20, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
