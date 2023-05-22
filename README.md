@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
 >
-> ~ *Kevlin Henney*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 12:16 AM
+  Last Refresh : Monday, May 22, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
