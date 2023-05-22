@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Henry Petroski*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 7:13 AM
+  Last Refresh : Monday, May 22, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
