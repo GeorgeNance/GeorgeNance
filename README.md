@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 >
-> ~ *Douglas Crockford*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 1:18 AM
+  Last Refresh : Monday, May 22, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
