@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Anonymous*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 3:13 PM
+  Last Refresh : Monday, May 22, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
