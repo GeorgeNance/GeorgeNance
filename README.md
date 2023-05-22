@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
 >
-> ~ *Fred Brooks*
+> ~ *Tony Parisi (software developer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 12:11 PM
+  Last Refresh : Monday, May 22, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
