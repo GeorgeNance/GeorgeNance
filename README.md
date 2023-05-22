@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### No code is faster than no code.
 >
-> ~ *Kent Beck*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 21, 2023, 11:19 PM
+  Last Refresh : Monday, May 22, 2023, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
