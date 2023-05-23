@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Maurice Wilkes*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 7:33 PM
+  Last Refresh : Monday, May 22, 2023, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
