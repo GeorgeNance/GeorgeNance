@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 >
-> ~ *Kevlin Henney*
+> ~ *Ivan Sutherland*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 23, 2023, 12:16 AM
+  Last Refresh : Tuesday, May 23, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
