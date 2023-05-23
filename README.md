@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 11:18 PM
+  Last Refresh : Tuesday, May 23, 2023, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
