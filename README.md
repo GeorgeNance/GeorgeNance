@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Albert Einstein*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 23, 2023, 3:13 PM
+  Last Refresh : Tuesday, May 23, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
