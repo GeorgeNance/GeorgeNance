@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Tim Berners-Lee*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 23, 2023, 3:15 AM
+  Last Refresh : Tuesday, May 23, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
