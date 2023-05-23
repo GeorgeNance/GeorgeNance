@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Donald Knuth*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 23, 2023, 2:12 PM
+  Last Refresh : Tuesday, May 23, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
