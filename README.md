@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 >
-> ~ *Richard Hamming*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 6:15 PM
+  Last Refresh : Monday, May 22, 2023, 7:33 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
