@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 22, 2023, 9:17 PM
+  Last Refresh : Monday, May 22, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
