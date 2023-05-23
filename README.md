@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Dennis Ritchie*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 23, 2023, 1:14 PM
+  Last Refresh : Tuesday, May 23, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
