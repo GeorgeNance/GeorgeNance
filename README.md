@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Edward V. Berard*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 10:12 AM
+  Last Refresh : Wednesday, May 24, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
