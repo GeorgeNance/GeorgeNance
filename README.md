@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 >
-> ~ *Fred Brooks*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 23, 2023, 8:16 PM
+  Last Refresh : Tuesday, May 23, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
