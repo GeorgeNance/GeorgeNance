@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Alan Perlis*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 11:17 AM
+  Last Refresh : Wednesday, May 24, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
