@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Douglas Crockford*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 2:14 AM
+  Last Refresh : Wednesday, May 24, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
