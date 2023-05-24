@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Jaron Lanier*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 5:28 AM
+  Last Refresh : Wednesday, May 24, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
