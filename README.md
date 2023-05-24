@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Damian Conway*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 6:18 AM
+  Last Refresh : Wednesday, May 24, 2023, 7:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
