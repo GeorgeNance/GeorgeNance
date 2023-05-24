@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Kent Beck*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 1:18 AM
+  Last Refresh : Wednesday, May 24, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
