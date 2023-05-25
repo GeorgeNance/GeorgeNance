@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Charles Simonyi*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 25, 2023, 7:13 AM
+  Last Refresh : Thursday, May 25, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
