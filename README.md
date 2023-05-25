@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Alan Perlis*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 4:14 PM
+  Last Refresh : Wednesday, May 24, 2023, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
