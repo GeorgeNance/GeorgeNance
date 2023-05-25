@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### Really good programs live forever.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 25, 2023, 6:17 AM
+  Last Refresh : Thursday, May 25, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
