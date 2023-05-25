@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Fred Brooks*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 11:18 PM
+  Last Refresh : Thursday, May 25, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
