@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 >
-> ~ *Douglas Crockford*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 10:13 PM
+  Last Refresh : Wednesday, May 24, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
