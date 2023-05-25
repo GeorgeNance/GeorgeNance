@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Laurence J. Peter*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 8:15 PM
+  Last Refresh : Wednesday, May 24, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
