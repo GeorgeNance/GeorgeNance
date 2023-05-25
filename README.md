@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 25, 2023, 1:18 AM
+  Last Refresh : Thursday, May 25, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
