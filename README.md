@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *John von Neumann*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 6:15 PM
+  Last Refresh : Wednesday, May 24, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
