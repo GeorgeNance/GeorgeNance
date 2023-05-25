@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 25, 2023, 5:30 AM
+  Last Refresh : Thursday, May 25, 2023, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
