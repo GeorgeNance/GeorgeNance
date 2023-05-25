@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 24, 2023, 9:17 PM
+  Last Refresh : Wednesday, May 24, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
