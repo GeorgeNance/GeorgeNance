@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 7:12 AM
+  Last Refresh : Friday, May 26, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
