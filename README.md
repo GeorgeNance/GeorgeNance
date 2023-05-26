@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
-> ~ *Vannevar Bush*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 25, 2023, 4:14 PM
+  Last Refresh : Thursday, May 25, 2023, 6:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
