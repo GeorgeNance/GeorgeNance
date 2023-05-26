@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 >
-> ~ *Douglas Crockford*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 1:17 AM
+  Last Refresh : Friday, May 26, 2023, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
