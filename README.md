@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Ken Thompson*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 25, 2023, 9:17 PM
+  Last Refresh : Thursday, May 25, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
