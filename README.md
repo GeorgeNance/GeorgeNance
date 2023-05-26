@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Fred Brooks*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 3:15 AM
+  Last Refresh : Friday, May 26, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
