@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Alan Perlis*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 25, 2023, 6:14 PM
+  Last Refresh : Thursday, May 25, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
