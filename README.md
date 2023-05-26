@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 >
-> ~ *Richard Hamming*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 3:13 PM
+  Last Refresh : Friday, May 26, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
