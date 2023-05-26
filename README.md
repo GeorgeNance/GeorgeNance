@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 12:13 AM
+  Last Refresh : Friday, May 26, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
