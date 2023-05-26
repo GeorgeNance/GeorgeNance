@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Albert Einstein*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, May 25, 2023, 7:32 PM
+  Last Refresh : Thursday, May 25, 2023, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
