@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Elon Musk*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 3:13 AM
+  Last Refresh : Saturday, May 27, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
