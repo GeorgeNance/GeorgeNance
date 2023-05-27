@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Martin Fowler*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 8:13 AM
+  Last Refresh : Saturday, May 27, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
