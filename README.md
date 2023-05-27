@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
 >
-> ~ *Bill Gates*
+> ~ *Joe Armstrong (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 4:11 AM
+  Last Refresh : Saturday, May 27, 2023, 5:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
