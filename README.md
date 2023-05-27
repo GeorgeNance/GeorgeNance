@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 >
-> ~ *Fred Brooks*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 11:16 AM
+  Last Refresh : Saturday, May 27, 2023, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
