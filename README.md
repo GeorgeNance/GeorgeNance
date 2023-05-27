@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Alan Perlis*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 7:31 PM
+  Last Refresh : Friday, May 26, 2023, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
