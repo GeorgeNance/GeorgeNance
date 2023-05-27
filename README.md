@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Charles Simonyi*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 1:16 AM
+  Last Refresh : Saturday, May 27, 2023, 2:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
