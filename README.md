@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Philip Greenspun*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 11:17 PM
+  Last Refresh : Saturday, May 27, 2023, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
