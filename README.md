@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Richard E. Pattis*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 6:15 PM
+  Last Refresh : Friday, May 26, 2023, 7:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
