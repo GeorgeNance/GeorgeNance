@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 5:26 AM
+  Last Refresh : Saturday, May 27, 2023, 6:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
