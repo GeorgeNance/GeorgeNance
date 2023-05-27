@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Ken Thompson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 1:14 PM
+  Last Refresh : Saturday, May 27, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
