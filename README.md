@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 6:15 AM
+  Last Refresh : Saturday, May 27, 2023, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
