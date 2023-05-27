@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, May 26, 2023, 4:14 PM
+  Last Refresh : Friday, May 26, 2023, 6:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
