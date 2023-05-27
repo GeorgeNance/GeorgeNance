@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 2:12 PM
+  Last Refresh : Saturday, May 27, 2023, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
