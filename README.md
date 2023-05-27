@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Alan Perlis*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 12:12 AM
+  Last Refresh : Saturday, May 27, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
