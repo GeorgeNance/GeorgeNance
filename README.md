@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Dennis Ritchie*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 28, 2023, 8:13 AM
+  Last Refresh : Sunday, May 28, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
