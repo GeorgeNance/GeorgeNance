@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 >
-> ~ *Donald Knuth*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 28, 2023, 9:17 AM
+  Last Refresh : Sunday, May 28, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
