@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Douglas Crockford*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 6:23 PM
+  Last Refresh : Saturday, May 27, 2023, 7:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
