@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 28, 2023, 1:16 AM
+  Last Refresh : Sunday, May 28, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
