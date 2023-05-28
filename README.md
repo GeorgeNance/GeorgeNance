@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### I think one of the most valuable rules is avoid duplication.
 >
 > ~ *Martin Fowler*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, May 27, 2023, 8:15 PM
+  Last Refresh : Saturday, May 27, 2023, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
