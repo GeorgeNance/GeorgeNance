@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Ted Nelson*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 28, 2023, 4:11 AM
+  Last Refresh : Sunday, May 28, 2023, 5:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
