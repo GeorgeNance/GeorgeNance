@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 28, 2023, 7:11 AM
+  Last Refresh : Sunday, May 28, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
