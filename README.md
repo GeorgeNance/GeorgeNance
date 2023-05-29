@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 29, 2023, 2:14 AM
+  Last Refresh : Monday, May 29, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
