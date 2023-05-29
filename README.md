@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Marvin Minsky*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 29, 2023, 12:11 PM
+  Last Refresh : Monday, May 29, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
