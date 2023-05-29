@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
-> ~ *Fred Brooks*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 29, 2023, 8:14 AM
+  Last Refresh : Monday, May 29, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
