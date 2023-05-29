@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Henry Ford*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 29, 2023, 12:13 AM
+  Last Refresh : Monday, May 29, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
