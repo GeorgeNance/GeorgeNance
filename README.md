@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 >
-> ~ *John Warnock*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 29, 2023, 1:18 AM
+  Last Refresh : Monday, May 29, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
