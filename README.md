@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 29, 2023, 10:12 AM
+  Last Refresh : Monday, May 29, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
