@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, May 28, 2023, 8:15 PM
+  Last Refresh : Sunday, May 28, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
