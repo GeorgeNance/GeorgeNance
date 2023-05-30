@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Alan Turing*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 30, 2023, 2:12 PM
+  Last Refresh : Tuesday, May 30, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
