@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Hal Abelson*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 29, 2023, 6:19 PM
+  Last Refresh : Monday, May 29, 2023, 7:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
