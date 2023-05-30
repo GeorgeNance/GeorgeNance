@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Douglas Crockford*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, May 29, 2023, 4:13 PM
+  Last Refresh : Monday, May 29, 2023, 6:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
