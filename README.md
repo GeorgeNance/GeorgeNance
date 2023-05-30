@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *George Boole*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 30, 2023, 12:16 AM
+  Last Refresh : Tuesday, May 30, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
