@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
-> ~ *Alan Perlis*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 30, 2023, 1:14 PM
+  Last Refresh : Tuesday, May 30, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
