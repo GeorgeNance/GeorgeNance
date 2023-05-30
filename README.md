@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 >
-> ~ *Daniel T. Barry*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 30, 2023, 10:10 AM
+  Last Refresh : Tuesday, May 30, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
