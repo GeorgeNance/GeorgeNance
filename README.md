@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Philip Greenspun*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 30, 2023, 3:15 AM
+  Last Refresh : Tuesday, May 30, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
