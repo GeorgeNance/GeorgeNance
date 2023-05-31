@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Tim Berners-Lee*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 31, 2023, 4:13 AM
+  Last Refresh : Wednesday, May 31, 2023, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
