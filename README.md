@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Steve Jobs*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 30, 2023, 4:14 PM
+  Last Refresh : Tuesday, May 30, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
