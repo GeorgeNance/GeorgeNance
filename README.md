@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Mark Gibbs*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, May 30, 2023, 8:18 PM
+  Last Refresh : Tuesday, May 30, 2023, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
