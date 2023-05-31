@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 31, 2023, 12:11 PM
+  Last Refresh : Wednesday, May 31, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
