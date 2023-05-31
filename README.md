@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 31, 2023, 9:18 AM
+  Last Refresh : Wednesday, May 31, 2023, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
