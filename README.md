@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 >
-> ~ *Alan Turing*
+> ~ *Seymour Cray*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 8:14 AM
+  Last Refresh : Thursday, June 1, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
