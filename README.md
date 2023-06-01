@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 7:13 AM
+  Last Refresh : Thursday, June 1, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
