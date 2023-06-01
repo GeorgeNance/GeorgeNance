@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 5:30 AM
+  Last Refresh : Thursday, June 1, 2023, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
