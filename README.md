@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Marvin Minsky*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 31, 2023, 6:53 PM
+  Last Refresh : Wednesday, May 31, 2023, 8:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
