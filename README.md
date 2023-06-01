@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Seymour Cray*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 9:19 AM
+  Last Refresh : Thursday, June 1, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
