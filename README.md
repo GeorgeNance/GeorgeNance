@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 >
-> ~ *Gary Kildall*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 1:14 PM
+  Last Refresh : Thursday, June 1, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
