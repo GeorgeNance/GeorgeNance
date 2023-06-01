@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
 >
-> ~ *George Carrette*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, May 31, 2023, 4:13 PM
+  Last Refresh : Wednesday, May 31, 2023, 6:53 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
