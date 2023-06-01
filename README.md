@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 12:13 AM
+  Last Refresh : Thursday, June 1, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
