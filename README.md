@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Dennis Ritchie*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 3:13 PM
+  Last Refresh : Thursday, June 1, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
