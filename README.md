@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 11:19 AM
+  Last Refresh : Thursday, June 1, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
