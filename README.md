@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 >
-> ~ *Linus Torvalds*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 2, 2023, 2:13 AM
+  Last Refresh : Friday, June 2, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
