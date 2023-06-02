@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 >
-> ~ *George Boole*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 2, 2023, 12:11 PM
+  Last Refresh : Friday, June 2, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
