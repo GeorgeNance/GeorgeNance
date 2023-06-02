@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 10:13 PM
+  Last Refresh : Thursday, June 1, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
