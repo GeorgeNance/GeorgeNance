@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 >
-> ~ *Thomas J. Watson*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 2, 2023, 12:12 AM
+  Last Refresh : Friday, June 2, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
