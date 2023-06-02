@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Richard Hamming*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 1, 2023, 7:47 PM
+  Last Refresh : Thursday, June 1, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
