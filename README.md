@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 >
-> ~ *Steve Jobs*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 2, 2023, 3:13 PM
+  Last Refresh : Friday, June 2, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
