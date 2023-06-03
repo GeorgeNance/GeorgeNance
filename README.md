@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Donald Knuth*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 2, 2023, 6:26 PM
+  Last Refresh : Friday, June 2, 2023, 7:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
