@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Anonymous*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 5:28 AM
+  Last Refresh : Saturday, June 3, 2023, 6:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
