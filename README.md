@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more code you have, the more places there are for bugs to hide.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Rich Skrenta*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 2, 2023, 9:16 PM
+  Last Refresh : Friday, June 2, 2023, 10:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
