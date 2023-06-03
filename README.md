@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Bob Frankston*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 3:12 PM
+  Last Refresh : Saturday, June 3, 2023, 4:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
