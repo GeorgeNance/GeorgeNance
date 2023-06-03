@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Albert Einstein*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 10:11 AM
+  Last Refresh : Saturday, June 3, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
