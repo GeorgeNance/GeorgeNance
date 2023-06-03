@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 2, 2023, 8:13 PM
+  Last Refresh : Friday, June 2, 2023, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
