@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Jef Raskin*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 12:12 PM
+  Last Refresh : Saturday, June 3, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
