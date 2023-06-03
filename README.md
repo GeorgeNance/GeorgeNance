@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 11:16 AM
+  Last Refresh : Saturday, June 3, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
