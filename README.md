@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Alan Turing*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 2, 2023, 7:44 PM
+  Last Refresh : Friday, June 2, 2023, 8:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
