@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Richard Hamming*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 12:12 AM
+  Last Refresh : Saturday, June 3, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
