@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *David Gelernter*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 3:13 AM
+  Last Refresh : Saturday, June 3, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
