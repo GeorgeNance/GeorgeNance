@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 >
-> ~ *Linus Torvalds*
+> ~ *Rick Osborne*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 4, 2023, 2:12 PM
+  Last Refresh : Sunday, June 4, 2023, 3:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
