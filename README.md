@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Alan Turing*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 4, 2023, 8:13 AM
+  Last Refresh : Sunday, June 4, 2023, 9:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
