@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 4, 2023, 11:16 AM
+  Last Refresh : Sunday, June 4, 2023, 12:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
