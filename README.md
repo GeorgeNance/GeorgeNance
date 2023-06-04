@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Filipe Fortes*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 4, 2023, 9:17 AM
+  Last Refresh : Sunday, June 4, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
