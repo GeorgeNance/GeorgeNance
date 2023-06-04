@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
 > ~ *Alan Turing*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 4, 2023, 7:11 AM
+  Last Refresh : Sunday, June 4, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
