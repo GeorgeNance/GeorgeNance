@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 >
 > ~ *Grady Booch*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 4:13 PM
+  Last Refresh : Saturday, June 3, 2023, 6:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
