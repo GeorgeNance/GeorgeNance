@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Rob Pike*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 9:16 PM
+  Last Refresh : Saturday, June 3, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
