@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Michael Stal*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 3, 2023, 8:05 PM
+  Last Refresh : Saturday, June 3, 2023, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
