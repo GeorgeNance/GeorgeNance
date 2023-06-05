@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Butler Lampson*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 5, 2023, 12:11 PM
+  Last Refresh : Monday, June 5, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
