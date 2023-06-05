@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 5, 2023, 9:19 AM
+  Last Refresh : Monday, June 5, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
