@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 >
-> ~ *P. J. Plauger*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 5, 2023, 11:17 AM
+  Last Refresh : Monday, June 5, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
