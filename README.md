@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 5, 2023, 7:13 AM
+  Last Refresh : Monday, June 5, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
