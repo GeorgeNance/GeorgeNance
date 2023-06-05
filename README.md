@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Alan Perlis*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 4, 2023, 4:14 PM
+  Last Refresh : Sunday, June 4, 2023, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
