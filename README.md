@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Fred Brooks*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 5, 2023, 6:17 AM
+  Last Refresh : Monday, June 5, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
