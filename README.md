@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Bill Gates*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 5, 2023, 4:15 AM
+  Last Refresh : Monday, June 5, 2023, 5:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
