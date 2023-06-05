@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 >
-> ~ *David Gelernter*
+> ~ *Simon Peyton Jones*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 5, 2023, 2:12 PM
+  Last Refresh : Monday, June 5, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
