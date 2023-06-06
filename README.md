@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
-> ~ *Philip Greenspun*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 6, 2023, 5:30 AM
+  Last Refresh : Tuesday, June 6, 2023, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
