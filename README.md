@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Stewart Brand*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 6, 2023, 7:12 AM
+  Last Refresh : Tuesday, June 6, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
