@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Chris Wenham*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 6, 2023, 9:17 PM
+  Last Refresh : Tuesday, June 6, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
