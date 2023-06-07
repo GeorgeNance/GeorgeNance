@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Elon Musk*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 6, 2023, 6:39 PM
+  Last Refresh : Tuesday, June 6, 2023, 7:52 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
