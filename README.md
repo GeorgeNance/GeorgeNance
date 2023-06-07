@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 7, 2023, 10:12 AM
+  Last Refresh : Wednesday, June 7, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
