@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Linus Torvalds*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 6, 2023, 10:13 PM
+  Last Refresh : Tuesday, June 6, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
