@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Gary Kildall*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 6, 2023, 8:18 PM
+  Last Refresh : Tuesday, June 6, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
