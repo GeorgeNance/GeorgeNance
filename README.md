@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Thomas J. Watson*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 6, 2023, 7:52 PM
+  Last Refresh : Tuesday, June 6, 2023, 8:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
