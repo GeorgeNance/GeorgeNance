@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Terry Winograd*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 7, 2023, 1:18 AM
+  Last Refresh : Wednesday, June 7, 2023, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
