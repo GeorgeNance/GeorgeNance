@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *David Parnas*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 7, 2023, 3:13 PM
+  Last Refresh : Wednesday, June 7, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
