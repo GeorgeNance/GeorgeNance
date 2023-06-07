@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *Charles Babbage*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 7, 2023, 4:11 AM
+  Last Refresh : Wednesday, June 7, 2023, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
