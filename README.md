@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Luciano Ramalho*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 6, 2023, 11:18 PM
+  Last Refresh : Wednesday, June 7, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
