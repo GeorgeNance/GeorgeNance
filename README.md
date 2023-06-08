@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Rob Pike*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 9:18 AM
+  Last Refresh : Thursday, June 8, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
