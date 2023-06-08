@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Fred Brooks*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 5:28 AM
+  Last Refresh : Thursday, June 8, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
