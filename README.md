@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 2:13 AM
+  Last Refresh : Thursday, June 8, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
