@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Albert Einstein*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 6:18 AM
+  Last Refresh : Thursday, June 8, 2023, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
