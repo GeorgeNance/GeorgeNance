@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 2:13 PM
+  Last Refresh : Thursday, June 8, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
