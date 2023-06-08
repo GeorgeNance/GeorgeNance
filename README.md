@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *George Boole*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 11:17 AM
+  Last Refresh : Thursday, June 8, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
