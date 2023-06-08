@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 8:14 AM
+  Last Refresh : Thursday, June 8, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
