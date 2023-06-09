@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Anonymous*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 9, 2023, 6:17 AM
+  Last Refresh : Friday, June 9, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
