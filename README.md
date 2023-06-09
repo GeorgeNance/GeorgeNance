@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Fred Brooks*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 9:17 PM
+  Last Refresh : Thursday, June 8, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
