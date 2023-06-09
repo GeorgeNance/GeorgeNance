@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 9, 2023, 10:13 AM
+  Last Refresh : Friday, June 9, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
