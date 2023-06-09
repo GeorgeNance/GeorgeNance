@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 >
-> ~ *Tom Cargill*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 9, 2023, 12:13 AM
+  Last Refresh : Friday, June 9, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
