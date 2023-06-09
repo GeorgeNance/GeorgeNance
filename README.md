@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 >
-> ~ *Richard E. Pattis*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 8, 2023, 7:55 PM
+  Last Refresh : Thursday, June 8, 2023, 8:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
