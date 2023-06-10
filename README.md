@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> ### There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 >
-> ~ *Donald Knuth*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 9, 2023, 4:14 PM
+  Last Refresh : Friday, June 9, 2023, 6:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
