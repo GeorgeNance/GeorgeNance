@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Programming can be addictive.
 >
-> ~ *Rob Pike*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 9, 2023, 10:12 PM
+  Last Refresh : Friday, June 9, 2023, 11:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
