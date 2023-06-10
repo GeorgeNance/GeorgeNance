@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Anonymous*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 10, 2023, 12:11 PM
+  Last Refresh : Saturday, June 10, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
