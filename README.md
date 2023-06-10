@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### Making things easy is hard.
 >
-> ~ *Jef Raskin*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 10, 2023, 1:15 PM
+  Last Refresh : Saturday, June 10, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
