@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 10, 2023, 10:11 AM
+  Last Refresh : Saturday, June 10, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
