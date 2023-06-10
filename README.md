@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 10, 2023, 12:12 AM
+  Last Refresh : Saturday, June 10, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
