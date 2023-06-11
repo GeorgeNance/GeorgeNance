@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 >
-> ~ *Linus Torvalds*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 11, 2023, 5:27 AM
+  Last Refresh : Sunday, June 11, 2023, 6:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
