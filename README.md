@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 11, 2023, 12:12 AM
+  Last Refresh : Sunday, June 11, 2023, 1:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
