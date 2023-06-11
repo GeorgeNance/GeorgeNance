@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Douglas Crockford*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 10, 2023, 11:17 PM
+  Last Refresh : Sunday, June 11, 2023, 12:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
