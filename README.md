@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Quarry worker's creed*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 11, 2023, 9:17 AM
+  Last Refresh : Sunday, June 11, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
