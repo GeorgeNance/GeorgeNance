@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### Really good programs live forever.
 >
-> ~ *Fred Brooks*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 10, 2023, 6:43 PM
+  Last Refresh : Saturday, June 10, 2023, 8:01 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
