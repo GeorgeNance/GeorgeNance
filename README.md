@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Gerald Weinberg*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 11, 2023, 3:13 PM
+  Last Refresh : Sunday, June 11, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
