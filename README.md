@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 >
-> ~ *Harlan Mills*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 11, 2023, 2:12 PM
+  Last Refresh : Sunday, June 11, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
