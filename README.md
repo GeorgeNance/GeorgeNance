@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Alan Turing*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 11, 2023, 4:14 PM
+  Last Refresh : Sunday, June 11, 2023, 6:36 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
