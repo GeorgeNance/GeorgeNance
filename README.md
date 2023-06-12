@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Elon Musk*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 12, 2023, 12:11 PM
+  Last Refresh : Monday, June 12, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
