@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Danny Hillis*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 11, 2023, 8:20 PM
+  Last Refresh : Sunday, June 11, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
