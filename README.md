@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 >
-> ~ *Vannevar Bush*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 12, 2023, 4:12 AM
+  Last Refresh : Monday, June 12, 2023, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
