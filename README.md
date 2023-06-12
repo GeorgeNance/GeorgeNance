@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 12, 2023, 2:15 AM
+  Last Refresh : Monday, June 12, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
