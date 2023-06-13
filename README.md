@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Alan Perlis*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 12, 2023, 11:18 PM
+  Last Refresh : Tuesday, June 13, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
