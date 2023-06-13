@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 >
-> ~ *Ken Olsen*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 12, 2023, 7:40 PM
+  Last Refresh : Monday, June 12, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
