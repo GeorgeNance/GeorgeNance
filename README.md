@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Fred Brooks*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 12, 2023, 6:24 PM
+  Last Refresh : Monday, June 12, 2023, 7:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
