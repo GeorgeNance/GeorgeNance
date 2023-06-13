@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 13, 2023, 10:13 AM
+  Last Refresh : Tuesday, June 13, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
