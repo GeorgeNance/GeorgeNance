@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 >
-> ~ *Wayne Ratliff*
+> ~ *Poul-Henning Kamp*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 13, 2023, 1:14 PM
+  Last Refresh : Tuesday, June 13, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
