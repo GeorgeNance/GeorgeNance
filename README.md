@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *John Carmack*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 1:18 AM
+  Last Refresh : Wednesday, June 14, 2023, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
