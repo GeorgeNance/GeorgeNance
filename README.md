@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 >
-> ~ *Donald Knuth*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 13, 2023, 8:15 PM
+  Last Refresh : Tuesday, June 13, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
