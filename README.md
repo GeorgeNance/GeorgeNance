@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Ward Cunningham*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 3:13 PM
+  Last Refresh : Wednesday, June 14, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
