@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 13, 2023, 6:23 PM
+  Last Refresh : Tuesday, June 13, 2023, 7:39 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
