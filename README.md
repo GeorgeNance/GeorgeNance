@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Jef Raskin*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 10:12 AM
+  Last Refresh : Wednesday, June 14, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
