@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 >
-> ~ *Albert Einstein*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 2:12 PM
+  Last Refresh : Wednesday, June 14, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
