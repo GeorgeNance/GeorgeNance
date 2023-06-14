@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Kevlin Henney*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 1:14 PM
+  Last Refresh : Wednesday, June 14, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
