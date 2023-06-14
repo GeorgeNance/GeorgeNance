@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Less code equals less bugs.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 12:11 PM
+  Last Refresh : Wednesday, June 14, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
