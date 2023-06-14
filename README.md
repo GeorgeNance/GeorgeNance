@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Alan Kay*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 13, 2023, 7:39 PM
+  Last Refresh : Tuesday, June 13, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
