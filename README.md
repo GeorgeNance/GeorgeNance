@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 13, 2023, 11:18 PM
+  Last Refresh : Wednesday, June 14, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
