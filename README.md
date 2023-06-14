@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 4:16 AM
+  Last Refresh : Wednesday, June 14, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
