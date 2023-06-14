@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Buckminster Fuller*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 13, 2023, 4:12 PM
+  Last Refresh : Tuesday, June 13, 2023, 6:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
