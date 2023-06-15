@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
 >
-> ~ *Wayne Ratliff*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 10:13 PM
+  Last Refresh : Wednesday, June 14, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
