@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+> ### No code is faster than no code.
 >
-> ~ *Fred Brooks*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 14, 2023, 11:19 PM
+  Last Refresh : Thursday, June 15, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
