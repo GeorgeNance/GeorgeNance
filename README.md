@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Stewart Brand*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 15, 2023, 8:14 AM
+  Last Refresh : Thursday, June 15, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
