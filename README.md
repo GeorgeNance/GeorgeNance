@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Fred Brooks*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 15, 2023, 1:15 PM
+  Last Refresh : Thursday, June 15, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
