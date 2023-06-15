@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 15, 2023, 2:14 AM
+  Last Refresh : Thursday, June 15, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
