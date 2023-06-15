@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 15, 2023, 5:29 AM
+  Last Refresh : Thursday, June 15, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
