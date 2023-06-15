@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Kevlin Henney*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 15, 2023, 12:13 AM
+  Last Refresh : Thursday, June 15, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
