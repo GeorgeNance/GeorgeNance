@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Ted Nelson*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 5:29 AM
+  Last Refresh : Friday, June 16, 2023, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
