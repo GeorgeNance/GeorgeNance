@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Bob Carr*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 2:13 AM
+  Last Refresh : Friday, June 16, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
