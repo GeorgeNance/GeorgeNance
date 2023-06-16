@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### Programming can be addictive.
 >
-> ~ *John Warnock*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 1:17 AM
+  Last Refresh : Friday, June 16, 2023, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
