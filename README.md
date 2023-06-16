@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 >
-> ~ *Danny Hillis*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 12:17 AM
+  Last Refresh : Friday, June 16, 2023, 1:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
