@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Bill Gates*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 2:12 PM
+  Last Refresh : Friday, June 16, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
