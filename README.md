@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 10:12 AM
+  Last Refresh : Friday, June 16, 2023, 11:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
