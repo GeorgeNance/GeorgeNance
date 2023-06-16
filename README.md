@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Marvin Minsky*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 15, 2023, 4:14 PM
+  Last Refresh : Thursday, June 15, 2023, 6:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
