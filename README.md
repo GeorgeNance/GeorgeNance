@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 >
-> ~ *Richard Hamming*
+> ~ *Nathaniel Borenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 9:18 AM
+  Last Refresh : Friday, June 16, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
