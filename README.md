@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
-> ~ *George Carrette*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 8:14 AM
+  Last Refresh : Friday, June 16, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
