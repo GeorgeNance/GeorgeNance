@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 3:13 PM
+  Last Refresh : Saturday, June 17, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
