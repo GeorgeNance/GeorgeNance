@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Elon Musk*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 6:19 PM
+  Last Refresh : Friday, June 16, 2023, 7:35 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
