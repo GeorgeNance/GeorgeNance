@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Jim Horning*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 3:14 AM
+  Last Refresh : Saturday, June 17, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
