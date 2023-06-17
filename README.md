@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Donald Knuth*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 16, 2023, 4:14 PM
+  Last Refresh : Friday, June 16, 2023, 6:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
