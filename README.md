@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Charles Simonyi*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 4:11 AM
+  Last Refresh : Saturday, June 17, 2023, 5:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
