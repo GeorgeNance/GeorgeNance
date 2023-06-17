@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
 >
-> ~ *Fred Brooks*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 6:15 AM
+  Last Refresh : Saturday, June 17, 2023, 7:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
