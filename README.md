@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 9:17 AM
+  Last Refresh : Saturday, June 17, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
