@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 >
-> ~ *Ray Ozzie*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 7:11 AM
+  Last Refresh : Saturday, June 17, 2023, 8:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
