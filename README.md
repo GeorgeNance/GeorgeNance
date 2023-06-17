@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Bill Gates*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 2:11 PM
+  Last Refresh : Saturday, June 17, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
