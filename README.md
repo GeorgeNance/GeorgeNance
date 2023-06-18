@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Marvin Minsky*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 11:17 PM
+  Last Refresh : Sunday, June 18, 2023, 12:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
