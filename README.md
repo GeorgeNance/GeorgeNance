@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 1:16 AM
+  Last Refresh : Sunday, June 18, 2023, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
