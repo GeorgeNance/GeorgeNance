@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The real problem with throwaway code comes when it isn't thrown away.
+> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 7:52 PM
+  Last Refresh : Saturday, June 17, 2023, 8:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
