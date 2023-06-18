@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Rob Pike*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 11:16 AM
+  Last Refresh : Sunday, June 18, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
