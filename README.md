@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Douglas Crockford*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 9:17 AM
+  Last Refresh : Sunday, June 18, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
