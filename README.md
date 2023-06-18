@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Jamie Zawinski*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 3:12 PM
+  Last Refresh : Sunday, June 18, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
