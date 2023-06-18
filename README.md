@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Albert Einstein*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 8:18 PM
+  Last Refresh : Saturday, June 17, 2023, 9:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
