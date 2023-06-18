@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Leslie Lamport*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 3:14 AM
+  Last Refresh : Sunday, June 18, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
