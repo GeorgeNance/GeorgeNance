@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Harlan Mills*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 10:11 AM
+  Last Refresh : Sunday, June 18, 2023, 11:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
