@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 17, 2023, 9:16 PM
+  Last Refresh : Saturday, June 17, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
