@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 >
-> ~ *Bill Gates*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 19, 2023, 7:14 AM
+  Last Refresh : Monday, June 19, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
