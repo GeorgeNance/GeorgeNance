@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *L. Peter Deutsch*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 19, 2023, 8:15 AM
+  Last Refresh : Monday, June 19, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
