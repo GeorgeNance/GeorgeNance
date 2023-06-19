@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Fred Brooks*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 7:41 PM
+  Last Refresh : Sunday, June 18, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
