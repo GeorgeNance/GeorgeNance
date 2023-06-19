@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 >
-> ~ *Gary Kildall*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 19, 2023, 1:14 PM
+  Last Refresh : Monday, June 19, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
