@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Bob Frankston*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 19, 2023, 5:30 AM
+  Last Refresh : Monday, June 19, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
