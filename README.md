@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Buckminster Fuller*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 19, 2023, 2:15 AM
+  Last Refresh : Monday, June 19, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
