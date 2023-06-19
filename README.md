@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 6:23 PM
+  Last Refresh : Sunday, June 18, 2023, 7:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
