@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Ken Thompson*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 18, 2023, 11:20 PM
+  Last Refresh : Monday, June 19, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
