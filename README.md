@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 19, 2023, 2:13 PM
+  Last Refresh : Monday, June 19, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
