@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Donald Knuth*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 19, 2023, 7:35 PM
+  Last Refresh : Monday, June 19, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
