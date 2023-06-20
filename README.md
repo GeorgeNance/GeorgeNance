@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Randall E. Stross*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 20, 2023, 1:18 AM
+  Last Refresh : Tuesday, June 20, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
