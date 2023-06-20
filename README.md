@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 >
-> ~ *Hal Abelson*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 19, 2023, 9:17 PM
+  Last Refresh : Monday, June 19, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
