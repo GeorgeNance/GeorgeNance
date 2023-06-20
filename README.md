@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 20, 2023, 11:16 AM
+  Last Refresh : Tuesday, June 20, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
