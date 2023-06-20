@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *John Romero*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 20, 2023, 2:14 AM
+  Last Refresh : Tuesday, June 20, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
