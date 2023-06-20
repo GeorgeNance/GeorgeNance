@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 20, 2023, 9:18 AM
+  Last Refresh : Tuesday, June 20, 2023, 10:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
