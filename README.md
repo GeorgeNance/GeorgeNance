@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 20, 2023, 9:17 PM
+  Last Refresh : Tuesday, June 20, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
