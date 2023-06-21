@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Hal Abelson*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 21, 2023, 3:16 AM
+  Last Refresh : Wednesday, June 21, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
