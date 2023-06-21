@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Bdale Garbee*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 20, 2023, 11:18 PM
+  Last Refresh : Wednesday, June 21, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
