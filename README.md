@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 21, 2023, 1:17 AM
+  Last Refresh : Wednesday, June 21, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
