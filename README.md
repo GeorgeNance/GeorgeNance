@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### Never memorize something that you can look up.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 21, 2023, 5:29 AM
+  Last Refresh : Wednesday, June 21, 2023, 6:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
