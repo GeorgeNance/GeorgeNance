@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 20, 2023, 10:14 PM
+  Last Refresh : Tuesday, June 20, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
