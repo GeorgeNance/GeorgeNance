@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Tom DeMarco*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 21, 2023, 4:11 AM
+  Last Refresh : Wednesday, June 21, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
