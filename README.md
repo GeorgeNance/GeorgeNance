@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Martin Fowler*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 21, 2023, 12:11 PM
+  Last Refresh : Wednesday, June 21, 2023, 1:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
