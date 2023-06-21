@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 21, 2023, 8:14 AM
+  Last Refresh : Wednesday, June 21, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
