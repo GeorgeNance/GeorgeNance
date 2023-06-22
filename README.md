@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 21, 2023, 7:40 PM
+  Last Refresh : Wednesday, June 21, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
