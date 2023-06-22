@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Hal Abelson*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 22, 2023, 11:18 AM
+  Last Refresh : Thursday, June 22, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
