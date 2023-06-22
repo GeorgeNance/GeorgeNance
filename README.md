@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Linus Torvalds*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 22, 2023, 6:25 AM
+  Last Refresh : Thursday, June 22, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
