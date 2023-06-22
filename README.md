@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Robert C. Martin*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 21, 2023, 10:13 PM
+  Last Refresh : Wednesday, June 21, 2023, 11:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
