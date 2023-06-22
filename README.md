@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Ken Thompson*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 22, 2023, 10:12 AM
+  Last Refresh : Thursday, June 22, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
