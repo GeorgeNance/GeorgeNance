@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 8:17 AM
+  Last Refresh : Friday, June 23, 2023, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
