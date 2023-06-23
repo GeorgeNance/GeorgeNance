@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 >
-> ~ *Donald Knuth*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 22, 2023, 4:17 PM
+  Last Refresh : Thursday, June 22, 2023, 6:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
