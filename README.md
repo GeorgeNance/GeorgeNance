@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Linus Torvalds*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 1:17 PM
+  Last Refresh : Friday, June 23, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
