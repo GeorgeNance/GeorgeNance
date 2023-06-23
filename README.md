@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 >
-> ~ *Bob Frankston*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 9:21 AM
+  Last Refresh : Friday, June 23, 2023, 10:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
