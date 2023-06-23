@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 5:32 AM
+  Last Refresh : Friday, June 23, 2023, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
