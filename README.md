@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Fred Brooks*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 22, 2023, 8:32 PM
+  Last Refresh : Thursday, June 22, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
