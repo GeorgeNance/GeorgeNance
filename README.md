@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Ted Nelson*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 10:17 AM
+  Last Refresh : Friday, June 23, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
