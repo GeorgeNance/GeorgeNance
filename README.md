@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Danny Hillis*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 1:20 AM
+  Last Refresh : Friday, June 23, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
