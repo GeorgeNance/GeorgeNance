@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 >
-> ~ *Anonymous*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 22, 2023, 9:20 PM
+  Last Refresh : Thursday, June 22, 2023, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
