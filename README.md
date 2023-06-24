@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Ted Nelson*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 1:19 AM
+  Last Refresh : Saturday, June 24, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
