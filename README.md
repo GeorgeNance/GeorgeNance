@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *George Boole*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 2:13 PM
+  Last Refresh : Saturday, June 24, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
