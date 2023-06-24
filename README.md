@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 12:14 AM
+  Last Refresh : Saturday, June 24, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
