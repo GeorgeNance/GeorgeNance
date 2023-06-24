@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Ada Lovelace*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 5:30 AM
+  Last Refresh : Saturday, June 24, 2023, 6:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
