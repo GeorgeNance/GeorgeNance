@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Ted Nelson*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 8:15 AM
+  Last Refresh : Saturday, June 24, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
