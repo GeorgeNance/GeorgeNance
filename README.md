@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Alan Turing*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 6:20 AM
+  Last Refresh : Saturday, June 24, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
