@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 >
-> ~ *Donald Knuth*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 6:38 PM
+  Last Refresh : Friday, June 23, 2023, 7:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
