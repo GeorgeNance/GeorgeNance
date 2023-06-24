@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Alan Perlis*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 11:20 PM
+  Last Refresh : Saturday, June 24, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
