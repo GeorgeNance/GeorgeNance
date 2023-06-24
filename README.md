@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *John Warnock*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 10:13 AM
+  Last Refresh : Saturday, June 24, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
