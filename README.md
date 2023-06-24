@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Harlan Mills*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 23, 2023, 7:57 PM
+  Last Refresh : Friday, June 23, 2023, 8:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
