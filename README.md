@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Ken Thompson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 12:20 AM
+  Last Refresh : Sunday, June 25, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
