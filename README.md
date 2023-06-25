@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Ted Nelson*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 3:15 PM
+  Last Refresh : Sunday, June 25, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
