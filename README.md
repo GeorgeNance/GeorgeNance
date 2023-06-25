@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Linus Torvalds*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 6:51 PM
+  Last Refresh : Saturday, June 24, 2023, 8:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
