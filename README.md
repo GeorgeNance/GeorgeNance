@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Stan Kelly-Bootle*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 8:11 PM
+  Last Refresh : Saturday, June 24, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
