@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Grady Booch*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 3:16 AM
+  Last Refresh : Sunday, June 25, 2023, 4:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
