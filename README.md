@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Jeremy S. Anderson*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 2:15 AM
+  Last Refresh : Sunday, June 25, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
