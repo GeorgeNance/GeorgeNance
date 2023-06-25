@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 >
-> ~ *Linus Torvalds*
+> ~ *Jeremy S. Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 1:19 AM
+  Last Refresh : Sunday, June 25, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
