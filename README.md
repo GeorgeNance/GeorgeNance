@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, June 24, 2023, 4:15 PM
+  Last Refresh : Saturday, June 24, 2023, 6:51 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
