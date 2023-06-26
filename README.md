@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Bob Frankston*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 8:03 PM
+  Last Refresh : Sunday, June 25, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
