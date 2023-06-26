@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Ryan Singer*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 9:20 PM
+  Last Refresh : Sunday, June 25, 2023, 10:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
