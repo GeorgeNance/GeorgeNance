@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Dennis Ritchie*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 4:15 PM
+  Last Refresh : Sunday, June 25, 2023, 6:44 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
