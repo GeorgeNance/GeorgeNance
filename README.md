@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Tom Cargill*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 26, 2023, 11:20 AM
+  Last Refresh : Monday, June 26, 2023, 12:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
