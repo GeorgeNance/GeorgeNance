@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 26, 2023, 7:15 AM
+  Last Refresh : Monday, June 26, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
