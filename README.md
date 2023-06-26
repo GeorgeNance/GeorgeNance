@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Steve Jobs*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 26, 2023, 3:18 AM
+  Last Refresh : Monday, June 26, 2023, 5:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
