@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Robert L. Glass*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 26, 2023, 6:24 AM
+  Last Refresh : Monday, June 26, 2023, 7:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
