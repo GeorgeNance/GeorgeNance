@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, June 25, 2023, 6:44 PM
+  Last Refresh : Sunday, June 25, 2023, 8:03 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
