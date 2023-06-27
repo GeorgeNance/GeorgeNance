@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Daniel T. Barry*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 1:20 AM
+  Last Refresh : Tuesday, June 27, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
