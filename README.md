@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Terry Winograd*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 26, 2023, 8:31 PM
+  Last Refresh : Monday, June 26, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
