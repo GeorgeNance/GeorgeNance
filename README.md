@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 26, 2023, 9:19 PM
+  Last Refresh : Monday, June 26, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
