@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
 >
-> ~ *Robert C. Martin*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 9:21 AM
+  Last Refresh : Tuesday, June 27, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
