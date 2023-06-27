@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Ward Cunningham*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 6:24 AM
+  Last Refresh : Tuesday, June 27, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
