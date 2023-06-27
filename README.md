@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Richard Feynman*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 12:15 AM
+  Last Refresh : Tuesday, June 27, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
