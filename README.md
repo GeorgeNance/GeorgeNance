@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Vannevar Bush*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 5:34 AM
+  Last Refresh : Tuesday, June 27, 2023, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
