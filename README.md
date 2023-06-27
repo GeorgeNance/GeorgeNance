@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 >
-> ~ *John Warnock*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, June 26, 2023, 7:59 PM
+  Last Refresh : Monday, June 26, 2023, 8:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
