@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 >
-> ~ *Fred Brooks*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 11:20 AM
+  Last Refresh : Tuesday, June 27, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
