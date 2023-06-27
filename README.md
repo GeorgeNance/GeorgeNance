@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Wayne Ratliff*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 8:17 AM
+  Last Refresh : Tuesday, June 27, 2023, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
