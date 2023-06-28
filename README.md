@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Bill Gates*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 4:16 PM
+  Last Refresh : Tuesday, June 27, 2023, 6:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
