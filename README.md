@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Richard Feynman*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 6:42 PM
+  Last Refresh : Tuesday, June 27, 2023, 7:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
