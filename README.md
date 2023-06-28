@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Linus Torvalds*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 28, 2023, 6:25 AM
+  Last Refresh : Wednesday, June 28, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
