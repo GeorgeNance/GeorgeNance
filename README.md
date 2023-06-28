@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### No code is faster than no code.
 >
-> ~ *Fred Brooks*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 8:28 PM
+  Last Refresh : Tuesday, June 27, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
