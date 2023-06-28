@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *Tim Berners-Lee*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 28, 2023, 5:42 AM
+  Last Refresh : Wednesday, June 28, 2023, 6:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
