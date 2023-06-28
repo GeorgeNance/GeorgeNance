@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 11:21 PM
+  Last Refresh : Wednesday, June 28, 2023, 12:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
