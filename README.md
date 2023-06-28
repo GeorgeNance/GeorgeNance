@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, June 27, 2023, 10:15 PM
+  Last Refresh : Tuesday, June 27, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
