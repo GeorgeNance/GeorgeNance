@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Gary Kildall*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, June 28, 2023, 9:21 AM
+  Last Refresh : Wednesday, June 28, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
