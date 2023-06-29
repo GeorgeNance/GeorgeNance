@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Butler Lampson*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 8:16 AM
+  Last Refresh : Thursday, June 29, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
