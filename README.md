@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 10:14 AM
+  Last Refresh : Thursday, June 29, 2023, 11:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
