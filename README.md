@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Randall E. Stross*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 2:21 PM
+  Last Refresh : Thursday, June 29, 2023, 4:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
