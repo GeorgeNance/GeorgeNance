@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 7:14 AM
+  Last Refresh : Thursday, June 29, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
