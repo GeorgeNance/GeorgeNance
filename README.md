@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Steve Jobs*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 9:20 AM
+  Last Refresh : Thursday, June 29, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
