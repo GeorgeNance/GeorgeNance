@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 >
-> ~ *George Carrette*
+> ~ *Maurice Wilkes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 4:16 AM
+  Last Refresh : Thursday, June 29, 2023, 5:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
