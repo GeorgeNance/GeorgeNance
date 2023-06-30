@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Richard Hamming*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 30, 2023, 4:12 AM
+  Last Refresh : Friday, June 30, 2023, 5:32 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
