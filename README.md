@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Mark Gibbs*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 30, 2023, 3:14 PM
+  Last Refresh : Friday, June 30, 2023, 4:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
