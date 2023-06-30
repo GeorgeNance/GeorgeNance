@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Ted Nelson*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 10:15 PM
+  Last Refresh : Thursday, June 29, 2023, 11:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
