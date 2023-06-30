@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Bob Carr*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 30, 2023, 11:19 AM
+  Last Refresh : Friday, June 30, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
