@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
-> ~ *Bill Gates*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 30, 2023, 2:15 AM
+  Last Refresh : Friday, June 30, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
