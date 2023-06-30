@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### Making things easy is hard.
 >
-> ~ *Vannevar Bush*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 9:19 PM
+  Last Refresh : Thursday, June 29, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
