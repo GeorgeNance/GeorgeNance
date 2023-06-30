@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 30, 2023, 3:16 AM
+  Last Refresh : Friday, June 30, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
