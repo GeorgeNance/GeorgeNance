@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Fred Brooks*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 30, 2023, 8:16 AM
+  Last Refresh : Friday, June 30, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
