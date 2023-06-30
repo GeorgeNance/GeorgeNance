@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Edward V. Berard*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, June 29, 2023, 11:20 PM
+  Last Refresh : Friday, June 30, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
