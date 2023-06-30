@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 30, 2023, 7:13 AM
+  Last Refresh : Friday, June 30, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
