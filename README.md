@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 >
-> ~ *Ted Nelson*
+> ~ *Laurence J. Peter*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 1, 2023, 9:19 AM
+  Last Refresh : Saturday, July 1, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
