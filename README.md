@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 1, 2023, 2:14 AM
+  Last Refresh : Saturday, July 1, 2023, 3:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
