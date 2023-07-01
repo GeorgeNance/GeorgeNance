@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
+> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
 >
-> ~ *Richard Stallman*
+> ~ *Tony Hoare*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 1, 2023, 6:19 AM
+  Last Refresh : Saturday, July 1, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
