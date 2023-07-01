@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Martin Fowler*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, June 30, 2023, 9:18 PM
+  Last Refresh : Friday, June 30, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
