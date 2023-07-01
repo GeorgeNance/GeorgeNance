@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
 >
-> ~ *Eric S. Raymond*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 1, 2023, 11:18 AM
+  Last Refresh : Saturday, July 1, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
