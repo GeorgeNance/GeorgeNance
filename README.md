@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
 >
-> ~ *Linus Torvalds*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 1, 2023, 12:13 AM
+  Last Refresh : Saturday, July 1, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
