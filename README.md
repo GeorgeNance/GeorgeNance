@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Alan Kay*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 1, 2023, 3:16 AM
+  Last Refresh : Saturday, July 1, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
