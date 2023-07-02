@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### When in doubt, leave it out.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 1, 2023, 4:15 PM
+  Last Refresh : Saturday, July 1, 2023, 6:48 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
