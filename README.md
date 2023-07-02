@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 2, 2023, 2:14 AM
+  Last Refresh : Sunday, July 2, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
