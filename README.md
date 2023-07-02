@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Thomas J. Watson*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 1, 2023, 11:19 PM
+  Last Refresh : Sunday, July 2, 2023, 12:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
