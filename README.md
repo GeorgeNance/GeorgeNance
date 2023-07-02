@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Alan Turing*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 2, 2023, 10:13 AM
+  Last Refresh : Sunday, July 2, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
