@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Randall E. Stross*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 2, 2023, 7:13 AM
+  Last Refresh : Sunday, July 2, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
