@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Donald Knuth*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 2, 2023, 12:20 AM
+  Last Refresh : Sunday, July 2, 2023, 1:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
