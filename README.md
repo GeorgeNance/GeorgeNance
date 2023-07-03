@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Fred Brooks*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 3, 2023, 12:14 AM
+  Last Refresh : Monday, July 3, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
