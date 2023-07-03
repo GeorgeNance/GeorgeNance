@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Steve Jobs*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 3, 2023, 12:13 PM
+  Last Refresh : Monday, July 3, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
