@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### One man's constant is another man's variable.
 >
-> ~ *Buckminster Fuller*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 3, 2023, 8:16 AM
+  Last Refresh : Monday, July 3, 2023, 9:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
