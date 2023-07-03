@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Kevlin Henney*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 2, 2023, 7:57 PM
+  Last Refresh : Sunday, July 2, 2023, 8:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
