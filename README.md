@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Deleted code is debugged code.
+> ### Less code equals less bugs.
 >
-> ~ *Jeff Sickel*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 2, 2023, 6:41 PM
+  Last Refresh : Sunday, July 2, 2023, 7:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
