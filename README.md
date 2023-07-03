@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 >
-> ~ *Anonymous*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 2, 2023, 10:15 PM
+  Last Refresh : Sunday, July 2, 2023, 11:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
