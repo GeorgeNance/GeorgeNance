@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Peter Roizen*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 3, 2023, 1:20 AM
+  Last Refresh : Monday, July 3, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
