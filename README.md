@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Anonymous*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 4, 2023, 8:17 AM
+  Last Refresh : Tuesday, July 4, 2023, 9:25 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
