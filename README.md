@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 3, 2023, 6:41 PM
+  Last Refresh : Monday, July 3, 2023, 7:59 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
