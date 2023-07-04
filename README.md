@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Toru Iwatani*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 4, 2023, 3:18 AM
+  Last Refresh : Tuesday, July 4, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
