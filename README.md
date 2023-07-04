@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 4, 2023, 1:17 PM
+  Last Refresh : Tuesday, July 4, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
