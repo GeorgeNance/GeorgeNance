@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 4, 2023, 6:26 AM
+  Last Refresh : Tuesday, July 4, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
