@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Elon Musk*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 4, 2023, 11:21 AM
+  Last Refresh : Tuesday, July 4, 2023, 12:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
