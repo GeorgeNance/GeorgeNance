@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 3, 2023, 8:31 PM
+  Last Refresh : Monday, July 3, 2023, 9:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
