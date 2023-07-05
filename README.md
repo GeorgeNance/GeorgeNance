@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### Once you stop learning you start dying.
 >
-> ~ *Fred Brooks*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 5, 2023, 9:23 AM
+  Last Refresh : Wednesday, July 5, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
