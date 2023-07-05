@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 >
-> ~ *Marvin Minsky*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 5, 2023, 2:15 PM
+  Last Refresh : Wednesday, July 5, 2023, 3:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
