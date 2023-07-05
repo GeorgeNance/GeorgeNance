@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 >
-> ~ *Fred Brooks*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 5, 2023, 12:13 PM
+  Last Refresh : Wednesday, July 5, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
