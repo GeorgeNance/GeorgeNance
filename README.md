@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 >
-> ~ *Jamie Zawinski*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 5, 2023, 1:22 AM
+  Last Refresh : Wednesday, July 5, 2023, 2:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
