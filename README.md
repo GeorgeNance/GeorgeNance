@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 >
-> ~ *Fred Brooks*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 4, 2023, 7:58 PM
+  Last Refresh : Tuesday, July 4, 2023, 8:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
