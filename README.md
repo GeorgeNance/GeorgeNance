@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
 >
-> ~ *Ada Lovelace*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 6, 2023, 12:12 PM
+  Last Refresh : Thursday, July 6, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
