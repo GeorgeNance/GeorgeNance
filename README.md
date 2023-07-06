@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 >
-> ~ *John Carmack*
+> ~ *René Descartes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 6, 2023, 10:15 AM
+  Last Refresh : Thursday, July 6, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
