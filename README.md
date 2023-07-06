@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 6, 2023, 8:18 AM
+  Last Refresh : Thursday, July 6, 2023, 9:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
