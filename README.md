@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 5, 2023, 4:16 PM
+  Last Refresh : Wednesday, July 5, 2023, 6:42 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
