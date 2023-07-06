@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Kent Beck*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 6, 2023, 12:16 AM
+  Last Refresh : Thursday, July 6, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
