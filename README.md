@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Robert L. Glass*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 5, 2023, 10:16 PM
+  Last Refresh : Wednesday, July 5, 2023, 11:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
