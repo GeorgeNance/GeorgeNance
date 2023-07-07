@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Fred Brooks*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 6, 2023, 4:16 PM
+  Last Refresh : Thursday, July 6, 2023, 6:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
