@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Philip Greenspun*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 10:14 AM
+  Last Refresh : Friday, July 7, 2023, 11:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
