@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Alan Kay*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 2:16 AM
+  Last Refresh : Friday, July 7, 2023, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
