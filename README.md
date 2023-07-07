@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Robert C. Martin*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 6, 2023, 8:28 PM
+  Last Refresh : Thursday, July 6, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
