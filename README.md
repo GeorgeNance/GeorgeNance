@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 2:13 PM
+  Last Refresh : Friday, July 7, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
