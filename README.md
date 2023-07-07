@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 1:20 AM
+  Last Refresh : Friday, July 7, 2023, 2:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
