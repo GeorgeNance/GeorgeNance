@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Bill Gates*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 12:14 AM
+  Last Refresh : Friday, July 7, 2023, 1:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
