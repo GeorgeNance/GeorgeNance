@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 1:16 PM
+  Last Refresh : Friday, July 7, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
