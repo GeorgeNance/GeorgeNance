@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 >
-> ~ *Rob Pike*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 6, 2023, 6:41 PM
+  Last Refresh : Thursday, July 6, 2023, 7:57 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
