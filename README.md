@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 6:40 PM
+  Last Refresh : Friday, July 7, 2023, 7:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
