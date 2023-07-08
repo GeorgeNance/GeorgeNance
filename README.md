@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 3:15 AM
+  Last Refresh : Saturday, July 8, 2023, 4:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
