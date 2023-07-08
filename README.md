@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Alan Perlis*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 5:30 AM
+  Last Refresh : Saturday, July 8, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
