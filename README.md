@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Harlan Mills*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 10:14 PM
+  Last Refresh : Friday, July 7, 2023, 11:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
