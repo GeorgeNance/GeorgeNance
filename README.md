@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 >
-> ~ *Steve Wozniak*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 7:13 AM
+  Last Refresh : Saturday, July 8, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
