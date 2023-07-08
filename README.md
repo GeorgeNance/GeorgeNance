@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *John von Neumann*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 11:19 PM
+  Last Refresh : Saturday, July 8, 2023, 12:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
