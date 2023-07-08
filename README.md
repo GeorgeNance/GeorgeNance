@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Alan Kay*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 8:14 AM
+  Last Refresh : Saturday, July 8, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
