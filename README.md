@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
 >
-> ~ *Alan Perlis*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 12:13 AM
+  Last Refresh : Saturday, July 8, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
