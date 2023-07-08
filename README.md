@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Marvin Minsky*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 6:19 AM
+  Last Refresh : Saturday, July 8, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
