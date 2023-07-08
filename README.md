@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Ken Thompson*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 7, 2023, 4:15 PM
+  Last Refresh : Friday, July 7, 2023, 6:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
