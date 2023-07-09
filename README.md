@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 4:15 PM
+  Last Refresh : Saturday, July 8, 2023, 6:47 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
