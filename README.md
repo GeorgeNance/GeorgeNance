@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Bill Gates*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 9:18 PM
+  Last Refresh : Saturday, July 8, 2023, 10:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
