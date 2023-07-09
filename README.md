@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Wayne Ratliff*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 9, 2023, 1:18 AM
+  Last Refresh : Sunday, July 9, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
