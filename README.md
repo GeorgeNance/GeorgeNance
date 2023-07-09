@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### Less code equals less bugs.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 6:47 PM
+  Last Refresh : Saturday, July 8, 2023, 8:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
