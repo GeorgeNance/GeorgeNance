@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
 >
-> ~ *Alan Perlis*
+> ~ *Steve McConnell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 9, 2023, 9:19 AM
+  Last Refresh : Sunday, July 9, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
