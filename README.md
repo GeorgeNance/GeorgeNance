@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 >
-> ~ *P. J. Plauger*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 9, 2023, 4:12 AM
+  Last Refresh : Sunday, July 9, 2023, 5:30 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
