@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### Once you stop learning you start dying.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 8, 2023, 10:14 PM
+  Last Refresh : Sunday, July 9, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
