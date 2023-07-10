@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *John Warnock*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 10, 2023, 4:13 AM
+  Last Refresh : Monday, July 10, 2023, 5:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
