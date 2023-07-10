@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 9, 2023, 8:00 PM
+  Last Refresh : Sunday, July 9, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
