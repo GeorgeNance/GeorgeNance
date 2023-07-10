@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
 >
-> ~ *Mario Fusco*
+> ~ *Tony Parisi (software developer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 10, 2023, 9:23 AM
+  Last Refresh : Monday, July 10, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
