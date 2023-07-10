@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Addy Osmani*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 10, 2023, 1:17 PM
+  Last Refresh : Monday, July 10, 2023, 2:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
