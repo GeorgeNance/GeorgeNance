@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Dennis Ritchie*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 10, 2023, 12:15 AM
+  Last Refresh : Monday, July 10, 2023, 1:22 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
