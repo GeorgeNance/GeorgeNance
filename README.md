@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 11, 2023, 1:16 PM
+  Last Refresh : Tuesday, July 11, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
