@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Alan Kay*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 11, 2023, 2:16 AM
+  Last Refresh : Tuesday, July 11, 2023, 3:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
