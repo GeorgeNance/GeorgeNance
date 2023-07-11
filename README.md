@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### Cool URIs don't change.
 >
-> ~ *Jim Horning*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 10, 2023, 7:50 PM
+  Last Refresh : Monday, July 10, 2023, 8:20 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
