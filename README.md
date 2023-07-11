@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Douglas Crockford*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 11, 2023, 3:17 AM
+  Last Refresh : Tuesday, July 11, 2023, 4:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
