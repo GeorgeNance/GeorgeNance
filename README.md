@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Leslie Lamport*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 10, 2023, 4:15 PM
+  Last Refresh : Monday, July 10, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
