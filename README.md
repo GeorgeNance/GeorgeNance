@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *David Leinweber*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 11, 2023, 2:13 PM
+  Last Refresh : Tuesday, July 11, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
