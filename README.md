@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *John Johnson*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 12, 2023, 12:12 PM
+  Last Refresh : Wednesday, July 12, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
