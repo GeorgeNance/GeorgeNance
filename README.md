@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 >
-> ~ *Fred Brooks*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 12, 2023, 10:14 AM
+  Last Refresh : Wednesday, July 12, 2023, 11:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
