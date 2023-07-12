@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 >
-> ~ *Martin Fowler*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 12, 2023, 6:25 AM
+  Last Refresh : Wednesday, July 12, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
