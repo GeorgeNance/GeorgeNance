@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 >
-> ~ *Rick Osborne*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 11, 2023, 8:25 PM
+  Last Refresh : Tuesday, July 11, 2023, 9:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
