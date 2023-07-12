@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Donald Knuth*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 11, 2023, 6:41 PM
+  Last Refresh : Tuesday, July 11, 2023, 7:56 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
