@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 12, 2023, 2:13 PM
+  Last Refresh : Wednesday, July 12, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
