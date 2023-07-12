@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 >
-> ~ *Ivan Sutherland*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 12, 2023, 9:21 AM
+  Last Refresh : Wednesday, July 12, 2023, 10:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
