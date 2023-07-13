@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 13, 2023, 4:13 AM
+  Last Refresh : Thursday, July 13, 2023, 5:34 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
