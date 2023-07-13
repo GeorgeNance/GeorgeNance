@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Jim Coplien*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 13, 2023, 12:11 PM
+  Last Refresh : Thursday, July 13, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
