@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Ted Nelson*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 13, 2023, 11:20 AM
+  Last Refresh : Thursday, July 13, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
