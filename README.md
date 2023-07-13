@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Henry Ford*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 13, 2023, 2:14 PM
+  Last Refresh : Thursday, July 13, 2023, 3:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
