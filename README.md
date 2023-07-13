@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 12, 2023, 9:19 PM
+  Last Refresh : Wednesday, July 12, 2023, 10:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
