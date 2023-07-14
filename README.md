@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *John von Neumann*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 11:19 AM
+  Last Refresh : Friday, July 14, 2023, 12:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
