@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 >
-> ~ *Charles Simonyi*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 6:23 AM
+  Last Refresh : Friday, July 14, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
