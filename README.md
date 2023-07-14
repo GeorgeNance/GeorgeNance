@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Richard Hamming*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 4:13 AM
+  Last Refresh : Friday, July 14, 2023, 5:33 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
