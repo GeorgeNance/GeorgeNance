@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In theory, there is no difference between theory and practice. But, in practice, there is.
+> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
 >
-> ~ *Jan L. A. van de Snepscheut*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 12:12 PM
+  Last Refresh : Friday, July 14, 2023, 1:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
