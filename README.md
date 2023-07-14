@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 13, 2023, 6:43 PM
+  Last Refresh : Thursday, July 13, 2023, 7:58 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
