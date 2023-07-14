@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rick Osborne*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 1:20 AM
+  Last Refresh : Friday, July 14, 2023, 2:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
