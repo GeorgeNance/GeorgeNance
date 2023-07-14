@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Steve Jobs*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 2:13 PM
+  Last Refresh : Friday, July 14, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
