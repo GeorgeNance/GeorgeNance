@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 7:14 AM
+  Last Refresh : Friday, July 14, 2023, 8:16 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
