@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *David Parnas*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 1:17 PM
+  Last Refresh : Friday, July 14, 2023, 2:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
