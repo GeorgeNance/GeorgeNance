@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *Gerald Weinberg*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 14, 2023, 11:19 PM
+  Last Refresh : Saturday, July 15, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
