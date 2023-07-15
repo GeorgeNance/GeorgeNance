@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Charles Simonyi*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 15, 2023, 3:14 PM
+  Last Refresh : Saturday, July 15, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
