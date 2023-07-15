@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### Never memorize something that you can look up.
 >
-> ~ *Steve Jobs*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 15, 2023, 1:18 AM
+  Last Refresh : Saturday, July 15, 2023, 2:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
