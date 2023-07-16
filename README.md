@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 >
-> ~ *John Gall (author)*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 16, 2023, 7:13 AM
+  Last Refresh : Sunday, July 16, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
