@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Douglas Crockford*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 16, 2023, 4:11 AM
+  Last Refresh : Sunday, July 16, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
