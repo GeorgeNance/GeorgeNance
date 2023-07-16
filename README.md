@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *Dennis Ritchie*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 16, 2023, 10:13 AM
+  Last Refresh : Sunday, July 16, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
