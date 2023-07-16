@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 15, 2023, 8:09 PM
+  Last Refresh : Saturday, July 15, 2023, 9:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
