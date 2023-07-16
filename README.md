@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Steve Jobs*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 16, 2023, 9:19 AM
+  Last Refresh : Sunday, July 16, 2023, 10:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
