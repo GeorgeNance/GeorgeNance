@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 >
-> ~ *Damian Conway*
+> ~ *Randall E. Stross*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 17, 2023, 8:17 AM
+  Last Refresh : Monday, July 17, 2023, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
