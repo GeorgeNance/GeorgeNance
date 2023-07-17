@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Kevlin Henney*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 17, 2023, 3:14 PM
+  Last Refresh : Monday, July 17, 2023, 4:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
