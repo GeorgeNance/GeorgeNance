@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Jef Raskin*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 17, 2023, 7:15 AM
+  Last Refresh : Monday, July 17, 2023, 8:17 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
