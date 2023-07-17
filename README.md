@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Ward Cunningham*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 17, 2023, 12:15 AM
+  Last Refresh : Monday, July 17, 2023, 1:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
