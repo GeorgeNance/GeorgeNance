@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Daniel T. Barry*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 17, 2023, 2:13 PM
+  Last Refresh : Monday, July 17, 2023, 3:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
