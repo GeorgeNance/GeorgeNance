@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
+> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 >
-> ~ *Poul-Henning Kamp*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 12:12 PM
+  Last Refresh : Tuesday, July 18, 2023, 1:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
