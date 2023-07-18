@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
 >
-> ~ *Alan Turing*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 6:21 AM
+  Last Refresh : Tuesday, July 18, 2023, 7:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
