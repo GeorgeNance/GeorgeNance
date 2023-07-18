@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 8:15 AM
+  Last Refresh : Tuesday, July 18, 2023, 9:21 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
