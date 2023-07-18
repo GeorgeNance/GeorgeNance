@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 >
-> ~ *Richard Stallman*
+> ~ *Carl Friedrich Gauss*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 1:16 PM
+  Last Refresh : Tuesday, July 18, 2023, 2:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
