@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 >
-> ~ *Richard Stallman*
+> ~ *Nathaniel Borenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 7:14 AM
+  Last Refresh : Tuesday, July 18, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
