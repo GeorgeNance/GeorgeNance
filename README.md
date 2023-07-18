@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Fred Brooks*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 17, 2023, 11:19 PM
+  Last Refresh : Tuesday, July 18, 2023, 12:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
