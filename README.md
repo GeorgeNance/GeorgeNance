@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Albert Einstein*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 3:15 AM
+  Last Refresh : Wednesday, July 19, 2023, 4:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
