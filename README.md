@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Chris Wenham*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 8:15 AM
+  Last Refresh : Wednesday, July 19, 2023, 9:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
