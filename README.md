@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Doug Linder*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 4:11 AM
+  Last Refresh : Wednesday, July 19, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
