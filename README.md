@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Alan Turing*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 2:14 AM
+  Last Refresh : Wednesday, July 19, 2023, 3:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
