@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 >
-> ~ *Brian Kernighan*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 12:11 PM
+  Last Refresh : Wednesday, July 19, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
