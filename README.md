@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 11:19 PM
+  Last Refresh : Wednesday, July 19, 2023, 12:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
