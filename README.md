@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Brian Kernighan*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 5:29 AM
+  Last Refresh : Wednesday, July 19, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
