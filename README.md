@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 >
-> ~ *Robert C. Martin*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 7:41 PM
+  Last Refresh : Tuesday, July 18, 2023, 8:54 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
