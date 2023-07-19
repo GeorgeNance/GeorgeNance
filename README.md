@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Alan Perlis*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 8:54 PM
+  Last Refresh : Tuesday, July 18, 2023, 9:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
