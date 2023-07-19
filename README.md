@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Linus Torvalds*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 2:12 PM
+  Last Refresh : Wednesday, July 19, 2023, 3:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
