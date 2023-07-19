@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Vint Cerf*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 18, 2023, 4:13 PM
+  Last Refresh : Tuesday, July 18, 2023, 7:41 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
