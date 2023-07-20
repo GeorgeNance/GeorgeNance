@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 20, 2023, 8:15 AM
+  Last Refresh : Thursday, July 20, 2023, 9:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
