@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Henry Petroski*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 20, 2023, 11:18 AM
+  Last Refresh : Thursday, July 20, 2023, 12:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
