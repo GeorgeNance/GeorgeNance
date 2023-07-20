@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Ted Nelson*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 20, 2023, 6:20 AM
+  Last Refresh : Thursday, July 20, 2023, 7:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
