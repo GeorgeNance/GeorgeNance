@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Marvin Minsky*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 20, 2023, 12:20 AM
+  Last Refresh : Thursday, July 20, 2023, 1:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
