@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 9:17 PM
+  Last Refresh : Wednesday, July 19, 2023, 10:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
