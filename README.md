@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 >
-> ~ *Bob Carr*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 20, 2023, 1:14 PM
+  Last Refresh : Thursday, July 20, 2023, 2:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
