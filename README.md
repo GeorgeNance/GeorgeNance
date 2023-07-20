@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Addy Osmani*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 7:32 PM
+  Last Refresh : Wednesday, July 19, 2023, 8:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
