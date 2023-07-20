@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 6:18 PM
+  Last Refresh : Wednesday, July 19, 2023, 7:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
