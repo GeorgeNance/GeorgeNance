@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Bill Gates*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 20, 2023, 5:30 AM
+  Last Refresh : Thursday, July 20, 2023, 6:20 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
