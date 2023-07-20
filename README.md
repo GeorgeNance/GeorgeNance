@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Alan Turing*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 19, 2023, 8:15 PM
+  Last Refresh : Wednesday, July 19, 2023, 9:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
