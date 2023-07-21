@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *Bob Frankston*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 2:13 AM
+  Last Refresh : Friday, July 21, 2023, 3:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
