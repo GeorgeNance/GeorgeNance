@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
 >
-> ~ *Kent Beck*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 20, 2023, 4:14 PM
+  Last Refresh : Thursday, July 20, 2023, 6:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
