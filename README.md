@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 2:04 PM
+  Last Refresh : Friday, July 21, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
