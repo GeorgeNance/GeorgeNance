@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Richard Hamming*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 4:11 AM
+  Last Refresh : Friday, July 21, 2023, 5:28 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
