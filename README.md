@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 20, 2023, 7:34 PM
+  Last Refresh : Thursday, July 20, 2023, 8:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
