@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 >
-> ~ *Grady Booch*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 7:12 AM
+  Last Refresh : Friday, July 21, 2023, 8:14 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
