@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Douglas Crockford*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 6:17 AM
+  Last Refresh : Friday, July 21, 2023, 7:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
