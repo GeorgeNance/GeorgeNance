@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Alan Perlis*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 1:18 AM
+  Last Refresh : Friday, July 21, 2023, 2:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
