@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
 > ~ *Dennis Ritchie*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 12:11 PM
+  Last Refresh : Friday, July 21, 2023, 1:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
