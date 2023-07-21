@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 10:12 AM
+  Last Refresh : Friday, July 21, 2023, 11:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
