@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *John Romero*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 22, 2023, 4:04 AM
+  Last Refresh : Saturday, July 22, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
