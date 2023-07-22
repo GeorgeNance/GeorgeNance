@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.
 >
-> ~ *L. Peter Deutsch*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 8:04 PM
+  Last Refresh : Friday, July 21, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
