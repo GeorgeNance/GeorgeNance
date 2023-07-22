@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Elon Musk*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 22, 2023, 7:04 AM
+  Last Refresh : Saturday, July 22, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
