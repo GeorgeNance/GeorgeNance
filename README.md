@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 >
-> ~ *Marvin Minsky*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 21, 2023, 7:18 PM
+  Last Refresh : Friday, July 21, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
