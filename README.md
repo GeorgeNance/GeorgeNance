@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Fred Brooks*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 22, 2023, 5:20 PM
+  Last Refresh : Saturday, July 22, 2023, 6:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
