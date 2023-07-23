@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 >
-> ~ *Lawrence Flon*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 1:06 AM
+  Last Refresh : Sunday, July 23, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
