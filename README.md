@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Daniel T. Barry*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 11:04 AM
+  Last Refresh : Sunday, July 23, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
