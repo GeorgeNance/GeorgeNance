@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 22, 2023, 7:22 PM
+  Last Refresh : Saturday, July 22, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
