@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Charles Simonyi*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 6:04 AM
+  Last Refresh : Sunday, July 23, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
