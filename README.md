@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### Really good programs live forever.
 >
-> ~ *David Parnas*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 5:05 AM
+  Last Refresh : Sunday, July 23, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
