@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
 >
-> ~ *Fred Brooks*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 4:04 AM
+  Last Refresh : Sunday, July 23, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
