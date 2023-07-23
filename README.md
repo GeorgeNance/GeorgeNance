@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Kyle Simpson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 3:04 AM
+  Last Refresh : Sunday, July 23, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
