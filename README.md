@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 2:04 AM
+  Last Refresh : Sunday, July 23, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
