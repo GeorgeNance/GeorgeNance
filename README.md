@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
 >
-> ~ *Linus Torvalds*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 8:04 AM
+  Last Refresh : Sunday, July 23, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
