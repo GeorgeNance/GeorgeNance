@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Bill Gates*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 22, 2023, 11:04 PM
+  Last Refresh : Sunday, July 23, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
