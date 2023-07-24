@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Steve Jobs*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 5:18 PM
+  Last Refresh : Sunday, July 23, 2023, 6:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
