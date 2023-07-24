@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *John Warnock*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 24, 2023, 11:05 AM
+  Last Refresh : Monday, July 24, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
