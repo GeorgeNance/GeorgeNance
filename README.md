@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
 >
-> ~ *Terry Winograd*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 24, 2023, 2:04 AM
+  Last Refresh : Monday, July 24, 2023, 3:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
