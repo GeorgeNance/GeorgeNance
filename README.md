@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
 >
-> ~ *Fred Brooks*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 24, 2023, 6:07 AM
+  Last Refresh : Monday, July 24, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
