@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 >
-> ~ *Fred Brooks*
+> ~ *Chris Sacca*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 8:04 PM
+  Last Refresh : Sunday, July 23, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
