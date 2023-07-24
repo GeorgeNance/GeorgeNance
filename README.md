@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Donald Knuth*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 23, 2023, 11:05 PM
+  Last Refresh : Monday, July 24, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
