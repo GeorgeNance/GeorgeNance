@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Rick Osborne*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 24, 2023, 4:04 AM
+  Last Refresh : Monday, July 24, 2023, 5:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
