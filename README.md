@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Daniel T. Barry*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 24, 2023, 11:05 PM
+  Last Refresh : Tuesday, July 25, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
