@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Charles Simonyi*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 24, 2023, 6:33 PM
+  Last Refresh : Monday, July 24, 2023, 7:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
