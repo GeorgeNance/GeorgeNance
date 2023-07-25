@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 11:05 AM
+  Last Refresh : Tuesday, July 25, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
