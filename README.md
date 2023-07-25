@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Elon Musk*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 5:06 AM
+  Last Refresh : Tuesday, July 25, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
