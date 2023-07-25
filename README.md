@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 2:04 PM
+  Last Refresh : Tuesday, July 25, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
