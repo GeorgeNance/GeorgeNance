@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### Really good programs live forever.
 >
-> ~ *Damian Conway*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 24, 2023, 5:19 PM
+  Last Refresh : Monday, July 24, 2023, 6:33 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
