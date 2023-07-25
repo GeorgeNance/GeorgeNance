@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
 >
-> ~ *Robert C. Martin*
+> ~ *Lawrence Flon*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 24, 2023, 9:04 PM
+  Last Refresh : Monday, July 24, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
