@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 6:32 PM
+  Last Refresh : Tuesday, July 25, 2023, 7:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
