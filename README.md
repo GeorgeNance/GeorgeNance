@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Charles Babbage*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 5:18 PM
+  Last Refresh : Tuesday, July 25, 2023, 6:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
