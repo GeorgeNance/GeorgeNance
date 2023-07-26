@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Butler Lampson*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 11:05 PM
+  Last Refresh : Wednesday, July 26, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
