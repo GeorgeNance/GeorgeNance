@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Grady Booch*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 26, 2023, 12:04 PM
+  Last Refresh : Wednesday, July 26, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
