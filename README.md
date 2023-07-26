@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Linus Torvalds*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 8:04 PM
+  Last Refresh : Tuesday, July 25, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
