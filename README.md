@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Daniel T. Barry*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 7:21 PM
+  Last Refresh : Tuesday, July 25, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
