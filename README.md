@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Bill Gates*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 26, 2023, 6:22 AM
+  Last Refresh : Wednesday, July 26, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
