@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When debugging, novices insert corrective code; experts remove defective code.
+> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 >
-> ~ *Richard E. Pattis*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, July 25, 2023, 4:04 PM
+  Last Refresh : Tuesday, July 25, 2023, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
