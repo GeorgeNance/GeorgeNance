@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 26, 2023, 1:05 AM
+  Last Refresh : Wednesday, July 26, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
