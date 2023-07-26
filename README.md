@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 26, 2023, 2:04 PM
+  Last Refresh : Wednesday, July 26, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
