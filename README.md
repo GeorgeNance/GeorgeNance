@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Douglas Crockford*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 27, 2023, 2:04 AM
+  Last Refresh : Thursday, July 27, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
