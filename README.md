@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 26, 2023, 5:16 PM
+  Last Refresh : Wednesday, July 26, 2023, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
