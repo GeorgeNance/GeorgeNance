@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Kent Beck*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 27, 2023, 12:04 AM
+  Last Refresh : Thursday, July 27, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
