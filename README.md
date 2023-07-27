@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 27, 2023, 4:04 AM
+  Last Refresh : Thursday, July 27, 2023, 5:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
