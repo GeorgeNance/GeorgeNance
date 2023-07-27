@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Anonymous*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 27, 2023, 5:12 AM
+  Last Refresh : Thursday, July 27, 2023, 6:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
