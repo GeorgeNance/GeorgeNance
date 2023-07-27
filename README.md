@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
 >
 > ~ *Joseph Yoder (computer scientist)*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, July 26, 2023, 4:04 PM
+  Last Refresh : Wednesday, July 26, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
