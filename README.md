@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *John Carmack*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 27, 2023, 2:04 PM
+  Last Refresh : Thursday, July 27, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
