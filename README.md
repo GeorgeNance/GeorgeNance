@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Alan Perlis*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 1:04 PM
+  Last Refresh : Friday, July 28, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
