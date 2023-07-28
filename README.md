@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Fred Brooks*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 9:04 AM
+  Last Refresh : Friday, July 28, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
