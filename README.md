@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 >
-> ~ *Danny Hillis*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, July 27, 2023, 9:04 PM
+  Last Refresh : Thursday, July 27, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
