@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
+> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 >
-> ~ *Steve McConnell*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 4:04 AM
+  Last Refresh : Friday, July 28, 2023, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
