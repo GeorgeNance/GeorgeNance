@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 12:04 PM
+  Last Refresh : Friday, July 28, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
