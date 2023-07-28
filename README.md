@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 >
-> ~ *Jef Raskin*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 2:04 PM
+  Last Refresh : Friday, July 28, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
