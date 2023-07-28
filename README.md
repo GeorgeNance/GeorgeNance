@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Danny Hillis*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 5:08 AM
+  Last Refresh : Friday, July 28, 2023, 6:19 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
