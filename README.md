@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Elon Musk*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 11:04 AM
+  Last Refresh : Friday, July 28, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
