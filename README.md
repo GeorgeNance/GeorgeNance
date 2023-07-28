@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Daniel T. Barry*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 12:04 AM
+  Last Refresh : Friday, July 28, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
