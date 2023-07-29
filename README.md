@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 29, 2023, 6:04 AM
+  Last Refresh : Saturday, July 29, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
