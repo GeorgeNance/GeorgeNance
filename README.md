@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 6:30 PM
+  Last Refresh : Friday, July 28, 2023, 7:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
