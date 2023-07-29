@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### Cool URIs don't change.
 >
-> ~ *Brian Kernighan*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 5:17 PM
+  Last Refresh : Friday, July 28, 2023, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
