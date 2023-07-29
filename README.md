@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 29, 2023, 8:04 AM
+  Last Refresh : Saturday, July 29, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
