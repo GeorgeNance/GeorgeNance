@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 29, 2023, 4:04 AM
+  Last Refresh : Saturday, July 29, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
