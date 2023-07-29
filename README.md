@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Gary Kildall*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 29, 2023, 7:04 AM
+  Last Refresh : Saturday, July 29, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
