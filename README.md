@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Maurice Wilkes*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 4:04 PM
+  Last Refresh : Friday, July 28, 2023, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
