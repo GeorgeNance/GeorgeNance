@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 29, 2023, 1:04 PM
+  Last Refresh : Saturday, July 29, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
