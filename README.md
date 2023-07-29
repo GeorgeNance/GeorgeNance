@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 10:04 PM
+  Last Refresh : Friday, July 28, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
