@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Pamela Zave*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, July 28, 2023, 11:04 PM
+  Last Refresh : Saturday, July 29, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
