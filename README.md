@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Laurence J. Peter*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, July 29, 2023, 2:04 AM
+  Last Refresh : Saturday, July 29, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
