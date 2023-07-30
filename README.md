@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 3:04 PM
+  Last Refresh : Sunday, July 30, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
