@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Kent Beck*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 1:04 AM
+  Last Refresh : Sunday, July 30, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
