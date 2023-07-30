@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### Less code equals less bugs.
 >
-> ~ *Eric S. Raymond*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 9:04 AM
+  Last Refresh : Sunday, July 30, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
