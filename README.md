@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Charles Babbage*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 3:04 AM
+  Last Refresh : Sunday, July 30, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
