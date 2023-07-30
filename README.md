@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Bill Gates*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 12:04 PM
+  Last Refresh : Sunday, July 30, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
