@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Ray Ozzie*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 4:04 AM
+  Last Refresh : Sunday, July 30, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
