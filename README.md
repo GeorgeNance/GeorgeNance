@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 8:04 AM
+  Last Refresh : Sunday, July 30, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
