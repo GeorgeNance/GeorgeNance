@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 >
-> ~ *Dennis Ritchie*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 12:05 AM
+  Last Refresh : Sunday, July 30, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
