@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Toru Iwatani*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 31, 2023, 1:04 PM
+  Last Refresh : Monday, July 31, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
