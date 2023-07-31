@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Bill Gates*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 10:04 PM
+  Last Refresh : Sunday, July 30, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
