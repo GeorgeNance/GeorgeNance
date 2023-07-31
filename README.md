@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Alan Perlis*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, July 30, 2023, 9:04 PM
+  Last Refresh : Sunday, July 30, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
