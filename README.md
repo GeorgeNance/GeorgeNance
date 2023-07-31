@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 31, 2023, 11:04 AM
+  Last Refresh : Monday, July 31, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
