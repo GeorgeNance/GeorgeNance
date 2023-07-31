@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
+> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 >
-> ~ *Fred Brooks*
+> ~ *Richard P. Gabriel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 31, 2023, 12:04 AM
+  Last Refresh : Monday, July 31, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
