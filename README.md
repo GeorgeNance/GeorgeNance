@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 >
-> ~ *Alan Kay*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 31, 2023, 7:21 PM
+  Last Refresh : Monday, July 31, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
