@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 >
-> ~ *Donald Knuth*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 1, 2023, 6:08 AM
+  Last Refresh : Tuesday, August 1, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
