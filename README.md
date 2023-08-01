@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *David Parnas*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 31, 2023, 5:20 PM
+  Last Refresh : Monday, July 31, 2023, 6:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
