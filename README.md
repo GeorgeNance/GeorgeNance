@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think it's simple, then you have misunderstood the problem.
+> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 31, 2023, 6:32 PM
+  Last Refresh : Monday, July 31, 2023, 7:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
