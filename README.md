@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Hal Abelson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 1, 2023, 2:04 PM
+  Last Refresh : Tuesday, August 1, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
