@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Leslie Lamport*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 1, 2023, 12:04 AM
+  Last Refresh : Tuesday, August 1, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
