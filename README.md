@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
-> ~ *Leslie Lamport*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 1, 2023, 1:05 AM
+  Last Refresh : Tuesday, August 1, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
