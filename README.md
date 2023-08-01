@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Douglas Crockford*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 31, 2023, 8:04 PM
+  Last Refresh : Monday, July 31, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
