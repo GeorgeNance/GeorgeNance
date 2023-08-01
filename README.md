@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Hal Abelson*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, July 31, 2023, 9:04 PM
+  Last Refresh : Monday, July 31, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
