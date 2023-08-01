@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Kent Beck*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 1, 2023, 12:04 PM
+  Last Refresh : Tuesday, August 1, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
