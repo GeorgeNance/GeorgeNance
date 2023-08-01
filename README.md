@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Bill Gates*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 1, 2023, 7:04 AM
+  Last Refresh : Tuesday, August 1, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
