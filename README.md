@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Pamela Zave*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 2, 2023, 1:04 PM
+  Last Refresh : Wednesday, August 2, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
