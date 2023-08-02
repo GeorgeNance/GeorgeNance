@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 >
-> ~ *Bob Carr*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 2, 2023, 1:04 AM
+  Last Refresh : Wednesday, August 2, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
