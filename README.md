@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
-> ~ *Richard Hamming*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 1, 2023, 9:04 PM
+  Last Refresh : Tuesday, August 1, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
