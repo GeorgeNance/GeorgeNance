@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Alan Kay*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 1, 2023, 8:04 PM
+  Last Refresh : Tuesday, August 1, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
