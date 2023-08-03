@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Bill Gates*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 2, 2023, 7:16 PM
+  Last Refresh : Wednesday, August 2, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
