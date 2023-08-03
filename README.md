@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 >
-> ~ *Fred Brooks*
+> ~ *James Gleick*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 12:04 AM
+  Last Refresh : Thursday, August 3, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
