@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 1:04 PM
+  Last Refresh : Thursday, August 3, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
