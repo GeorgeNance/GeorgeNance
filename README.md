@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 >
-> ~ *Ivan Sutherland*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 3:04 PM
+  Last Refresh : Thursday, August 3, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
