@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Donald Knuth*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 4:04 AM
+  Last Refresh : Thursday, August 3, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
