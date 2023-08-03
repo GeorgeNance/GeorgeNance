@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Anonymous*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 12:04 PM
+  Last Refresh : Thursday, August 3, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
