@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 >
-> ~ *Fred Brooks*
+> ~ *Ivan Sutherland*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 2:04 PM
+  Last Refresh : Thursday, August 3, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
