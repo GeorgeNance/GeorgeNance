@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Ken Thompson*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 4, 2023, 7:04 AM
+  Last Refresh : Friday, August 4, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
