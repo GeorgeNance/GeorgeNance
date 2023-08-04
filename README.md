@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### When in doubt, use brute force.
 >
-> ~ *Ray Ozzie*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 4, 2023, 6:11 AM
+  Last Refresh : Friday, August 4, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
