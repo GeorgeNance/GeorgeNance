@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### What I cannot build, I do not understand.
 >
-> ~ *John Warnock*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 4, 2023, 4:04 AM
+  Last Refresh : Friday, August 4, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
