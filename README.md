@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is prerequisite for reliability.
+> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 7:16 PM
+  Last Refresh : Thursday, August 3, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
