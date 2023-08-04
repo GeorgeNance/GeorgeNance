@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *L. Peter Deutsch*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 4, 2023, 3:04 AM
+  Last Refresh : Friday, August 4, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
