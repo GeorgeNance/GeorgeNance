@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Martin Fowler*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 4, 2023, 9:04 AM
+  Last Refresh : Friday, August 4, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
