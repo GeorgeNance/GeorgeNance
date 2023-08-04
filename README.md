@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### Simplicity is prerequisite for reliability.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 6:31 PM
+  Last Refresh : Thursday, August 3, 2023, 7:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
