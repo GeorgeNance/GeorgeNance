@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
+> ### Making things easy is hard.
 >
-> ~ *Wayne Ratliff*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 4:04 PM
+  Last Refresh : Thursday, August 3, 2023, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
