@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 3, 2023, 10:04 PM
+  Last Refresh : Thursday, August 3, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
