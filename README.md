@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Alan Perlis*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 5, 2023, 10:04 AM
+  Last Refresh : Saturday, August 5, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
