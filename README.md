@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Vannevar Bush*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 5, 2023, 11:04 AM
+  Last Refresh : Saturday, August 5, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
