@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Kyle Simpson*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 5, 2023, 5:05 AM
+  Last Refresh : Saturday, August 5, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
