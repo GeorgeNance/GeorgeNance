@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Michael Hawley*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 5, 2023, 4:04 AM
+  Last Refresh : Saturday, August 5, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
