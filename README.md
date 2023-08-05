@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Anonymous*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 4, 2023, 5:17 PM
+  Last Refresh : Friday, August 4, 2023, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
