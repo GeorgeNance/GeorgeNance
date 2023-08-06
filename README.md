@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 5, 2023, 5:17 PM
+  Last Refresh : Saturday, August 5, 2023, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
