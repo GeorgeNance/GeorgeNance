@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### No code is faster than no code.
 >
-> ~ *Jef Raskin*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 6, 2023, 8:04 AM
+  Last Refresh : Sunday, August 6, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
