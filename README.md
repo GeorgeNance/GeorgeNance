@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
 > ~ *Kevlin Henney*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 6, 2023, 9:04 AM
+  Last Refresh : Sunday, August 6, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
