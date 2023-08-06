@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Dan Bricklin*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 5, 2023, 11:05 PM
+  Last Refresh : Sunday, August 6, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
