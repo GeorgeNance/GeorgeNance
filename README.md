@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 5, 2023, 8:04 PM
+  Last Refresh : Saturday, August 5, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
