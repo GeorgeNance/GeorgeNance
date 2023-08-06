@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 6, 2023, 1:04 AM
+  Last Refresh : Sunday, August 6, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
