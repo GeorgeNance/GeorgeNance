@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Ward Cunningham*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 5, 2023, 6:28 PM
+  Last Refresh : Saturday, August 5, 2023, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
