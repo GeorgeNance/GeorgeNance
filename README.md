@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 6, 2023, 11:05 PM
+  Last Refresh : Monday, August 7, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
