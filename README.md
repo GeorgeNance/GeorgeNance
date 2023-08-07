@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 7, 2023, 2:05 AM
+  Last Refresh : Monday, August 7, 2023, 3:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
