@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Alan Turing*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 7, 2023, 4:04 AM
+  Last Refresh : Monday, August 7, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
