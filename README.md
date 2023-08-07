@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 7, 2023, 10:04 AM
+  Last Refresh : Monday, August 7, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
