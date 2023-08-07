@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 >
-> ~ *Ted Nelson*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 7, 2023, 9:04 AM
+  Last Refresh : Monday, August 7, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
