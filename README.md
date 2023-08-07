@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 6, 2023, 5:19 PM
+  Last Refresh : Sunday, August 6, 2023, 6:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
