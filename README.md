@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Dennis Ritchie*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 7, 2023, 12:04 AM
+  Last Refresh : Monday, August 7, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
