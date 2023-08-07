@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
 >
-> ~ *Friedrich Bauer*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 7, 2023, 3:04 PM
+  Last Refresh : Monday, August 7, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
