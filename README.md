@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 8, 2023, 8:05 AM
+  Last Refresh : Tuesday, August 8, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
