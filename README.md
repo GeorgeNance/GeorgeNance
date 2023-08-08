@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Elon Musk*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 8, 2023, 1:05 AM
+  Last Refresh : Tuesday, August 8, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
