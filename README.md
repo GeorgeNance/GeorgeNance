@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Danny Hillis*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 8, 2023, 12:04 AM
+  Last Refresh : Tuesday, August 8, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
