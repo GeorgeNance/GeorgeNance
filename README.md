@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Poul Anderson*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 7, 2023, 9:04 PM
+  Last Refresh : Monday, August 7, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
