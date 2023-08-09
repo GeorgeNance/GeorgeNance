@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 9, 2023, 3:04 AM
+  Last Refresh : Wednesday, August 9, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
