@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 >
-> ~ *Linus Torvalds*
+> ~ *Robert L. Glass*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 9, 2023, 9:05 AM
+  Last Refresh : Wednesday, August 9, 2023, 10:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
