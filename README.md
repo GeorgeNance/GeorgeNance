@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Danny Hillis*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 9, 2023, 12:04 PM
+  Last Refresh : Wednesday, August 9, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
