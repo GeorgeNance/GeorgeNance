@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 8, 2023, 9:04 PM
+  Last Refresh : Tuesday, August 8, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
