@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
 >
-> ~ *Fred Brooks*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 8, 2023, 4:04 PM
+  Last Refresh : Tuesday, August 8, 2023, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
