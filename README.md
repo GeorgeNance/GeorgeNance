@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Addy Osmani*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 9, 2023, 6:08 AM
+  Last Refresh : Wednesday, August 9, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
