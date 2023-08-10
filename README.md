@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
 >
-> ~ *Alan Perlis*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 10, 2023, 5:06 AM
+  Last Refresh : Thursday, August 10, 2023, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
