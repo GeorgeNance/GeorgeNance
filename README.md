@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Buckminster Fuller*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 10, 2023, 4:04 AM
+  Last Refresh : Thursday, August 10, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
