@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 9, 2023, 5:18 PM
+  Last Refresh : Wednesday, August 9, 2023, 6:32 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
