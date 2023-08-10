@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Ted Nelson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 10, 2023, 6:07 AM
+  Last Refresh : Thursday, August 10, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
