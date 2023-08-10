@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Daniel T. Barry*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 10, 2023, 1:04 PM
+  Last Refresh : Thursday, August 10, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
