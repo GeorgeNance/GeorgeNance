@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 11, 2023, 10:04 AM
+  Last Refresh : Friday, August 11, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
