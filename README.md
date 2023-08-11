@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Jonathan Sachs*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 11, 2023, 7:04 AM
+  Last Refresh : Friday, August 11, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
