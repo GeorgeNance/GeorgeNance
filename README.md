@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Danny Hillis*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 11, 2023, 5:26 AM
+  Last Refresh : Friday, August 11, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
