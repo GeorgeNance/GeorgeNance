@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *René Descartes*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 10, 2023, 8:04 PM
+  Last Refresh : Thursday, August 10, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
