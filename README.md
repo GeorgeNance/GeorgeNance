@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Terry Winograd*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 11, 2023, 9:04 AM
+  Last Refresh : Friday, August 11, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
