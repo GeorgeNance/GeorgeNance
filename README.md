@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *David Leinweber*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 11, 2023, 3:04 AM
+  Last Refresh : Friday, August 11, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
