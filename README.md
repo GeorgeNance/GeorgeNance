@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Alan Turing*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 12, 2023, 9:04 AM
+  Last Refresh : Saturday, August 12, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
