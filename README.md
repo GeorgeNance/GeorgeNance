@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 >
-> ~ *Danny Hillis*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 12, 2023, 11:04 AM
+  Last Refresh : Saturday, August 12, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
