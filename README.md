@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Ron Jeffries*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 12, 2023, 8:04 AM
+  Last Refresh : Saturday, August 12, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
