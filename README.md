@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.
 >
-> ~ *Bill Gates*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 12, 2023, 4:04 AM
+  Last Refresh : Saturday, August 12, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
