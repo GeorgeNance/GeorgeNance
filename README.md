@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Gordon Bell*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 12, 2023, 1:04 PM
+  Last Refresh : Saturday, August 12, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
