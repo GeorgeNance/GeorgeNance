@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Marvin Minsky*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 13, 2023, 3:04 PM
+  Last Refresh : Sunday, August 13, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
