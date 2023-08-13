@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 13, 2023, 9:04 AM
+  Last Refresh : Sunday, August 13, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
