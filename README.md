@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Donald Knuth*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 13, 2023, 12:04 AM
+  Last Refresh : Sunday, August 13, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
