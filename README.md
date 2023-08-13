@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Linus Torvalds*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 13, 2023, 7:04 AM
+  Last Refresh : Sunday, August 13, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
