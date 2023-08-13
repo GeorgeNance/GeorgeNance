@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *George Boole*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 13, 2023, 12:04 PM
+  Last Refresh : Sunday, August 13, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
