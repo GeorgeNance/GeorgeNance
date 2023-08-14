@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Bob Frankston*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 14, 2023, 3:04 PM
+  Last Refresh : Monday, August 14, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
