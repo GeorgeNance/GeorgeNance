@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Joshua Bloch*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 14, 2023, 2:04 AM
+  Last Refresh : Monday, August 14, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
