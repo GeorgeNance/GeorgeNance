@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Quarry worker's creed*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 13, 2023, 4:04 PM
+  Last Refresh : Sunday, August 13, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
