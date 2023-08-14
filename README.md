@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Henry Petroski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 14, 2023, 12:04 PM
+  Last Refresh : Monday, August 14, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
