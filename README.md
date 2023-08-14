@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *John von Neumann*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 14, 2023, 6:04 AM
+  Last Refresh : Monday, August 14, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
