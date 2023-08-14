@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### When in doubt, leave it out.
 >
-> ~ *Alan Perlis*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 14, 2023, 1:04 AM
+  Last Refresh : Monday, August 14, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
