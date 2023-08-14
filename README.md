@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Don Norman*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 14, 2023, 7:04 AM
+  Last Refresh : Monday, August 14, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
