@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Linus Torvalds*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 15, 2023, 11:04 AM
+  Last Refresh : Tuesday, August 15, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
