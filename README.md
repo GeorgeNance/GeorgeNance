@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *George Boole*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 15, 2023, 9:04 AM
+  Last Refresh : Tuesday, August 15, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
