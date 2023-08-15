@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
 >
-> ~ *Thomas J. Watson*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 14, 2023, 4:04 PM
+  Last Refresh : Monday, August 14, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
