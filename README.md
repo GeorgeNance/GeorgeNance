@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Bdale Garbee*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 15, 2023, 4:04 PM
+  Last Refresh : Tuesday, August 15, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
