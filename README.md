@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Jef Raskin*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 16, 2023, 2:04 PM
+  Last Refresh : Wednesday, August 16, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
