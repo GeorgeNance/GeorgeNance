@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### I have no special talent. I am only passionately curious.
 >
 > ~ *Albert Einstein*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 16, 2023, 12:04 PM
+  Last Refresh : Wednesday, August 16, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
