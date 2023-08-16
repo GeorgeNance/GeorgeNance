@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 >
 > ~ *Tom DeMarco*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 15, 2023, 7:08 PM
+  Last Refresh : Tuesday, August 15, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
