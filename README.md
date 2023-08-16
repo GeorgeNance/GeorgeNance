@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 16, 2023, 10:04 AM
+  Last Refresh : Wednesday, August 16, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
