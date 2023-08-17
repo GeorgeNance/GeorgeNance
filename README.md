@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
 > ~ *Linus Torvalds*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 17, 2023, 2:04 AM
+  Last Refresh : Thursday, August 17, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
