@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Douglas Crockford*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 17, 2023, 3:04 PM
+  Last Refresh : Thursday, August 17, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
