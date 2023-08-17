@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
 >
-> ~ *Fred Brooks*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 17, 2023, 2:04 PM
+  Last Refresh : Thursday, August 17, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
