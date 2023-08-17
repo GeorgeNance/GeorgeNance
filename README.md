@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 >
-> ~ *Steve Jobs*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 16, 2023, 5:15 PM
+  Last Refresh : Wednesday, August 16, 2023, 6:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
