@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Alan Kay*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 17, 2023, 6:04 AM
+  Last Refresh : Thursday, August 17, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
