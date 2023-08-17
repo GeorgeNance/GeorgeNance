@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *P. J. Plauger*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 16, 2023, 8:04 PM
+  Last Refresh : Wednesday, August 16, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
