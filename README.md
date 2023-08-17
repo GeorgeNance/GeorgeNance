@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Jim Horning*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 16, 2023, 9:04 PM
+  Last Refresh : Wednesday, August 16, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
