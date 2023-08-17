@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 17, 2023, 5:05 AM
+  Last Refresh : Thursday, August 17, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
