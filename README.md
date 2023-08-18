@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Robert C. Martin*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 18, 2023, 10:04 AM
+  Last Refresh : Friday, August 18, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
