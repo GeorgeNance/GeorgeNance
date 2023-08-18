@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Douglas Crockford*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 18, 2023, 9:04 AM
+  Last Refresh : Friday, August 18, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
