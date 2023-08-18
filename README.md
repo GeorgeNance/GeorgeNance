@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Tom DeMarco*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 18, 2023, 7:09 AM
+  Last Refresh : Friday, August 18, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
