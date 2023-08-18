@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Lawrence Flon*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 18, 2023, 6:04 AM
+  Last Refresh : Friday, August 18, 2023, 7:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
