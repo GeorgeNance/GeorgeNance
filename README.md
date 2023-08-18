@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Daniel T. Barry*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 18, 2023, 3:04 AM
+  Last Refresh : Friday, August 18, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
