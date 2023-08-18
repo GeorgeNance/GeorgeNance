@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Fred Brooks*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 17, 2023, 10:04 PM
+  Last Refresh : Thursday, August 17, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
