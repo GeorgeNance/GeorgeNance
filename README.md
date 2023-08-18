@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Douglas Crockford*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 17, 2023, 7:08 PM
+  Last Refresh : Thursday, August 17, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
