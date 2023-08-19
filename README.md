@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *Eric S. Raymond*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 18, 2023, 6:21 PM
+  Last Refresh : Friday, August 18, 2023, 7:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
