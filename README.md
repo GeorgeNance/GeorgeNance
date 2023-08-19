@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### It’s all talk until the code runs.
 >
-> ~ *Fred Brooks*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 18, 2023, 9:04 PM
+  Last Refresh : Friday, August 18, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
