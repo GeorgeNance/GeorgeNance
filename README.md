@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Alan Perlis*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 19, 2023, 9:04 AM
+  Last Refresh : Saturday, August 19, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
