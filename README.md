@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *Douglas Crockford*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 19, 2023, 2:04 AM
+  Last Refresh : Saturday, August 19, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
