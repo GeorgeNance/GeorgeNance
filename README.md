@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Buckminster Fuller*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 18, 2023, 5:14 PM
+  Last Refresh : Friday, August 18, 2023, 6:21 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
