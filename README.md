@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Terry Winograd*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 19, 2023, 11:04 PM
+  Last Refresh : Sunday, August 20, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
