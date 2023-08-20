@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important part of writing a program is designing the data structures.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Dan Bricklin*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 20, 2023, 2:04 PM
+  Last Refresh : Sunday, August 20, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
