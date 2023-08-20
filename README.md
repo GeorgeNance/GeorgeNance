@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 >
-> ~ *Quarry worker's creed*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 20, 2023, 1:26 AM
+  Last Refresh : Sunday, August 20, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
