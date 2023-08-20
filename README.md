@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 19, 2023, 7:08 PM
+  Last Refresh : Saturday, August 19, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
