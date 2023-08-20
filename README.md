@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Ken Olsen*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 20, 2023, 12:04 AM
+  Last Refresh : Sunday, August 20, 2023, 1:26 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
