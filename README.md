@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Ted Nelson*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 20, 2023, 3:04 PM
+  Last Refresh : Sunday, August 20, 2023, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
