@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Fred Brooks*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 11:04 AM
+  Last Refresh : Monday, August 21, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
