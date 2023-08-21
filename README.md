@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging time increases as a square of the program’s size.
+> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 >
-> ~ *Chris Wenham*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 20, 2023, 11:04 PM
+  Last Refresh : Monday, August 21, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
