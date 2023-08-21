@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Elon Musk*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 20, 2023, 10:04 PM
+  Last Refresh : Sunday, August 20, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
