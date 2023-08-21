@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 2:04 PM
+  Last Refresh : Monday, August 21, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
