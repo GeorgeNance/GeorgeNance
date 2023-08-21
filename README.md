@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Wayne Ratliff*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 2:04 AM
+  Last Refresh : Monday, August 21, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
