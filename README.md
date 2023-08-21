@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 >
-> ~ *Douglas Crockford*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 9:04 AM
+  Last Refresh : Monday, August 21, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
