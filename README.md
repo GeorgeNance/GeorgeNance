@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Thomas J. Watson*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 22, 2023, 11:04 AM
+  Last Refresh : Tuesday, August 22, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
