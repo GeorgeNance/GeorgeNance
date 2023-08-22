@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 7:08 PM
+  Last Refresh : Monday, August 21, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
