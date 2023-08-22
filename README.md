@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 22, 2023, 6:05 AM
+  Last Refresh : Tuesday, August 22, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
