@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 >
-> ~ *Bill Gates*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 22, 2023, 4:04 AM
+  Last Refresh : Tuesday, August 22, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
