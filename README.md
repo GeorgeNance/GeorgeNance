@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Daniel T. Barry*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 10:04 PM
+  Last Refresh : Monday, August 21, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
