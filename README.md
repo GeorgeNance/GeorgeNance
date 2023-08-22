@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 4:04 PM
+  Last Refresh : Monday, August 21, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
