@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 11:04 PM
+  Last Refresh : Tuesday, August 22, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
