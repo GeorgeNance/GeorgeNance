@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Ray Ozzie*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 21, 2023, 9:04 PM
+  Last Refresh : Monday, August 21, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
