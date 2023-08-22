@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 22, 2023, 1:05 AM
+  Last Refresh : Tuesday, August 22, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
