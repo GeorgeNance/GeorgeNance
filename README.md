@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Alan Kay*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 22, 2023, 10:04 PM
+  Last Refresh : Tuesday, August 22, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
