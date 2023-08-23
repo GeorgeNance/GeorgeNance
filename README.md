@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Charles Simonyi*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 22, 2023, 8:04 PM
+  Last Refresh : Tuesday, August 22, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
