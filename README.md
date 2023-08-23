@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Albert Einstein*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 6:05 AM
+  Last Refresh : Wednesday, August 23, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
