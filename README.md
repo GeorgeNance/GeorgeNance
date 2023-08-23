@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Really good programs live forever.
 >
-> ~ *Elon Musk*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 22, 2023, 7:08 PM
+  Last Refresh : Tuesday, August 22, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
