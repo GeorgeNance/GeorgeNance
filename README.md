@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
 >
-> ~ *P. J. Plauger*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 12:04 AM
+  Last Refresh : Wednesday, August 23, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
