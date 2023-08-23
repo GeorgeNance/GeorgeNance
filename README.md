@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Fred Brooks*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 22, 2023, 4:04 PM
+  Last Refresh : Tuesday, August 22, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
