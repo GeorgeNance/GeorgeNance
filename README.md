@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *Butler Lampson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 9:04 AM
+  Last Refresh : Wednesday, August 23, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
