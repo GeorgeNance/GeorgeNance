@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Elon Musk*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 7:04 AM
+  Last Refresh : Wednesday, August 23, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
