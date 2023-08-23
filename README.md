@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Leslie Lamport*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 10:04 AM
+  Last Refresh : Wednesday, August 23, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
