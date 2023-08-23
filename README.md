@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 5:24 AM
+  Last Refresh : Wednesday, August 23, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
