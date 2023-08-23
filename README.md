@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 >
-> ~ *David Gelernter*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 4:04 AM
+  Last Refresh : Wednesday, August 23, 2023, 5:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
