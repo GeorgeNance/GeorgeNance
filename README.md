@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Manuel Blum*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 6:23 PM
+  Last Refresh : Wednesday, August 23, 2023, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
