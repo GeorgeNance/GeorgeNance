@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Fred Brooks*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 24, 2023, 8:04 AM
+  Last Refresh : Thursday, August 24, 2023, 9:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
