@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 4:04 PM
+  Last Refresh : Wednesday, August 23, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
