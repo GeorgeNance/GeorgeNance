@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Marvin Minsky*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 8:04 PM
+  Last Refresh : Wednesday, August 23, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
