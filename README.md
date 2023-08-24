@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
 >
-> ~ *Tim Berners-Lee*
+> ~ *David Parnas*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 23, 2023, 11:04 PM
+  Last Refresh : Thursday, August 24, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
