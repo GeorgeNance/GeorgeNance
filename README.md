@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 24, 2023, 10:04 AM
+  Last Refresh : Thursday, August 24, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
