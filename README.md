@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Alan Perlis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 10:04 AM
+  Last Refresh : Friday, August 25, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
