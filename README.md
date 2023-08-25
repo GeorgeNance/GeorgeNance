@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 >
-> ~ *Mark Gibbs*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 2:04 PM
+  Last Refresh : Friday, August 25, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
