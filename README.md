@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few sources of energy so powerful as a procrastinating grad student.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 24, 2023, 9:04 PM
+  Last Refresh : Thursday, August 24, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
