@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Alan Perlis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 24, 2023, 8:04 PM
+  Last Refresh : Thursday, August 24, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
