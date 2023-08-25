@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> ~ *Linus Torvalds*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 12:04 AM
+  Last Refresh : Friday, August 25, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
