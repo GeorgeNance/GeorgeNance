@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Jonathan Sachs*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 24, 2023, 5:15 PM
+  Last Refresh : Thursday, August 24, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
