@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 9:04 AM
+  Last Refresh : Friday, August 25, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
