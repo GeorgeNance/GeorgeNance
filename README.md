@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
 >
-> ~ *Butler Lampson*
+> ~ *Andy Hunt (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 24, 2023, 10:04 PM
+  Last Refresh : Thursday, August 24, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
