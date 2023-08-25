@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Steve Jobs*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 12:04 PM
+  Last Refresh : Friday, August 25, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
