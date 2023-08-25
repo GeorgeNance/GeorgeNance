@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve.
 >
-> ~ *Marvin Minsky*
+> ~ *René Descartes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 3:04 AM
+  Last Refresh : Friday, August 25, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
