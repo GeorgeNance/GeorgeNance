@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 24, 2023, 11:04 PM
+  Last Refresh : Friday, August 25, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
