@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 8:04 PM
+  Last Refresh : Friday, August 25, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
