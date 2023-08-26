@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 >
-> ~ *Gary Kildall*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 10:04 AM
+  Last Refresh : Saturday, August 26, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
