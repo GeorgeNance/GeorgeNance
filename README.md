@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 7:04 AM
+  Last Refresh : Saturday, August 26, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
