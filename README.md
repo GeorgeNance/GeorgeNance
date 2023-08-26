@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### Never memorize something that you can look up.
 >
-> ~ *Danny Hillis*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 12:04 PM
+  Last Refresh : Saturday, August 26, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
