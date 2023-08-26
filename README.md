@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Gordon Bell*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 5:14 PM
+  Last Refresh : Friday, August 25, 2023, 6:22 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
