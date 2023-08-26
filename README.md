@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 >
-> ~ *Douglas Crockford*
+> ~ *Chris Sacca*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 4:04 AM
+  Last Refresh : Saturday, August 26, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
