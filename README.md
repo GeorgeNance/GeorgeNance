@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 >
-> ~ *Ada Lovelace*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 3:04 PM
+  Last Refresh : Saturday, August 26, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
