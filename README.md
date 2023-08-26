@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, August 25, 2023, 4:05 PM
+  Last Refresh : Friday, August 25, 2023, 5:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
