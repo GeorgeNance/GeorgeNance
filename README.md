@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Marijn Haverbeke*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 6:04 AM
+  Last Refresh : Saturday, August 26, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
