@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Charles Babbage*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 9:04 AM
+  Last Refresh : Saturday, August 26, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
