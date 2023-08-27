@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 9:04 PM
+  Last Refresh : Saturday, August 26, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
