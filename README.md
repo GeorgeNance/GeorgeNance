@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 27, 2023, 12:04 AM
+  Last Refresh : Sunday, August 27, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
