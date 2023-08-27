@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### What I cannot build, I do not understand.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 27, 2023, 1:04 PM
+  Last Refresh : Sunday, August 27, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
