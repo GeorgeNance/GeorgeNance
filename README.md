@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 27, 2023, 4:04 AM
+  Last Refresh : Sunday, August 27, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
