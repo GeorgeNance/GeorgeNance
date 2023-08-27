@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Robert L. Glass*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 27, 2023, 2:04 AM
+  Last Refresh : Sunday, August 27, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
