@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, August 27, 2023, 5:05 AM
+  Last Refresh : Sunday, August 27, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
