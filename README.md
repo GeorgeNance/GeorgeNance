@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Martin Fowler*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, August 26, 2023, 8:04 PM
+  Last Refresh : Saturday, August 26, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
