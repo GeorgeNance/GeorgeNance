@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Alan Perlis*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 28, 2023, 7:04 AM
+  Last Refresh : Monday, August 28, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
