@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 28, 2023, 11:04 AM
+  Last Refresh : Monday, August 28, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
