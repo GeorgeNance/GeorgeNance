@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *John von Neumann*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 28, 2023, 12:04 PM
+  Last Refresh : Monday, August 28, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
