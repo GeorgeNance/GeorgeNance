@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 >
-> ~ *Hal Abelson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 29, 2023, 6:28 AM
+  Last Refresh : Tuesday, August 29, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
