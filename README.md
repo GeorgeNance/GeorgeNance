@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *Harlan Mills*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 29, 2023, 2:04 AM
+  Last Refresh : Tuesday, August 29, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
