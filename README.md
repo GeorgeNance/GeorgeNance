@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Seymour Cray*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 29, 2023, 8:04 AM
+  Last Refresh : Tuesday, August 29, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
