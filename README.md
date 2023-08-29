@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Fred Brooks*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 29, 2023, 12:04 AM
+  Last Refresh : Tuesday, August 29, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
