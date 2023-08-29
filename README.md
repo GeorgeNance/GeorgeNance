@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Bill Gates*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 28, 2023, 9:04 PM
+  Last Refresh : Monday, August 28, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
