@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 28, 2023, 6:24 PM
+  Last Refresh : Monday, August 28, 2023, 7:37 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
