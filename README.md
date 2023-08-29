@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Ted Nelson*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 28, 2023, 10:04 PM
+  Last Refresh : Monday, August 28, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
