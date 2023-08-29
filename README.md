@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, August 28, 2023, 5:15 PM
+  Last Refresh : Monday, August 28, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
