@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 >
-> ~ *Alan Turing*
+> ~ *Henry Petroski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 30, 2023, 8:04 AM
+  Last Refresh : Wednesday, August 30, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
