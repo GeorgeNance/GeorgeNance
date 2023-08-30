@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Ted Nelson*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 30, 2023, 10:04 AM
+  Last Refresh : Wednesday, August 30, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
