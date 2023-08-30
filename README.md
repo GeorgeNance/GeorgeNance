@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The notions of correctness in mathematics and programs are different. A mathematical model must be consistent; it need not match reality (be correct), and it need not be complete (in the formal sense). A program model must be consistent; it must match reality; and it must be complete (in the sense that it reacts gracefully to all inputs).
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Daniel T. Barry*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 29, 2023, 7:09 PM
+  Last Refresh : Tuesday, August 29, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
