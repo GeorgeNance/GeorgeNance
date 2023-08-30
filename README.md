@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Charles Babbage*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 30, 2023, 2:04 AM
+  Last Refresh : Wednesday, August 30, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
