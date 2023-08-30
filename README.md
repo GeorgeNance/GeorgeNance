@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
+> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 30, 2023, 4:04 AM
+  Last Refresh : Wednesday, August 30, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
