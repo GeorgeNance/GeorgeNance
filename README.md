@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
 >
-> ~ *Daniel T. Barry*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, August 29, 2023, 5:15 PM
+  Last Refresh : Tuesday, August 29, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
