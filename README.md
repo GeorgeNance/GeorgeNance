@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 >
-> ~ *Henry Petroski*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 30, 2023, 9:04 AM
+  Last Refresh : Wednesday, August 30, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
