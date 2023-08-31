@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
 >
-> ~ *Vannevar Bush*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 5:05 AM
+  Last Refresh : Thursday, August 31, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
