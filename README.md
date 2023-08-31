@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Fred Brooks*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 1:11 AM
+  Last Refresh : Thursday, August 31, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
