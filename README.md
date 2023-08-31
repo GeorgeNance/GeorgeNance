@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 >
-> ~ *Alan Perlis*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 1:04 PM
+  Last Refresh : Thursday, August 31, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
