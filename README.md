@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
 >
-> ~ *Albert Einstein*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 12:04 AM
+  Last Refresh : Thursday, August 31, 2023, 1:11 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
