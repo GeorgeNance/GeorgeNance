@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Michael A. Jackson*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 3:04 AM
+  Last Refresh : Thursday, August 31, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
