@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 30, 2023, 4:04 PM
+  Last Refresh : Wednesday, August 30, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
