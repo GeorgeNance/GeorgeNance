@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 12:04 PM
+  Last Refresh : Thursday, August 31, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
