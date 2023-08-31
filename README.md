@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 8:04 AM
+  Last Refresh : Thursday, August 31, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
