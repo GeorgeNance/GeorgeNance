@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### Never memorize something that you can look up.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, August 30, 2023, 11:04 PM
+  Last Refresh : Thursday, August 31, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
