@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Elon Musk*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 1, 2023, 3:04 AM
+  Last Refresh : Friday, September 1, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
