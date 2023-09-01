@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 1, 2023, 10:04 AM
+  Last Refresh : Friday, September 1, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
