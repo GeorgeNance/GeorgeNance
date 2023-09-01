@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 1, 2023, 6:05 AM
+  Last Refresh : Friday, September 1, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
