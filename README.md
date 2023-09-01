@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Fred Brooks*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 1, 2023, 1:04 AM
+  Last Refresh : Friday, September 1, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
