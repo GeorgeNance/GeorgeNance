@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Dennis Ritchie*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 1, 2023, 2:04 AM
+  Last Refresh : Friday, September 1, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
