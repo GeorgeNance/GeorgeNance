@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Jim Coplien*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 10:04 PM
+  Last Refresh : Thursday, August 31, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
