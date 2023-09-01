@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 11:05 PM
+  Last Refresh : Friday, September 1, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
