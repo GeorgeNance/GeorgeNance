@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Albert Einstein*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, August 31, 2023, 9:04 PM
+  Last Refresh : Thursday, August 31, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
