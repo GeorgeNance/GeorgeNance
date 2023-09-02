@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 >
-> ~ *Albert Einstein*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 2, 2023, 6:04 AM
+  Last Refresh : Saturday, September 2, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
