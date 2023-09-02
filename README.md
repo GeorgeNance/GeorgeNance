@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *John Johnson*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 2, 2023, 12:04 AM
+  Last Refresh : Saturday, September 2, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
