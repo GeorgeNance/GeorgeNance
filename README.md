@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Charles Simonyi*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 2, 2023, 11:04 AM
+  Last Refresh : Saturday, September 2, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
