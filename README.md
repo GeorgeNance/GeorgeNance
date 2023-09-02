@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Henry Petroski*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 1, 2023, 11:04 PM
+  Last Refresh : Saturday, September 2, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
