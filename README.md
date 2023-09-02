@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Ken Thompson*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 2, 2023, 9:04 AM
+  Last Refresh : Saturday, September 2, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
