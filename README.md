@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### When in doubt, leave it out.
 >
-> ~ *Buckminster Fuller*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 2, 2023, 3:04 AM
+  Last Refresh : Saturday, September 2, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
