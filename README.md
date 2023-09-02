@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.
+> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 1, 2023, 6:22 PM
+  Last Refresh : Friday, September 1, 2023, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
