@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Charles Simonyi*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 1, 2023, 4:04 PM
+  Last Refresh : Friday, September 1, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
