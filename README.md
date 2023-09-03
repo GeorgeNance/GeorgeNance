@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to know that you have found the last bug is never to find the first bug.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Harlan Mills*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 2, 2023, 7:10 PM
+  Last Refresh : Saturday, September 2, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
