@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Tony Hoare*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 3, 2023, 2:04 AM
+  Last Refresh : Sunday, September 3, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
