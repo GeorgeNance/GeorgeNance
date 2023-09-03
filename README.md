@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Donald Knuth*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 2, 2023, 6:26 PM
+  Last Refresh : Saturday, September 2, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
