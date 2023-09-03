@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *John Carmack*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 3, 2023, 11:04 AM
+  Last Refresh : Sunday, September 3, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
