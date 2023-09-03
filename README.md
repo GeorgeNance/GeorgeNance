@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 3, 2023, 12:04 AM
+  Last Refresh : Sunday, September 3, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
