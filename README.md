@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Donald Knuth*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 2, 2023, 4:04 PM
+  Last Refresh : Saturday, September 2, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
