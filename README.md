@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 3, 2023, 1:04 PM
+  Last Refresh : Sunday, September 3, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
