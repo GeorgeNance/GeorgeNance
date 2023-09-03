@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Don Norman*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 3, 2023, 10:04 AM
+  Last Refresh : Sunday, September 3, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
