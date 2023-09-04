@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
 >
-> ~ *Douglas Crockford*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 4, 2023, 12:04 AM
+  Last Refresh : Monday, September 4, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
