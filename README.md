@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 >
-> ~ *Bill Gates*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 4, 2023, 11:04 AM
+  Last Refresh : Monday, September 4, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
