@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Addy Osmani*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 3, 2023, 9:04 PM
+  Last Refresh : Sunday, September 3, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
