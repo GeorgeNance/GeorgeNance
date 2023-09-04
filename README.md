@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Bill Gates*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 4, 2023, 6:05 AM
+  Last Refresh : Monday, September 4, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
