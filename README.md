@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Addy Osmani*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 4, 2023, 1:05 AM
+  Last Refresh : Monday, September 4, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
