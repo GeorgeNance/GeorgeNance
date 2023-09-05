@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 5, 2023, 5:06 AM
+  Last Refresh : Tuesday, September 5, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
