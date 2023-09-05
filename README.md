@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### It’s all talk until the code runs.
 >
-> ~ *Addy Osmani*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 5, 2023, 2:04 AM
+  Last Refresh : Tuesday, September 5, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
