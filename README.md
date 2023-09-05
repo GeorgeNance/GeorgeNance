@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 >
-> ~ *Steve Jobs*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 4, 2023, 10:04 PM
+  Last Refresh : Monday, September 4, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
