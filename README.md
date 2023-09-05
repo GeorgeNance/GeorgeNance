@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A few months writing code can save you a few hours in design.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Anonymous*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 4, 2023, 6:23 PM
+  Last Refresh : Monday, September 4, 2023, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
