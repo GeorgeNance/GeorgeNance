@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Manuel Blum*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 5, 2023, 7:04 AM
+  Last Refresh : Tuesday, September 5, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
