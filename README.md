@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Robert C. Martin*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 4, 2023, 5:15 PM
+  Last Refresh : Monday, September 4, 2023, 6:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
