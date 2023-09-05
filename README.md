@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
 >
-> ~ *Richard Stallman*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 5, 2023, 4:04 AM
+  Last Refresh : Tuesday, September 5, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
