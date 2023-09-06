@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Fred Brooks*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 5, 2023, 7:09 PM
+  Last Refresh : Tuesday, September 5, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
