@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.
+> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
 >
-> ~ *Vint Cerf*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 5, 2023, 11:04 PM
+  Last Refresh : Wednesday, September 6, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
