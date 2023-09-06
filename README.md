@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is at least as difficult as developing a mathematical theory.
+> ### There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jeremy S. Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 6, 2023, 9:04 AM
+  Last Refresh : Wednesday, September 6, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
