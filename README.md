@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 >
-> ~ *John Carmack*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 6, 2023, 3:04 PM
+  Last Refresh : Wednesday, September 6, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
