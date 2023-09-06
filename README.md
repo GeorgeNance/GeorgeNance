@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Daniel T. Barry*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 5, 2023, 8:04 PM
+  Last Refresh : Tuesday, September 5, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
