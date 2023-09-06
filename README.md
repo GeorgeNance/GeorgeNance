@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### Programming is at least as difficult as developing a mathematical theory.
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 6, 2023, 8:04 AM
+  Last Refresh : Wednesday, September 6, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
