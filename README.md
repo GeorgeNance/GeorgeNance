@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 6, 2023, 1:05 AM
+  Last Refresh : Wednesday, September 6, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
