@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Fred Brooks*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 6, 2023, 5:15 PM
+  Last Refresh : Wednesday, September 6, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
