@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Daniel T. Barry*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 6, 2023, 9:04 PM
+  Last Refresh : Wednesday, September 6, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
