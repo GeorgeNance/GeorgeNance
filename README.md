@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Fred Brooks*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 1:05 AM
+  Last Refresh : Thursday, September 7, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
