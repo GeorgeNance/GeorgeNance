@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 >
-> ~ *Bob Frankston*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 6:05 AM
+  Last Refresh : Thursday, September 7, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
