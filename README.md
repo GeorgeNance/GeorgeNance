@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Danny Hillis*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 5:06 AM
+  Last Refresh : Thursday, September 7, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
