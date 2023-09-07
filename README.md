@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *David Leinweber*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 2:04 PM
+  Last Refresh : Thursday, September 7, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
