@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
 >
-> ~ *Ken Thompson*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 6, 2023, 7:09 PM
+  Last Refresh : Wednesday, September 6, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
