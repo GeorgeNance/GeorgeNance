@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Grady Booch*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 12:04 PM
+  Last Refresh : Thursday, September 7, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
