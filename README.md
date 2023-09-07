@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 11:04 AM
+  Last Refresh : Thursday, September 7, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
