@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Ken Thompson*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 7:04 AM
+  Last Refresh : Thursday, September 7, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
