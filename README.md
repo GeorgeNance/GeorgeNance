@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 >
-> ~ *Thomas J. Watson*
+> ~ *Laurence J. Peter*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 6, 2023, 10:04 PM
+  Last Refresh : Wednesday, September 6, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
