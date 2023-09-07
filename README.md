@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 12:04 AM
+  Last Refresh : Thursday, September 7, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
