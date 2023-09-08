@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Bob Frankston*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 8, 2023, 5:05 AM
+  Last Refresh : Friday, September 8, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
