@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Fred Brooks*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 7, 2023, 10:04 PM
+  Last Refresh : Thursday, September 7, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
