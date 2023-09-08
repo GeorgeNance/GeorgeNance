@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 8, 2023, 1:04 PM
+  Last Refresh : Friday, September 8, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
