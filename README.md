@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
 >
-> ~ *Ward Cunningham*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 8, 2023, 6:23 PM
+  Last Refresh : Friday, September 8, 2023, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
