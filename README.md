@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Alan Turing*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 6:04 AM
+  Last Refresh : Saturday, September 9, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
