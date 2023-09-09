@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 >
-> ~ *Butler Lampson*
+> ~ *Jonathan Sachs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 1:04 AM
+  Last Refresh : Saturday, September 9, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
