@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Tom DeMarco*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 9:05 AM
+  Last Refresh : Saturday, September 9, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
