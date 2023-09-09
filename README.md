@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
 > ~ *Elon Musk*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 10:04 AM
+  Last Refresh : Saturday, September 9, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
