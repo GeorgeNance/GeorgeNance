@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Roy Fielding*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 3:04 PM
+  Last Refresh : Saturday, September 9, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
