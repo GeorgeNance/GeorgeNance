@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### Programming can be addictive.
 >
-> ~ *Charles Simonyi*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 1:04 PM
+  Last Refresh : Saturday, September 9, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
