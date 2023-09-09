@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Mark Gibbs*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 8:04 AM
+  Last Refresh : Saturday, September 9, 2023, 9:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
