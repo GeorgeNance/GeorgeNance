@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Lawrence Flon*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 3:04 PM
+  Last Refresh : Sunday, September 10, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
