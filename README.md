@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 >
-> ~ *Brian Kernighan*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 8:04 AM
+  Last Refresh : Sunday, September 10, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
