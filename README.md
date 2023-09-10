@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Anonymous*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 9:04 PM
+  Last Refresh : Saturday, September 9, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
