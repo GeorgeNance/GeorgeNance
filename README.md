@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 9:04 AM
+  Last Refresh : Sunday, September 10, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
