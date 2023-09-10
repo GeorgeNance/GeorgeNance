@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### Dealing with failure is easy: Work hard to improve.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 9, 2023, 10:04 PM
+  Last Refresh : Saturday, September 9, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
