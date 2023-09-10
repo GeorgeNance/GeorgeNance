@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Tom DeMarco*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 7:04 AM
+  Last Refresh : Sunday, September 10, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
