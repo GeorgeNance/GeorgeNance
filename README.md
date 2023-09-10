@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 1:04 PM
+  Last Refresh : Sunday, September 10, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
