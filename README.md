@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Alan Perlis*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 11, 2023, 2:04 AM
+  Last Refresh : Monday, September 11, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
