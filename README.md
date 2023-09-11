@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Gary Kildall*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 11, 2023, 12:04 PM
+  Last Refresh : Monday, September 11, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
