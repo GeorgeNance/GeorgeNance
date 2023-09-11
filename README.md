@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### An evolving system increases its complexity unless work is done to reduce it.
 >
-> ~ *Ivan Sutherland*
+> ~ *Manny Lehman (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 11:05 PM
+  Last Refresh : Monday, September 11, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
