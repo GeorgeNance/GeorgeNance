@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 >
 > ~ *Danny Hillis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 11, 2023, 6:05 AM
+  Last Refresh : Monday, September 11, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
