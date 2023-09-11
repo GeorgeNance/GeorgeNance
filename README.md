@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 11, 2023, 4:04 AM
+  Last Refresh : Monday, September 11, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
