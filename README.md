@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 >
-> ~ *John Romero*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 6:25 PM
+  Last Refresh : Sunday, September 10, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
