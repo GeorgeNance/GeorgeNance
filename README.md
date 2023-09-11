@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 >
-> ~ *Elon Musk*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 8:04 PM
+  Last Refresh : Sunday, September 10, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
