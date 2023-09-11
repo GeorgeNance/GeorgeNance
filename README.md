@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Fred Brooks*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 10, 2023, 9:04 PM
+  Last Refresh : Sunday, September 10, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
