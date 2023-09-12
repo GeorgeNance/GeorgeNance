@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Ken Thompson*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 11, 2023, 7:08 PM
+  Last Refresh : Monday, September 11, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
