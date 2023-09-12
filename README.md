@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 >
-> ~ *Gerald Weinberg*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 12, 2023, 6:05 AM
+  Last Refresh : Tuesday, September 12, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
