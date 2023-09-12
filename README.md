@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *L. Peter Deutsch*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 12, 2023, 3:04 AM
+  Last Refresh : Tuesday, September 12, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
