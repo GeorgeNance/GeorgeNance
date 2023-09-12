@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Maurice Wilkes*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 12, 2023, 8:04 AM
+  Last Refresh : Tuesday, September 12, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
