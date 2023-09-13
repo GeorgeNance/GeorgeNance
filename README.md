@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### Deleted code is debugged code.
 >
-> ~ *Jim Coplien*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 12, 2023, 8:04 PM
+  Last Refresh : Tuesday, September 12, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
