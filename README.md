@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Richard Stallman*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 12, 2023, 11:04 PM
+  Last Refresh : Wednesday, September 13, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
