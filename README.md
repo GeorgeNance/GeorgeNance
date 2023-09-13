@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 13, 2023, 2:04 AM
+  Last Refresh : Wednesday, September 13, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
