@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *Peter Roizen*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 12, 2023, 6:25 PM
+  Last Refresh : Tuesday, September 12, 2023, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
