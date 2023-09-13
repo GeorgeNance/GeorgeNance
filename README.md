@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Fred Brooks*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 13, 2023, 3:04 PM
+  Last Refresh : Wednesday, September 13, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
