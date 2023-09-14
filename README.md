@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Fred Brooks*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 14, 2023, 5:06 AM
+  Last Refresh : Thursday, September 14, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
