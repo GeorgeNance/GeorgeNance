@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 14, 2023, 2:04 PM
+  Last Refresh : Thursday, September 14, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
