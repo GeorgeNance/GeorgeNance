@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 >
-> ~ *Thomas J. Watson*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 14, 2023, 7:04 AM
+  Last Refresh : Thursday, September 14, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
