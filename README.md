@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 14, 2023, 9:04 AM
+  Last Refresh : Thursday, September 14, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
