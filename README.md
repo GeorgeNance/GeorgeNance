@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 14, 2023, 12:04 AM
+  Last Refresh : Thursday, September 14, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
