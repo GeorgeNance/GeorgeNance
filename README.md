@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Martin Fowler*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 13, 2023, 6:24 PM
+  Last Refresh : Wednesday, September 13, 2023, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
