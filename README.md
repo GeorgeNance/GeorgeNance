@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Henry Ford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 14, 2023, 12:04 PM
+  Last Refresh : Thursday, September 14, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
