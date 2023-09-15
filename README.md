@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 >
-> ~ *Linus Torvalds*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 14, 2023, 8:04 PM
+  Last Refresh : Thursday, September 14, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
