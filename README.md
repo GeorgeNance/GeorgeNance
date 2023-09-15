@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Rob Pike*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 14, 2023, 6:25 PM
+  Last Refresh : Thursday, September 14, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
