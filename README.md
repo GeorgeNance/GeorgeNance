@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Donald Knuth*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 16, 2023, 10:04 AM
+  Last Refresh : Saturday, September 16, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
