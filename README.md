@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Ward Cunningham*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 15, 2023, 9:04 PM
+  Last Refresh : Friday, September 15, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
