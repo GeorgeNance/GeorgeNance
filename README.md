@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Martin Fowler*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 16, 2023, 3:04 PM
+  Last Refresh : Saturday, September 16, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
