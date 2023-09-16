@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 16, 2023, 7:04 AM
+  Last Refresh : Saturday, September 16, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
