@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An evolving system increases its complexity unless work is done to reduce it.
+> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 >
-> ~ *Manny Lehman (computer scientist)*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 16, 2023, 3:04 AM
+  Last Refresh : Saturday, September 16, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
