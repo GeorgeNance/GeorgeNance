@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Danny Hillis*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 15, 2023, 5:15 PM
+  Last Refresh : Friday, September 15, 2023, 6:23 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
