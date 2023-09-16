@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Edward V. Berard*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 15, 2023, 8:04 PM
+  Last Refresh : Friday, September 15, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
