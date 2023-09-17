@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Marijn Haverbeke*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 17, 2023, 8:04 AM
+  Last Refresh : Sunday, September 17, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
