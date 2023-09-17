@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 16, 2023, 11:04 PM
+  Last Refresh : Sunday, September 17, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
