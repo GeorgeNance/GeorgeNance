@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Dennis Ritchie*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 17, 2023, 2:04 AM
+  Last Refresh : Sunday, September 17, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
