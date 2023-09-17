@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Elon Musk*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 17, 2023, 1:04 PM
+  Last Refresh : Sunday, September 17, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
