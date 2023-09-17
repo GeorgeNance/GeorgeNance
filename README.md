@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Butler Lampson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 17, 2023, 3:04 AM
+  Last Refresh : Sunday, September 17, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
