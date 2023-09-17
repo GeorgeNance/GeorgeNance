@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 16, 2023, 8:04 PM
+  Last Refresh : Saturday, September 16, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
