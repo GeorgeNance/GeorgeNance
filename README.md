@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Michael Stal*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 18, 2023, 2:04 AM
+  Last Refresh : Monday, September 18, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
