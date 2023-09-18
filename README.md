@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Kevlin Henney*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 17, 2023, 9:04 PM
+  Last Refresh : Sunday, September 17, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
