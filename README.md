@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Alan Turing*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 17, 2023, 5:16 PM
+  Last Refresh : Sunday, September 17, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
