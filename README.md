@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Bill Gates*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 17, 2023, 10:04 PM
+  Last Refresh : Sunday, September 17, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
