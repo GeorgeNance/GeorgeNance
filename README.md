@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Danny Hillis*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 17, 2023, 7:10 PM
+  Last Refresh : Sunday, September 17, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
