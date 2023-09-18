@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Charles Simonyi*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 18, 2023, 3:04 PM
+  Last Refresh : Monday, September 18, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
