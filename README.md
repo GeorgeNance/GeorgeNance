@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Linus Torvalds*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 18, 2023, 12:04 AM
+  Last Refresh : Monday, September 18, 2023, 1:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
