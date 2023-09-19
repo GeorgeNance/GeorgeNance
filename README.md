@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Richard Hamming*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 19, 2023, 9:05 AM
+  Last Refresh : Tuesday, September 19, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
