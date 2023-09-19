@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 >
-> ~ *Jonathan Sachs*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 19, 2023, 1:04 PM
+  Last Refresh : Tuesday, September 19, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
