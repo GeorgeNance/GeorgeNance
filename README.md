@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
 >
-> ~ *Jamie Zawinski*
+> ~ *Carl Friedrich Gauss*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 18, 2023, 5:16 PM
+  Last Refresh : Monday, September 18, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
