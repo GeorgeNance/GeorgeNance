@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Richard Hamming*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 19, 2023, 11:05 PM
+  Last Refresh : Wednesday, September 20, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
