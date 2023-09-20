@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Douglas Crockford*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 20, 2023, 4:04 AM
+  Last Refresh : Wednesday, September 20, 2023, 6:24 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
