@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In theory, there is no difference between theory and practice. But, in practice, there is.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Jan L. A. van de Snepscheut*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 20, 2023, 12:04 AM
+  Last Refresh : Wednesday, September 20, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
