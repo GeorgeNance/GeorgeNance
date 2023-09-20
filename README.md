@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
 >
-> ~ *L. Peter Deutsch*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 19, 2023, 9:04 PM
+  Last Refresh : Tuesday, September 19, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
