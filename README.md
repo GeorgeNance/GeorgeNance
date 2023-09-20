@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 >
-> ~ *Alan Turing*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 20, 2023, 10:04 AM
+  Last Refresh : Wednesday, September 20, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
