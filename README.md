@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 >
-> ~ *Jim Horning*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 19, 2023, 4:04 PM
+  Last Refresh : Tuesday, September 19, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
