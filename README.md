@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Linus Torvalds*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 20, 2023, 1:04 PM
+  Last Refresh : Wednesday, September 20, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
