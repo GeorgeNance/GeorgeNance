@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Ted Nelson*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 19, 2023, 5:16 PM
+  Last Refresh : Tuesday, September 19, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
