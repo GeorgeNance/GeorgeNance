@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 21, 2023, 9:04 AM
+  Last Refresh : Thursday, September 21, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
