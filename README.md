@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Richard Hamming*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 21, 2023, 3:04 AM
+  Last Refresh : Thursday, September 21, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
