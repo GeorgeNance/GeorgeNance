@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Alan Kay*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 20, 2023, 7:09 PM
+  Last Refresh : Wednesday, September 20, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
