@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Bill Gates*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 20, 2023, 6:24 PM
+  Last Refresh : Wednesday, September 20, 2023, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
