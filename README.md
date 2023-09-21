@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Tom DeMarco*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 21, 2023, 10:04 AM
+  Last Refresh : Thursday, September 21, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
