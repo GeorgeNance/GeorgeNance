@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Roy Fielding*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 21, 2023, 6:25 PM
+  Last Refresh : Thursday, September 21, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
