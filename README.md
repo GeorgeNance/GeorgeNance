@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Bill Gates*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 21, 2023, 4:04 PM
+  Last Refresh : Thursday, September 21, 2023, 5:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
