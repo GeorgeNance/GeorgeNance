@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Friedrich Bauer*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 21, 2023, 7:10 PM
+  Last Refresh : Thursday, September 21, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
