@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, leave it out.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Joshua Bloch*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 22, 2023, 5:15 AM
+  Last Refresh : Friday, September 22, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
