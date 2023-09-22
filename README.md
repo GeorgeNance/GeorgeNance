@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Kent Beck*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 21, 2023, 11:05 PM
+  Last Refresh : Friday, September 22, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
