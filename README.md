@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
+> ### When in doubt, leave it out.
 >
-> ~ *John Carmack*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 22, 2023, 4:04 AM
+  Last Refresh : Friday, September 22, 2023, 5:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
