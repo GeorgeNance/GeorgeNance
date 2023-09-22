@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Ada Lovelace*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 22, 2023, 10:04 AM
+  Last Refresh : Friday, September 22, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
