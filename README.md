@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Terry Winograd*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 23, 2023, 1:05 AM
+  Last Refresh : Saturday, September 23, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
