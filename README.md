@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 23, 2023, 1:04 PM
+  Last Refresh : Saturday, September 23, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
