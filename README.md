@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 22, 2023, 8:04 PM
+  Last Refresh : Friday, September 22, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
