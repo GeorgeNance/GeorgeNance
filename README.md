@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Chris Sacca*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 22, 2023, 6:23 PM
+  Last Refresh : Friday, September 22, 2023, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
