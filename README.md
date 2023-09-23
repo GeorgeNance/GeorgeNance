@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Marijn Haverbeke*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 23, 2023, 9:04 AM
+  Last Refresh : Saturday, September 23, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
