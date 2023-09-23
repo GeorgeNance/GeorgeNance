@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 23, 2023, 2:04 PM
+  Last Refresh : Saturday, September 23, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
