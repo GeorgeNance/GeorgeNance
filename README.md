@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 23, 2023, 7:10 PM
+  Last Refresh : Saturday, September 23, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
