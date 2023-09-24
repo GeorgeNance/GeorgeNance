@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Kent Beck*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 24, 2023, 11:04 AM
+  Last Refresh : Sunday, September 24, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
