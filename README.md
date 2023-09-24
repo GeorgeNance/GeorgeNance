@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets.
 >
-> ~ *Fred Brooks*
+> ~ *Steve McConnell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 24, 2023, 1:04 AM
+  Last Refresh : Sunday, September 24, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
