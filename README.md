@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 24, 2023, 10:04 AM
+  Last Refresh : Sunday, September 24, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
