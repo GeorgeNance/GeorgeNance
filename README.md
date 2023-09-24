@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Fred Brooks*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 24, 2023, 4:04 AM
+  Last Refresh : Sunday, September 24, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
