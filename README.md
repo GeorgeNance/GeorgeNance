@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 >
-> ~ *Niklaus Wirth*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 23, 2023, 11:04 PM
+  Last Refresh : Sunday, September 24, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
