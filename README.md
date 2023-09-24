@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Sean Parent*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 23, 2023, 8:04 PM
+  Last Refresh : Saturday, September 23, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
