@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Linus Torvalds*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 9:05 AM
+  Last Refresh : Monday, September 25, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
