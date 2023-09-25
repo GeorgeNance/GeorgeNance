@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Charles Babbage*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 12:04 AM
+  Last Refresh : Monday, September 25, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
