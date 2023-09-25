@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
+> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 24, 2023, 9:04 PM
+  Last Refresh : Sunday, September 24, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
