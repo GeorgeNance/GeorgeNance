@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Jef Raskin*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 7:04 AM
+  Last Refresh : Monday, September 25, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
