@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Gordon Bell*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 24, 2023, 7:10 PM
+  Last Refresh : Sunday, September 24, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
