@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 10:04 AM
+  Last Refresh : Monday, September 25, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
