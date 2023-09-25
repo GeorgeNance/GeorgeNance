@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Martin Fowler*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 3:04 AM
+  Last Refresh : Monday, September 25, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
