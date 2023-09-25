@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Ted Nelson*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 6:06 AM
+  Last Refresh : Monday, September 25, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
