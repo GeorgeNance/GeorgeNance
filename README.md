@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 >
-> ~ *Ken Thompson*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, September 24, 2023, 11:05 PM
+  Last Refresh : Monday, September 25, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
