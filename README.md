@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People under pressure don’t work better; they just work faster.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Tom DeMarco*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 1:05 AM
+  Last Refresh : Monday, September 25, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
