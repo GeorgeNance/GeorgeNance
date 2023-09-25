@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 3:04 PM
+  Last Refresh : Monday, September 25, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
