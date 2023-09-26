@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### It was a turning point in my programming career when I realized that I didn't have to win every argument.
 >
-> ~ *Maurice Wilkes*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 6:25 PM
+  Last Refresh : Monday, September 25, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
