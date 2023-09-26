@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
 >
-> ~ *David Leinweber*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 26, 2023, 7:04 AM
+  Last Refresh : Tuesday, September 26, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
