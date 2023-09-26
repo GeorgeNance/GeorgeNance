@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 26, 2023, 4:04 AM
+  Last Refresh : Tuesday, September 26, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
