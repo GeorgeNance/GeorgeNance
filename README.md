@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Gary Kildall*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, September 25, 2023, 8:04 PM
+  Last Refresh : Monday, September 25, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
