@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Donald Knuth*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 26, 2023, 12:04 AM
+  Last Refresh : Tuesday, September 26, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
