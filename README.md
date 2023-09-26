@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Bill Gates*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 26, 2023, 10:04 AM
+  Last Refresh : Tuesday, September 26, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
