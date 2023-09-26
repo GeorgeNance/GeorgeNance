@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One accurate measurement is worth more than a thousand expert opinions.
+> ### No code is faster than no code.
 >
-> ~ *Grace Hopper*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 26, 2023, 11:04 AM
+  Last Refresh : Tuesday, September 26, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
