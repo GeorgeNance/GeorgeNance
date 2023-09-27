@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Rob Pike*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 27, 2023, 7:04 AM
+  Last Refresh : Wednesday, September 27, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
