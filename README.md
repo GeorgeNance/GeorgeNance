@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Roy Fielding*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 27, 2023, 5:32 AM
+  Last Refresh : Wednesday, September 27, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
