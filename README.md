@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Harlan Mills*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 26, 2023, 7:10 PM
+  Last Refresh : Tuesday, September 26, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
