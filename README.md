@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *John Carmack*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, September 26, 2023, 4:04 PM
+  Last Refresh : Tuesday, September 26, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
