@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Eric S. Raymond*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 2:04 AM
+  Last Refresh : Thursday, September 28, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
