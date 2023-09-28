@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 1:05 AM
+  Last Refresh : Thursday, September 28, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
