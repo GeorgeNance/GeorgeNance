@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *John Gall (author)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 27, 2023, 8:04 PM
+  Last Refresh : Wednesday, September 27, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
