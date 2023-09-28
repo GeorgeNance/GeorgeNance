@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Jef Raskin*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 6:23 AM
+  Last Refresh : Thursday, September 28, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
