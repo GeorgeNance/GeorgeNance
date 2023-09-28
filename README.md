@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Daniel T. Barry*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 10:04 AM
+  Last Refresh : Thursday, September 28, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
