@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy.
+> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 >
-> ~ *Donald Knuth*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 4:04 AM
+  Last Refresh : Thursday, September 28, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
