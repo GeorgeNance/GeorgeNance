@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 2:04 PM
+  Last Refresh : Thursday, September 28, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
