@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Steve Jobs*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 5:06 AM
+  Last Refresh : Thursday, September 28, 2023, 6:23 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
