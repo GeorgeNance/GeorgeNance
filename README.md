@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Tim Berners-Lee*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, September 27, 2023, 4:04 PM
+  Last Refresh : Wednesday, September 27, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
