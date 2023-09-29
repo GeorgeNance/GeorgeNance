@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.
 >
-> ~ *Thomas J. Watson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 2:04 AM
+  Last Refresh : Friday, September 29, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
