@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Tom DeMarco*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 1:04 AM
+  Last Refresh : Friday, September 29, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
