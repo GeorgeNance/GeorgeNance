@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### One man's constant is another man's variable.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 11:05 PM
+  Last Refresh : Friday, September 29, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
