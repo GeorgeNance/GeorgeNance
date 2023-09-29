@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
 > ~ *Joseph Yoder (computer scientist)*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 3:04 PM
+  Last Refresh : Friday, September 29, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
