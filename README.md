@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Richard Stallman*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 6:05 AM
+  Last Refresh : Friday, September 29, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
