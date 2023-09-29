@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Alan Perlis*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 12:04 AM
+  Last Refresh : Friday, September 29, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
