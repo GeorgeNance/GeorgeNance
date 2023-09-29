@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Chris Sacca*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, September 28, 2023, 6:25 PM
+  Last Refresh : Thursday, September 28, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
