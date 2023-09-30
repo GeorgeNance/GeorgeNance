@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Dennis Ritchie*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 30, 2023, 2:04 AM
+  Last Refresh : Saturday, September 30, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
