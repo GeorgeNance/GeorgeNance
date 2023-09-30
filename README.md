@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Alan Perlis*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 30, 2023, 1:04 PM
+  Last Refresh : Saturday, September 30, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
