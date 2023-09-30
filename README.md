@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### One man's constant is another man's variable.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 30, 2023, 12:04 PM
+  Last Refresh : Saturday, September 30, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
