@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 11:05 PM
+  Last Refresh : Saturday, September 30, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
