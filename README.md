@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Douglas Crockford*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 7:08 PM
+  Last Refresh : Friday, September 29, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
