@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Bill Gates*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 8:04 PM
+  Last Refresh : Friday, September 29, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
