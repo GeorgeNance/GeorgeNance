@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### No code is faster than no code.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 30, 2023, 4:04 AM
+  Last Refresh : Saturday, September 30, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
