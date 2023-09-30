@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 >
-> ~ *Richard Hamming*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 30, 2023, 7:04 AM
+  Last Refresh : Saturday, September 30, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
