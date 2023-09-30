@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, September 29, 2023, 5:15 PM
+  Last Refresh : Friday, September 29, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
