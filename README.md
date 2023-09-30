@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
 > ~ *Paul Graham (programmer)*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, September 30, 2023, 3:04 AM
+  Last Refresh : Saturday, September 30, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
