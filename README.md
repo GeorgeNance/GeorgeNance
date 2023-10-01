@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Daniel T. Barry*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 9:04 AM
+  Last Refresh : Sunday, October 1, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
