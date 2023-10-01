@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Charles Simonyi*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 11:04 AM
+  Last Refresh : Sunday, October 1, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
