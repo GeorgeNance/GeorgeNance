@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### Really good programs live forever.
 >
-> ~ *Ada Lovelace*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 10:04 AM
+  Last Refresh : Sunday, October 1, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
