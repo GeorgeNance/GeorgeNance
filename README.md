@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 8:04 AM
+  Last Refresh : Sunday, October 1, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
