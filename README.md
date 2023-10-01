@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 3:04 PM
+  Last Refresh : Sunday, October 1, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
