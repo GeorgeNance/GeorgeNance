@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
 >
-> ~ *Danny Hillis*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 1:04 PM
+  Last Refresh : Sunday, October 1, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
