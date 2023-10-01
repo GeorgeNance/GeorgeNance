@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 >
-> ~ *Kyle Simpson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 2:04 AM
+  Last Refresh : Sunday, October 1, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
