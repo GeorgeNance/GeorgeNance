@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.
+> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
 >
-> ~ *Douglas Crockford*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 2:04 PM
+  Last Refresh : Sunday, October 1, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
