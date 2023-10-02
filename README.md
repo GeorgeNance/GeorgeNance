@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 >
-> ~ *Charles Babbage*
+> ~ *Andy Hertzfeld*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 2, 2023, 12:04 PM
+  Last Refresh : Monday, October 2, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
