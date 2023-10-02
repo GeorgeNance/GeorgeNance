@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
 >
-> ~ *John Warnock*
+> ~ *Michael Hawley*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 2, 2023, 6:05 AM
+  Last Refresh : Monday, October 2, 2023, 7:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
