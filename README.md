@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
 >
-> ~ *Charles Babbage*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 2, 2023, 5:21 AM
+  Last Refresh : Monday, October 2, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
