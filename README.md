@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 >
-> ~ *David Gelernter*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 5:16 PM
+  Last Refresh : Sunday, October 1, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
