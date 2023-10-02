@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Danny Hillis*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 1, 2023, 9:04 PM
+  Last Refresh : Sunday, October 1, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
