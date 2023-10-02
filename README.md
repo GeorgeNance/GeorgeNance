@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
+> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 >
-> ~ *Fred Brooks*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 2, 2023, 2:04 PM
+  Last Refresh : Monday, October 2, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
