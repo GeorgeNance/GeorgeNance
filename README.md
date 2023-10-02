@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Linus Torvalds*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 2, 2023, 1:05 AM
+  Last Refresh : Monday, October 2, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
