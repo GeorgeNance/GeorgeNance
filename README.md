@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 2, 2023, 5:16 PM
+  Last Refresh : Monday, October 2, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
