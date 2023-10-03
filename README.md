@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Harlan Mills*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 3, 2023, 1:22 AM
+  Last Refresh : Tuesday, October 3, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
