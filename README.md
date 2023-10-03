@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Brian Kernighan*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 3, 2023, 9:05 AM
+  Last Refresh : Tuesday, October 3, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
