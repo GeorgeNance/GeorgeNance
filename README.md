@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### When in doubt, use brute force.
 >
-> ~ *P. J. Plauger*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 3, 2023, 6:31 AM
+  Last Refresh : Tuesday, October 3, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
