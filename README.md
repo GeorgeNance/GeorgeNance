@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Dennis Ritchie*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 2, 2023, 7:10 PM
+  Last Refresh : Monday, October 2, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
