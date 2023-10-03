@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *George Boole*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 3, 2023, 3:04 AM
+  Last Refresh : Tuesday, October 3, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
