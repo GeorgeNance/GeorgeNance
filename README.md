@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Donald Knuth*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 2, 2023, 6:26 PM
+  Last Refresh : Monday, October 2, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
