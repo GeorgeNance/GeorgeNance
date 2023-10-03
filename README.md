@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
 >
-> ~ *Ken Thompson*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 3, 2023, 7:04 AM
+  Last Refresh : Tuesday, October 3, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
