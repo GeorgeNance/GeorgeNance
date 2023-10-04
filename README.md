@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Linus Torvalds*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 3, 2023, 9:04 PM
+  Last Refresh : Tuesday, October 3, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
