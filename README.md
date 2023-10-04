@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Steve Jobs*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 3, 2023, 7:11 PM
+  Last Refresh : Tuesday, October 3, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
