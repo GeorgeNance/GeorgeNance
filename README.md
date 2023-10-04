@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Rob Pike*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 9:05 AM
+  Last Refresh : Wednesday, October 4, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
