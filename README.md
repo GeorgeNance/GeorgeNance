@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.
+> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
 >
-> ~ *Maurice Wilkes*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 4:04 AM
+  Last Refresh : Wednesday, October 4, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
