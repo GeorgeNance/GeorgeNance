@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 >
-> ~ *Daniel T. Barry*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 11:04 AM
+  Last Refresh : Wednesday, October 4, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
