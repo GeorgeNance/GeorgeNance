@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 3, 2023, 8:04 PM
+  Last Refresh : Tuesday, October 3, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
