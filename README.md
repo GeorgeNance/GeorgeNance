@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Marvin Minsky*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 6:17 AM
+  Last Refresh : Wednesday, October 4, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
