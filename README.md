@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ make it smaller. If we could just get it down to what it does really well and re
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 1:04 PM
+  Last Refresh : Wednesday, October 4, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
