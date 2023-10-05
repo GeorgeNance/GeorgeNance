@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's nothing more permanent than a temporary hack.
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Kyle Simpson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 7:12 PM
+  Last Refresh : Wednesday, October 4, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
