@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 >
-> ~ *Vannevar Bush*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 4:04 AM
+  Last Refresh : Thursday, October 5, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
