@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 6:18 AM
+  Last Refresh : Thursday, October 5, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
