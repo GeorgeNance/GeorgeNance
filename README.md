@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.
+> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Robert L. Glass*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 9:05 AM
+  Last Refresh : Thursday, October 5, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
