@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Jef Raskin*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 12:04 AM
+  Last Refresh : Thursday, October 5, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
