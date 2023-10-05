@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 >
-> ~ *Seymour Cray*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 11:04 AM
+  Last Refresh : Thursday, October 5, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
