@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Henry Petroski*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 11:05 PM
+  Last Refresh : Thursday, October 5, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
