@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Donald Knuth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 5:06 AM
+  Last Refresh : Thursday, October 5, 2023, 6:18 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
