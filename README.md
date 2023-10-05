@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Bill Gates*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 8:04 PM
+  Last Refresh : Wednesday, October 4, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
