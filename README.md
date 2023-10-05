@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Eric S. Raymond*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 2:04 PM
+  Last Refresh : Thursday, October 5, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
