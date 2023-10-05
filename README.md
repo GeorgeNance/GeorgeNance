@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 4, 2023, 5:16 PM
+  Last Refresh : Wednesday, October 4, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
