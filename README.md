@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Fred Brooks*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 3:04 PM
+  Last Refresh : Thursday, October 5, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
