@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 6:06 AM
+  Last Refresh : Friday, October 6, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
