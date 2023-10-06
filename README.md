@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Anonymous*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 3:04 PM
+  Last Refresh : Friday, October 6, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
