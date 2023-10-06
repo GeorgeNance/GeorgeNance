@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 >
-> ~ *Charles Simonyi*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 5:06 AM
+  Last Refresh : Friday, October 6, 2023, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
