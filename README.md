@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Mark Gibbs*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 9:04 PM
+  Last Refresh : Thursday, October 5, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
