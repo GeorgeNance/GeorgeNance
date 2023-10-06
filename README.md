@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 11:05 PM
+  Last Refresh : Friday, October 6, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
