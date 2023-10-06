@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
-> ~ *Douglas Crockford*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 1:05 AM
+  Last Refresh : Friday, October 6, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
