@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Stewart Brand*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 2:04 PM
+  Last Refresh : Friday, October 6, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
