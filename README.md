@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### I think the best way to supervise is by personal example and by frequent code reviews.
 >
-> ~ *Elon Musk*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 6:25 PM
+  Last Refresh : Thursday, October 5, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
