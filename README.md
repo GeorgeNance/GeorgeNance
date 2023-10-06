@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Charles Simonyi*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 5, 2023, 7:10 PM
+  Last Refresh : Thursday, October 5, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
