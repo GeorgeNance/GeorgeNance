@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### Making things easy is hard.
 >
-> ~ *Dennis Ritchie*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 12:04 PM
+  Last Refresh : Friday, October 6, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
