@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity.
+> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
 >
-> ~ *William Wulf*
+> ~ *Poul Anderson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 6:04 AM
+  Last Refresh : Saturday, October 7, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
