@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Fred Brooks*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 12:04 AM
+  Last Refresh : Saturday, October 7, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
