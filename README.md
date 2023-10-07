@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *David Leinweber*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 12:04 PM
+  Last Refresh : Saturday, October 7, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
