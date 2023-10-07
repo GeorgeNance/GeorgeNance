@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Douglas Crockford*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 9:04 PM
+  Last Refresh : Friday, October 6, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
