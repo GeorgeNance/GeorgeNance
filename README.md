@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
 >
-> ~ *Albert Einstein*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 11:05 PM
+  Last Refresh : Saturday, October 7, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
