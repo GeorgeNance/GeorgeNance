@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Tom DeMarco*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 5:15 PM
+  Last Refresh : Friday, October 6, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
