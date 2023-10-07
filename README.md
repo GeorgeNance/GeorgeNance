@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### No code is faster than no code.
 >
-> ~ *Terry Winograd*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 9:04 AM
+  Last Refresh : Saturday, October 7, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
