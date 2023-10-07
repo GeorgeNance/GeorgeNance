@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 3:04 AM
+  Last Refresh : Saturday, October 7, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
