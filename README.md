@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Quarry worker's creed*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 4:04 AM
+  Last Refresh : Saturday, October 7, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
