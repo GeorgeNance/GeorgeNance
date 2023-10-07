@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Ward Cunningham*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 10:04 PM
+  Last Refresh : Friday, October 6, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
