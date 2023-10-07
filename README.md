@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 6, 2023, 6:24 PM
+  Last Refresh : Friday, October 6, 2023, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
