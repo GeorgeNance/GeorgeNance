@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 >
-> ~ *Robert C. Martin*
+> ~ *John Romero*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 8, 2023, 2:04 PM
+  Last Refresh : Sunday, October 8, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
