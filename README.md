@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 >
-> ~ *Anonymous*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 8, 2023, 12:04 AM
+  Last Refresh : Sunday, October 8, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
