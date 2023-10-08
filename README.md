@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
 > ~ *Bill Gates*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 9:04 PM
+  Last Refresh : Saturday, October 7, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
