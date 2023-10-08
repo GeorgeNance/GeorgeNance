@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 5:17 PM
+  Last Refresh : Saturday, October 7, 2023, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
