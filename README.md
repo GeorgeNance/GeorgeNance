@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Bill Gates*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 10:04 PM
+  Last Refresh : Saturday, October 7, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
