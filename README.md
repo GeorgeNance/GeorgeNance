@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Alan Perlis*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 8, 2023, 6:04 AM
+  Last Refresh : Sunday, October 8, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
