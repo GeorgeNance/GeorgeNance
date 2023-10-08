@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 >
-> ~ *Douglas Crockford*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 6:28 PM
+  Last Refresh : Saturday, October 7, 2023, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
