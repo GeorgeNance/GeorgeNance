@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Richard Moore (engineer)*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 4:04 PM
+  Last Refresh : Saturday, October 7, 2023, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
