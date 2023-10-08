@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### In order to understand recursion, one must first understand recursion.
 >
-> ~ *Elon Musk*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 11:04 PM
+  Last Refresh : Sunday, October 8, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
