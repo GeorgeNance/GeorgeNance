@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Gary Kildall*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 8, 2023, 2:04 AM
+  Last Refresh : Sunday, October 8, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
