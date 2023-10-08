@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 >
 > ~ *Bjarne Stroustrup*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 7, 2023, 7:11 PM
+  Last Refresh : Saturday, October 7, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
