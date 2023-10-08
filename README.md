@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 8, 2023, 10:04 AM
+  Last Refresh : Sunday, October 8, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
