@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Fred Brooks*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 9, 2023, 2:04 PM
+  Last Refresh : Monday, October 9, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
