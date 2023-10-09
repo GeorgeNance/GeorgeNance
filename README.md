@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### Nine women can't make a baby in one month.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 9, 2023, 1:04 PM
+  Last Refresh : Monday, October 9, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
