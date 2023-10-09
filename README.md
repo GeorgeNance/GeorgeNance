@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 9, 2023, 4:04 AM
+  Last Refresh : Monday, October 9, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
