@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 8, 2023, 8:04 PM
+  Last Refresh : Sunday, October 8, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
