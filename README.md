@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Danny Hillis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 10, 2023, 9:04 AM
+  Last Refresh : Tuesday, October 10, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
