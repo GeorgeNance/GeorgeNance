@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 >
-> ~ *David Parnas*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 9, 2023, 7:10 PM
+  Last Refresh : Monday, October 9, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
