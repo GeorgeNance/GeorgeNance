@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+> ### Less code equals less bugs.
 >
-> ~ *Eric S. Raymond*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 10, 2023, 12:04 AM
+  Last Refresh : Tuesday, October 10, 2023, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
