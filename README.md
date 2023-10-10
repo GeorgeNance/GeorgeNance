@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Douglas Crockford*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 10, 2023, 5:06 AM
+  Last Refresh : Tuesday, October 10, 2023, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
