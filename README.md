@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Less code equals less bugs.
+> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 >
-> ~ *Kevlin Henney*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 10, 2023, 1:06 AM
+  Last Refresh : Tuesday, October 10, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
