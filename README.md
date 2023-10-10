@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Addy Osmani*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 10, 2023, 1:04 PM
+  Last Refresh : Tuesday, October 10, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
