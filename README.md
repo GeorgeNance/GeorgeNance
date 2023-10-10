@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 9, 2023, 9:04 PM
+  Last Refresh : Monday, October 9, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
