@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Ted Nelson*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 11, 2023, 2:04 PM
+  Last Refresh : Wednesday, October 11, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
