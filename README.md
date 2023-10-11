@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Linus Torvalds*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 11, 2023, 1:05 AM
+  Last Refresh : Wednesday, October 11, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
