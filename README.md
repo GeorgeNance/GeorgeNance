@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Daniel T. Barry*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 11, 2023, 4:04 AM
+  Last Refresh : Wednesday, October 11, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
