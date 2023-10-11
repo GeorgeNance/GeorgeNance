@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Alan Turing*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 10, 2023, 4:04 PM
+  Last Refresh : Tuesday, October 10, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
