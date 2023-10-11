@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *Martin Fowler*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 11, 2023, 11:04 AM
+  Last Refresh : Wednesday, October 11, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
