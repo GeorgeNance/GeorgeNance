@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Chris Sacca*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 12, 2023, 7:04 AM
+  Last Refresh : Thursday, October 12, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
