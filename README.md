@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think one of the most valuable rules is avoid duplication.
+> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
 >
-> ~ *Martin Fowler*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 12, 2023, 3:04 PM
+  Last Refresh : Thursday, October 12, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
