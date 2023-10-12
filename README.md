@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 11, 2023, 5:14 PM
+  Last Refresh : Wednesday, October 11, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
