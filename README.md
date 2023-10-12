@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 11, 2023, 9:04 PM
+  Last Refresh : Wednesday, October 11, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
