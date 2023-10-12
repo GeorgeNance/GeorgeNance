@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Buckminster Fuller*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 12, 2023, 1:05 AM
+  Last Refresh : Thursday, October 12, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
