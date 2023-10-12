@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Grady Booch*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 12, 2023, 9:04 AM
+  Last Refresh : Thursday, October 12, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
