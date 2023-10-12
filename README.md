@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 >
-> ~ *Alan Perlis*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 12, 2023, 8:04 AM
+  Last Refresh : Thursday, October 12, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
