@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 11, 2023, 11:05 PM
+  Last Refresh : Thursday, October 12, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
