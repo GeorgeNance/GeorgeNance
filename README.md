@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *Ken Thompson*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 13, 2023, 12:04 AM
+  Last Refresh : Friday, October 13, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
