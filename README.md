@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Toru Iwatani*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 13, 2023, 3:04 PM
+  Last Refresh : Friday, October 13, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
