@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Elon Musk*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 12, 2023, 4:04 PM
+  Last Refresh : Thursday, October 12, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
