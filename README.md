@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Dennis Ritchie*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 13, 2023, 11:04 AM
+  Last Refresh : Friday, October 13, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
