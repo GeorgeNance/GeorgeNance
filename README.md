@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 12, 2023, 5:16 PM
+  Last Refresh : Thursday, October 12, 2023, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
