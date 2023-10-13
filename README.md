@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 12, 2023, 10:04 PM
+  Last Refresh : Thursday, October 12, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
