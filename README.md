@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *John von Neumann*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 13, 2023, 10:04 AM
+  Last Refresh : Friday, October 13, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
