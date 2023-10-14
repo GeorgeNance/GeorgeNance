@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Tom DeMarco*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 13, 2023, 9:04 PM
+  Last Refresh : Friday, October 13, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
