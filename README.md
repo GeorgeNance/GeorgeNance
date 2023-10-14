@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First do it, then do it right, then do it better.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Addy Osmani*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 14, 2023, 1:04 AM
+  Last Refresh : Saturday, October 14, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
