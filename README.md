@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 14, 2023, 11:04 AM
+  Last Refresh : Saturday, October 14, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
