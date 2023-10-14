@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 13, 2023, 5:15 PM
+  Last Refresh : Friday, October 13, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
