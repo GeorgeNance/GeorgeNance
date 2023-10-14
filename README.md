@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 >
-> ~ *Kent Beck*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 14, 2023, 6:04 AM
+  Last Refresh : Saturday, October 14, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
