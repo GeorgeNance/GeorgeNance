@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### When in doubt, leave it out.
 >
-> ~ *Bob Frankston*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 7:04 AM
+  Last Refresh : Sunday, October 15, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
