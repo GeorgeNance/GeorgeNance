@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Richard Feynman*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 5:05 AM
+  Last Refresh : Sunday, October 15, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
