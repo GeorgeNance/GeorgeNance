@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
 >
-> ~ *Hal Abelson*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 14, 2023, 9:04 PM
+  Last Refresh : Saturday, October 14, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
