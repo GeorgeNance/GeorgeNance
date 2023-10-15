@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Douglas Crockford*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 4:04 AM
+  Last Refresh : Sunday, October 15, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
