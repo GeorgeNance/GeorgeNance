@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Luciano Ramalho*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 6:04 AM
+  Last Refresh : Sunday, October 15, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
