@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Rob Pike*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 1:04 PM
+  Last Refresh : Sunday, October 15, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
