@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 12:04 PM
+  Last Refresh : Sunday, October 15, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
