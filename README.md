@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Alan Perlis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 14, 2023, 4:04 PM
+  Last Refresh : Saturday, October 14, 2023, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
