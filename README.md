@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Albert Einstein*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 14, 2023, 10:04 PM
+  Last Refresh : Saturday, October 14, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
