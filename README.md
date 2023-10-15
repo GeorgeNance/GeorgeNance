@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *David Parnas*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 2:04 AM
+  Last Refresh : Sunday, October 15, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
