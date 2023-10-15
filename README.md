@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Brian Kernighan*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 10:04 AM
+  Last Refresh : Sunday, October 15, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
