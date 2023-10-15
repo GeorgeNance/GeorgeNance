@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 14, 2023, 6:28 PM
+  Last Refresh : Saturday, October 14, 2023, 7:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
