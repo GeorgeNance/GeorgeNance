@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
 >
-> ~ *Alan Perlis*
+> ~ *Philip Greenspun*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 15, 2023, 10:04 PM
+  Last Refresh : Sunday, October 15, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
