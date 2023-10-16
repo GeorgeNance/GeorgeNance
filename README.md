@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Richard Stallman*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 16, 2023, 1:05 AM
+  Last Refresh : Monday, October 16, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
