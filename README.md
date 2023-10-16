@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### Cool URIs don't change.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 16, 2023, 10:04 AM
+  Last Refresh : Monday, October 16, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
