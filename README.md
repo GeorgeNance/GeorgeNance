@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 16, 2023, 11:05 AM
+  Last Refresh : Monday, October 16, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
