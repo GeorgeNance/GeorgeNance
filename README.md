@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 >
-> ~ *Daniel T. Barry*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 16, 2023, 9:04 AM
+  Last Refresh : Monday, October 16, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
