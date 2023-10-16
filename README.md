@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
-> ~ *John Romero*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 16, 2023, 2:04 PM
+  Last Refresh : Monday, October 16, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
