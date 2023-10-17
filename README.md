@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Bill Gates*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 17, 2023, 4:04 AM
+  Last Refresh : Tuesday, October 17, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
