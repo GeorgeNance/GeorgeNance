@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 17, 2023, 10:04 AM
+  Last Refresh : Tuesday, October 17, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
