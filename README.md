@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Mario Fusco*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 17, 2023, 7:04 AM
+  Last Refresh : Tuesday, October 17, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
