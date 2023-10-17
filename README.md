@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Daniel T. Barry*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 17, 2023, 5:06 AM
+  Last Refresh : Tuesday, October 17, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
