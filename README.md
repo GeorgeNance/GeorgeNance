@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Philip Greenspun*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 17, 2023, 2:04 AM
+  Last Refresh : Tuesday, October 17, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
