@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 >
-> ~ *Ken Thompson*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 16, 2023, 8:04 PM
+  Last Refresh : Monday, October 16, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
