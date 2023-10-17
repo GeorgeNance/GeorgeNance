@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Ada Lovelace*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 16, 2023, 9:04 PM
+  Last Refresh : Monday, October 16, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
