@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
 >
-> ~ *Alan Perlis*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 18, 2023, 10:04 AM
+  Last Refresh : Wednesday, October 18, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
