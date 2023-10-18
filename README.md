@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Tom DeMarco*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 18, 2023, 1:05 AM
+  Last Refresh : Wednesday, October 18, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
