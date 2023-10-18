@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 17, 2023, 9:04 PM
+  Last Refresh : Tuesday, October 17, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
