@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 17, 2023, 8:04 PM
+  Last Refresh : Tuesday, October 17, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
