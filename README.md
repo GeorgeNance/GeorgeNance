@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Richard Stallman*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 18, 2023, 7:04 AM
+  Last Refresh : Wednesday, October 18, 2023, 8:15 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
