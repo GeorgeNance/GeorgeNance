@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Niklaus Wirth*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 18, 2023, 1:04 PM
+  Last Refresh : Wednesday, October 18, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
