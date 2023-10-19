@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 6:27 AM
+  Last Refresh : Thursday, October 19, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
