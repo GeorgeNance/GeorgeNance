@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
 >
-> ~ *Roy Fielding*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 18, 2023, 11:05 PM
+  Last Refresh : Thursday, October 19, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
