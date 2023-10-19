@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### No code is faster than no code.
 >
-> ~ *Rob Pike*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 9:04 AM
+  Last Refresh : Thursday, October 19, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
