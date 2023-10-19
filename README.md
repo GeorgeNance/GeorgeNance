@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best minds of my generation are thinking about how to make people click ads.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Jeff Hammerbacher*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 8:04 AM
+  Last Refresh : Thursday, October 19, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
