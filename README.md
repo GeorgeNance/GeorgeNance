@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
+> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
 >
-> ~ *Hal Abelson*
+> ~ *Andy Hertzfeld*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 11:04 AM
+  Last Refresh : Thursday, October 19, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
