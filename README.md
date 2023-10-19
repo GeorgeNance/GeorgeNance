@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No code is faster than no code.
+> ### The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform.
 >
-> ~ *Kevlin Henney*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 10:04 AM
+  Last Refresh : Thursday, October 19, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
