@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Andy Hertzfeld*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 12:04 PM
+  Last Refresh : Thursday, October 19, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
