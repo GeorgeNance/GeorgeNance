@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 18, 2023, 4:04 PM
+  Last Refresh : Wednesday, October 18, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
