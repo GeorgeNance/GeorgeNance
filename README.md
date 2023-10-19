@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 18, 2023, 5:16 PM
+  Last Refresh : Wednesday, October 18, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
