@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
 >
-> ~ *Bill Gates*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 5:25 AM
+  Last Refresh : Thursday, October 19, 2023, 6:27 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
