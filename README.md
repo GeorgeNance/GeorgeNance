@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Danny Hillis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 9:04 PM
+  Last Refresh : Thursday, October 19, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
