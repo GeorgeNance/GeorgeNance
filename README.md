@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Steve Jobs*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 20, 2023, 8:04 AM
+  Last Refresh : Friday, October 20, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
