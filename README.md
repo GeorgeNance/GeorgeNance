@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 >
-> ~ *Danny Hillis*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 5:16 PM
+  Last Refresh : Thursday, October 19, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
