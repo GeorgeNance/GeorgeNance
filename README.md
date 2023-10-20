@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Walking on water and developing software from a specification are easy if both are frozen.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Edward V. Berard*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 20, 2023, 3:04 PM
+  Last Refresh : Friday, October 20, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
