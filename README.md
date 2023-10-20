@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 19, 2023, 10:04 PM
+  Last Refresh : Thursday, October 19, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
