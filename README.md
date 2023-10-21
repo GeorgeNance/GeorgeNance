@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Martin Fowler*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 21, 2023, 10:04 AM
+  Last Refresh : Saturday, October 21, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
