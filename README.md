@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Robert L. Glass*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 20, 2023, 5:15 PM
+  Last Refresh : Friday, October 20, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
