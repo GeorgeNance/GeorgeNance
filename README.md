@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Rick Osborne*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 21, 2023, 3:04 AM
+  Last Refresh : Saturday, October 21, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
