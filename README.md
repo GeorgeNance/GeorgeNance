@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Richard P. Gabriel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 21, 2023, 12:04 AM
+  Last Refresh : Saturday, October 21, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
