@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Robert C. Martin*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 20, 2023, 8:04 PM
+  Last Refresh : Friday, October 20, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
