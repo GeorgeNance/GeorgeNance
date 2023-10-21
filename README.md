@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 21, 2023, 11:05 AM
+  Last Refresh : Saturday, October 21, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
