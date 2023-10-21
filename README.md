@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 21, 2023, 1:04 AM
+  Last Refresh : Saturday, October 21, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
