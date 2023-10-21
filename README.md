@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Fred Brooks*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 20, 2023, 7:08 PM
+  Last Refresh : Friday, October 20, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
