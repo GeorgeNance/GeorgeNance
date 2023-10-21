@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Elon Musk*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 21, 2023, 6:04 AM
+  Last Refresh : Saturday, October 21, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
