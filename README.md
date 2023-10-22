@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 >
-> ~ *Fred Brooks*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 22, 2023, 3:04 PM
+  Last Refresh : Sunday, October 22, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
