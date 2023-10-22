@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Douglas Crockford*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 22, 2023, 3:04 AM
+  Last Refresh : Sunday, October 22, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
