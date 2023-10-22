@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Linus Torvalds*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 21, 2023, 7:12 PM
+  Last Refresh : Saturday, October 21, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
