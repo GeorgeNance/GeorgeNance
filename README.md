@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 >
-> ~ *Hal Abelson*
+> ~ *Ivan Sutherland*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 23, 2023, 3:04 AM
+  Last Refresh : Monday, October 23, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
