@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 >
-> ~ *Daniel T. Barry*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 23, 2023, 1:05 AM
+  Last Refresh : Monday, October 23, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
