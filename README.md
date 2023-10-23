@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 23, 2023, 2:04 AM
+  Last Refresh : Monday, October 23, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
