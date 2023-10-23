@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Gary Kildall*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 22, 2023, 11:05 PM
+  Last Refresh : Monday, October 23, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
