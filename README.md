@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *John Carmack*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 22, 2023, 4:04 PM
+  Last Refresh : Sunday, October 22, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
