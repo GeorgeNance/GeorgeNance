@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Fred Brooks*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 23, 2023, 3:04 PM
+  Last Refresh : Monday, October 23, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
