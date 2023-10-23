@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Butler Lampson*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 22, 2023, 9:04 PM
+  Last Refresh : Sunday, October 22, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
