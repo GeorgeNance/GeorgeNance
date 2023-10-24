@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Richard Hamming*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 23, 2023, 7:10 PM
+  Last Refresh : Monday, October 23, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
