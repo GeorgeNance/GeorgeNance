@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 24, 2023, 8:04 AM
+  Last Refresh : Tuesday, October 24, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
