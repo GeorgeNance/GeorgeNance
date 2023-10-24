@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Dennis Ritchie*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 24, 2023, 4:04 AM
+  Last Refresh : Tuesday, October 24, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
