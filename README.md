@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Dennis Ritchie*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 24, 2023, 5:16 PM
+  Last Refresh : Tuesday, October 24, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
