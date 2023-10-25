@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### People under pressure don’t work better; they just work faster.
 >
-> ~ *Gary Kildall*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 25, 2023, 2:04 AM
+  Last Refresh : Wednesday, October 25, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
