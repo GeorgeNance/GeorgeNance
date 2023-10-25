@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Douglas Crockford*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 24, 2023, 4:04 PM
+  Last Refresh : Tuesday, October 24, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
