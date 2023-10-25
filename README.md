@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Gerald Weinberg*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 25, 2023, 3:04 PM
+  Last Refresh : Wednesday, October 25, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
