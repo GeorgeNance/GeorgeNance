@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 >
-> ~ *Steve Jobs*
+> ~ *P. J. Plauger*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 24, 2023, 9:04 PM
+  Last Refresh : Tuesday, October 24, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
