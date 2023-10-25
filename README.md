@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Donald Knuth*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 25, 2023, 8:11 AM
+  Last Refresh : Wednesday, October 25, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
