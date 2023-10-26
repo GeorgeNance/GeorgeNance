@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
+> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 >
-> ~ *Martin Fowler*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 25, 2023, 5:15 PM
+  Last Refresh : Wednesday, October 25, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
