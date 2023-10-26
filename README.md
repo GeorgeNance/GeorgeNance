@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Fred Brooks*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, October 25, 2023, 10:04 PM
+  Last Refresh : Wednesday, October 25, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
