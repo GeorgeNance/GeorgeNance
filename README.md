@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *David Gelernter*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 26, 2023, 2:04 AM
+  Last Refresh : Thursday, October 26, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
