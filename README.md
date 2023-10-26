@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Donald Knuth*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 26, 2023, 9:04 AM
+  Last Refresh : Thursday, October 26, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
