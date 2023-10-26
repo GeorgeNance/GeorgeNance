@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 26, 2023, 1:04 PM
+  Last Refresh : Thursday, October 26, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
