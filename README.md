@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important.
+> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
 >
-> ~ *John Carmack*
+> ~ *Randall E. Stross*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 26, 2023, 5:06 AM
+  Last Refresh : Thursday, October 26, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
