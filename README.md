@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 26, 2023, 7:09 PM
+  Last Refresh : Thursday, October 26, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
