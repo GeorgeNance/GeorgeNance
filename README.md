@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 >
-> ~ *Linus Torvalds*
+> ~ *Mark Gibbs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 5:29 AM
+  Last Refresh : Friday, October 27, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
