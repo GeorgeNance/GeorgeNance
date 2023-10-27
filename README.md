@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 3:04 AM
+  Last Refresh : Friday, October 27, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
