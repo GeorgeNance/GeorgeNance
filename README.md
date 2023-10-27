@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Alan Kay*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 11:04 AM
+  Last Refresh : Friday, October 27, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
