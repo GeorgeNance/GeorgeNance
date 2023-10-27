@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 >
-> ~ *Fred Brooks*
+> ~ *Simon Peyton Jones*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 12:04 AM
+  Last Refresh : Friday, October 27, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
