@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
 >
-> ~ *Gerald Weinberg*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 10:04 AM
+  Last Refresh : Friday, October 27, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
