@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### A lot of companies hire people to tell them what to do. We hire people to tell us what to do.
 >
-> ~ *Dennis Ritchie*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 26, 2023, 9:04 PM
+  Last Refresh : Thursday, October 26, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
