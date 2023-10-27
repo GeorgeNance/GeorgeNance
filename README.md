@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 3:04 PM
+  Last Refresh : Friday, October 27, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
