@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Alan Perlis*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 4:04 AM
+  Last Refresh : Friday, October 27, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
