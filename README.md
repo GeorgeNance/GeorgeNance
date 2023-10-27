@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Elon Musk*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, October 26, 2023, 6:24 PM
+  Last Refresh : Thursday, October 26, 2023, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
