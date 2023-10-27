@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Grady Booch*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 1:04 PM
+  Last Refresh : Friday, October 27, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
