@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Ray Ozzie*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 12:04 PM
+  Last Refresh : Friday, October 27, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
