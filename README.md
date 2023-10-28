@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages.
+> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 >
-> ~ *Richard Stallman*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 9:04 PM
+  Last Refresh : Friday, October 27, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
