@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
+> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 28, 2023, 5:08 AM
+  Last Refresh : Saturday, October 28, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
