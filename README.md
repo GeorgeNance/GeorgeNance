@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Alan Perlis*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 6:24 PM
+  Last Refresh : Friday, October 27, 2023, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
