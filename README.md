@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, October 27, 2023, 5:15 PM
+  Last Refresh : Friday, October 27, 2023, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
