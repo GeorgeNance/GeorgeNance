@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Douglas Crockford*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 28, 2023, 1:04 PM
+  Last Refresh : Saturday, October 28, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
