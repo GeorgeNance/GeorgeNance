@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 >
-> ~ *Daniel T. Barry*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 28, 2023, 10:04 AM
+  Last Refresh : Saturday, October 28, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
