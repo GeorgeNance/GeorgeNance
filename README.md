@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Kent Beck*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 29, 2023, 3:04 PM
+  Last Refresh : Sunday, October 29, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
