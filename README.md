@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Vannevar Bush*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 29, 2023, 6:04 AM
+  Last Refresh : Sunday, October 29, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
