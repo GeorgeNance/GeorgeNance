@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *Thomas J. Watson*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 28, 2023, 8:04 PM
+  Last Refresh : Saturday, October 28, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
