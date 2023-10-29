@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 >
-> ~ *Fred Brooks*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 29, 2023, 5:05 AM
+  Last Refresh : Sunday, October 29, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
