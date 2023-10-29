@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Jef Raskin*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 29, 2023, 3:04 AM
+  Last Refresh : Sunday, October 29, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
