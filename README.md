@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 28, 2023, 10:04 PM
+  Last Refresh : Saturday, October 28, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
