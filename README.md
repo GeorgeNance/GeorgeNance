@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Young man, in mathematics you don't understand things. You just get used to them.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *John von Neumann*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 28, 2023, 11:04 PM
+  Last Refresh : Sunday, October 29, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
