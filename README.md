@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
 >
-> ~ *Bill Gates*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, October 28, 2023, 6:28 PM
+  Last Refresh : Saturday, October 28, 2023, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
