@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Anders Hejlsberg*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 29, 2023, 1:04 PM
+  Last Refresh : Sunday, October 29, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
