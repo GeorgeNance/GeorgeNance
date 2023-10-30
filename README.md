@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Ada Lovelace*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 30, 2023, 12:04 PM
+  Last Refresh : Monday, October 30, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
