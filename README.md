@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Lawrence Flon*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 29, 2023, 11:05 PM
+  Last Refresh : Monday, October 30, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
