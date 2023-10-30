@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *George Boole*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 30, 2023, 10:04 AM
+  Last Refresh : Monday, October 30, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
