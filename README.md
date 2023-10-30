@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### When I invented the web, I didn't have to ask anyone's permission.
 >
-> ~ *Grady Booch*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 30, 2023, 4:04 AM
+  Last Refresh : Monday, October 30, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
