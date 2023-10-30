@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I invented the web, I didn't have to ask anyone's permission.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 30, 2023, 5:06 AM
+  Last Refresh : Monday, October 30, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
