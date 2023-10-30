@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
 >
-> ~ *Butler Lampson*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, October 29, 2023, 4:04 PM
+  Last Refresh : Sunday, October 29, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
