@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Ellen Ullman*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 30, 2023, 3:04 AM
+  Last Refresh : Monday, October 30, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
