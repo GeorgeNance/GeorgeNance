@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 >
-> ~ *Alan Perlis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 31, 2023, 12:04 PM
+  Last Refresh : Tuesday, October 31, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
