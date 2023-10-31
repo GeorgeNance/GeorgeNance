@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
+> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
 >
 > ~ *Bill Gates*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 31, 2023, 7:04 AM
+  Last Refresh : Tuesday, October 31, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
