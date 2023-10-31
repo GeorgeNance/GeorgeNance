@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Alan Perlis*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 30, 2023, 4:04 PM
+  Last Refresh : Monday, October 30, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
