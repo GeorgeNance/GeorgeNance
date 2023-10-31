@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Marvin Minsky*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 31, 2023, 3:04 PM
+  Last Refresh : Tuesday, October 31, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
