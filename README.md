@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 31, 2023, 11:04 AM
+  Last Refresh : Tuesday, October 31, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
