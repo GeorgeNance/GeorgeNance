@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Fred Brooks*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 30, 2023, 11:05 PM
+  Last Refresh : Tuesday, October 31, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
