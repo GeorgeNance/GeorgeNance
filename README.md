@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Donald Knuth*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, October 30, 2023, 9:04 PM
+  Last Refresh : Monday, October 30, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
