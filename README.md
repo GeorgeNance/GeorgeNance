@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Brian Kernighan*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 31, 2023, 1:05 AM
+  Last Refresh : Tuesday, October 31, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
