@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Fred Brooks*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 31, 2023, 9:05 PM
+  Last Refresh : Tuesday, October 31, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
