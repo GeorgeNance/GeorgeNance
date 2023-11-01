@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Jamie Zawinski*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, October 31, 2023, 5:17 PM
+  Last Refresh : Tuesday, October 31, 2023, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
