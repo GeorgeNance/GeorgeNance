@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Fred Brooks*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 2, 2023, 1:05 AM
+  Last Refresh : Thursday, November 2, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
