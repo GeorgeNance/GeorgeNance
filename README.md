@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Harlan Mills*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 2, 2023, 11:04 AM
+  Last Refresh : Thursday, November 2, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
