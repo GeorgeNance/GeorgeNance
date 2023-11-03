@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Alan Turing*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 3, 2023, 5:06 AM
+  Last Refresh : Friday, November 3, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
