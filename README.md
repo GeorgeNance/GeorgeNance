@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks.
 >
-> ~ *Fred Brooks*
+> ~ *Poul-Henning Kamp*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 2, 2023, 9:04 PM
+  Last Refresh : Thursday, November 2, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
