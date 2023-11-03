@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 3, 2023, 12:04 AM
+  Last Refresh : Friday, November 3, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
