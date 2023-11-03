@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 3, 2023, 11:04 AM
+  Last Refresh : Friday, November 3, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
