@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Manuel Blum*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 3, 2023, 6:25 PM
+  Last Refresh : Friday, November 3, 2023, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
