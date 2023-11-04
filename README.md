@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### It’s all talk until the code runs.
 >
-> ~ *Kent Beck*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 4, 2023, 7:04 AM
+  Last Refresh : Saturday, November 4, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
