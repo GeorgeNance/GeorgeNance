@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 3, 2023, 9:04 PM
+  Last Refresh : Friday, November 3, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
