@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Ted Nelson*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 4, 2023, 1:04 AM
+  Last Refresh : Saturday, November 4, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
