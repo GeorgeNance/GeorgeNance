@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Jim Horning*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 4, 2023, 6:04 AM
+  Last Refresh : Saturday, November 4, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
