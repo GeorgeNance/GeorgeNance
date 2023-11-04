@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
 >
-> ~ *Brian Kernighan*
+> ~ *Manuel Blum*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 3, 2023, 5:15 PM
+  Last Refresh : Friday, November 3, 2023, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
