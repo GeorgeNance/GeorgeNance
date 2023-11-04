@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Pete Cordell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 4, 2023, 1:04 PM
+  Last Refresh : Saturday, November 4, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
