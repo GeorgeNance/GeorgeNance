@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 >
-> ~ *Richard Hamming*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 5, 2023, 8:04 AM
+  Last Refresh : Sunday, November 5, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
