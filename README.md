@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *John Romero*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 5, 2023, 12:04 AM
+  Last Refresh : Sunday, November 5, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
