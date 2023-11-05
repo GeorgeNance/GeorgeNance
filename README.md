@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Bill Gates*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 4, 2023, 9:05 PM
+  Last Refresh : Saturday, November 4, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
