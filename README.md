@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *Chris Sacca*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 5, 2023, 7:04 AM
+  Last Refresh : Sunday, November 5, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
