@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Alan Kay*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 5, 2023, 3:04 PM
+  Last Refresh : Sunday, November 5, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
