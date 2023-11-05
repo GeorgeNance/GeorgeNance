@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 >
-> ~ *Danny Hillis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 5, 2023, 4:04 AM
+  Last Refresh : Sunday, November 5, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
