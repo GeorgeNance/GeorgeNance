@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Ken Thompson*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 6, 2023, 3:04 AM
+  Last Refresh : Monday, November 6, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
