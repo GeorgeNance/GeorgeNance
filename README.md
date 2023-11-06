@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 6, 2023, 1:04 PM
+  Last Refresh : Monday, November 6, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
