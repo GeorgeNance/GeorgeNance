@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Steve Jobs*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 5, 2023, 9:04 PM
+  Last Refresh : Sunday, November 5, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
