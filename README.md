@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Steve Wozniak*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 6, 2023, 12:04 AM
+  Last Refresh : Monday, November 6, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
