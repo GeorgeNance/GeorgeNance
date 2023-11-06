@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 >
-> ~ *Ken Thompson*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 5, 2023, 8:04 PM
+  Last Refresh : Sunday, November 5, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
