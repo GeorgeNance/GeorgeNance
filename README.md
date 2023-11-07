@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 6, 2023, 6:27 PM
+  Last Refresh : Monday, November 6, 2023, 7:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
