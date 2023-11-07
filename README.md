@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 >
-> ~ *Leslie Lamport*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 7:04 AM
+  Last Refresh : Tuesday, November 7, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
