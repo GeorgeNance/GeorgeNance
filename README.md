@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript, purely by accident, has become the most popular programming language in the world.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Douglas Crockford*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 6, 2023, 4:04 PM
+  Last Refresh : Monday, November 6, 2023, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
