@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### Object-oriented design is the roman numerals of computing.
 >
-> ~ *P. J. Plauger*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 3:04 PM
+  Last Refresh : Tuesday, November 7, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
