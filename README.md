@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Gerald Weinberg*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 4:04 AM
+  Last Refresh : Tuesday, November 7, 2023, 5:29 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
