@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every time you improve process, work becomes harder.
+> ### Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 >
-> ~ *Daniel T. Barry*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 12:04 AM
+  Last Refresh : Tuesday, November 7, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
