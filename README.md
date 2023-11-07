@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### It’s all talk until the code runs.
 >
-> ~ *Friedrich Bauer*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 6, 2023, 8:04 PM
+  Last Refresh : Monday, November 6, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
