@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Marijn Haverbeke*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 10:04 AM
+  Last Refresh : Tuesday, November 7, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
