@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Robert C. Martin*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 6, 2023, 7:12 PM
+  Last Refresh : Monday, November 6, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
