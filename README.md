@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 9:04 AM
+  Last Refresh : Tuesday, November 7, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
