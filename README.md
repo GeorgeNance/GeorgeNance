@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Ted Nelson*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 8:04 AM
+  Last Refresh : Tuesday, November 7, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
