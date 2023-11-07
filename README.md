@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 >
-> ~ *Bill Gates*
+> ~ *P. J. Plauger*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 2:04 PM
+  Last Refresh : Tuesday, November 7, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
