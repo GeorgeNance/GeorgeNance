@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Cool URIs don't change.
 >
-> ~ *Ken Thompson*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 6, 2023, 5:16 PM
+  Last Refresh : Monday, November 6, 2023, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
