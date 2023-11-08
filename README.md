@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Robert C. Martin*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 6:26 PM
+  Last Refresh : Tuesday, November 7, 2023, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
