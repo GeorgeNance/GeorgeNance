@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
+> ### Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load.
 >
-> ~ *George Boole*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 8, 2023, 11:04 AM
+  Last Refresh : Wednesday, November 8, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
