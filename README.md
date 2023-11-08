@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 7, 2023, 7:11 PM
+  Last Refresh : Tuesday, November 7, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
