@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 >
-> ~ *Ken Thompson*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 8, 2023, 6:06 AM
+  Last Refresh : Wednesday, November 8, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
