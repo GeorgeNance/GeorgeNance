@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Robert L. Glass*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 8, 2023, 6:26 PM
+  Last Refresh : Wednesday, November 8, 2023, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
