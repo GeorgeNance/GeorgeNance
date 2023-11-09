@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
-> ~ *Ivan Sutherland*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 9, 2023, 12:04 AM
+  Last Refresh : Thursday, November 9, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
