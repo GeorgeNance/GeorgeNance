@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Donald Knuth*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 9, 2023, 8:04 AM
+  Last Refresh : Thursday, November 9, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
