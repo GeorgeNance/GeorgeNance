@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Fred Brooks*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 8, 2023, 10:04 PM
+  Last Refresh : Wednesday, November 8, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
