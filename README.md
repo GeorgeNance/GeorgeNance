@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before.
 >
-> ~ *Elon Musk*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 9, 2023, 9:04 AM
+  Last Refresh : Thursday, November 9, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
