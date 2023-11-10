@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 10, 2023, 12:04 AM
+  Last Refresh : Friday, November 10, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
