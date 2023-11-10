@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
+> ### JavaScript is the world's most misunderstood programming language.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 10, 2023, 12:04 PM
+  Last Refresh : Friday, November 10, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
