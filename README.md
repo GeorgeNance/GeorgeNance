@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 >
-> ~ *Daniel T. Barry*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 10, 2023, 9:05 PM
+  Last Refresh : Friday, November 10, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
