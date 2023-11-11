@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Alan Turing*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 11:04 AM
+  Last Refresh : Saturday, November 11, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
