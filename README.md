@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 >
-> ~ *Richard Hamming*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 8:04 AM
+  Last Refresh : Saturday, November 11, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
