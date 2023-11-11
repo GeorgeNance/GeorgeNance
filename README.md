@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Nathaniel Borenstein*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 1:04 PM
+  Last Refresh : Saturday, November 11, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
