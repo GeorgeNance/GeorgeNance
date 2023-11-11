@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 >
-> ~ *Bill Gates*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 2:04 AM
+  Last Refresh : Saturday, November 11, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
