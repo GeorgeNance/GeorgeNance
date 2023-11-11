@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 >
 > ~ *Donald Knuth*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 3:04 AM
+  Last Refresh : Saturday, November 11, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
