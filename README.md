@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 >
-> ~ *Donald Knuth*
+> ~ *Simon Peyton Jones*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 4:04 AM
+  Last Refresh : Saturday, November 11, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
