@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 >
-> ~ *Alan Turing*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 3:04 PM
+  Last Refresh : Saturday, November 11, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
