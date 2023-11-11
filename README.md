@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 12:04 AM
+  Last Refresh : Saturday, November 11, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
