@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 11:04 PM
+  Last Refresh : Sunday, November 12, 2023, 12:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
