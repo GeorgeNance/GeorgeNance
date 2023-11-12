@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Harlan Mills*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 11, 2023, 10:04 PM
+  Last Refresh : Saturday, November 11, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
