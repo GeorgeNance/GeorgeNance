@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### When in doubt, use brute force.
 >
-> ~ *Marvin Minsky*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 12, 2023, 7:17 AM
+  Last Refresh : Sunday, November 12, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
