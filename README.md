@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 12, 2023, 11:04 AM
+  Last Refresh : Sunday, November 12, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
