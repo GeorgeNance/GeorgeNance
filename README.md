@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Low-level programming is good for the programmer’s soul.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *John Carmack*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 12, 2023, 9:04 AM
+  Last Refresh : Sunday, November 12, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
