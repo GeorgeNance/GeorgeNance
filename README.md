@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any product that needs a manual to work is broken.
+> ### My rule of thumb is 1/3 of the schedule for design, 1/6 for coding, 1/4 for component testing, and 1/4 for system testing.
 >
-> ~ *Elon Musk*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 12, 2023, 12:05 AM
+  Last Refresh : Sunday, November 12, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
