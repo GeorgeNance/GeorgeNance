@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 >
-> ~ *Marvin Minsky*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 13, 2023, 12:04 PM
+  Last Refresh : Monday, November 13, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
