@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Lawrence Flon*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 13, 2023, 6:05 AM
+  Last Refresh : Monday, November 13, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
