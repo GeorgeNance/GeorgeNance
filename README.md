@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Linus Torvalds*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 13, 2023, 9:04 AM
+  Last Refresh : Monday, November 13, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
