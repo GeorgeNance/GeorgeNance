@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really good programs live forever.
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Charles Simonyi*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 13, 2023, 5:16 PM
+  Last Refresh : Monday, November 13, 2023, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
