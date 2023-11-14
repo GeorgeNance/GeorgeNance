@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is easier to change the specification to fit the program than vice versa.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Alan Perlis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 14, 2023, 2:04 PM
+  Last Refresh : Tuesday, November 14, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
