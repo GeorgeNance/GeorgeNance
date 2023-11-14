@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 14, 2023, 1:05 AM
+  Last Refresh : Tuesday, November 14, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
