@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Marvin Minsky*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 14, 2023, 5:16 PM
+  Last Refresh : Tuesday, November 14, 2023, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
