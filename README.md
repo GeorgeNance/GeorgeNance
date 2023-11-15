@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### No code is faster than no code.
 >
-> ~ *Dennis Ritchie*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 14, 2023, 9:04 PM
+  Last Refresh : Tuesday, November 14, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
