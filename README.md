@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Jonathan Sachs*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 15, 2023, 7:04 AM
+  Last Refresh : Wednesday, November 15, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
