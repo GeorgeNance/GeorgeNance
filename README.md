@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
+> ### It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 >
-> ~ *Alan Perlis*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 15, 2023, 2:04 PM
+  Last Refresh : Wednesday, November 15, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
