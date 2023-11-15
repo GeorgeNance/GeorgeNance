@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Terry Winograd*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 15, 2023, 3:04 AM
+  Last Refresh : Wednesday, November 15, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
