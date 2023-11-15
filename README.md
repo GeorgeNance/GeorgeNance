@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Charles Babbage*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 14, 2023, 11:05 PM
+  Last Refresh : Wednesday, November 15, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
