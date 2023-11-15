@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Alan Perlis*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 15, 2023, 1:05 AM
+  Last Refresh : Wednesday, November 15, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
