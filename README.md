@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Ray Ozzie*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 16, 2023, 1:05 AM
+  Last Refresh : Thursday, November 16, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
