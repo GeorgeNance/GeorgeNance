@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 16, 2023, 3:04 AM
+  Last Refresh : Thursday, November 16, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
