@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Butler Lampson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 16, 2023, 4:04 AM
+  Last Refresh : Thursday, November 16, 2023, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
