@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Ken Thompson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 15, 2023, 6:28 PM
+  Last Refresh : Wednesday, November 15, 2023, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
