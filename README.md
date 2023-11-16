@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### There is never enough time to do it right, but there is always enough time to fix it or to do it over.
 >
-> ~ *Albert Einstein*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 16, 2023, 3:04 PM
+  Last Refresh : Thursday, November 16, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
