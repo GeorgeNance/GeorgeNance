@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 >
-> ~ *Alan Perlis*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 15, 2023, 7:15 PM
+  Last Refresh : Wednesday, November 15, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
