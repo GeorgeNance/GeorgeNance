@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.
+> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
 >
-> ~ *Tim Berners-Lee*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 16, 2023, 9:04 AM
+  Last Refresh : Thursday, November 16, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
