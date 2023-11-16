@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### When in doubt, leave it out.
 >
-> ~ *Fred Brooks*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 15, 2023, 11:05 PM
+  Last Refresh : Thursday, November 16, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
