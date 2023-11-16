@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Daniel T. Barry*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 16, 2023, 7:04 AM
+  Last Refresh : Thursday, November 16, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
