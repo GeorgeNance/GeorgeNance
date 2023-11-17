@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming language is low level when its programs require attention to the irrelevant.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Alan Perlis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 17, 2023, 2:04 PM
+  Last Refresh : Friday, November 17, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
