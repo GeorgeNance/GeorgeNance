@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
 >
-> ~ *Bill Gates*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 17, 2023, 10:04 AM
+  Last Refresh : Friday, November 17, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
