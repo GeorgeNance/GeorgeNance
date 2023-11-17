@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *George Boole*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 17, 2023, 4:04 AM
+  Last Refresh : Friday, November 17, 2023, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
