@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Once you stop learning you start dying.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 17, 2023, 7:04 AM
+  Last Refresh : Friday, November 17, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
