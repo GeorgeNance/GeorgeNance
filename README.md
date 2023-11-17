@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Elon Musk*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 17, 2023, 1:04 PM
+  Last Refresh : Friday, November 17, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
