@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 >
-> ~ *George Boole*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 17, 2023, 5:16 PM
+  Last Refresh : Friday, November 17, 2023, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
