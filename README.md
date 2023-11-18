@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 18, 2023, 12:04 PM
+  Last Refresh : Saturday, November 18, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
