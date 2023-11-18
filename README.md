@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Daniel T. Barry*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 18, 2023, 9:04 AM
+  Last Refresh : Saturday, November 18, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
