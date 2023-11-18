@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
+> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
 >
-> ~ *Vannevar Bush*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 17, 2023, 8:04 PM
+  Last Refresh : Friday, November 17, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
