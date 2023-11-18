@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Gary Kildall*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 18, 2023, 12:04 AM
+  Last Refresh : Saturday, November 18, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
