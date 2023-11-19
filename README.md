@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 19, 2023, 7:04 AM
+  Last Refresh : Sunday, November 19, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
