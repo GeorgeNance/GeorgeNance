@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Joel Spolsky*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 19, 2023, 9:04 AM
+  Last Refresh : Sunday, November 19, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
