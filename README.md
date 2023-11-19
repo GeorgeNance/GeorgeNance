@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Joshua Bloch*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 19, 2023, 6:04 AM
+  Last Refresh : Sunday, November 19, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
