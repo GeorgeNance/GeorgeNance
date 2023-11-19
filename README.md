@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any sufficiently advanced technology is indistinguishable from magic.
+> ### Low-level programming is good for the programmer’s soul.
 >
-> ~ *Arthur C. Clarke*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 18, 2023, 8:04 PM
+  Last Refresh : Saturday, November 18, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
