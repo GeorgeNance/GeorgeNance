@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Elon Musk*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 19, 2023, 8:04 AM
+  Last Refresh : Sunday, November 19, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
