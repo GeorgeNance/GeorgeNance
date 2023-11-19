@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Douglas Crockford*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 18, 2023, 7:16 PM
+  Last Refresh : Saturday, November 18, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
