@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Alan Perlis*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 20, 2023, 3:04 PM
+  Last Refresh : Monday, November 20, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
