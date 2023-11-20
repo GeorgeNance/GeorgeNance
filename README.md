@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
 >
-> ~ *Steve Wozniak*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 19, 2023, 5:17 PM
+  Last Refresh : Sunday, November 19, 2023, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
