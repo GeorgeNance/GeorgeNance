@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One accurate measurement is worth more than a thousand expert opinions.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Grace Hopper*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 20, 2023, 4:04 AM
+  Last Refresh : Monday, November 20, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
