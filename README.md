@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 19, 2023, 8:04 PM
+  Last Refresh : Sunday, November 19, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
