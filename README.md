@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Alan Kay*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 20, 2023, 1:05 AM
+  Last Refresh : Monday, November 20, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
