@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Danny Hillis*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 21, 2023, 1:05 AM
+  Last Refresh : Tuesday, November 21, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
