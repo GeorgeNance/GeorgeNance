@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
 > ~ *Daniel T. Barry*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 21, 2023, 12:04 PM
+  Last Refresh : Tuesday, November 21, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
