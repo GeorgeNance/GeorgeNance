@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 >
-> ~ *Toru Iwatani*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 21, 2023, 2:04 AM
+  Last Refresh : Tuesday, November 21, 2023, 3:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
