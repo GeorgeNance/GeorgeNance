@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 22, 2023, 6:06 AM
+  Last Refresh : Wednesday, November 22, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
