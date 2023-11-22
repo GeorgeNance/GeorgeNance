@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Linus Torvalds*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 22, 2023, 7:04 AM
+  Last Refresh : Wednesday, November 22, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
