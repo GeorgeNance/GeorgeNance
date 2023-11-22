@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### If you learn how to solve problems, you can go through life and do pretty well.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 22, 2023, 3:04 PM
+  Last Refresh : Wednesday, November 22, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
