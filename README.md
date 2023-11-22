@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *Henry Petroski*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 21, 2023, 10:04 PM
+  Last Refresh : Tuesday, November 21, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
