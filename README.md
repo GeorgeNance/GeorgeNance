@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Marvin Minsky*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 22, 2023, 10:04 AM
+  Last Refresh : Wednesday, November 22, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
