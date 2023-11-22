@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's not so important what you work on, so long as you're not wasting your time.
+> ### Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Anders Hejlsberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 22, 2023, 8:04 AM
+  Last Refresh : Wednesday, November 22, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
