@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.
+> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
 >
-> ~ *Daniel T. Barry*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 21, 2023, 5:17 PM
+  Last Refresh : Tuesday, November 21, 2023, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
