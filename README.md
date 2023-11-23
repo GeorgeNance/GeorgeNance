@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 >
-> ~ *Terry Winograd*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 22, 2023, 7:14 PM
+  Last Refresh : Wednesday, November 22, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
