@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 23, 2023, 5:06 AM
+  Last Refresh : Thursday, November 23, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
