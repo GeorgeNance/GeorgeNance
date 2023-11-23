@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you learn how to solve problems, you can go through life and do pretty well.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Gary Kildall*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 22, 2023, 4:04 PM
+  Last Refresh : Wednesday, November 22, 2023, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
