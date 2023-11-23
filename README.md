@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Alan Turing*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 22, 2023, 8:04 PM
+  Last Refresh : Wednesday, November 22, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
