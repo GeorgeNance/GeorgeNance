@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Ivan Sutherland*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 12:04 PM
+  Last Refresh : Friday, November 24, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
