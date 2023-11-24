@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 12:04 AM
+  Last Refresh : Friday, November 24, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
