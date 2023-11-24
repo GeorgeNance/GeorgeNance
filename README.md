@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *John von Neumann*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 4:04 AM
+  Last Refresh : Friday, November 24, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
