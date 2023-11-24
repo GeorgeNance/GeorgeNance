@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### Once the computers got control, we might never get it back.
 >
-> ~ *Dennis Ritchie*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 2:04 AM
+  Last Refresh : Friday, November 24, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
