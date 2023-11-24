@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### There are few sources of energy so powerful as a procrastinating grad student.
 >
-> ~ *Bill Gates*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 10:04 AM
+  Last Refresh : Friday, November 24, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
