@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
-> ~ *Fred Brooks*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 23, 2023, 5:16 PM
+  Last Refresh : Thursday, November 23, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
