@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documentation is a love letter that you write to your future self.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Damian Conway*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 1:04 PM
+  Last Refresh : Friday, November 24, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
