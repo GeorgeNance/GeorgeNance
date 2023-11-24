@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 23, 2023, 8:04 PM
+  Last Refresh : Thursday, November 23, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
