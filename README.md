@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
+> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
 >
-> ~ *Bill Gates*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 23, 2023, 11:05 PM
+  Last Refresh : Friday, November 24, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
