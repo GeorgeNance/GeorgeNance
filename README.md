@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Linus Torvalds*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 23, 2023, 7:12 PM
+  Last Refresh : Thursday, November 23, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
