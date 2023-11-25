@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
+> ### Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.
 >
-> ~ *Laurence J. Peter*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 12:04 PM
+  Last Refresh : Saturday, November 25, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
