@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Ken Thompson*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 3:04 AM
+  Last Refresh : Saturday, November 25, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
