@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Jamie Zawinski*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 1:04 AM
+  Last Refresh : Saturday, November 25, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
