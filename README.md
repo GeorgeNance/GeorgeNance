@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 >
-> ~ *Maurice Wilkes*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 9:04 AM
+  Last Refresh : Saturday, November 25, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
