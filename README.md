@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 11:05 PM
+  Last Refresh : Saturday, November 25, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
