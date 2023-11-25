@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Dennis Ritchie*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 7:11 PM
+  Last Refresh : Friday, November 24, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
