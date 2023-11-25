@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Bill Gates*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, November 24, 2023, 6:26 PM
+  Last Refresh : Friday, November 24, 2023, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
