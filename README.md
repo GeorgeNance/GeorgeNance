@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Richard Hamming*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 10:04 AM
+  Last Refresh : Saturday, November 25, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
