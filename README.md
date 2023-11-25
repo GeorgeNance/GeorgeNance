@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Douglas Crockford*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 7:04 AM
+  Last Refresh : Saturday, November 25, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
