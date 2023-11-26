@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Alan Turing*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 5:18 PM
+  Last Refresh : Saturday, November 25, 2023, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
