@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 >
-> ~ *Fred Brooks*
+> ~ *Tom Cargill*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 7:15 PM
+  Last Refresh : Saturday, November 25, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
