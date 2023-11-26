@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 >
-> ~ *John von Neumann*
+> ~ *Henry Petroski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 26, 2023, 2:04 PM
+  Last Refresh : Sunday, November 26, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
