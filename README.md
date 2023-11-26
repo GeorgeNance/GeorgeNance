@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 26, 2023, 2:04 AM
+  Last Refresh : Sunday, November 26, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
