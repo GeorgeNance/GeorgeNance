@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 26, 2023, 10:04 AM
+  Last Refresh : Sunday, November 26, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
