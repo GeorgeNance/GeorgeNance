@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right.
+> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> ~ *Michael A. Jackson*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 26, 2023, 1:04 PM
+  Last Refresh : Sunday, November 26, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
