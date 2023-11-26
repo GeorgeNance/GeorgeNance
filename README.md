@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 >
-> ~ *Richard Stallman*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 26, 2023, 12:04 AM
+  Last Refresh : Sunday, November 26, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
