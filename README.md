@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 11:04 PM
+  Last Refresh : Sunday, November 26, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
