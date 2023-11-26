@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *David Parnas*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, November 25, 2023, 10:04 PM
+  Last Refresh : Saturday, November 25, 2023, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
