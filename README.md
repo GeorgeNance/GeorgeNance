@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 27, 2023, 3:04 PM
+  Last Refresh : Monday, November 27, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
