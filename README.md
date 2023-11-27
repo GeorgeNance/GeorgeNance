@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Fred Brooks*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 27, 2023, 12:04 AM
+  Last Refresh : Monday, November 27, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
