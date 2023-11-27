@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 26, 2023, 11:05 PM
+  Last Refresh : Monday, November 27, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
