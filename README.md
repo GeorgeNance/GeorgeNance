@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 26, 2023, 10:04 PM
+  Last Refresh : Sunday, November 26, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
