@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 >
-> ~ *Henry Ford*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, November 26, 2023, 6:28 PM
+  Last Refresh : Sunday, November 26, 2023, 7:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
