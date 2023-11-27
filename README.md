@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Dennis Ritchie*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 27, 2023, 4:04 AM
+  Last Refresh : Monday, November 27, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
