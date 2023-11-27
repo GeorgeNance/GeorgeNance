@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 27, 2023, 11:04 AM
+  Last Refresh : Monday, November 27, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
