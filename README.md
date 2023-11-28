@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Elon Musk*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, November 27, 2023, 8:04 PM
+  Last Refresh : Monday, November 27, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
