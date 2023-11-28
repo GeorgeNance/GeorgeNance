@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Ken Thompson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 5:09 AM
+  Last Refresh : Tuesday, November 28, 2023, 6:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
