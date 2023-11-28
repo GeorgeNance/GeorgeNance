@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Albert Einstein*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 10:04 AM
+  Last Refresh : Tuesday, November 28, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
