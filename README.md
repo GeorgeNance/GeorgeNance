@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Kent Beck*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 12:04 AM
+  Last Refresh : Tuesday, November 28, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
