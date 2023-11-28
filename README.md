@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.
+> ### Within C++, there is a much smaller and cleaner language struggling to get out.
 >
-> ~ *Carl Friedrich Gauss*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 8:04 AM
+  Last Refresh : Tuesday, November 28, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
