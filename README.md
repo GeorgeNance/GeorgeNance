@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within C++, there is a much smaller and cleaner language struggling to get out.
+> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 9:04 AM
+  Last Refresh : Tuesday, November 28, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
