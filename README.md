@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 29, 2023, 3:04 PM
+  Last Refresh : Wednesday, November 29, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
