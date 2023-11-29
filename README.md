@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is not the task of the University to offer what society asks for, but to give what society needs.
+> ### No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Mark Gibbs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 7:14 PM
+  Last Refresh : Tuesday, November 28, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
