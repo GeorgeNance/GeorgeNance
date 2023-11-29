@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### JavaScript is the world's most misunderstood programming language.
+> ### There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?
 >
-> ~ *Douglas Crockford*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 11:05 PM
+  Last Refresh : Wednesday, November 29, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
