@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Vannevar Bush*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 29, 2023, 2:04 AM
+  Last Refresh : Wednesday, November 29, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
