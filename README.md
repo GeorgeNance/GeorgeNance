@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is simplicity? Simplicity is the shortest path to a solution.
+> ### It is not the task of the University to offer what society asks for, but to give what society needs.
 >
-> ~ *Ward Cunningham*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 6:28 PM
+  Last Refresh : Tuesday, November 28, 2023, 7:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
