@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *Bill Gates*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, November 28, 2023, 5:17 PM
+  Last Refresh : Tuesday, November 28, 2023, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
