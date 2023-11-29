@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Albert Einstein*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 29, 2023, 7:04 AM
+  Last Refresh : Wednesday, November 29, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
