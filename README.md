@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### One man's constant is another man's variable.
 >
-> ~ *Robert C. Martin*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 29, 2023, 3:04 AM
+  Last Refresh : Wednesday, November 29, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
