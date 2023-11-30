@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Butler Lampson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 3:04 AM
+  Last Refresh : Thursday, November 30, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
