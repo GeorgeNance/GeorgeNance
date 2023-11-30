@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### Once you stop learning you start dying.
 >
-> ~ *Joshua Bloch*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, November 29, 2023, 7:14 PM
+  Last Refresh : Wednesday, November 29, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
