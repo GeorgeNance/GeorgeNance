@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
 >
-> ~ *Lawrence Flon*
+> ~ *Robert L. Glass*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 11:05 AM
+  Last Refresh : Thursday, November 30, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
