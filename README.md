@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Richard Hamming*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 5:06 AM
+  Last Refresh : Thursday, November 30, 2023, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
