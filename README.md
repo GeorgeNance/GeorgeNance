@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Robert L. Glass*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 12:04 PM
+  Last Refresh : Thursday, November 30, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
