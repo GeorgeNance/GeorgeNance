@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Elon Musk*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 8:04 AM
+  Last Refresh : Thursday, November 30, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
