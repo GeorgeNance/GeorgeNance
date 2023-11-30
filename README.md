@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 4:04 AM
+  Last Refresh : Thursday, November 30, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
