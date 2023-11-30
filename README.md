@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Ted Nelson*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 7:04 AM
+  Last Refresh : Thursday, November 30, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
