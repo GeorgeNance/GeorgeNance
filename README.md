@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Rick Osborne*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 1, 2023, 4:04 AM
+  Last Refresh : Friday, December 1, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
