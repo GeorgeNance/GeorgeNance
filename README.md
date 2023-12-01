@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Fred Brooks*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 8:04 PM
+  Last Refresh : Thursday, November 30, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
