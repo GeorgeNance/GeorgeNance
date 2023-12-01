@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 1, 2023, 6:06 AM
+  Last Refresh : Friday, December 1, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
