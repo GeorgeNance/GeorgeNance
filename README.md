@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect.
 >
-> ~ *David Parnas*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 1, 2023, 9:04 AM
+  Last Refresh : Friday, December 1, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
