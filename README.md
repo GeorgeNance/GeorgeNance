@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Linus Torvalds*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 6:30 PM
+  Last Refresh : Thursday, November 30, 2023, 7:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
