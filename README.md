@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, November 30, 2023, 5:19 PM
+  Last Refresh : Thursday, November 30, 2023, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
