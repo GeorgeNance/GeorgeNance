@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
 >
-> ~ *David Parnas*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 1, 2023, 2:04 PM
+  Last Refresh : Friday, December 1, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
