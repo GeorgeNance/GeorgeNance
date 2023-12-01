@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
 >
-> ~ *Gary Kildall*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 1, 2023, 3:04 PM
+  Last Refresh : Friday, December 1, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
