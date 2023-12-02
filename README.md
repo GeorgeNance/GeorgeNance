@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 6:04 AM
+  Last Refresh : Saturday, December 2, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
