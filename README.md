@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Fred Brooks*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 12:04 PM
+  Last Refresh : Saturday, December 2, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
