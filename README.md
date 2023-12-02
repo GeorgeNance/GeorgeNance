@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Fred Brooks*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 2:04 PM
+  Last Refresh : Saturday, December 2, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
