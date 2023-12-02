@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 >
-> ~ *Elon Musk*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 2:04 AM
+  Last Refresh : Saturday, December 2, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
