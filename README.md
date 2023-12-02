@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 >
-> ~ *Ray Ozzie*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 12:04 AM
+  Last Refresh : Saturday, December 2, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
