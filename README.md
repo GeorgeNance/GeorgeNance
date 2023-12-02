@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *John von Neumann*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 1, 2023, 5:16 PM
+  Last Refresh : Friday, December 1, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
