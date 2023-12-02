@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Kent Beck*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 8:04 AM
+  Last Refresh : Saturday, December 2, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
