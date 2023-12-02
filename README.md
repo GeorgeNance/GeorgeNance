@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Charles Simonyi*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 1:04 AM
+  Last Refresh : Saturday, December 2, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
