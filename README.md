@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.
+> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
 >
 > ~ *Richard Stallman*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 1, 2023, 8:04 PM
+  Last Refresh : Friday, December 1, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
