@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Fred Brooks*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 2:04 AM
+  Last Refresh : Sunday, December 3, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
