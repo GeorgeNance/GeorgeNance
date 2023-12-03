@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 5:18 PM
+  Last Refresh : Saturday, December 2, 2023, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
