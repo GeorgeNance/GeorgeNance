@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### Simplicity does not precede complexity, but follows it.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 3:04 PM
+  Last Refresh : Sunday, December 3, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
