@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Richard Hamming*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 1:05 AM
+  Last Refresh : Sunday, December 3, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
