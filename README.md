@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### Debugging time increases as a square of the program’s size.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Chris Wenham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 9:04 PM
+  Last Refresh : Saturday, December 2, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
