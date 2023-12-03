@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Brian Kernighan*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 3:04 AM
+  Last Refresh : Sunday, December 3, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
