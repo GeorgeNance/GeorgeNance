@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Bill Gates*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 6:04 AM
+  Last Refresh : Sunday, December 3, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
