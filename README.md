@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 2, 2023, 4:04 PM
+  Last Refresh : Saturday, December 2, 2023, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
