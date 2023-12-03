@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Alan Turing*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 1:04 PM
+  Last Refresh : Sunday, December 3, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
