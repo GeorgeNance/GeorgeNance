@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Harlan Mills*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 7:15 PM
+  Last Refresh : Sunday, December 3, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
