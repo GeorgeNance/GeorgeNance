@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 4, 2023, 4:04 AM
+  Last Refresh : Monday, December 4, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
