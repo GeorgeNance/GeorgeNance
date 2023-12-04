@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Within a computer, natural language is unnatural.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Alan Perlis*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 4, 2023, 3:04 PM
+  Last Refresh : Monday, December 4, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
