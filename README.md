@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Fred Brooks*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 5:17 PM
+  Last Refresh : Sunday, December 3, 2023, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
