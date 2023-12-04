@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Thomas J. Watson*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 8:04 PM
+  Last Refresh : Sunday, December 3, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
