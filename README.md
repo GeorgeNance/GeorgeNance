@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 4, 2023, 8:04 AM
+  Last Refresh : Monday, December 4, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
