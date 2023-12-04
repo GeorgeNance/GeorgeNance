@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 4, 2023, 11:05 AM
+  Last Refresh : Monday, December 4, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
