@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *John von Neumann*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 3, 2023, 10:04 PM
+  Last Refresh : Sunday, December 3, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
