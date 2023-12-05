@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Pamela Zave*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 4, 2023, 8:05 PM
+  Last Refresh : Monday, December 4, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
