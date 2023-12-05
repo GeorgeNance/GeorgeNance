@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Alan Perlis*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 5, 2023, 1:04 PM
+  Last Refresh : Tuesday, December 5, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
