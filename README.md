@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All too many of our software systems are, architecturally, little more than shantytowns.
+> ### It’s all talk until the code runs.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 4, 2023, 6:29 PM
+  Last Refresh : Monday, December 4, 2023, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
