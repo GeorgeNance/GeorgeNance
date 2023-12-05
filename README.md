@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It’s all talk until the code runs.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Ward Cunningham*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 4, 2023, 7:15 PM
+  Last Refresh : Monday, December 4, 2023, 8:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
