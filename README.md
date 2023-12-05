@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Steve Jobs*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 5, 2023, 5:09 AM
+  Last Refresh : Tuesday, December 5, 2023, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
