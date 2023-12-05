@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+> ### You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.
 >
-> ~ *Linus Torvalds*
+> ~ *John Romero*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 5, 2023, 7:04 AM
+  Last Refresh : Tuesday, December 5, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
