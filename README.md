@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
 >
-> ~ *Tom DeMarco*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 5, 2023, 6:06 AM
+  Last Refresh : Tuesday, December 5, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
