@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *John Warnock*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 4, 2023, 5:17 PM
+  Last Refresh : Monday, December 4, 2023, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
