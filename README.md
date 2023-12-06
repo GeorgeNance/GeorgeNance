@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### To iterate is human, to recurse divine.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 6, 2023, 10:04 AM
+  Last Refresh : Wednesday, December 6, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
