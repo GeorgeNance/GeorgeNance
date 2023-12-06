@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 6, 2023, 9:04 AM
+  Last Refresh : Wednesday, December 6, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
