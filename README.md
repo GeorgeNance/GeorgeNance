@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 6, 2023, 11:04 AM
+  Last Refresh : Wednesday, December 6, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
