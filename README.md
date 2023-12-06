@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 6, 2023, 2:04 PM
+  Last Refresh : Wednesday, December 6, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
