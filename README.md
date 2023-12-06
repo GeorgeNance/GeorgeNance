@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A number of studies have shown testing not very effective at finding bugs.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Daniel T. Barry*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 5, 2023, 8:04 PM
+  Last Refresh : Tuesday, December 5, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
