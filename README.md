@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Albert Einstein*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 5, 2023, 9:05 PM
+  Last Refresh : Tuesday, December 5, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
