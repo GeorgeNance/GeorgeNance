@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Donald Knuth*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 5, 2023, 7:15 PM
+  Last Refresh : Tuesday, December 5, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
