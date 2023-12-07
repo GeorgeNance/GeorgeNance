@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
 >
-> ~ *Randall E. Stross*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 3:04 PM
+  Last Refresh : Thursday, December 7, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
