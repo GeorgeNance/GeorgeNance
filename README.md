@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### When debugging, novices insert corrective code; experts remove defective code.
 >
-> ~ *Robert C. Martin*
+> ~ *Richard E. Pattis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 6, 2023, 5:17 PM
+  Last Refresh : Wednesday, December 6, 2023, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
