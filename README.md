@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Ray Ozzie*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 6, 2023, 4:04 PM
+  Last Refresh : Wednesday, December 6, 2023, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
