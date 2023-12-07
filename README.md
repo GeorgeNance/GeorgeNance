@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 >
-> ~ *Charles Simonyi*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 6, 2023, 11:05 PM
+  Last Refresh : Thursday, December 7, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
