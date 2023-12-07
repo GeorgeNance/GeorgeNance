@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal.
+> ### It is easier to change the specification to fit the program than vice versa.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 1:05 AM
+  Last Refresh : Thursday, December 7, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
