@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Michael Hawley*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 5:07 AM
+  Last Refresh : Thursday, December 7, 2023, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
