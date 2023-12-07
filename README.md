@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.
+> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 >
-> ~ *Gary Kildall*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 3:04 AM
+  Last Refresh : Thursday, December 7, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
