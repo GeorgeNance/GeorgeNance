@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Alan Turing*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 12:04 PM
+  Last Refresh : Thursday, December 7, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
