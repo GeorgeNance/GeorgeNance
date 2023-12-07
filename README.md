@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+> ### Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.
 >
-> ~ *Seymour Cray*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 9:04 AM
+  Last Refresh : Thursday, December 7, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
