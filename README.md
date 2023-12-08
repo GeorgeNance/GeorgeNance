@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 8, 2023, 6:05 AM
+  Last Refresh : Friday, December 8, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
