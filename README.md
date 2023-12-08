@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### Good people with a good process will outperform good people with no process every time.
 >
-> ~ *Richard Feynman*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 8, 2023, 7:04 AM
+  Last Refresh : Friday, December 8, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
