@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Grady Booch*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 8, 2023, 8:04 AM
+  Last Refresh : Friday, December 8, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
