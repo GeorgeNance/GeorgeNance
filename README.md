@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
 >
-> ~ *Alan Perlis*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 8, 2023, 3:04 AM
+  Last Refresh : Friday, December 8, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
