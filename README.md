@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Donald Knuth*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 8, 2023, 2:04 AM
+  Last Refresh : Friday, December 8, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
