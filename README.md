@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Rob Pike*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 4:04 PM
+  Last Refresh : Thursday, December 7, 2023, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
