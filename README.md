@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Alan Perlis*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 7:15 PM
+  Last Refresh : Thursday, December 7, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
