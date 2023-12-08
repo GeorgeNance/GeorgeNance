@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Kevlin Henney*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 7, 2023, 8:04 PM
+  Last Refresh : Thursday, December 7, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
