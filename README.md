@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### The cheapest, fastest, and most reliable components are those that aren’t there.
 >
-> ~ *Douglas Crockford*
+> ~ *Gordon Bell*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 12:04 PM
+  Last Refresh : Saturday, December 9, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
