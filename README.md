@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines take me by surprise with great frequency.
+> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 >
-> ~ *Alan Turing*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 9:04 AM
+  Last Refresh : Saturday, December 9, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
