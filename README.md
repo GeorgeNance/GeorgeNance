@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *David Parnas*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 8:04 AM
+  Last Refresh : Saturday, December 9, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
