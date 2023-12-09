@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Steve Jobs*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 12:04 AM
+  Last Refresh : Saturday, December 9, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
