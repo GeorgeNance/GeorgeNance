@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 3:04 PM
+  Last Refresh : Saturday, December 9, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
