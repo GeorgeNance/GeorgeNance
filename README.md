@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Dennis Ritchie*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 8, 2023, 7:13 PM
+  Last Refresh : Friday, December 8, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
