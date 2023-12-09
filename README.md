@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming.
+> ### Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 >
-> ~ *Harlan Mills*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 8, 2023, 6:27 PM
+  Last Refresh : Friday, December 8, 2023, 7:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
