@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cheapest, fastest, and most reliable components are those that aren’t there.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Gordon Bell*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 1:04 PM
+  Last Refresh : Saturday, December 9, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
