@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Douglas Crockford*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 2:04 AM
+  Last Refresh : Sunday, December 10, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
