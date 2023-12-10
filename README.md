@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Kent Beck*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 10:04 AM
+  Last Refresh : Sunday, December 10, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
