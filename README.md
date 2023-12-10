@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 5:05 AM
+  Last Refresh : Sunday, December 10, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
