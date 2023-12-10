@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 11:05 AM
+  Last Refresh : Sunday, December 10, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
