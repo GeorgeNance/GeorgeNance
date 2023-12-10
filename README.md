@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Jim Horning*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 6:30 PM
+  Last Refresh : Saturday, December 9, 2023, 7:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
