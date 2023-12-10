@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Friedrich Bauer*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 4:04 PM
+  Last Refresh : Saturday, December 9, 2023, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
