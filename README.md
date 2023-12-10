@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Alan Kay*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 6:04 AM
+  Last Refresh : Sunday, December 10, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
