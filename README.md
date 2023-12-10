@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Bdale Garbee*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 3:04 AM
+  Last Refresh : Sunday, December 10, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
