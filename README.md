@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Alan Turing*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 12:04 AM
+  Last Refresh : Sunday, December 10, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
