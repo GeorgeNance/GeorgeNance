@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Linus Torvalds*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 9, 2023, 5:19 PM
+  Last Refresh : Saturday, December 9, 2023, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
