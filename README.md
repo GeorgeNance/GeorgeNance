@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.
+> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 >
-> ~ *Andy Hertzfeld*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 2:04 PM
+  Last Refresh : Sunday, December 10, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
