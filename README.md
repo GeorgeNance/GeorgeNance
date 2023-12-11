@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Terry Winograd*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 4:04 AM
+  Last Refresh : Monday, December 11, 2023, 5:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
