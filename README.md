@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The proper use of comments is to compensate for our failure to express ourself in code.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Robert C. Martin*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 3:04 PM
+  Last Refresh : Monday, December 11, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
