@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Daniel T. Barry*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 12:04 PM
+  Last Refresh : Monday, December 11, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
