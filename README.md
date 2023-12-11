@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *Jim Horning*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 8:04 AM
+  Last Refresh : Monday, December 11, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
