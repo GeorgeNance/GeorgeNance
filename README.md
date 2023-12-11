@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
 >
-> ~ *Fred Brooks*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 5:18 PM
+  Last Refresh : Sunday, December 10, 2023, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
