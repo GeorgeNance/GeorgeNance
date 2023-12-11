@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Unix is simple. It just takes a genius to understand its simplicity.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Dennis Ritchie*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 7:04 AM
+  Last Refresh : Monday, December 11, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
