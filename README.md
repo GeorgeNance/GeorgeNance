@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### Simplicity is prerequisite for reliability.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 12:04 AM
+  Last Refresh : Monday, December 11, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
