@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 >
-> ~ *Richard Hamming*
+> ~ *Gerald Weinberg*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 1:04 PM
+  Last Refresh : Monday, December 11, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
