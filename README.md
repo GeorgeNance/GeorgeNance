@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.
+> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 >
-> ~ *Douglas Crockford*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 10, 2023, 6:29 PM
+  Last Refresh : Sunday, December 10, 2023, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
