@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *John von Neumann*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 6:06 AM
+  Last Refresh : Monday, December 11, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
