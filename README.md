@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 >
-> ~ *Grady Booch*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 3:04 PM
+  Last Refresh : Tuesday, December 12, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
