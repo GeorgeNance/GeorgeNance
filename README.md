@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Alan Turing*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 4:04 AM
+  Last Refresh : Tuesday, December 12, 2023, 5:07 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
