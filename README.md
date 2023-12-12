@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 11:05 PM
+  Last Refresh : Tuesday, December 12, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
