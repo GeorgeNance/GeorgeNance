@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 1:05 AM
+  Last Refresh : Tuesday, December 12, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
