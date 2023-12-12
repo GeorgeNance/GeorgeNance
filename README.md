@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *Daniel T. Barry*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 9:04 AM
+  Last Refresh : Tuesday, December 12, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
