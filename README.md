@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Vannevar Bush*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 3:04 AM
+  Last Refresh : Tuesday, December 12, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
