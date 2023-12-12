@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it.
 >
-> ~ *Douglas Crockford*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 11, 2023, 5:17 PM
+  Last Refresh : Monday, December 11, 2023, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
