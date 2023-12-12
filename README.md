@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Douglas Crockford*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 6:06 AM
+  Last Refresh : Tuesday, December 12, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
