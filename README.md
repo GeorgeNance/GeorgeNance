@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 >
-> ~ *Anonymous*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 10:04 AM
+  Last Refresh : Tuesday, December 12, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
