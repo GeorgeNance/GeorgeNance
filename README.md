@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 >
-> ~ *Charles Simonyi*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 11:05 AM
+  Last Refresh : Tuesday, December 12, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
