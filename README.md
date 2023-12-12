@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Don Norman*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 2:04 PM
+  Last Refresh : Tuesday, December 12, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
