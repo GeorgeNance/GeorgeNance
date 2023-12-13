@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 11:05 PM
+  Last Refresh : Wednesday, December 13, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
