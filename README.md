@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 6:28 PM
+  Last Refresh : Tuesday, December 12, 2023, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
