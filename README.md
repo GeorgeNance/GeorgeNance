@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 12, 2023, 5:17 PM
+  Last Refresh : Tuesday, December 12, 2023, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
