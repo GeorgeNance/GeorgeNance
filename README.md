@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 13, 2023, 2:04 AM
+  Last Refresh : Wednesday, December 13, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
