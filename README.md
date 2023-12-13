@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Ivan Sutherland*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 13, 2023, 4:04 AM
+  Last Refresh : Wednesday, December 13, 2023, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
