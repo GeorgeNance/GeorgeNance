@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 13, 2023, 12:04 PM
+  Last Refresh : Wednesday, December 13, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
