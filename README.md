@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 13, 2023, 9:04 AM
+  Last Refresh : Wednesday, December 13, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
