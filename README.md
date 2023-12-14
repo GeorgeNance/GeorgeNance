@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 10:04 AM
+  Last Refresh : Thursday, December 14, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
