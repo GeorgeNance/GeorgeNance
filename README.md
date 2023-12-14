@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 12:04 AM
+  Last Refresh : Thursday, December 14, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
