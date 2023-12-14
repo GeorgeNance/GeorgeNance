@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Ray Ozzie*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 1:05 AM
+  Last Refresh : Thursday, December 14, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
