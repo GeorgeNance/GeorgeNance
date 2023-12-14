@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Albert Einstein*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 8:04 AM
+  Last Refresh : Thursday, December 14, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
