@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 >
-> ~ *Martin Fowler*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 12:04 PM
+  Last Refresh : Thursday, December 14, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
