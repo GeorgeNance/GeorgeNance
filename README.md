@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Alan Turing*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 2:04 PM
+  Last Refresh : Thursday, December 14, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
