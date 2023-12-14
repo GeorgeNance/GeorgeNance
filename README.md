@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 2:04 AM
+  Last Refresh : Thursday, December 14, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
