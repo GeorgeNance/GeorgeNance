@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Fred Brooks*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 13, 2023, 6:28 PM
+  Last Refresh : Wednesday, December 13, 2023, 7:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
