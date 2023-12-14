@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
 >
-> ~ *Douglas Crockford*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ make it smaller. If we could just get it down to what it does really well and re
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 5:06 AM
+  Last Refresh : Thursday, December 14, 2023, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
