@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 >
-> ~ *Danny Hillis*
+> ~ *Richard P. Gabriel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 4:04 PM
+  Last Refresh : Thursday, December 14, 2023, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
