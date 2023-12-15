@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Albert Einstein*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 15, 2023, 12:04 PM
+  Last Refresh : Friday, December 15, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
