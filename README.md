@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 15, 2023, 2:04 PM
+  Last Refresh : Friday, December 15, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
