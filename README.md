@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Unix is simple. It just takes a genius to understand its simplicity.
 >
-> ~ *Ken Thompson*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 10:04 PM
+  Last Refresh : Thursday, December 14, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
