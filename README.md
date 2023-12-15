@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### The most important part of writing a program is designing the data structures.
 >
-> ~ *Henry Ford*
+> ~ *Dan Bricklin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 15, 2023, 10:04 AM
+  Last Refresh : Friday, December 15, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
