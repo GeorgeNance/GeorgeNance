@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
+> ### The best way to know that you have found the last bug is never to find the first bug.
 >
-> ~ *Richard P. Gabriel*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 14, 2023, 5:17 PM
+  Last Refresh : Thursday, December 14, 2023, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
