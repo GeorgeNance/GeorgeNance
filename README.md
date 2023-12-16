@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 >
-> ~ *Gerald Weinberg*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 15, 2023, 5:17 PM
+  Last Refresh : Friday, December 15, 2023, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
