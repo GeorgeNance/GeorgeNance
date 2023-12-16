@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 16, 2023, 2:04 AM
+  Last Refresh : Saturday, December 16, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
