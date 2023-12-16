@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
 >
-> ~ *Donald Knuth*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 15, 2023, 11:05 PM
+  Last Refresh : Saturday, December 16, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
