@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Pete Cordell*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 15, 2023, 7:13 PM
+  Last Refresh : Friday, December 15, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
