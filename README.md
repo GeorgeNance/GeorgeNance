@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
 >
-> ~ *Ken Thompson*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 15, 2023, 9:04 PM
+  Last Refresh : Friday, December 15, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
