@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 12:04 PM
+  Last Refresh : Sunday, December 17, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
