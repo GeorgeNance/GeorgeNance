@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
 >
-> ~ *Fred Brooks*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 2:04 AM
+  Last Refresh : Sunday, December 17, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
