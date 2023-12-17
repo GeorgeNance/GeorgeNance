@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Albert Einstein*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 7:04 AM
+  Last Refresh : Sunday, December 17, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
