@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Daniel T. Barry*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 6:04 AM
+  Last Refresh : Sunday, December 17, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
