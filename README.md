@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
 >
-> ~ *David Leinweber*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 1:04 PM
+  Last Refresh : Sunday, December 17, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
