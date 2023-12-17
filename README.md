@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Bob Carr*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 10:04 AM
+  Last Refresh : Sunday, December 17, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
