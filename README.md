@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
 >
-> ~ *Toru Iwatani*
+> ~ *Sean Parent*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 16, 2023, 4:04 PM
+  Last Refresh : Saturday, December 16, 2023, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
