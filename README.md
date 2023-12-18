@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### Just because you've implemented something doesn't mean you understand it.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Brian Cantwell Smith*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 18, 2023, 1:11 AM
+  Last Refresh : Monday, December 18, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
