@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 18, 2023, 5:06 AM
+  Last Refresh : Monday, December 18, 2023, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
