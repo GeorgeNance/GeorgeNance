@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What one programmer can do in one month, two programmers can do in two months.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Fred Brooks*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 18, 2023, 6:06 AM
+  Last Refresh : Monday, December 18, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
