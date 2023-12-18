@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Brian Kernighan*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 10:04 PM
+  Last Refresh : Sunday, December 17, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
