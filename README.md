@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Martin Fowler*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 6:28 PM
+  Last Refresh : Sunday, December 17, 2023, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
