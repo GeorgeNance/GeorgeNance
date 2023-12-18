@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Object-oriented design is the roman numerals of computing.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Rob Pike*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 9:05 PM
+  Last Refresh : Sunday, December 17, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
