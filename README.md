@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 17, 2023, 7:15 PM
+  Last Refresh : Sunday, December 17, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
