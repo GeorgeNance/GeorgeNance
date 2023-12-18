@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
 > ~ *Linus Torvalds*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 18, 2023, 2:04 PM
+  Last Refresh : Monday, December 18, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
