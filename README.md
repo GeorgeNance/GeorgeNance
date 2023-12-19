@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+> ### I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care.
 >
-> ~ *Ted Nelson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 11:04 AM
+  Last Refresh : Tuesday, December 19, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
