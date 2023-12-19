@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Charles Simonyi*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 8:04 AM
+  Last Refresh : Tuesday, December 19, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
