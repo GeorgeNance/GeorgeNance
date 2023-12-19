@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Bill Gates*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 9:04 AM
+  Last Refresh : Tuesday, December 19, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
