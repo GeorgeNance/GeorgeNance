@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important thing is to be able to think what you want, not to say what you want.
+> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 2:04 PM
+  Last Refresh : Tuesday, December 19, 2023, 3:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
