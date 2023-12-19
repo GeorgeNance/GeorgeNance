@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Albert Einstein*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 18, 2023, 8:04 PM
+  Last Refresh : Monday, December 18, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
