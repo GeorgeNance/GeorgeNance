@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Gerald Weinberg*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 18, 2023, 5:17 PM
+  Last Refresh : Monday, December 18, 2023, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
