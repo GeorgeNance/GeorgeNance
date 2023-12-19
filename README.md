@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 >
-> ~ *L. Peter Deutsch*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 6:05 AM
+  Last Refresh : Tuesday, December 19, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
