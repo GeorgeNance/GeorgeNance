@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague
+> ### What I cannot build, I do not understand.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 2:04 AM
+  Last Refresh : Tuesday, December 19, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
