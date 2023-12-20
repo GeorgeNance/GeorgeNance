@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Alan Kay*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 7:04 PM
+  Last Refresh : Tuesday, December 19, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
