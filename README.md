@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 >
-> ~ *Elon Musk*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 8:04 PM
+  Last Refresh : Tuesday, December 19, 2023, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
