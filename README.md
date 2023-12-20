@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### Making things easy is hard.
 >
-> ~ *Douglas Crockford*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 20, 2023, 12:04 AM
+  Last Refresh : Wednesday, December 20, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
