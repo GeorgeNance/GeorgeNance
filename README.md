@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 >
-> ~ *Ivan Sutherland*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 5:14 PM
+  Last Refresh : Tuesday, December 19, 2023, 6:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
