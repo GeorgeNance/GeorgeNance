@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 >
-> ~ *Ted Nelson*
+> ~ *Marvin Minsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 20, 2023, 1:04 AM
+  Last Refresh : Wednesday, December 20, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
