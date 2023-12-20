@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Richard Hamming*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 20, 2023, 3:04 PM
+  Last Refresh : Wednesday, December 20, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
