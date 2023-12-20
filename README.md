@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 19, 2023, 11:04 PM
+  Last Refresh : Wednesday, December 20, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
