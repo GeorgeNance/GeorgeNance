@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to supervise is by personal example and by frequent code reviews.
+> ### If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
 >
-> ~ *Charles Simonyi*
+> ~ *David Leinweber*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 20, 2023, 7:04 AM
+  Last Refresh : Wednesday, December 20, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
