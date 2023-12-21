@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### First do it, then do it right, then do it better.
 >
-> ~ *Ada Lovelace*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 7:04 AM
+  Last Refresh : Thursday, December 21, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
