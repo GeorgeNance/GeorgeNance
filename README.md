@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
-> ~ *Ada Lovelace*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 3:04 AM
+  Last Refresh : Thursday, December 21, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
