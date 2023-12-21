@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Ken Thompson*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 4:04 AM
+  Last Refresh : Thursday, December 21, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
