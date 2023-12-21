@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Gary Kildall*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 11:04 AM
+  Last Refresh : Thursday, December 21, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
