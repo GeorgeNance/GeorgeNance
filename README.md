@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Danny Hillis*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 20, 2023, 9:04 PM
+  Last Refresh : Wednesday, December 20, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
