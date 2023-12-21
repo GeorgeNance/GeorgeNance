@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 >
-> ~ *Steve Jobs*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 12:04 PM
+  Last Refresh : Thursday, December 21, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
