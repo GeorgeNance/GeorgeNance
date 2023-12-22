@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
 >
-> ~ *Harlan Mills*
+> ~ *Marijn Haverbeke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 22, 2023, 8:04 AM
+  Last Refresh : Friday, December 22, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
