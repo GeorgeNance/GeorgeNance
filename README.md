@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Fred Brooks*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 9:05 PM
+  Last Refresh : Thursday, December 21, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
