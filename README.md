@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Henry Ford*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 22, 2023, 12:04 AM
+  Last Refresh : Friday, December 22, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
