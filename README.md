@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
 >
-> ~ *Fred Brooks*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 22, 2023, 1:04 PM
+  Last Refresh : Friday, December 22, 2023, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
