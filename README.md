@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Daniel T. Barry*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 5:17 PM
+  Last Refresh : Thursday, December 21, 2023, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
