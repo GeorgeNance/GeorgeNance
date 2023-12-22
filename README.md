@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Danny Hillis*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 11:05 PM
+  Last Refresh : Friday, December 22, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
