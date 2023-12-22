@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Linus Torvalds*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 21, 2023, 6:27 PM
+  Last Refresh : Thursday, December 21, 2023, 7:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
