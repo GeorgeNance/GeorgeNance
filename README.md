@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Toru Iwatani*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 2:04 AM
+  Last Refresh : Saturday, December 23, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
