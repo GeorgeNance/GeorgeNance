@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Elon Musk*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 8:04 AM
+  Last Refresh : Saturday, December 23, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
