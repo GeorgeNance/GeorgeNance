@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Charles Simonyi*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 10:04 AM
+  Last Refresh : Saturday, December 23, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
