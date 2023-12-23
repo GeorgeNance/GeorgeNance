@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is the ultimate field for someone who likes to tinker.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Ray Ozzie*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 6:04 AM
+  Last Refresh : Saturday, December 23, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
