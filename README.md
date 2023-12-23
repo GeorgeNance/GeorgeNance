@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Even in the games of children there are things to interest the greatest mathematician.
 >
-> ~ *Ivan Sutherland*
+> ~ *Gottfried Wilhelm Leibniz*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 22, 2023, 8:04 PM
+  Last Refresh : Friday, December 22, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
