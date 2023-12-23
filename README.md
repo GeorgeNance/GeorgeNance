@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 >
-> ~ *Buckminster Fuller*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 22, 2023, 11:04 PM
+  Last Refresh : Saturday, December 23, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
