@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Bill Gates*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 22, 2023, 6:25 PM
+  Last Refresh : Friday, December 22, 2023, 7:11 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
