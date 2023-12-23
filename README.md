@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The next best thing to having good ideas is recognizing good ideas from your users.
+> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
 >
-> ~ *Eric S. Raymond*
+> ~ *Ivan Sutherland*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 22, 2023, 7:11 PM
+  Last Refresh : Friday, December 22, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
