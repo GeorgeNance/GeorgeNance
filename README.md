@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer.
+> ### Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.
 >
-> ~ *Marvin Minsky*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 4:04 AM
+  Last Refresh : Saturday, December 23, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
