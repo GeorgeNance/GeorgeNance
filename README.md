@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Harlan Mills*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 12:04 AM
+  Last Refresh : Saturday, December 23, 2023, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
