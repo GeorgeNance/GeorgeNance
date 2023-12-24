@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 >
-> ~ *John Ousterhout*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 24, 2023, 6:04 AM
+  Last Refresh : Sunday, December 24, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
