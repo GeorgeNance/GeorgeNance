@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 5:18 PM
+  Last Refresh : Saturday, December 23, 2023, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
