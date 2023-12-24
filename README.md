@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 24, 2023, 9:04 AM
+  Last Refresh : Sunday, December 24, 2023, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
