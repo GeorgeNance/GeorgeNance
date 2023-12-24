@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Harlan Mills*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 24, 2023, 7:04 AM
+  Last Refresh : Sunday, December 24, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
