@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 9:04 PM
+  Last Refresh : Saturday, December 23, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
