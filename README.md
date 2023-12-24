@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### A few months writing code can save you a few hours in design.
 >
-> ~ *Fred Brooks*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 24, 2023, 3:04 PM
+  Last Refresh : Sunday, December 24, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
