@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
+> ### We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
 >
-> ~ *Daniel T. Barry*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 7:14 PM
+  Last Refresh : Saturday, December 23, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
