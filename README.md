@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A beautiful program is like a beautiful theorem: It does the job elegantly.
+> ### One man's constant is another man's variable.
 >
-> ~ *Butler Lampson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 24, 2023, 10:04 AM
+  Last Refresh : Sunday, December 24, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
