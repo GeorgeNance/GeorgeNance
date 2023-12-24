@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 23, 2023, 4:04 PM
+  Last Refresh : Saturday, December 23, 2023, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
