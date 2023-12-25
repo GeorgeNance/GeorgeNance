@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### There's only one trick in software, and that is using a piece of software that's already been written.
+> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 >
 > ~ *Bill Gates*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 24, 2023, 11:05 PM
+  Last Refresh : Monday, December 25, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
