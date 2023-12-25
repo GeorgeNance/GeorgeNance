@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Stewart Brand*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 24, 2023, 10:04 PM
+  Last Refresh : Sunday, December 24, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
