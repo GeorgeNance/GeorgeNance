@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### The proper use of comments is to compensate for our failure to express ourself in code.
 >
-> ~ *Don Norman*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 25, 2023, 4:04 AM
+  Last Refresh : Monday, December 25, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
