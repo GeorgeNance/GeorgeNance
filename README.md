@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Robert C. Martin*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 25, 2023, 3:04 PM
+  Last Refresh : Monday, December 25, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
