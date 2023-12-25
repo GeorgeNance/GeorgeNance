@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Ken Thompson*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 25, 2023, 2:04 PM
+  Last Refresh : Monday, December 25, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
