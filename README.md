@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I care not only what the code says but how it looks.
+> ### The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.
 >
-> ~ *Peter Roizen*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 25, 2023, 7:04 AM
+  Last Refresh : Monday, December 25, 2023, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
