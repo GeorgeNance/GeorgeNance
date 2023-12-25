@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
+> ### Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 25, 2023, 11:04 AM
+  Last Refresh : Monday, December 25, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
