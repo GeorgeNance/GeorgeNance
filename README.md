@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Jaron Lanier*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 25, 2023, 6:04 AM
+  Last Refresh : Monday, December 25, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
