@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### A picture may be worth a thousand words, a formula is worth a thousand pictures.
 >
-> ~ *Gerald Weinberg*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 25, 2023, 10:04 AM
+  Last Refresh : Monday, December 25, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
