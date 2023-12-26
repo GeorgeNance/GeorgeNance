@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Martin Fowler*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 26, 2023, 12:04 AM
+  Last Refresh : Tuesday, December 26, 2023, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
