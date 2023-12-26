@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Toru Iwatani*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 26, 2023, 2:04 PM
+  Last Refresh : Tuesday, December 26, 2023, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
