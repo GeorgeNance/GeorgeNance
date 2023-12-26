@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Henry Ford*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 26, 2023, 5:06 AM
+  Last Refresh : Tuesday, December 26, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
