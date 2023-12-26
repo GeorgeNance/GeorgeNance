@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Code never lies, comments sometimes do.
+> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 >
-> ~ *Ron Jeffries*
+> ~ *Harlan Mills*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 26, 2023, 1:06 AM
+  Last Refresh : Tuesday, December 26, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
