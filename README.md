@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As soon as an Analytical Engine exists, it will necessarily guide the future course of science.
+> ### Any product that needs a manual to work is broken.
 >
-> ~ *Charles Babbage*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, December 25, 2023, 7:12 PM
+  Last Refresh : Monday, December 25, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
