@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Alan Perlis*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, December 26, 2023, 5:16 PM
+  Last Refresh : Tuesday, December 26, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
