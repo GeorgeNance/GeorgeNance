@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 27, 2023, 4:04 AM
+  Last Refresh : Wednesday, December 27, 2023, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
