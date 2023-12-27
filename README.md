@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 >
-> ~ *Tom DeMarco*
+> ~ *Mario Fusco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 27, 2023, 10:04 AM
+  Last Refresh : Wednesday, December 27, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
