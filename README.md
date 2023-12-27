@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 27, 2023, 12:04 PM
+  Last Refresh : Wednesday, December 27, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
