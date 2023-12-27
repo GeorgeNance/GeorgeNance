@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes it’s just easier to throw a system away, and start over.
+> ### JavaScript, purely by accident, has become the most popular programming language in the world.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 27, 2023, 5:06 AM
+  Last Refresh : Wednesday, December 27, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
