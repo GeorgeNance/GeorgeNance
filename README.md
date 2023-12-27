@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Martin Fowler*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 27, 2023, 3:04 PM
+  Last Refresh : Wednesday, December 27, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
