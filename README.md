@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Maurice Wilkes*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 27, 2023, 2:04 AM
+  Last Refresh : Wednesday, December 27, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
