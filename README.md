@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity does not precede complexity, but follows it.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Alan Perlis*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 28, 2023, 3:04 AM
+  Last Refresh : Thursday, December 28, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
