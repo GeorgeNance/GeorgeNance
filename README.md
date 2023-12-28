@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Addy Osmani*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 28, 2023, 12:04 AM
+  Last Refresh : Thursday, December 28, 2023, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
