@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Harlan Mills*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, December 27, 2023, 5:17 PM
+  Last Refresh : Wednesday, December 27, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
