@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Gerald Weinberg*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 28, 2023, 11:05 PM
+  Last Refresh : Friday, December 29, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
