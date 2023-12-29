@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Ken Thompson*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 10:04 AM
+  Last Refresh : Friday, December 29, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
