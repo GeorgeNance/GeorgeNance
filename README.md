@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Linus Torvalds*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 3:04 PM
+  Last Refresh : Friday, December 29, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
