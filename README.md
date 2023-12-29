@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+> ### In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.
 >
-> ~ *Elon Musk*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 1:05 AM
+  Last Refresh : Friday, December 29, 2023, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
