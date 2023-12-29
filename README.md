@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
+> ### Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.
 >
-> ~ *John Gall (author)*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, December 28, 2023, 7:09 PM
+  Last Refresh : Thursday, December 28, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
