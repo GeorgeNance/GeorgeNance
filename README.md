@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Linus Torvalds*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 12:04 PM
+  Last Refresh : Friday, December 29, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
