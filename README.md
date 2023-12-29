@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Manuel Blum*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 3:04 AM
+  Last Refresh : Friday, December 29, 2023, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
