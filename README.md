@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think you should always bear in mind that entropy is not on your side.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Elon Musk*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 4:04 AM
+  Last Refresh : Friday, December 29, 2023, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
