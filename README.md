@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Martin Fowler*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 8:04 AM
+  Last Refresh : Friday, December 29, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
