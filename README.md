@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Anonymous*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 6:04 AM
+  Last Refresh : Saturday, December 30, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
