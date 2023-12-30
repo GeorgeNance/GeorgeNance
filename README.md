@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Grady Booch*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 6:26 PM
+  Last Refresh : Friday, December 29, 2023, 7:12 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
