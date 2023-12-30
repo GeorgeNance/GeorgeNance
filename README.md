@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everybody should learn to program a computer, because it teaches you how to think.
+> ### The best way to predict the future is to invent it.
 >
-> ~ *Steve Jobs*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 3:04 PM
+  Last Refresh : Saturday, December 30, 2023, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
