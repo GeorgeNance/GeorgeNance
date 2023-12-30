@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Bill Gates*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, December 29, 2023, 5:16 PM
+  Last Refresh : Friday, December 29, 2023, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
