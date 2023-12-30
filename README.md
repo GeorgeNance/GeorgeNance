@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Maurice Wilkes*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 2:04 AM
+  Last Refresh : Saturday, December 30, 2023, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
