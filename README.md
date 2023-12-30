@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.
+> ### Most errors are introduced during requirements specification!
 >
-> ~ *Martin Fowler*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 12:04 PM
+  Last Refresh : Saturday, December 30, 2023, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
