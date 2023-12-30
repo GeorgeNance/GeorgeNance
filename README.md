@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
 >
-> ~ *Martin Fowler*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 10:04 AM
+  Last Refresh : Saturday, December 30, 2023, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
