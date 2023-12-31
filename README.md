@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Gary Kildall*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 31, 2023, 6:04 AM
+  Last Refresh : Sunday, December 31, 2023, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
