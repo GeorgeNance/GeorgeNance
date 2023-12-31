@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Luciano Ramalho*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 7:15 PM
+  Last Refresh : Saturday, December 30, 2023, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
