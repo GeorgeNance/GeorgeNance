@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Grady Booch*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 31, 2023, 8:04 AM
+  Last Refresh : Sunday, December 31, 2023, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
