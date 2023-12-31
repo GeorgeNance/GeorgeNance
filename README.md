@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Gary Kildall*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 31, 2023, 10:04 AM
+  Last Refresh : Sunday, December 31, 2023, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
