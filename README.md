@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Ted Nelson*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 6:30 PM
+  Last Refresh : Saturday, December 30, 2023, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
