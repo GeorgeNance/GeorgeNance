@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Grady Booch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 31, 2023, 11:04 AM
+  Last Refresh : Sunday, December 31, 2023, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
