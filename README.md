@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best way to predict the future is to invent it.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Alan Kay*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 4:04 PM
+  Last Refresh : Saturday, December 30, 2023, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
