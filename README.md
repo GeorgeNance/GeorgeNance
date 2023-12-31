@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+> ### It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.
 >
-> ~ *Richard Stallman*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 11:05 PM
+  Last Refresh : Sunday, December 31, 2023, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
