@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Alan Turing*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 5:19 PM
+  Last Refresh : Saturday, December 30, 2023, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
