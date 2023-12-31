@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+> ### It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 31, 2023, 5:05 AM
+  Last Refresh : Sunday, December 31, 2023, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
