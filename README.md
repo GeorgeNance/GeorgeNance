@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Alan Perlis*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 9:05 PM
+  Last Refresh : Saturday, December 30, 2023, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
