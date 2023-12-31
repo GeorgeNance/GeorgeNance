@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
+> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
 >
 > ~ *Alan Perlis*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, December 30, 2023, 8:04 PM
+  Last Refresh : Saturday, December 30, 2023, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
