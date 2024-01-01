@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 1, 2024, 2:04 AM
+  Last Refresh : Monday, January 1, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
