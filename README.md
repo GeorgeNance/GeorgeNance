@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Ken Thompson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 1, 2024, 12:04 PM
+  Last Refresh : Monday, January 1, 2024, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
