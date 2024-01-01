@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Danny Hillis*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 31, 2023, 10:04 PM
+  Last Refresh : Sunday, December 31, 2023, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
