@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Robert C. Martin*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 1, 2024, 8:04 AM
+  Last Refresh : Monday, January 1, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
