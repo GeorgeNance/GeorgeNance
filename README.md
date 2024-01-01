@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *Roy Fielding*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, December 31, 2023, 5:19 PM
+  Last Refresh : Sunday, December 31, 2023, 6:31 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
