@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Addy Osmani*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 1, 2024, 6:04 AM
+  Last Refresh : Monday, January 1, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
