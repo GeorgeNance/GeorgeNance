@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.
+> ### Code never lies, comments sometimes do.
 >
-> ~ *Butler Lampson*
+> ~ *Ron Jeffries*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 1, 2024, 6:28 PM
+  Last Refresh : Monday, January 1, 2024, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
