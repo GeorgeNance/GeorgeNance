@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Albert Einstein*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 2, 2024, 12:04 PM
+  Last Refresh : Tuesday, January 2, 2024, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
