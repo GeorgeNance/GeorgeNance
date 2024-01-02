@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 >
-> ~ *Richard Stallman*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 1, 2024, 8:04 PM
+  Last Refresh : Monday, January 1, 2024, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
