@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *John Gall (author)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 1, 2024, 4:04 PM
+  Last Refresh : Monday, January 1, 2024, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
