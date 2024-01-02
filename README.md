@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
 >
-> ~ *Jef Raskin*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 2, 2024, 4:04 AM
+  Last Refresh : Tuesday, January 2, 2024, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
