@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.
 >
-> ~ *Donald Knuth*
+> ~ *Stan Kelly-Bootle*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 2, 2024, 10:04 AM
+  Last Refresh : Tuesday, January 2, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
