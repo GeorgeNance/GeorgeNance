@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Fred Brooks*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 2, 2024, 3:04 PM
+  Last Refresh : Tuesday, January 2, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
