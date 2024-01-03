@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
+> ### Within a computer, natural language is unnatural.
 >
-> ~ *Chris Sacca*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 2, 2024, 10:04 PM
+  Last Refresh : Tuesday, January 2, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
