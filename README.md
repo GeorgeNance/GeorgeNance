@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 3, 2024, 5:10 AM
+  Last Refresh : Wednesday, January 3, 2024, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
