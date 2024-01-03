@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 >
 > ~ *Bill Gates*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 3, 2024, 10:04 AM
+  Last Refresh : Wednesday, January 3, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
