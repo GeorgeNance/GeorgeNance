@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+> ### If you think your users are idiots, only idiots will use it.
 >
-> ~ *Bill Gates*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 3, 2024, 11:05 AM
+  Last Refresh : Wednesday, January 3, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
