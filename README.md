@@ -9,9 +9,11 @@
 
 
 *Quote of the hour:*
-> ### The button is working, only, it cannot be seen.
+> ### Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!
 >
-> ~ *Anonymous*
+> ~ *Michael A. Jackson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +48,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 3, 2024, 8:04 PM
+  Last Refresh : Wednesday, January 3, 2024, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
