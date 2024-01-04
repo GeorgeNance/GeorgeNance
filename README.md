@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### Deleted code is debugged code.
 >
-> ~ *Marvin Minsky*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 8:04 AM
+  Last Refresh : Thursday, January 4, 2024, 9:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
