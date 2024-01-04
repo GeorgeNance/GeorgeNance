@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+> ### Cool URIs don't change.
 >
-> ~ *Ada Lovelace*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 3, 2024, 10:04 PM
+  Last Refresh : Wednesday, January 3, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
