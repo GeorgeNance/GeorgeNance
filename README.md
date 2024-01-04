@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 11:04 AM
+  Last Refresh : Thursday, January 4, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
