@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Douglas Crockford*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 3:04 AM
+  Last Refresh : Thursday, January 4, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
