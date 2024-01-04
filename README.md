@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.
+> ### In my second year in graduate school, I took a computer course and that was like lightening striking.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 1:04 PM
+  Last Refresh : Thursday, January 4, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
