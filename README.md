@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Typing is no substitute for thinking.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Richard Hamming*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 3, 2024, 7:13 PM
+  Last Refresh : Wednesday, January 3, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
