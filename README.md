@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 5:09 AM
+  Last Refresh : Thursday, January 4, 2024, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
