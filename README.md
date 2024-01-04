@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
 >
-> ~ *Vannevar Bush*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 6:05 AM
+  Last Refresh : Thursday, January 4, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
