@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Michael Stal*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 3, 2024, 11:05 PM
+  Last Refresh : Thursday, January 4, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
