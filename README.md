@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Jamie Zawinski*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 5, 2024, 8:04 AM
+  Last Refresh : Friday, January 5, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
