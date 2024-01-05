@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Elon Musk*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 10:04 PM
+  Last Refresh : Thursday, January 4, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
