@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
-> ~ *Martin Fowler*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 5:17 PM
+  Last Refresh : Thursday, January 4, 2024, 6:28 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
