@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Codes are a puzzle. A game, just like any other game.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Alan Turing*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 5, 2024, 10:04 AM
+  Last Refresh : Friday, January 5, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
