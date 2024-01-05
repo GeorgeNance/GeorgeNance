@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Controlling complexity is the essence of computer programming.
+> ### A programming language is low level when its programs require attention to the irrelevant.
 >
-> ~ *Brian Kernighan*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 8:04 PM
+  Last Refresh : Thursday, January 4, 2024, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
