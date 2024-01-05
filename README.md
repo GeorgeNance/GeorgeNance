@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Fred Brooks*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 4, 2024, 7:14 PM
+  Last Refresh : Thursday, January 4, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
