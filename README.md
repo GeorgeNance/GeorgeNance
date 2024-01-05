@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 >
-> ~ *Ken Thompson*
+> ~ *Jamie Zawinski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 5, 2024, 7:04 AM
+  Last Refresh : Friday, January 5, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
