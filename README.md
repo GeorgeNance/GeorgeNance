@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Ward Cunningham*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 5, 2024, 12:04 AM
+  Last Refresh : Friday, January 5, 2024, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
