@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The most important single aspect of software development is to be clear about what you are trying to build.
+> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 6, 2024, 5:06 AM
+  Last Refresh : Saturday, January 6, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
