@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 5, 2024, 6:27 PM
+  Last Refresh : Friday, January 5, 2024, 7:13 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
