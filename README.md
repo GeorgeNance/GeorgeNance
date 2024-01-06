@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 5, 2024, 7:13 PM
+  Last Refresh : Friday, January 5, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
