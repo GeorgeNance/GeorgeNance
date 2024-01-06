@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When in doubt, use brute force.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Ken Thompson*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 6, 2024, 10:04 AM
+  Last Refresh : Saturday, January 6, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
