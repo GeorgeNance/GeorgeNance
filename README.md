@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Ken Thompson*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 6, 2024, 2:04 PM
+  Last Refresh : Saturday, January 6, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
