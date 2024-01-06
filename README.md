@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Premature abstraction is as bad as premature optimization.
+> ### Never memorize something that you can look up.
 >
-> ~ *Luciano Ramalho*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 6, 2024, 11:05 AM
+  Last Refresh : Saturday, January 6, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
