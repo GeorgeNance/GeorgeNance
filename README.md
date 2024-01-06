@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to.
+> ### When in doubt, use brute force.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 6, 2024, 9:04 AM
+  Last Refresh : Saturday, January 6, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
