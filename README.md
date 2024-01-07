@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Fancy algorithms are slow when n is small, and n is usually small.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Rob Pike*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 6:04 AM
+  Last Refresh : Sunday, January 7, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
