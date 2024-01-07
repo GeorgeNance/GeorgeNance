@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 3:04 AM
+  Last Refresh : Sunday, January 7, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
