@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In order to understand recursion, one must first understand recursion.
+> ### Controlling complexity is the essence of computer programming.
 >
-> ~ *Anonymous*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 6, 2024, 11:05 PM
+  Last Refresh : Sunday, January 7, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
