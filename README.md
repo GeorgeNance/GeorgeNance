@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Bdale Garbee*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 2:04 PM
+  Last Refresh : Sunday, January 7, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
