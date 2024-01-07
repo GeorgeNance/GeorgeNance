@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### Really good programs live forever.
 >
-> ~ *Ted Nelson*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 6, 2024, 7:17 PM
+  Last Refresh : Saturday, January 6, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
