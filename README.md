@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Donald Knuth*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 1:04 PM
+  Last Refresh : Sunday, January 7, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
