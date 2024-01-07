@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every good work of software starts by scratching a developer’s personal itch.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Eric S. Raymond*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 5:05 AM
+  Last Refresh : Sunday, January 7, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
