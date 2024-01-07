@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 8:04 AM
+  Last Refresh : Sunday, January 7, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
