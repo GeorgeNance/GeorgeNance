@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Humanity is acquiring all the right technology for all the wrong reasons.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Buckminster Fuller*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 6, 2024, 5:19 PM
+  Last Refresh : Saturday, January 6, 2024, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
