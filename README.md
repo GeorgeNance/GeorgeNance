@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.
 >
-> ~ *Jaron Lanier*
+> ~ *James Gleick*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 11:05 PM
+  Last Refresh : Monday, January 8, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
