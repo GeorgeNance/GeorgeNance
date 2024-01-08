@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Danny Hillis*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 8, 2024, 10:04 AM
+  Last Refresh : Monday, January 8, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
