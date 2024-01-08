@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 6:29 PM
+  Last Refresh : Sunday, January 7, 2024, 7:15 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
