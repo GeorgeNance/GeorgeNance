@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
+> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 >
-> ~ *Daniel T. Barry*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 5:18 PM
+  Last Refresh : Sunday, January 7, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
