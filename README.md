@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming can be addictive.
+> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 >
-> ~ *Bob Carr*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 8, 2024, 5:09 AM
+  Last Refresh : Monday, January 8, 2024, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
