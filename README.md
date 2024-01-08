@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Jim Horning*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 7, 2024, 10:04 PM
+  Last Refresh : Sunday, January 7, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
