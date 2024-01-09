@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
+> ### Everything should be made as simple as possible. But to do that you have to master complexity.
 >
-> ~ *Ada Lovelace*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 9, 2024, 5:09 AM
+  Last Refresh : Tuesday, January 9, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
