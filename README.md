@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
 >
-> ~ *Lawrence Flon*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 9, 2024, 2:04 AM
+  Last Refresh : Tuesday, January 9, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
