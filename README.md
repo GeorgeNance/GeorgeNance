@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Hal Abelson*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 8, 2024, 7:16 PM
+  Last Refresh : Monday, January 8, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
