@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Everything should be made as simple as possible. But to do that you have to master complexity.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Butler Lampson*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 9, 2024, 7:04 AM
+  Last Refresh : Tuesday, January 9, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
