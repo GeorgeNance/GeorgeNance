@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *David Parnas*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 9, 2024, 4:04 AM
+  Last Refresh : Tuesday, January 9, 2024, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
