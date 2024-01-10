@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry.
 >
-> ~ *Martin Fowler*
+> ~ *Henry Petroski*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 9, 2024, 5:17 PM
+  Last Refresh : Tuesday, January 9, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
