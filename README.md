@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 9, 2024, 9:05 PM
+  Last Refresh : Tuesday, January 9, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
