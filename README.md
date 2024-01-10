@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### Premature abstraction is as bad as premature optimization.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Luciano Ramalho*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 10, 2024, 3:04 AM
+  Last Refresh : Wednesday, January 10, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
