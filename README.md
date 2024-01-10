@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Jef Raskin*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 9, 2024, 10:04 PM
+  Last Refresh : Tuesday, January 9, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
