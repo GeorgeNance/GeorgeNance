@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Robert C. Martin*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 10, 2024, 6:29 PM
+  Last Refresh : Wednesday, January 10, 2024, 7:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
