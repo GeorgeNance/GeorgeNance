@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level.
+> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
 >
 > ~ *Ken Thompson*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 10, 2024, 4:04 PM
+  Last Refresh : Wednesday, January 10, 2024, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
