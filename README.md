@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
 >
-> ~ *Michael Stal*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 11, 2024, 2:04 PM
+  Last Refresh : Thursday, January 11, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
