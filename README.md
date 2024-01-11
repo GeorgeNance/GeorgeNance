@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 11, 2024, 6:05 AM
+  Last Refresh : Thursday, January 11, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
