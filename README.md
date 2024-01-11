@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
 >
-> ~ *Donald Knuth*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 11, 2024, 9:04 AM
+  Last Refresh : Thursday, January 11, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
