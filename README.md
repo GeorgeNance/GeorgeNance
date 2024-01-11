@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Ken Thompson*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 10, 2024, 5:17 PM
+  Last Refresh : Wednesday, January 10, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
