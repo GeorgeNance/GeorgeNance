@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Alan Perlis*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 11, 2024, 4:04 PM
+  Last Refresh : Thursday, January 11, 2024, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
