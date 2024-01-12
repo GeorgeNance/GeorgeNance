@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### People should be able to speak and breathe programs just like they talk now.
 >
-> ~ *Richard Hamming*
+> ~ *Jaron Lanier*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 11, 2024, 10:04 PM
+  Last Refresh : Thursday, January 11, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
