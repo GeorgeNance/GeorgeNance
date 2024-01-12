@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *Jef Raskin*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 11, 2024, 5:17 PM
+  Last Refresh : Thursday, January 11, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
