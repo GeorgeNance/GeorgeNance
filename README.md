@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Charles Babbage*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 12, 2024, 6:05 AM
+  Last Refresh : Friday, January 12, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
