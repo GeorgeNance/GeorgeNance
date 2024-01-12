@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
 >
-> ~ *John Warnock*
+> ~ *Joshua Bloch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 12, 2024, 1:04 PM
+  Last Refresh : Friday, January 12, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
