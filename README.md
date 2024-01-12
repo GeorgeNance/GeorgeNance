@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never memorize something that you can look up.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Albert Einstein*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 12, 2024, 8:04 AM
+  Last Refresh : Friday, January 12, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
