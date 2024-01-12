@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.
+> ### There's nothing more permanent than a temporary hack.
 >
-> ~ *Ken Thompson*
+> ~ *Kyle Simpson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 12, 2024, 1:05 AM
+  Last Refresh : Friday, January 12, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
