@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 >
-> ~ *Fred Brooks*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 12, 2024, 4:04 AM
+  Last Refresh : Friday, January 12, 2024, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
