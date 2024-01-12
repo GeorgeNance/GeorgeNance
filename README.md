@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program that produces incorrect results twice as fast is infinitely slower.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *John Ousterhout*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 11, 2024, 7:16 PM
+  Last Refresh : Thursday, January 11, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
