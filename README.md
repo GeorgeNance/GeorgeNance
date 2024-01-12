@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### I think one of the most valuable rules is avoid duplication.
 >
-> ~ *Jaron Lanier*
+> ~ *Martin Fowler*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 11, 2024, 11:05 PM
+  Last Refresh : Friday, January 12, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
