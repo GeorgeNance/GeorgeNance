@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
 >
-> ~ *Alan Perlis*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 12, 2024, 9:04 AM
+  Last Refresh : Friday, January 12, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
