@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### The most important single aspect of software development is to be clear about what you are trying to build.
 >
-> ~ *Joshua Bloch*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 12, 2024, 2:04 PM
+  Last Refresh : Friday, January 12, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
