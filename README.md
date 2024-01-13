@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software gets slower faster than hardware gets faster.
+> ### Nine women can't make a baby in one month.
 >
-> ~ *Niklaus Wirth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 13, 2024, 1:05 AM
+  Last Refresh : Saturday, January 13, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
