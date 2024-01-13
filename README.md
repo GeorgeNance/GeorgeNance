@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Nine women can't make a baby in one month.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Fred Brooks*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 13, 2024, 2:04 AM
+  Last Refresh : Saturday, January 13, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
