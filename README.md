@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### Software gets slower faster than hardware gets faster.
 >
-> ~ *Bill Gates*
+> ~ *Niklaus Wirth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 13, 2024, 12:04 AM
+  Last Refresh : Saturday, January 13, 2024, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
