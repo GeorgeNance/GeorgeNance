@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 >
-> ~ *George Boole*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 12, 2024, 11:04 PM
+  Last Refresh : Saturday, January 13, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
