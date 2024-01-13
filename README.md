@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.
+> ### Beware of bugs in the above code; I have only proved it correct, not tried it.
 >
-> ~ *David Parnas*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 13, 2024, 4:04 AM
+  Last Refresh : Saturday, January 13, 2024, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
