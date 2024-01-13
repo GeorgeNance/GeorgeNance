@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The act of describing a program in unambiguous detail and the act of programming are one and the same.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Kevlin Henney*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 13, 2024, 1:04 PM
+  Last Refresh : Saturday, January 13, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
