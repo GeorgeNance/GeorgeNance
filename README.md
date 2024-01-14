@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The real problem with throwaway code comes when it isn't thrown away.
+> ### Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 14, 2024, 2:04 AM
+  Last Refresh : Sunday, January 14, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
