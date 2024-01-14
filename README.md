@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only sin is to make a choice without knowing you are making one.
+> ### Cleaning code does NOT take time. NOT cleaning code does take time.
 >
-> ~ *Jonathan Shewchuk*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 13, 2024, 9:04 PM
+  Last Refresh : Saturday, January 13, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
