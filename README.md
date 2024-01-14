@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 13, 2024, 6:30 PM
+  Last Refresh : Saturday, January 13, 2024, 7:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
