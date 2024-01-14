@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *David Parnas*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 14, 2024, 10:04 AM
+  Last Refresh : Sunday, January 14, 2024, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
