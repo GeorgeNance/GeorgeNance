@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Martin Fowler*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 13, 2024, 8:04 PM
+  Last Refresh : Saturday, January 13, 2024, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
