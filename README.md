@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *David Parnas*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 14, 2024, 12:04 AM
+  Last Refresh : Sunday, January 14, 2024, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
