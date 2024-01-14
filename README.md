@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer Science is no more about computers than astronomy is about telescopes.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 14, 2024, 11:04 AM
+  Last Refresh : Sunday, January 14, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
