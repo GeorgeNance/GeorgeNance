@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### The real problem with throwaway code comes when it isn't thrown away.
 >
-> ~ *Douglas Crockford*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 14, 2024, 1:05 AM
+  Last Refresh : Sunday, January 14, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
