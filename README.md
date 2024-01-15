@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Daniel T. Barry*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 14, 2024, 5:18 PM
+  Last Refresh : Sunday, January 14, 2024, 6:30 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
