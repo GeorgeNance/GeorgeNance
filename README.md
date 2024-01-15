@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Wayne Ratliff*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 3:04 PM
+  Last Refresh : Monday, January 15, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
