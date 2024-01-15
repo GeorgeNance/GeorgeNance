@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Doug Linder*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 12:04 AM
+  Last Refresh : Monday, January 15, 2024, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
