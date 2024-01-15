@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Linus Torvalds*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 7:04 AM
+  Last Refresh : Monday, January 15, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
