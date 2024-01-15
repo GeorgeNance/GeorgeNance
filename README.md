@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Randall E. Stross*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 14, 2024, 9:05 PM
+  Last Refresh : Sunday, January 14, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
