@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### All too many of our software systems are, architecturally, little more than shantytowns.
 >
-> ~ *Richard Feynman*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 1:05 AM
+  Last Refresh : Monday, January 15, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
