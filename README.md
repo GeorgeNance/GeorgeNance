@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of computing is insight, not numbers.
+> ### A clever person solves a problem. A wise person avoids it.
 >
-> ~ *Richard Hamming*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 8:04 AM
+  Last Refresh : Monday, January 15, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
