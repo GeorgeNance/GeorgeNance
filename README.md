@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
+> ### We need to be super careful with AI. Potentially more dangerous than nukes.
 >
-> ~ *Douglas Crockford*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ make it smaller. If we could just get it down to what it does really well and re
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 4:04 AM
+  Last Refresh : Monday, January 15, 2024, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
