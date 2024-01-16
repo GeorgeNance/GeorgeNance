@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Richard Stallman*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 6:29 PM
+  Last Refresh : Monday, January 15, 2024, 7:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
