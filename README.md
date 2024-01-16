@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Programming increases goes as a power of program size.
+> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 16, 2024, 5:06 AM
+  Last Refresh : Tuesday, January 16, 2024, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
