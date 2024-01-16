@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no programming language, no matter how structured, that will prevent programmers from making bad programs.
+> ### The button is working, only, it cannot be seen.
 >
-> ~ *Lawrence Flon*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 16, 2024, 7:04 AM
+  Last Refresh : Tuesday, January 16, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
