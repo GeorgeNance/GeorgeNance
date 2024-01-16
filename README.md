@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cleaning code does NOT take time. NOT cleaning code does take time.
+> ### Humanity is acquiring all the right technology for all the wrong reasons.
 >
-> ~ *Robert C. Martin*
+> ~ *Buckminster Fuller*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 16, 2024, 2:04 PM
+  Last Refresh : Tuesday, January 16, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
