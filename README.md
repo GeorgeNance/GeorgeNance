@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+> ### The hardest part of design is keeping features out.
 >
-> ~ *Alan Turing*
+> ~ *Don Norman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 16, 2024, 3:04 AM
+  Last Refresh : Tuesday, January 16, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
