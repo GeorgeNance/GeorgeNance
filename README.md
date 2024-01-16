@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
 >
 > ~ *Richard Stallman*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 5:17 PM
+  Last Refresh : Monday, January 15, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
