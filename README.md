@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 8:04 PM
+  Last Refresh : Monday, January 15, 2024, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
