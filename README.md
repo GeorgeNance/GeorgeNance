@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 15, 2024, 10:04 PM
+  Last Refresh : Monday, January 15, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
