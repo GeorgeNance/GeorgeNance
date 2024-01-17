@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### Computer Science is no more about computers than astronomy is about telescopes.
 >
-> ~ *Michael Stal*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 16, 2024, 9:04 PM
+  Last Refresh : Tuesday, January 16, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
