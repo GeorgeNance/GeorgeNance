@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Tom DeMarco*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 17, 2024, 2:04 PM
+  Last Refresh : Wednesday, January 17, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
