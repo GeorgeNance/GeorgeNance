@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 >
-> ~ *Arthur C. Clarke*
+> ~ *George Carrette*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 17, 2024, 5:06 AM
+  Last Refresh : Wednesday, January 17, 2024, 6:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
