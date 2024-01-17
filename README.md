@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The hardest part of design is keeping features out.
+> ### One man's constant is another man's variable.
 >
-> ~ *Don Norman*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 17, 2024, 9:04 AM
+  Last Refresh : Wednesday, January 17, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
