@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn’t have everything is actually easier to program in than some that do.
+> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
 >
-> ~ *Dennis Ritchie*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 16, 2024, 11:05 PM
+  Last Refresh : Wednesday, January 17, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
