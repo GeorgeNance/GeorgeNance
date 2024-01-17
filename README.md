@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Cool URIs don't change.
+> ### A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 16, 2024, 7:16 PM
+  Last Refresh : Tuesday, January 16, 2024, 8:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
