@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 16, 2024, 5:17 PM
+  Last Refresh : Tuesday, January 16, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
