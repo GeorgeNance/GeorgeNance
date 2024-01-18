@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 1:04 PM
+  Last Refresh : Thursday, January 18, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
