@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Don't worry about anything. Just do what you can and be the best you can be.
+> ### Any sufficiently advanced technology is indistinguishable from magic.
 >
-> ~ *Douglas Crockford*
+> ~ *Arthur C. Clarke*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 2:04 AM
+  Last Refresh : Thursday, January 18, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
