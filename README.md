@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 >
-> ~ *Grady Booch*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 12:04 PM
+  Last Refresh : Thursday, January 18, 2024, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
