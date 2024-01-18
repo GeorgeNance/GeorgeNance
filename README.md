@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Bob Frankston*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 17, 2024, 7:15 PM
+  Last Refresh : Wednesday, January 17, 2024, 8:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
