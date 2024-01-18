@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### I don't comment on the code itself because I feel that properly written code is very much self-documented.
 >
-> ~ *Ken Thompson*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 5:06 AM
+  Last Refresh : Thursday, January 18, 2024, 6:13 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
