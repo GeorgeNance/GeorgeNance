@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+> ### The next best thing to having good ideas is recognizing good ideas from your users.
 >
-> ~ *Fred Brooks*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 7:04 AM
+  Last Refresh : Thursday, January 18, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
