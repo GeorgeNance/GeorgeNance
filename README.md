@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In theory, there is no difference between theory and practice. But, in practice, there is.
+> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
 >
-> ~ *Jan L. A. van de Snepscheut*
+> ~ *George Carrette*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 2:04 PM
+  Last Refresh : Thursday, January 18, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
