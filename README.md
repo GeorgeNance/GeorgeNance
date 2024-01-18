@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Alan Perlis*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 9:04 AM
+  Last Refresh : Thursday, January 18, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
