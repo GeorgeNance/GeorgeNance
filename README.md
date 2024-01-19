@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 19, 2024, 12:04 AM
+  Last Refresh : Friday, January 19, 2024, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
