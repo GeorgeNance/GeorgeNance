@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Steve Jobs*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 5:17 PM
+  Last Refresh : Thursday, January 18, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
