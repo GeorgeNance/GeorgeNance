@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 6:29 PM
+  Last Refresh : Thursday, January 18, 2024, 7:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
