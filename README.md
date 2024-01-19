@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you think your users are idiots, only idiots will use it.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Linus Torvalds*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 19, 2024, 5:06 AM
+  Last Refresh : Friday, January 19, 2024, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
