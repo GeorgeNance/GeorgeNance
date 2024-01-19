@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
 >
-> ~ *Danny Hillis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 18, 2024, 11:05 PM
+  Last Refresh : Friday, January 19, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
