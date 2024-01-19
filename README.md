@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 19, 2024, 8:04 AM
+  Last Refresh : Friday, January 19, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
