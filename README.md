@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Danny Hillis*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 19, 2024, 1:05 AM
+  Last Refresh : Friday, January 19, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
