@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
+> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
 >
-> ~ *Daniel T. Barry*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 19, 2024, 9:05 PM
+  Last Refresh : Friday, January 19, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
