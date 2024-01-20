@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 >
-> ~ *Daniel T. Barry*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 7:04 AM
+  Last Refresh : Saturday, January 20, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
