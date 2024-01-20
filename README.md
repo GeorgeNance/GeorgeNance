@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Toru Iwatani*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 11:04 AM
+  Last Refresh : Saturday, January 20, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
