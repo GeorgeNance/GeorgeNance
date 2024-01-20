@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We need to be super careful with AI. Potentially more dangerous than nukes.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Elon Musk*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 12:04 AM
+  Last Refresh : Saturday, January 20, 2024, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
