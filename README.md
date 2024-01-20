@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *George Carrette*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 19, 2024, 6:28 PM
+  Last Refresh : Friday, January 19, 2024, 7:14 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
