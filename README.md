@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To iterate is human, to recurse divine.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 2:04 AM
+  Last Refresh : Saturday, January 20, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
