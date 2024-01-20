@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### A team of highly competent programmers who are also highly territorial, egotistical politicians will fail while a team of equally competent programmers, who are also egoless, cooperative, team players will succeed.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 2:04 PM
+  Last Refresh : Saturday, January 20, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
