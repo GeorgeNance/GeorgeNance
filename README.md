@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Douglas Crockford*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 10:04 AM
+  Last Refresh : Saturday, January 20, 2024, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
