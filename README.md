@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
+> ### Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 >
-> ~ *Danny Hillis*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 6:31 PM
+  Last Refresh : Saturday, January 20, 2024, 7:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
