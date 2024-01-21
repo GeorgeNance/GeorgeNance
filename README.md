@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 >
-> ~ *Philip Greenspun*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 11:05 PM
+  Last Refresh : Sunday, January 21, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
