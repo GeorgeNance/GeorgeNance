@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Friedrich Bauer*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 21, 2024, 11:05 AM
+  Last Refresh : Sunday, January 21, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
