@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.
+> ### Machines take me by surprise with great frequency.
 >
-> ~ *Gerald Weinberg*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 4:05 PM
+  Last Refresh : Saturday, January 20, 2024, 5:19 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
