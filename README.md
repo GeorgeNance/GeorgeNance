@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.
+> ### One accurate measurement is worth more than a thousand expert opinions.
 >
-> ~ *Richard Hamming*
+> ~ *Grace Hopper*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 20, 2024, 9:04 PM
+  Last Refresh : Saturday, January 20, 2024, 10:40 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
