@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is like being the detective in a crime movie where you are also the murderer.
+> ### The only sin is to make a choice without knowing you are making one.
 >
-> ~ *Filipe Fortes*
+> ~ *Jonathan Shewchuk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 21, 2024, 4:04 AM
+  Last Refresh : Sunday, January 21, 2024, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
