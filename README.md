@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### Every time you improve process, work becomes harder.
 >
-> ~ *Kent Beck*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 21, 2024, 12:04 PM
+  Last Refresh : Sunday, January 21, 2024, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
