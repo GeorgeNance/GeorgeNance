@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 21, 2024, 3:04 AM
+  Last Refresh : Sunday, January 21, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
