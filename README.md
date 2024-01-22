@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 22, 2024, 11:05 AM
+  Last Refresh : Monday, January 22, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
