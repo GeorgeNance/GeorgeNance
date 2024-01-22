@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Donald Knuth*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 21, 2024, 11:06 PM
+  Last Refresh : Monday, January 22, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
