@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Talk is cheap. Show me the code.
+> ### For all its power, the computer is a harsh taskmaster. Its programs must be correct, and what we wish to say must be said accurately in every detail.
 >
-> ~ *Linus Torvalds*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 21, 2024, 6:31 PM
+  Last Refresh : Sunday, January 21, 2024, 7:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
