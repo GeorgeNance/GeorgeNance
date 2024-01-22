@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 22, 2024, 8:04 AM
+  Last Refresh : Monday, January 22, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
