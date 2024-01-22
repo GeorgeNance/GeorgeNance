@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *Richard Stallman*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 22, 2024, 4:04 AM
+  Last Refresh : Monday, January 22, 2024, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
