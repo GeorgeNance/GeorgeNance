@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### JavaScript is the world's most misunderstood programming language.
 >
-> ~ *Albert Einstein*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 22, 2024, 2:04 AM
+  Last Refresh : Monday, January 22, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
