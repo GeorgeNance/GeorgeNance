@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+> ### The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 >
-> ~ *Dennis Ritchie*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 21, 2024, 4:04 PM
+  Last Refresh : Sunday, January 21, 2024, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
