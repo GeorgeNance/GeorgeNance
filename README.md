@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 22, 2024, 5:18 PM
+  Last Refresh : Monday, January 22, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
