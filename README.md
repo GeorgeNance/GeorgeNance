@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 22, 2024, 8:04 PM
+  Last Refresh : Monday, January 22, 2024, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
