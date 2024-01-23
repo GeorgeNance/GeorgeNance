@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 23, 2024, 5:06 AM
+  Last Refresh : Tuesday, January 23, 2024, 6:12 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
