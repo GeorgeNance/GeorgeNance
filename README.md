@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 23, 2024, 2:04 AM
+  Last Refresh : Tuesday, January 23, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
