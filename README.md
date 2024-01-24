@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+> ### The entire history of software engineering is that of the rise in levels of abstraction.
 >
-> ~ *David Gelernter*
+> ~ *Grady Booch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 23, 2024, 9:05 PM
+  Last Refresh : Tuesday, January 23, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
