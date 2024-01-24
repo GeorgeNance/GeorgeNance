@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
+> ### For most software, efficiency just does not matter.
 >
-> ~ *Alan Kay*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 4:04 AM
+  Last Refresh : Wednesday, January 24, 2024, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
