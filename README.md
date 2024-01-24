@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 >
-> ~ *Gary Kildall*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 23, 2024, 4:04 PM
+  Last Refresh : Tuesday, January 23, 2024, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
