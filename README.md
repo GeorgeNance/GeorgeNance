@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Thomas J. Watson*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 1:05 AM
+  Last Refresh : Wednesday, January 24, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
