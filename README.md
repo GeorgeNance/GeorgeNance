@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good people with a good process will outperform good people with no process every time.
+> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 >
-> ~ *Grady Booch*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 2:04 PM
+  Last Refresh : Wednesday, January 24, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
