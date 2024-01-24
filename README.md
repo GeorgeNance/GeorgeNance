@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Jef Raskin*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 7:04 AM
+  Last Refresh : Wednesday, January 24, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
