@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### The purpose of software engineering is to control complexity, not to create it.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Pamela Zave*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 12:04 AM
+  Last Refresh : Wednesday, January 24, 2024, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
