@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Never trust a computer you can’t throw out a window.
+> ### Talk is cheap. Show me the code.
 >
-> ~ *Steve Wozniak*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 11:05 AM
+  Last Refresh : Wednesday, January 24, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
