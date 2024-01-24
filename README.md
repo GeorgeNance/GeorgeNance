@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The entire history of software engineering is that of the rise in levels of abstraction.
+> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 >
-> ~ *Grady Booch*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 23, 2024, 10:04 PM
+  Last Refresh : Tuesday, January 23, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
