@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
+> ### The purpose of software engineering is to control complexity, not to create it.
 >
-> ~ *Fred Brooks*
+> ~ *Pamela Zave*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 23, 2024, 11:05 PM
+  Last Refresh : Wednesday, January 24, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
