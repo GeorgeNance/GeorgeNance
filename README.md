@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+> ### Never trust a computer you can’t throw out a window.
 >
-> ~ *George Boole*
+> ~ *Steve Wozniak*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 10:04 AM
+  Last Refresh : Wednesday, January 24, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
