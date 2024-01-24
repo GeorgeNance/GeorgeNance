@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Daniel T. Barry*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 5:10 AM
+  Last Refresh : Wednesday, January 24, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
