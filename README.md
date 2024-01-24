@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> ### I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.
 >
-> ~ *Linus Torvalds*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 23, 2024, 5:18 PM
+  Last Refresh : Tuesday, January 23, 2024, 6:29 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
