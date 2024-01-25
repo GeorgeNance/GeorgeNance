@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.
+> ### The more code you have, the more places there are for bugs to hide.
 >
-> ~ *Fred Brooks*
+> ~ *Rich Skrenta*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 25, 2024, 6:06 AM
+  Last Refresh : Thursday, January 25, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
