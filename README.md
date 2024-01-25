@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.
+> ### We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Charles Babbage*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 11:05 PM
+  Last Refresh : Thursday, January 25, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
