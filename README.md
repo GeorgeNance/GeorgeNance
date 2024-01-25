@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 24, 2024, 4:04 PM
+  Last Refresh : Wednesday, January 24, 2024, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
