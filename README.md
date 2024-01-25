@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### What I cannot build, I do not understand.
 >
-> ~ *Joshua Bloch*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 25, 2024, 3:04 AM
+  Last Refresh : Thursday, January 25, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
