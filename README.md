@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I cannot build, I do not understand.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *Richard Feynman*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 25, 2024, 4:04 AM
+  Last Refresh : Thursday, January 25, 2024, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
