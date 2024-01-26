@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Ada Lovelace*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 25, 2024, 5:17 PM
+  Last Refresh : Thursday, January 25, 2024, 6:26 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
