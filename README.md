@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### The most important thing is to be able to think what you want, not to say what you want.
 >
-> ~ *Charles Simonyi*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 25, 2024, 11:05 PM
+  Last Refresh : Friday, January 26, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
