@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 26, 2024, 1:04 PM
+  Last Refresh : Friday, January 26, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
