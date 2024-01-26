@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good software, like good wine, takes time.
+> ### You can’t trust code that you did not totally create yourself.
 >
-> ~ *Joel Spolsky*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 26, 2024, 3:04 AM
+  Last Refresh : Friday, January 26, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
