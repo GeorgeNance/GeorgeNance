@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### Typing is no substitute for thinking.
 >
-> ~ *Stewart Brand*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 25, 2024, 9:05 PM
+  Last Refresh : Thursday, January 25, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
