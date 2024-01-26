@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 26, 2024, 2:05 AM
+  Last Refresh : Friday, January 26, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
