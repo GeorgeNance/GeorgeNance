@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.
+> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Stewart Brand*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, January 25, 2024, 8:04 PM
+  Last Refresh : Thursday, January 25, 2024, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
