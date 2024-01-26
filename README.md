@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You can’t trust code that you did not totally create yourself.
+> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
 >
-> ~ *Ken Thompson*
+> ~ *L. Peter Deutsch*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 26, 2024, 4:04 AM
+  Last Refresh : Friday, January 26, 2024, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
