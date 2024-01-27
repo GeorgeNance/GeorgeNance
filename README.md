@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Machines as simple as thermostats can be said to have beliefs.
+> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 >
-> ~ *John McCarthy (computer scientist)*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, January 26, 2024, 11:04 PM
+  Last Refresh : Saturday, January 27, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
