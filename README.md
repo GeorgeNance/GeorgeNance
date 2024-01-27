@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 27, 2024, 10:04 AM
+  Last Refresh : Saturday, January 27, 2024, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
