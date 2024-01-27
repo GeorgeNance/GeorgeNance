@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Toru Iwatani*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 27, 2024, 8:04 AM
+  Last Refresh : Saturday, January 27, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
