@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Buckminster Fuller*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 27, 2024, 7:05 AM
+  Last Refresh : Saturday, January 27, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
