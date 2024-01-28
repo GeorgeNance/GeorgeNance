@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 28, 2024, 2:04 AM
+  Last Refresh : Sunday, January 28, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
