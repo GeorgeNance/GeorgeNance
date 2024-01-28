@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A good programmer is someone who looks both ways before crossing a one-way street.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Doug Linder*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 27, 2024, 10:04 PM
+  Last Refresh : Saturday, January 27, 2024, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
