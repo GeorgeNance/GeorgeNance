@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of my most productive days was throwing away 1,000 lines of code.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Ken Thompson*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 27, 2024, 5:18 PM
+  Last Refresh : Saturday, January 27, 2024, 6:27 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
