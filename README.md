@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The very best technology never has as much impact as girlfriend or boyfriend trouble.
+> ### A year spent in artificial intelligence is enough to make one believe in God.
 >
-> ~ *Tom DeMarco*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 28, 2024, 9:04 AM
+  Last Refresh : Sunday, January 28, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
