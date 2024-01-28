@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Albert Einstein*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 28, 2024, 3:04 PM
+  Last Refresh : Sunday, January 28, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
