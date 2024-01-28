@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### People should be able to speak and breathe programs just like they talk now.
+> ### A good programmer is someone who looks both ways before crossing a one-way street.
 >
-> ~ *Jaron Lanier*
+> ~ *Doug Linder*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 27, 2024, 9:04 PM
+  Last Refresh : Saturday, January 27, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
