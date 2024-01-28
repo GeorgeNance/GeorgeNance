@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I don't believe in the sort of eureka moment idea. I think it's a myth. I'm very suspicious that actually Archimedes had been thinking about that problem for a long time.
+> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
 >
-> ~ *Tim Berners-Lee*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 28, 2024, 2:04 PM
+  Last Refresh : Sunday, January 28, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
