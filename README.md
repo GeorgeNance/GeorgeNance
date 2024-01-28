@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+> ### One of my most productive days was throwing away 1,000 lines of code.
 >
-> ~ *Brian Kernighan*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, January 27, 2024, 4:04 PM
+  Last Refresh : Saturday, January 27, 2024, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
