@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 3:04 PM
+  Last Refresh : Monday, January 29, 2024, 4:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
