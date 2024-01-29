@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful.
+> ### If I had followed my heart instead of advice, dBASE would be much closer to perfection today.
 >
-> ~ *Joe Armstrong (programmer)*
+> ~ *Wayne Ratliff*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 10:04 AM
+  Last Refresh : Monday, January 29, 2024, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
