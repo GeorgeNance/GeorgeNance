@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Much of the essence of building a program is in fact the debugging of the specification.
+> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 2:04 AM
+  Last Refresh : Monday, January 29, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
