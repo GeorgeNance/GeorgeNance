@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### Walking on water and developing software from a specification are easy if both are frozen.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Edward V. Berard*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 7:04 AM
+  Last Refresh : Monday, January 29, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
