@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 3:04 AM
+  Last Refresh : Monday, January 29, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
