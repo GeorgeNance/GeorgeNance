@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
+> ### The manager's function is not to make people work, but to make it possible for people to work.
 >
-> ~ *P. J. Plauger*
+> ~ *Tom DeMarco*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, January 28, 2024, 7:09 PM
+  Last Refresh : Sunday, January 28, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
