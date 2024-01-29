@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 1:05 AM
+  Last Refresh : Monday, January 29, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
