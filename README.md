@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+> ### Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.
 >
-> ~ *George Boole*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 12:04 AM
+  Last Refresh : Monday, January 29, 2024, 1:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
