@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is like a poem: you cannot write a poem without writing it. Yet people talk about programming as if it were a production process and measure „programmer productivity“ in terms of „number of lines of code produced“. In so doing they book that number on the wrong side of the ledger: We should always refer to „the number of lines of code spent“.
+> ### Really care about the tools you use because they are what make you your best.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Addy Osmani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 30, 2024, 3:04 AM
+  Last Refresh : Tuesday, January 30, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
