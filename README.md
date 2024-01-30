@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 >
 > ~ *Ted Nelson*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 30, 2024, 7:04 AM
+  Last Refresh : Tuesday, January 30, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
