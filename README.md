@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A clever person solves a problem. A wise person avoids it.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Albert Einstein*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 11:05 PM
+  Last Refresh : Tuesday, January 30, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
