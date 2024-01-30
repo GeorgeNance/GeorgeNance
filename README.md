@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
 >
-> ~ *Addy Osmani*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 30, 2024, 4:04 AM
+  Last Refresh : Tuesday, January 30, 2024, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
