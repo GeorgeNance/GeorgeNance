@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Dealing with failure is easy: Work hard to improve.
+> ### Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.
 >
-> ~ *Alan Perlis*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 7:09 PM
+  Last Refresh : Monday, January 29, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
