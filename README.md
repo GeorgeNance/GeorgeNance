@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.
 >
-> ~ *Joshua Bloch*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 30, 2024, 1:05 AM
+  Last Refresh : Tuesday, January 30, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
