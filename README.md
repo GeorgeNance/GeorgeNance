@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.
+> ### Dealing with failure is easy: Work hard to improve.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, January 29, 2024, 6:24 PM
+  Last Refresh : Monday, January 29, 2024, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
