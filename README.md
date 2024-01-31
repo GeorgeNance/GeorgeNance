@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+> ### Ideas don't disappear. They change form, they merge with other ideas.
 >
-> ~ *Fred Brooks*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 31, 2024, 3:04 AM
+  Last Refresh : Wednesday, January 31, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
