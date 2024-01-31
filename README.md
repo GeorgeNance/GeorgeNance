@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Poul Anderson*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, January 30, 2024, 8:04 PM
+  Last Refresh : Tuesday, January 30, 2024, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
