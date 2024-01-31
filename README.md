@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Really care about the tools you use because they are what make you your best.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Addy Osmani*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 31, 2024, 7:04 AM
+  Last Refresh : Wednesday, January 31, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
