@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+> ### Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.
 >
-> ~ *John von Neumann*
+> ~ *Richard Feynman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 31, 2024, 1:04 PM
+  Last Refresh : Wednesday, January 31, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
