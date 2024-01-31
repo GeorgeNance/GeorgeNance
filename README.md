@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
+> ### Less code equals less bugs.
 >
-> ~ *Bill Gates*
+> ~ *Kevlin Henney*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 31, 2024, 9:04 AM
+  Last Refresh : Wednesday, January 31, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
