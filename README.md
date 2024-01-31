@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Ideas don't disappear. They change form, they merge with other ideas.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Bob Frankston*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 31, 2024, 4:04 AM
+  Last Refresh : Wednesday, January 31, 2024, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
