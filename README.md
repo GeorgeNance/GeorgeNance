@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Most errors are introduced during requirements specification!
+> ### There's only one trick in software, and that is using a piece of software that's already been written.
 >
-> ~ *Daniel T. Barry*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, January 31, 2024, 7:12 PM
+  Last Refresh : Wednesday, January 31, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
