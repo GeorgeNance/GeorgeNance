@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
+> ### Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.
 >
-> ~ *Richard Stallman*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 1, 2024, 9:04 AM
+  Last Refresh : Thursday, February 1, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
