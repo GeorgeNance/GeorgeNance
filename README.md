@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Stewart Brand*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 1, 2024, 6:04 AM
+  Last Refresh : Thursday, February 1, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
