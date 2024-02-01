@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
 >
-> ~ *Donald Knuth*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 1, 2024, 1:04 AM
+  Last Refresh : Thursday, February 1, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
