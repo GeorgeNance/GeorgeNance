@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices.
+> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 1, 2024, 2:04 AM
+  Last Refresh : Thursday, February 1, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
