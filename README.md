@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Imagination is more important than knowledge.
+> ### No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 >
-> ~ *Albert Einstein*
+> ~ *George Boole*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 1, 2024, 8:05 PM
+  Last Refresh : Thursday, February 1, 2024, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
