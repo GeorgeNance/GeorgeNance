@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Tom DeMarco*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 1, 2024, 11:05 PM
+  Last Refresh : Friday, February 2, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
