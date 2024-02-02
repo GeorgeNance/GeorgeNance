@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
+> ### A computer shall not waste your time or require you to do more work than is strictly necessary.
 >
-> ~ *Robert C. Martin*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 12:04 AM
+  Last Refresh : Friday, February 2, 2024, 1:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
