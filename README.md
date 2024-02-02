@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A program is a building of thought. It is costless to build, it is weightless, and it grows easily under our typing hands. But without care, a program’s size and complexity will grow out of control, confusing even the person who created it.
+> ### Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Danny Hillis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 1, 2024, 4:04 PM
+  Last Refresh : Thursday, February 1, 2024, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
