@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.
+> ### Really good programs live forever.
 >
-> ~ *Ivan Sutherland*
+> ~ *Charles Simonyi*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 2:12 AM
+  Last Refresh : Friday, February 2, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
