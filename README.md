@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.
+> ### It’s all talk until the code runs.
 >
-> ~ *Ted Nelson*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 12:04 PM
+  Last Refresh : Friday, February 2, 2024, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
