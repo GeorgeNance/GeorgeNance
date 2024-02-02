@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 3:04 PM
+  Last Refresh : Friday, February 2, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
