@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+> ### False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
 >
 > ~ *Fred Brooks*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 1, 2024, 6:25 PM
+  Last Refresh : Thursday, February 1, 2024, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
