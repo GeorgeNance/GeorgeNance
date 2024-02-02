@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.
+> ### From an artistic standpoint, the best software comes from the realm of intuition.
 >
-> ~ *Charles Simonyi*
+> ~ *Bob Carr*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 8:04 AM
+  Last Refresh : Friday, February 2, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
