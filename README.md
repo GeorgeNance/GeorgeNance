@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### From an artistic standpoint, the best software comes from the realm of intuition.
+> ### Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.
 >
-> ~ *Bob Carr*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 9:04 AM
+  Last Refresh : Friday, February 2, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
