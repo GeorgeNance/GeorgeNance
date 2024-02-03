@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Fred Brooks*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 3, 2024, 2:04 AM
+  Last Refresh : Saturday, February 3, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
