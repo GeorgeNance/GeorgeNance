@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Michael Hawley*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 9:04 PM
+  Last Refresh : Friday, February 2, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
