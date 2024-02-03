@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+> ### Documentation is a love letter that you write to your future self.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Damian Conway*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 3, 2024, 6:04 AM
+  Last Refresh : Saturday, February 3, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
