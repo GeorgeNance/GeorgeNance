@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
+> ### The purpose of computing is insight, not numbers.
 >
-> ~ *Richard Stallman*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 11:04 PM
+  Last Refresh : Saturday, February 3, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
