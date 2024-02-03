@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius – and a lot of courage – to move in the opposite direction.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Albert Einstein*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 6:23 PM
+  Last Refresh : Friday, February 2, 2024, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
