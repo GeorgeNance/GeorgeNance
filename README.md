@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### Sometimes it’s just easier to throw a system away, and start over.
 >
-> ~ *Gary Kildall*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 3, 2024, 4:04 AM
+  Last Refresh : Saturday, February 3, 2024, 5:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
