@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm interested in creating images that communicate with people.
+> ### I think programming is very much a religious experience for a lot of people.
 >
-> ~ *Toru Iwatani*
+> ~ *Gary Kildall*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 3, 2024, 3:04 AM
+  Last Refresh : Saturday, February 3, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
