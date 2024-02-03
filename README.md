@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 >
-> ~ *Marvin Minsky*
+> ~ *Simon Peyton Jones*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 3, 2024, 8:04 AM
+  Last Refresh : Saturday, February 3, 2024, 9:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
