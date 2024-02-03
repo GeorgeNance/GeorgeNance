@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A framework can provide 90% of the features we need quickly — giving us a false sense of confidence early in the development cycle — and then be frustratingly hard when it comes to implementing the last 10%.
+> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 >
-> ~ *Tony Parisi (software developer)*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 3, 2024, 11:04 AM
+  Last Refresh : Saturday, February 3, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
