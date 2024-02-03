@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### I care not only what the code says but how it looks.
 >
-> ~ *Friedrich Bauer*
+> ~ *Peter Roizen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 7:07 PM
+  Last Refresh : Friday, February 2, 2024, 8:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
