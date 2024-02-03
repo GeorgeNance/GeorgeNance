@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### That hardly ever happens is another way of saying 'it happens'.
 >
-> ~ *Terry Winograd*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 3, 2024, 3:04 PM
+  Last Refresh : Saturday, February 3, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
