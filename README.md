@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### We who cut mere stones must always be envisioning cathedrals.
 >
-> ~ *Friedrich Bauer*
+> ~ *Quarry worker's creed*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 2, 2024, 4:04 PM
+  Last Refresh : Friday, February 2, 2024, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
