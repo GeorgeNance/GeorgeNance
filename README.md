@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 >
-> ~ *Bob Frankston*
+> ~ *Brian Kernighan*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 4, 2024, 3:04 PM
+  Last Refresh : Sunday, February 4, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
