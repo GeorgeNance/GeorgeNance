@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When there is no type hierarchy you don’t have to manage the type hierarchy.
+> ### Computer programs are the most complex things that humans make.
 >
-> ~ *Rob Pike*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 4, 2024, 7:04 AM
+  Last Refresh : Sunday, February 4, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
