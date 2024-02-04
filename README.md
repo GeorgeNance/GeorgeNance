@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+> ### By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.
 >
-> ~ *Fred Brooks*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 3, 2024, 10:04 PM
+  Last Refresh : Saturday, February 3, 2024, 11:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
