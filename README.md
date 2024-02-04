@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.
+> ### Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.
 >
-> ~ *Ted Nelson*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 4, 2024, 5:06 AM
+  Last Refresh : Sunday, February 4, 2024, 6:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
