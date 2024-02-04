@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 4, 2024, 2:04 PM
+  Last Refresh : Sunday, February 4, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
