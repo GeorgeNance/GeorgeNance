@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 4, 2024, 7:14 PM
+  Last Refresh : Sunday, February 4, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
