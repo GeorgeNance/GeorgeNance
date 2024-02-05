@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The top 5% of programmers probably write 99% of the good software.
+> ### The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 >
-> ~ *Paul Graham (programmer)*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 4, 2024, 8:04 PM
+  Last Refresh : Sunday, February 4, 2024, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
