@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.
+> ### Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 >
-> ~ *Fred Brooks*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 5, 2024, 10:04 AM
+  Last Refresh : Monday, February 5, 2024, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
