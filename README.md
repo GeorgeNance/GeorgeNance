@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### The difference between theory and practice is that in theory, there is no difference between theory and practice.
 >
-> ~ *Joshua Bloch*
+> ~ *Richard Moore (engineer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 5, 2024, 2:04 AM
+  Last Refresh : Monday, February 5, 2024, 3:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
