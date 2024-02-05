@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience.
+> ### With artificial intelligence we are summoning the demon.
 >
-> ~ *Albert Einstein*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 5, 2024, 2:04 PM
+  Last Refresh : Monday, February 5, 2024, 3:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
