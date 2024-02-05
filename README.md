@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.
+> ### A language that doesn’t have everything is actually easier to program in than some that do.
 >
-> ~ *Danny Hillis*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 4, 2024, 10:04 PM
+  Last Refresh : Sunday, February 4, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
