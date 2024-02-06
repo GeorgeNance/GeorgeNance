@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application.
+> ### The best minds of my generation are thinking about how to make people click ads.
 >
-> ~ *Ted Nelson*
+> ~ *Jeff Hammerbacher*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 6, 2024, 6:04 AM
+  Last Refresh : Tuesday, February 6, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
