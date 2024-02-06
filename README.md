@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+> ### Every good work of software starts by scratching a developer’s personal itch.
 >
-> ~ *Richard Hamming*
+> ~ *Eric S. Raymond*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 6, 2024, 1:10 AM
+  Last Refresh : Tuesday, February 6, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
