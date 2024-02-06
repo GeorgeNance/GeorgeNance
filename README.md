@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A year spent in artificial intelligence is enough to make one believe in God.
+> ### I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 6, 2024, 2:04 PM
+  Last Refresh : Tuesday, February 6, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
