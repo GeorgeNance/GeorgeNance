@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+> ### I think you should always bear in mind that entropy is not on your side.
 >
-> ~ *Bill Gates*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 6, 2024, 11:04 AM
+  Last Refresh : Tuesday, February 6, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
