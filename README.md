@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)
+> ### I'm interested in creating images that communicate with people.
 >
-> ~ *Linus Torvalds*
+> ~ *Toru Iwatani*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 6, 2024, 9:04 AM
+  Last Refresh : Tuesday, February 6, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
