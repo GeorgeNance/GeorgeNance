@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value.
 >
-> ~ *Fred Brooks*
+> ~ *Ada Lovelace*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 2:04 PM
+  Last Refresh : Wednesday, February 7, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
