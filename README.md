@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### So much complexity in software comes from trying to make one thing do two things.
+> ### A language that doesn't affect the way you think about programming, is not worth knowing.
 >
-> ~ *Ryan Singer*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 9:05 AM
+  Last Refresh : Wednesday, February 7, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
