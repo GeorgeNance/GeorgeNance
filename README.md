@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think there is a world market for maybe five
-computers.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *Thomas J. Watson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computers.
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 4:04 AM
+  Last Refresh : Wednesday, February 7, 2024, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
