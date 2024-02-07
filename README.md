@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A language that doesn't affect the way you think about programming, is not worth knowing.
+> ### There is no reason anyone would want a computer in their home.
 >
-> ~ *Alan Perlis*
+> ~ *Ken Olsen*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 10:04 AM
+  Last Refresh : Wednesday, February 7, 2024, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
