@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is no reason anyone would want a computer in their home.
+> ### Before software can be reusable it first has to be usable.
 >
-> ~ *Ken Olsen*
+> ~ *Ralph Johnson (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 11:04 AM
+  Last Refresh : Wednesday, February 7, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
