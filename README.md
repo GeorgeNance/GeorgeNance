@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.
+> ### So much complexity in software comes from trying to make one thing do two things.
 >
-> ~ *Fred Brooks*
+> ~ *Ryan Singer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 8:04 AM
+  Last Refresh : Wednesday, February 7, 2024, 9:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
