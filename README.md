@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+> ### I think there is a world market for maybe five
+computers.
 >
-> ~ *Steve Jobs*
+> ~ *Thomas J. Watson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 3:05 AM
+  Last Refresh : Wednesday, February 7, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
