@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Before software can be reusable it first has to be usable.
+> ### Programming is the ultimate field for someone who likes to tinker.
 >
-> ~ *Ralph Johnson (computer scientist)*
+> ~ *Ray Ozzie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 12:04 PM
+  Last Refresh : Wednesday, February 7, 2024, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
