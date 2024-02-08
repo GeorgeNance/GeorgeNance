@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One man's constant is another man's variable.
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Alan Perlis*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 7:08 PM
+  Last Refresh : Wednesday, February 7, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
