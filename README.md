@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Compatibility means deliberately repeating other people’s mistakes.
+> ### Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.
 >
-> ~ *David Wheeler (computer scientist)*
+> ~ *Richard P. Gabriel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 8, 2024, 5:09 AM
+  Last Refresh : Thursday, February 8, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
