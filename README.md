@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.
+> ### Machines as simple as thermostats can be said to have beliefs.
 >
-> ~ *Ada Lovelace*
+> ~ *John McCarthy (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 8, 2024, 2:04 AM
+  Last Refresh : Thursday, February 8, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
