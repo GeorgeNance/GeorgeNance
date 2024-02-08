@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+> ### The Domain Name Server (DNS) is the Achilles heel of the Web.
 >
-> ~ *Fred Brooks*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 7, 2024, 4:04 PM
+  Last Refresh : Wednesday, February 7, 2024, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
