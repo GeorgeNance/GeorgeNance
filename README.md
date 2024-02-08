@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+> ### Compatibility means deliberately repeating other people’s mistakes.
 >
-> ~ *Tom Cargill*
+> ~ *David Wheeler (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 8, 2024, 4:04 AM
+  Last Refresh : Thursday, February 8, 2024, 5:09 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
