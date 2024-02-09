@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+> ### You should name a variable using the same care with which you name a first-born child.
 >
-> ~ *Fred Brooks*
+> ~ *Jim Coplien*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 8, 2024, 7:09 PM
+  Last Refresh : Thursday, February 8, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
