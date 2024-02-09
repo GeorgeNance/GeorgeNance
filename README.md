@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The key to keeping software costs down is to write code that is easily modified.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Daniel T. Barry*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 9, 2024, 4:04 AM
+  Last Refresh : Friday, February 9, 2024, 5:08 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
