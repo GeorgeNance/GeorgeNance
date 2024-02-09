@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know.
+> ### The key to keeping software costs down is to write code that is easily modified.
 >
-> ~ *Richard Stallman*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 9, 2024, 3:04 AM
+  Last Refresh : Friday, February 9, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
