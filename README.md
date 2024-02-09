@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
+> ### Much of the essence of building a program is in fact the debugging of the specification.
 >
-> ~ *Bjarne Stroustrup*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 9, 2024, 6:04 AM
+  Last Refresh : Friday, February 9, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
