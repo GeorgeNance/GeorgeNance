@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### What is simplicity? Simplicity is the shortest path to a solution.
 >
-> ~ *John von Neumann*
+> ~ *Ward Cunningham*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 9, 2024, 2:05 PM
+  Last Refresh : Friday, February 9, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
