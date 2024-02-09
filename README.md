@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability.
+> ### Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
 >
-> ~ *Randall E. Stross*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 8, 2024, 6:24 PM
+  Last Refresh : Thursday, February 8, 2024, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
