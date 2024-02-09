@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every program has (at least) two purposes: the one for which it was written and another for which it wasn't.
+> ### I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
 >
-> ~ *Alan Perlis*
+> ~ *Richard Hamming*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 9, 2024, 1:04 AM
+  Last Refresh : Friday, February 9, 2024, 2:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
