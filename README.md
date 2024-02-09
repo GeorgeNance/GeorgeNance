@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### You should name a variable using the same care with which you name a first-born child.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Jim Coplien*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 8, 2024, 8:04 PM
+  Last Refresh : Thursday, February 8, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
