@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Alan Perlis*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 9, 2024, 11:04 PM
+  Last Refresh : Saturday, February 10, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
