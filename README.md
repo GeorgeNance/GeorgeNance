@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### For most software, efficiency just does not matter.
+> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
 >
-> ~ *Daniel T. Barry*
+> ~ *Simon Peyton Jones*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 10, 2024, 3:04 PM
+  Last Refresh : Saturday, February 10, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
