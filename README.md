@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.
+> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 >
-> ~ *Andy Hunt (author)*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 10, 2024, 2:05 AM
+  Last Refresh : Saturday, February 10, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
