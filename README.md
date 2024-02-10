@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### How do we convince people that in programming simplicity and clarity — in short: what mathematicians call "elegance" — are not a dispensable luxury, but a crucial matter that decides between success and failure?
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 10, 2024, 1:04 PM
+  Last Refresh : Saturday, February 10, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
