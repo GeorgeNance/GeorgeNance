@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+> ### Codes are a puzzle. A game, just like any other game.
 >
-> ~ *Rick Osborne*
+> ~ *Alan Turing*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 9, 2024, 6:23 PM
+  Last Refresh : Friday, February 9, 2024, 7:07 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
