@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Ken Thompson*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 10, 2024, 5:05 AM
+  Last Refresh : Saturday, February 10, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
