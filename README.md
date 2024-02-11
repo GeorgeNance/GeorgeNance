@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When you feel the need to write a comment, first try to refactor the code so that any comment becomes superfluous.
+> ### The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.
 >
-> ~ *Kent Beck*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 11, 2024, 1:04 AM
+  Last Refresh : Sunday, February 11, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
