@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack.
+> ### A program that produces incorrect results twice as fast is infinitely slower.
 >
-> ~ *George Carrette*
+> ~ *John Ousterhout*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 10, 2024, 11:05 PM
+  Last Refresh : Sunday, February 11, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
