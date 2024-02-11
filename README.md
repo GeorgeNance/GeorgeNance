@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs.
+> ### Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.
 >
-> ~ *Simon Peyton Jones*
+> ~ *Chris Sacca*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 10, 2024, 4:04 PM
+  Last Refresh : Saturday, February 10, 2024, 5:18 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
