@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.
 >
 > ~ *Edsger W. Dijkstra*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 11, 2024, 8:05 AM
+  Last Refresh : Sunday, February 11, 2024, 9:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
