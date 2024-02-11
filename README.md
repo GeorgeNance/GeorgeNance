@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The management question, therefore, is not whether to build a pilot system and throw it away. You will do that. The only question is whether to plan in advance to build a throwaway, or to promise to deliver the throwaway to customers.
+> ### I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.
 >
-> ~ *Fred Brooks*
+> ~ *Richard Stallman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 10, 2024, 8:04 PM
+  Last Refresh : Saturday, February 10, 2024, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
