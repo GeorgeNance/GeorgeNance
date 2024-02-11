@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.
+> ### Programs must be written for people to read, and only incidentally for machines to execute.
 >
-> ~ *Fred Brooks*
+> ~ *Hal Abelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 11, 2024, 10:04 AM
+  Last Refresh : Sunday, February 11, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
