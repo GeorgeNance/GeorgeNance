@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Programs must be written for people to read, and only incidentally for machines to execute.
+> ### If you think it's simple, then you have misunderstood the problem.
 >
-> ~ *Hal Abelson*
+> ~ *Bjarne Stroustrup*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 11, 2024, 11:05 AM
+  Last Refresh : Sunday, February 11, 2024, 12:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
