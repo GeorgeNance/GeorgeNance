@@ -9,10 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+> ### The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 >
-> ~ *Bob Frankston*
+> ~ *John Carmack*
 
 ---
 ## 🏎 Quick Facts 
@@ -47,7 +46,7 @@ computer getting it right is pretty small.
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 11, 2024, 10:05 PM
+  Last Refresh : Sunday, February 11, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
