@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Even in the games of children there are things to interest the greatest mathematician.
+> ### Imagination is more important than knowledge.
 >
-> ~ *Gottfried Wilhelm Leibniz*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 12, 2024, 9:04 AM
+  Last Refresh : Monday, February 12, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
