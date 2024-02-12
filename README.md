@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### One accurate measurement is worth more than a thousand expert opinions.
+> ### Don't worry about anything. Just do what you can and be the best you can be.
 >
-> ~ *Grace Hopper*
+> ~ *Douglas Crockford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 12, 2024, 6:04 AM
+  Last Refresh : Monday, February 12, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
