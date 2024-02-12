@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+> ### Life is too short to run proprietary software.
 >
-> ~ *Marijn Haverbeke*
+> ~ *Bdale Garbee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 12, 2024, 1:04 PM
+  Last Refresh : Monday, February 12, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
