@@ -9,9 +9,10 @@
 
 
 *Quote of the hour:*
-> ### I mean, if 10 years from now, when you are doing something quick and dirty, you suddenly visualize that I am looking over your shoulders and say to yourself "Dijkstra would not have liked this", well, that would be enough immortality for me.
+> ### If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Bob Frankston*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +47,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 11, 2024, 9:05 PM
+  Last Refresh : Sunday, February 11, 2024, 10:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
