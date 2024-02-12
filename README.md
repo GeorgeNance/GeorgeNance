@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Life is too short to run proprietary software.
+> ### Good software, like good wine, takes time.
 >
-> ~ *Bdale Garbee*
+> ~ *Joel Spolsky*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 12, 2024, 2:04 PM
+  Last Refresh : Monday, February 12, 2024, 3:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
