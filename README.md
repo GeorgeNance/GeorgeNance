@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good judgement comes from experience. Experience comes from bad judgement.
+> ### The way to arrest entropy in software is to refactor it.
 >
-> ~ *Jim Horning*
+> ~ *Joseph Yoder (computer scientist)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 13, 2024, 12:05 AM
+  Last Refresh : Tuesday, February 13, 2024, 1:06 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
