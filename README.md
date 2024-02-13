@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The way to arrest entropy in software is to refactor it.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Joseph Yoder (computer scientist)*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 13, 2024, 1:06 AM
+  Last Refresh : Tuesday, February 13, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
