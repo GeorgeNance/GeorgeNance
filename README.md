@@ -9,7 +9,7 @@
 
 
 *Quote of the hour:*
-> ### Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+> ### I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.
 >
 > ~ *Douglas Crockford*
 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 13, 2024, 5:10 AM
+  Last Refresh : Tuesday, February 13, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
