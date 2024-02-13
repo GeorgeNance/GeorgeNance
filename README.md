@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.
+> ### It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans.
 >
-> ~ *Sean Parent*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 12, 2024, 5:17 PM
+  Last Refresh : Monday, February 12, 2024, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
