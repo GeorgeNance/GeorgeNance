@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Computer programs are the most complex things that humans make.
+> ### Good judgement comes from experience. Experience comes from bad judgement.
 >
-> ~ *Douglas Crockford*
+> ~ *Jim Horning*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 12, 2024, 11:05 PM
+  Last Refresh : Tuesday, February 13, 2024, 12:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
