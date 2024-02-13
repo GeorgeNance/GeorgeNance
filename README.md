@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.
+> ### To be a hacker - when I use the term - is somebody who is creative and does wonderful things.
 >
-> ~ *Joshua Bloch*
+> ~ *Tim Berners-Lee*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 12, 2024, 8:04 PM
+  Last Refresh : Monday, February 12, 2024, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
