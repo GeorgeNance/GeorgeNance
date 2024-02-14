@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
+> ### Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
-> ~ *Friedrich Bauer*
+> ~ *Donald Knuth*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 6:04 AM
+  Last Refresh : Wednesday, February 14, 2024, 7:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
