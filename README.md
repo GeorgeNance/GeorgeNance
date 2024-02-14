@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 >
-> ~ *Douglas Crockford*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 10:04 AM
+  Last Refresh : Wednesday, February 14, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
