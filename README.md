@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
+> ### Software engineering is the part of computer science which is too difficult for the computer scientist.
 >
-> ~ *Terry Winograd*
+> ~ *Friedrich Bauer*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 5:10 AM
+  Last Refresh : Wednesday, February 14, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
