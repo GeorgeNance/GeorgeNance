@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have no special talent. I am only passionately curious.
+> ### Adding manpower to a late software project makes it later.
 >
-> ~ *Albert Einstein*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 3:04 AM
+  Last Refresh : Wednesday, February 14, 2024, 4:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
