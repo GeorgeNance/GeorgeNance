@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
+> ### It's not so important what you work on, so long as you're not wasting your time.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 13, 2024, 6:25 PM
+  Last Refresh : Tuesday, February 13, 2024, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
