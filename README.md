@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Adding manpower to a late software project makes it later.
+> ### The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.
 >
-> ~ *Fred Brooks*
+> ~ *Terry Winograd*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 4:04 AM
+  Last Refresh : Wednesday, February 14, 2024, 5:10 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
