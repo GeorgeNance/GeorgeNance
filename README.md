@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+> ### The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 3:04 PM
+  Last Refresh : Wednesday, February 14, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
