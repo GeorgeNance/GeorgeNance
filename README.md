@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If you have a procedure with 10 parameters, you probably missed some.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Alan Perlis*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 15, 2024, 5:08 AM
+  Last Refresh : Thursday, February 15, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
