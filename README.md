@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### With artificial intelligence we are summoning the demon.
+> ### No matter how slow you are writing clean code, you will always be slower if you make a mess.
 >
-> ~ *Elon Musk*
+> ~ *Robert C. Martin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 15, 2024, 8:04 AM
+  Last Refresh : Thursday, February 15, 2024, 9:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
