@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The manager's function is not to make people work, but to make it possible for people to work.
+> ### What one programmer can do in one month, two programmers can do in two months.
 >
-> ~ *Tom DeMarco*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 15, 2024, 2:05 AM
+  Last Refresh : Thursday, February 15, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
