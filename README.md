@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Roy Fielding*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 15, 2024, 10:05 AM
+  Last Refresh : Thursday, February 15, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
