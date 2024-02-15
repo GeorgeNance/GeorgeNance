@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Your most unhappy customers are your greatest source of learning.
+> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 >
-> ~ *Bill Gates*
+> ~ *Ellen Ullman*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 8:04 PM
+  Last Refresh : Wednesday, February 14, 2024, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
