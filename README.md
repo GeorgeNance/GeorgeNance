@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Ellen Ullman*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 9:05 PM
+  Last Refresh : Wednesday, February 14, 2024, 10:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
