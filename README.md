@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+> ### Your most unhappy customers are your greatest source of learning.
 >
-> ~ *Linus Torvalds*
+> ~ *Bill Gates*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 7:09 PM
+  Last Refresh : Wednesday, February 14, 2024, 8:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
