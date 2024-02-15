@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.
+> ### When in doubt, use brute force.
 >
-> ~ *Michael Stal*
+> ~ *Ken Thompson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 5:16 PM
+  Last Refresh : Wednesday, February 14, 2024, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
