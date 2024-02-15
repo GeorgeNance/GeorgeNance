@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I'm not a great programmer; I'm just a good programmer with great habits.
+> ### First, solve the problem. Then, write the code.
 >
-> ~ *Kent Beck*
+> ~ *John Johnson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 10:04 PM
+  Last Refresh : Wednesday, February 14, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
