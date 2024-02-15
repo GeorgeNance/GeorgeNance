@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### First, solve the problem. Then, write the code.
+> ### In theory, there is no difference between theory and practice. But, in practice, there is.
 >
-> ~ *John Johnson*
+> ~ *Jan L. A. van de Snepscheut*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Wednesday, February 14, 2024, 11:05 PM
+  Last Refresh : Thursday, February 15, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
