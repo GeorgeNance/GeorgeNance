@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
 >
-> ~ *John von Neumann*
+> ~ *Edsger W. Dijkstra*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 15, 2024, 6:24 PM
+  Last Refresh : Thursday, February 15, 2024, 7:09 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
