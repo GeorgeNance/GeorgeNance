@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### As with most projects, the last two percent takes fifty percent of the time.
+> ### The best thing about a boolean is even if you are wrong, you are only off by a bit.
 >
-> ~ *John Warnock*
+> ~ *Anonymous*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 16, 2024, 2:04 AM
+  Last Refresh : Friday, February 16, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
