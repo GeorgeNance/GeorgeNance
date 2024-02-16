@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
 >
-> ~ *Edsger W. Dijkstra*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 15, 2024, 7:09 PM
+  Last Refresh : Thursday, February 15, 2024, 8:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
