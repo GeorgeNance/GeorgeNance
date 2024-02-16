@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### That hardly ever happens is another way of saying 'it happens'.
+> ### I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.
 >
-> ~ *Douglas Crockford*
+> ~ *Alan Kay*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 15, 2024, 11:05 PM
+  Last Refresh : Friday, February 16, 2024, 12:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
