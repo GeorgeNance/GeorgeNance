@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Arthur C. Clarke*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 16, 2024, 10:04 AM
+  Last Refresh : Friday, February 16, 2024, 11:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
