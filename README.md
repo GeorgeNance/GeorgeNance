@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+> ### As with most projects, the last two percent takes fifty percent of the time.
 >
-> ~ *Fred Brooks*
+> ~ *John Warnock*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 16, 2024, 1:05 AM
+  Last Refresh : Friday, February 16, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
