@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### An infinite number of monkeys typing into GNU Emacs would never make a good program.
+> ### Deleted code is debugged code.
 >
-> ~ *Linus Torvalds*
+> ~ *Jeff Sickel*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Thursday, February 15, 2024, 8:05 PM
+  Last Refresh : Thursday, February 15, 2024, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
