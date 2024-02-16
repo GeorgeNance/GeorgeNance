@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
+> ### Young man, in mathematics you don't understand things. You just get used to them.
 >
-> ~ *Donald Knuth*
+> ~ *John von Neumann*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 16, 2024, 12:04 PM
+  Last Refresh : Friday, February 16, 2024, 1:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
