@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once you stop learning you start dying.
+> ### Making things easy is hard.
 >
-> ~ *Albert Einstein*
+> ~ *Ted Nelson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 17, 2024, 6:04 AM
+  Last Refresh : Saturday, February 17, 2024, 7:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
