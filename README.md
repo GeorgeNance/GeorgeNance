@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Making things easy is hard.
+> ### In man-machine symbiosis, it is man who must adjust: The machines can't.
 >
-> ~ *Ted Nelson*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 17, 2024, 7:04 AM
+  Last Refresh : Saturday, February 17, 2024, 8:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
