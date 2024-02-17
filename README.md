@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Once the computers got control, we might never get it back.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Marvin Minsky*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 17, 2024, 3:05 PM
+  Last Refresh : Saturday, February 17, 2024, 4:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
