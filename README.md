@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I’ve never been a lover of existing code. Code by itself almost rots and it’s gotta be rewritten. Even when nothing has changed, for some reason it rots.
+> ### If Microsoft ever does applications for Linux it means I've won.
 >
-> ~ *Ken Thompson*
+> ~ *Linus Torvalds*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 17, 2024, 4:04 AM
+  Last Refresh : Saturday, February 17, 2024, 5:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
