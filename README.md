@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If Microsoft ever does applications for Linux it means I've won.
+> ### Once you stop learning you start dying.
 >
-> ~ *Linus Torvalds*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 17, 2024, 5:05 AM
+  Last Refresh : Saturday, February 17, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
