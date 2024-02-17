@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.
+> ### If you have a procedure with 10 parameters, you probably missed some.
 >
-> ~ *David Parnas*
+> ~ *Alan Perlis*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Friday, February 16, 2024, 10:04 PM
+  Last Refresh : Friday, February 16, 2024, 11:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
