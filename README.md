@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When a program is clean and neat, nicely structured, and consistent, it can be beautiful.
+> ### I have no special talent. I am only passionately curious.
 >
-> ~ *Gary Kildall*
+> ~ *Albert Einstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 17, 2024, 2:04 AM
+  Last Refresh : Saturday, February 17, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
