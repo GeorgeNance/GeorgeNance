@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+> ### Debugging is like being the detective in a crime movie where you are also the murderer.
 >
-> ~ *Richard Hamming*
+> ~ *Filipe Fortes*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Saturday, February 17, 2024, 11:05 PM
+  Last Refresh : Sunday, February 18, 2024, 12:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
