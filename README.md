@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### AI is a fundamental risk to the existence of human civilization.
+> ### I'm not a great programmer; I'm just a good programmer with great habits.
 >
-> ~ *Elon Musk*
+> ~ *Kent Beck*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 18, 2024, 2:04 AM
+  Last Refresh : Sunday, February 18, 2024, 3:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
