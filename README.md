@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Fred Brooks*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 18, 2024, 1:04 AM
+  Last Refresh : Sunday, February 18, 2024, 2:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
