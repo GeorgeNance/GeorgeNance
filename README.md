@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.
+> ### I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 >
-> ~ *John Warnock*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 19, 2024, 10:04 AM
+  Last Refresh : Monday, February 19, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
