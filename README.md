@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The only way to learn a new programming language is by writing programs in it.
+> ### Everybody should learn to program a computer, because it teaches you how to think.
 >
-> ~ *Dennis Ritchie*
+> ~ *Steve Jobs*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 19, 2024, 6:04 AM
+  Last Refresh : Monday, February 19, 2024, 7:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
