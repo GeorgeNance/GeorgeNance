@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
+> ### If we’d asked the customers what they wanted, they would have said “faster horses”.
 >
-> ~ *Butler Lampson*
+> ~ *Henry Ford*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 18, 2024, 6:25 PM
+  Last Refresh : Sunday, February 18, 2024, 7:10 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
