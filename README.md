@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I think programming is very much a religious experience for a lot of people.
+> ### When we don’t understand a process, we fall into magical thinking about results.
 >
-> ~ *Gary Kildall*
+> ~ *Jef Raskin*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 18, 2024, 4:04 PM
+  Last Refresh : Sunday, February 18, 2024, 5:17 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
