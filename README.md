@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability.
+> ### The only way to learn a new programming language is by writing programs in it.
 >
-> ~ *Vannevar Bush*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 19, 2024, 5:06 AM
+  Last Refresh : Monday, February 19, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
