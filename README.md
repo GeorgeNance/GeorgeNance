@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### When we don’t understand a process, we fall into magical thinking about results.
+> ### In handling resources, strive to avoid disaster rather than to attain an optimum.
 >
-> ~ *Jef Raskin*
+> ~ *Butler Lampson*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Sunday, February 18, 2024, 5:17 PM
+  Last Refresh : Sunday, February 18, 2024, 6:25 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
