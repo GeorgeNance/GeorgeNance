@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
+> ### The limits of my language mean the limits of my world.
 >
-> ~ *Vannevar Bush*
+> ~ *Ludwig Wittgenstein*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 19, 2024, 5:16 PM
+  Last Refresh : Monday, February 19, 2024, 6:24 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
