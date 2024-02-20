@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### We who cut mere stones must always be envisioning cathedrals.
+> ### Programming increases goes as a power of program size.
 >
-> ~ *Quarry worker's creed*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 20, 2024, 5:12 AM
+  Last Refresh : Tuesday, February 20, 2024, 6:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
