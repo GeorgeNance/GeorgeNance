@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### A programming systems product takes about nine times as much effort as the component programs written separately for private use.
+> ### In programming the hard part isn’t solving problems, but deciding what problems to solve.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 20, 2024, 1:05 PM
+  Last Refresh : Tuesday, February 20, 2024, 2:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
