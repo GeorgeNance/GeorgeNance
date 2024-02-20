@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.
+> ### Whenever logical processes of thought are employed, there is an opportunity for the machine.
 >
-> ~ *Bill Gates*
+> ~ *Vannevar Bush*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 19, 2024, 4:04 PM
+  Last Refresh : Monday, February 19, 2024, 5:16 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
