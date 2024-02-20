@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
+> ### The top 5% of programmers probably write 99% of the good software.
 >
-> ~ *Fred Brooks*
+> ~ *Paul Graham (programmer)*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 20, 2024, 10:04 AM
+  Last Refresh : Tuesday, February 20, 2024, 11:05 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
