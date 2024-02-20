@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+> ### C is quirky, flawed, and an enormous success.
 >
-> ~ *Douglas Crockford*
+> ~ *Dennis Ritchie*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 19, 2024, 8:04 PM
+  Last Refresh : Monday, February 19, 2024, 9:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
