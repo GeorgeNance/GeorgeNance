@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### C is quirky, flawed, and an enormous success.
+> ### Fancy algorithms are slow when n is small, and n is usually small.
 >
-> ~ *Dennis Ritchie*
+> ~ *Rob Pike*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 19, 2024, 9:05 PM
+  Last Refresh : Monday, February 19, 2024, 10:05 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
