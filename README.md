@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### The limits of my language mean the limits of my world.
+> ### AI is a fundamental risk to the existence of human civilization.
 >
-> ~ *Ludwig Wittgenstein*
+> ~ *Elon Musk*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Monday, February 19, 2024, 6:24 PM
+  Last Refresh : Monday, February 19, 2024, 7:08 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
