@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun.
+> ### Maintenance cost is strongly affected by the number of users. More users find more bugs.
 >
-> ~ *Donald Knuth*
+> ~ *Fred Brooks*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 20, 2024, 9:05 AM
+  Last Refresh : Tuesday, February 20, 2024, 10:04 AM
   <br/>
   This README is generated every <strong>hour</strong>
 
