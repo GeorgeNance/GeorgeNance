@@ -8,26 +8,8 @@
 </p>
 
 
-*Quote of the hour:*
-> ### You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
->
-> ~ *Steve Jobs*
-
----
-## 🏎 Quick Facts 
-- 🔭 I’m currently working on *making the world a better place*™️
 
 
-- 👯 I’m looking to collaborate on **anything progressive and open source**
-
-
-- 📝 I am working on writing more on my [website](https://georgenance.com)
-
-
-- 💬 Ask me about **PHP, Vue and NodeJS**
-
-
-- 📫 How to reach me **hello@georgenance.com**
 
 ## ✍️ Recent Blog Posts:
 
@@ -44,10 +26,4 @@
 
 
 
-___
-<p align="center">
-  Last Refresh : Wednesday, February 21, 2024, 9:05 AM
-  <br/>
-  This README is generated every <strong>hour</strong>
 
-</p>
