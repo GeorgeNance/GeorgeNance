@@ -9,9 +9,9 @@
 
 
 *Quote of the hour:*
-> ### Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+> ### A number of studies have shown testing not very effective at finding bugs.
 >
-> ~ *L. Peter Deutsch*
+> ~ *Daniel T. Barry*
 
 ---
 ## 🏎 Quick Facts 
@@ -46,7 +46,7 @@
 
 ___
 <p align="center">
-  Last Refresh : Tuesday, February 20, 2024, 8:04 PM
+  Last Refresh : Tuesday, February 20, 2024, 9:04 PM
   <br/>
   This README is generated every <strong>hour</strong>
 
