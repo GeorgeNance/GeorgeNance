@@ -1,44 +1,79 @@
-<h1 align="center">Hey Hey 👋, I'm George</h1>
+<!-- Header -->
+<h1 align="center">George Nance</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GeorgeNance" alt="Profile Views" />
-  <a href="https://github.com/GeorgeNance">
-    <img src="https://img.shields.io/github/followers/GeorgeNance?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Dev;TypeScript+%7C+Laravel+%7C+Vue;Clean+APIs.+Fast+shipping." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/GeorgeNance?tab=followers">
+    <img src="https://img.shields.io/github/followers/GeorgeNance?style=social" alt="Followers" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
-
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Typescript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
-
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/GeorgeNance">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/GeorgeNance">
+    <img src="https://komarev.com/ghpvc/?username=GeorgeNance&color=0f172a" alt="Profile views" />
   </a>
   <a href="https://georgenance.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-georgenance.com-0f172a?style=flat&labelColor=0f172a&logoColor=white" alt="Portfolio" />
   </a>
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <svg width="100%" height="12">
+    <defs>
+      <linearGradient id="g" x1="0" x2="1">
+        <stop offset="0%" stop-color="#0f172a"/>
+        <stop offset="100%" stop-color="#2f855a"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="4" width="100%" height="4" fill="url(#g)" rx="4"/>
+  </svg>
+</p>
+
+<!-- Stats -->
+<h3 align="center">Stats</h3>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=GeorgeNance&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
+      media="(prefers-color-scheme: dark)">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=GeorgeNance&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </picture>
+
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=GeorgeNance&hide_border=true&theme=transparent"
+      media="(prefers-color-scheme: dark)">
+    <img height="160" src="https://streak-stats.demolab.com?user=GeorgeNance&hide_border=true" alt="Streak" />
+  </picture>
+</p>
+
+<!-- Tech icons -->
+<h3 align="center">Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nest,php,laravel,vue,tailwind,postgres,mysql,redis,docker,aws,unity&perline=6" alt="Tech Icons" />
+</p>
+
+
+
+<!-- Footer divider -->
+<p align="center">
+  <svg width="100%" height="12">
+    <defs>
+      <linearGradient id="g2" x1="0" x2="1">
+        <stop offset="0%" stop-color="#2f855a"/>
+        <stop offset="100%" stop-color="#0f172a"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="4" width="100%" height="4" fill="url(#g2)" rx="4"/>
+  </svg>
+</p>
+
+<p align="center">
+  <a href="https://georgenance.com">georgenance.com</a> ·
+  <a href="https://www.linkedin.com/in/GeorgeNance">LinkedIn</a>
 </p>
